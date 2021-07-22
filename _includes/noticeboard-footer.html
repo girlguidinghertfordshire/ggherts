@@ -1,0 +1,18 @@
+<section class="post-section blue-bg">
+    <div class="container">
+    <h2>Noticeboard</h2>
+    <div class="row">
+        {% assign noticeboards = site.noticeboards | sort: "date" | reverse %}
+        {% for notice in noticeboards %}
+    <div class="post">
+    <div class="latest-post-block">
+    <img src="{{ notice.listing_image }}" alt="" />
+    <h3><a class="" href="{{ notice.url }}">{{ notice.title }}</a></h3>    
+    {{ notice.excerpt | strip_html | normalize_whitespace | truncatewords: 30 | escape | markdownify }}    
+    <div class="button-group"> <a class="btn btn-primary pull-right front" href="{{ notice.url }}"><span>Read more </span></a> </div>
+    </div>
+    </div>
+        {% endfor %}    
+    </div>
+    </div>
+    </section>

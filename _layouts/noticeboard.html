@@ -1,0 +1,67 @@
+---
+layout: default
+---
+{% include banner.html %}
+<div class="main-content news-listing">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="breadcrumb">
+                    <ul>
+                        <li class="item-home"><a class="bread-link bread-home" href="/" title="Home">Home</a></li>
+                        <li class="item-cat item-custom-post-type-post"><a class="bread-cat bread-custom-post-type-post" href="/noticeboard/" title="Posts">Noticeboard</a></li>
+                        <li class="item-current item-4320 active">{{ page.title }}</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <h1>{{ page.title }}</h1>                
+            </div>
+            <div class="col-sm-8">
+                <div class="post-list">
+                    {{ content }}
+                    <div class="posts-navigation">
+                        {% if page.previous.url %}
+                            <a class="prev-post" href="{{page.previous.url}}">{{page.previous.title}}</a>
+                        {% endif %}
+                        {% if page.next.url %}
+                            <a class="next-post" href="{{page.next.url}}">{{page.next.title}}</a>
+                        {% endif %}
+                    </div>
+                    <div class="social-media">
+                        <label>Share:</label>
+                        <div class="widget-text">
+                            <span class="st_facebook_large" displaytext="Facebook"></span>
+                            <span class="st_twitter_large" displaytext="Tweet"></span>
+                            <span class="st_sharethis_large" displaytext="ShareThis"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-4 col-md-offset-1">
+                <div class="slider-bar-block">
+                <div class="side-block">
+                <div class="sidebar-about">
+                <h2>About Girlguiding Hertfordshire</h2>
+                <p>When Lord Baden-Powell asked his sister Agnes to do 'something for the girls', he could never have foreseen what effect those words would have on the lives of the young women of the country.</p>
+                <div class=""><a class="btn btn-pink front" href="/about-us/"><span>Read more</span></a></div>
+                </div>
+                
+                <div class="advert-part">
+                <a href="/get-involved/" target="_blank">
+                <div class="advert-block">
+                <div class="add-description">
+                <h3>Find out how you can get involved</h3>
+                <p>Want to join us? Register your daughter to join Girlguiding, or find out how you could become a volunteer here.</p>
+                </div>
+                </div>
+                </a>
+                </div>
+                </div>
+                </div>
+                </div>
+        </div>
+    </div>
+</div>

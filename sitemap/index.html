@@ -1,0 +1,51 @@
+---
+layout: page_full
+title: Sitemap
+date: 2016-03-16 09:36:24.000000000 +00:00
+toc: sitemap
+author:
+permalink: "/sitemap/"
+---
+<div class="row">
+  <div class="col-sm-4">
+    <h2><a href="/">Home</a></h2>
+    <ul>
+      <li><a href="/youth-opportunities/">Youth Opportunities</a></li>
+      <li><a href="/contact-us/">Contact Us</a></li>
+      <li><a href="/term-of-use/">Term of Use</a></li>
+      <li><a href="/cookie-policy/">Cookie policy</a></li>
+      <li><a href="/privacy-policy/">Privacy policy</a></li>
+    </ul>
+  </div>
+  {% include sitemap-segment.html segment="about-us" %}
+  {% include sitemap-segment.html segment="get-involved" %}
+  <div class="clearfix hidden-xs"></div>
+  <div class="col-sm-4">
+  <h2><a href="/noticeboard/">Noticeboard</a></h2>
+  {% assign noticeboards = site.noticeboards | sort: "date" | reverse %}
+  <ul>
+  {% for notice in noticeboards %}
+  <li><a href="{{ notice.url }}">{{ notice.title }}</a></li>
+  {% endfor %}
+  </ul>
+  </div>
+  <div class="col-sm-4">
+    <h2><a href="/events/">Events</a></h2>
+    {% assign events = site.events | sort: "event.start_date" %}
+    <ul>
+      {% for event in events %}
+      <li><a href="{{event.url }}">{{ event.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="col-sm-4">
+    <h2><a href="/news/">News</a></h2>
+    <ul>
+      {% for post in site.posts %}
+      <li><a href="{{ post.url }}">{{post.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="clearfix hidden-xs"></div>
+  {% include sitemap-segment.html segment="international" %}
+</div>

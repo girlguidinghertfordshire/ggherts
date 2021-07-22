@@ -1,0 +1,10 @@
+{% assign menu= site.data.navigation[include.segment] %}
+  <div class="link-list">
+  <h4>{{ menu.title }}</h4>{%
+  if menu.items.size>0 %}
+  <ul>
+      {% for submenu in menu.items %}
+          <li><a href="{{ submenu.url }}">{{ submenu.title }}</a></li>
+      {% endfor %}
+  </ul>{% endif %}
+  </div>

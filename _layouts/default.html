@@ -1,0 +1,151 @@
+---
+
+---
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{% include google.html %}
+{% feed_meta %}
+{% seo %} 
+
+<link rel='dns-prefetch' href='https://code.jquery.com/' />
+<link rel='dns-prefetch' href='https://maps.googleapis.com/' />
+<link rel='dns-prefetch' href='https://s.w.org/' />
+{% include stylesscripts.html %}
+</head>
+<body>
+<div class="wrapper">
+<header class="header">
+<div class="bottom-header">
+<div class="container">
+<div class="row">
+<div class="col-sm-3">
+<div class="logo"> <a href="/"><img src="/wp-content/themes/girl-guiding/images/logo.png" alt="GirlGuiding Hertfordshire" /></a> </div>
+</div>
+<div class="col-sm-9">
+<div class="mobile-icon">
+<a href="javascript:void(0)"><i class="fa fa-bars"></i></a>
+</div>
+<div class="side-right">
+{% include main-navigation.html %}
+<div class="search-form">
+<script>var ss360Config={siteId:'www.girlguidinghertfordshire.org.uk',searchBox:{selector:'#searchBox'}};</script>
+<script src="https://cdn.sitesearch360.com/v13/sitesearch360-v13.min.js" async></script>
+<div class="input-box">
+<input type="text" size="50" name="searchBox" id="searchBox" class="search-text" placeholder="Search" value="" />
+<input type="submit" id="searchsubmit" value="" />
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+{{ content }}
+<footer class="footer">
+<div class="top-footer">
+<div class="container">
+<div class="social-media">
+<label>Share:</label>
+<div class="widget-text">
+<span class='st_facebook_large' displayText='Facebook'></span>
+<span class='st_twitter_large' displayText='Tweet'></span>
+<span class='st_googleplus_large' displayText='Google+'></span>
+<span class='st_pinterest_large' displayText='Pintrest'></span>
+<span class='st_instagram_large' displayText='Instagram'></span>
+<span class='st_sharethis_large' displayText='ShareThis'></span>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-12 col-md-4">
+<h3>Contact Us</h3>
+<address>
+c/o Hertfordshire Guide Centre<br />
+Cottered<br />
+Buntingford<br />
+Hertfordshire<br />
+SG9 9QP </address>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4918.554001206864!2d-0.080472!3d51.94714!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x270a82ff6b880eb9!2sGirlguiding%20UK!5e0!3m2!1sen!2suk!4v1604057144990!5m2!1sen!2suk" width="100%" height="360" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+</div>
+<div class="col-sm-12 col-md-4">
+<h3>Quick Links</h3>
+<div class="row">
+<div class="col-sm-6">
+{% include footer-nav-segment.html segment="about-us" %}
+</div>
+<div class="col-sm-6">
+{% include footer-nav-segment.html segment="get-involved" %}
+</div>
+</div>
+<div class="row">
+<div class="col-sm-6">
+<div class="link-list">
+<h4>Useful Links</h4>
+<ul id="menu-useful-links" class=""><li><a href="/news/index.html">Latest News</a></li>
+<li><a href="/events/index.html">Events</a></li>
+<li><a href="/youth-opportunities/index.html">Youth Opportunities</a></li>
+<li><a href="/noticeboard/index.html">Noticeboard</a></li>
+<li><a href="/contact-us/index.html">Contact Us</a></li>
+<li><a href="/sitemap/index.html">Sitemap</a></li>
+</ul> </div>
+</div>
+<div class="col-sm-6">
+<div class="link-list">
+<h4>Legal Policies</h4>
+<ul id="menu-legal-policies" class=""><li><a href="/term-of-use/index.html">Term of Use</a></li>
+<li><a href="/cookie-policy/index.html">Cookie Policy</a></li>
+<li><a href="/privacy-policy/index.html">Privacy Policy</a></li>
+</ul> </div>
+</div>
+</div>
+</div>
+
+<div class="col-sm-12 col-md-4">
+<h3>Social</h3>
+<div class="tweet-list">
+<a class="twitter-timeline" data-width="360" data-height="439" href="https://twitter.com/gguidingherts?ref_src=twsrc%5Etfw">Tweets by gguidingherts</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="bottom-footer">
+<div class="container">
+<div class="row">
+<div class="col-sm-8">
+<a href="mailto:countysec@girlguidinghertfordshire.org.uk">@Girlguiding Hertfordshire.</a>
+<p>Girlguiding Hertfordshire is an operating name of The Guide Association County of Hertfordshire. Registered Charity No. 274225</p>
+</div>
+<div class="col-sm-4">
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<!--
+<script type='text/javascript' src='/wp-includes/js/dist/vendor/wp-polyfill.min.js' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wp-polyfill-js-after'>
+( 'fetch' in window ) || document.write( '<script src="/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="wp-includes/js/dist/vendor/wp-polyfill-url.min.js"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.girlguidinghertfordshire.org.uk\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/contact-form-7/includes/js/index.js' id='contact-form-7-js'></script>-->
+<!--<script type='text/javascript' src='https://code.jquery.com/ui/1.11.4/jquery-ui.js' id='jquery-ui-js-js'></script> -->
+<script type='text/javascript' src='/wp-content/themes/girl-guiding/js/modernizr.js' id='modernizr-js'></script>
+<script type='text/javascript' src='/wp-content/themes/girl-guiding/js/bootstrap.min.js' id='bootstrap-min-js'></script>
+<script type='text/javascript' src='/wp-content/themes/girl-guiding/js/owl.carousel.js' id='owl-carousel-js'></script>
+
+<script type='text/javascript' src='/wp-content/themes/girl-guiding/js/jquery.bxslider.js' id='bxslider-js'></script>
+<script type='text/javascript' src='/wp-content/themes/girl-guiding/js/jquery.fancybox.js' id='fancybox-js'></script>
+<!--<script type='text/javascript' src='/wp-content/themes/girl-guiding/js/jquery.fancybox-media.js' id='fancybox-media-js'></script>
+<script type='text/javascript' src='/wp-includes/js/wp-embed.min.js' id='wp-embed-js'></script> -->
+</body>
+</html>

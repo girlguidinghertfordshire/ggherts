@@ -1,0 +1,43 @@
+<section class="our-team">
+    <div class="container">
+    <h2>Other team members</h2>
+        {% assign hasFoundMember = false %}
+        {% assign count=site.members.size %}
+        {% assign current = 0 %}
+        {% assign pos=0 %}
+        {% for member in site.members %}
+        {% if member.url==page.url %}
+            {% assign current = pos %}
+            {% break %}
+        {% endif %}
+        {% assign pos = pos | plus:1 %}
+    {% endfor %}
+    {% assign start=current | minus:1 %}
+    {% assign end=start | plus:3 %}
+    <div class="team-memberlist">
+    {% for pos in (start..end)%}
+    {% if pos >= count %}
+        {% assign i=pos | minus: count %}
+    {% else %}
+        {% assign i=pos %}
+    {% endif %}
+    {% if site.members[i].url==page.url %}
+        {% continue %}
+    {% endif %}
+    <div class="team-member">
+        {% assign thumbnail="/wp-content/uploads/2016/05/GGH-Logo1-360x243.jpg" %}
+        {% if site.members[i].image.thumbnail %}
+            {% assign thumbnail=site.members[i].image.thumbnail %}
+        {% endif %}
+    <div class="person-image"><a class="" href="{{site.members[i].url }}"><img src="{{ thumbnail }}" alt="person"></a></div>
+    <h3><a class="" href="{{site.members[i].url }}">{{site.members[i].title }}</a></h3>
+    <span>{{site.members[i].job_title }}</span> 
+    <p>{{site.members[i].person_intro }}
+    </p>
+    <a class="btn btn-pink" href="{{site.members[i].url }}"><span>Read more</span></a>
+    <div class="line team-line"></div>
+    </div>
+    {% endfor %}
+    </div>
+    </div>
+    </section>

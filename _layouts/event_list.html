@@ -1,0 +1,185 @@
+---
+layout: default
+---
+
+{% include banner.html %}
+<div class="main-content event-page">
+    <div class="container">
+        <div class="row"><div class="col-sm-12">
+            <div class="breadcrumb">
+                <ul>
+                    <li class="item-home"><a class="bread-link bread-home" href="/" title="Home">Home</a></li>
+                    <li class="item-current item-189 active">Events</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <h2>Events</h2>
+    <div class="fluid-wrapper"></div>
+    <div class="row">
+        <div class="col-sm-8 col-md-8 col-md-offset-1 pull-right">
+            <div class="right-content">
+                <div class="eventshop-list">
+                    <div class="row">
+                        {% assign events = site.events | sort: "event.start_date" %}
+                        {% assign today = 'now' | date: '%s' | plus: 0 %}
+                        {% for event in events %}
+                            {% assign startDate = event.event.start_date | date: '%s' | plus: 0 %}                             
+                            {% if startDate> today %}                                
+                        <div class="col-sm-6 eventshop-block" data-type="|{{ event.event.type | join: '|'}}|" data-age-group="|{{ event.event.age-group | join: '|'}}|" data-location="|{{ event.event.location | join: '|'}}|">
+                            <figure style="background-image: url('{{ event.event.listing_image}}'); height: 273px;"><img src="{{ event.event.listing_image }}" alt="">
+                                <div class="pattern-one" style="background-color: rgba(78,136,199, 0.85);"></div>
+                            </figure>
+                            <div class="eventshop-content">
+                                {% for type in event.event.type %}
+                                {% include eventtypes.html type=type %}
+                                {% endfor %}
+                                <h3><a class="" href="{{ event.url }}">{{ event.title }}</a></h3>
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <date>{{ event.event.start_date | date: "%d %b %Y" }}
+                                            {% if event.event.end_date != '' and event.event.start_date != event.event.end_date %}
+                                             - {{ event.event.end_date | date: "%d %b %Y" }}
+                                            {% endif %}</date>
+                                        <p>{{ event.event.location | join: ', ' }}</p>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="more-link"><a href="{{ event.url }}" class="btn btn-pink"><span>More details</span></a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        {% endif %}
+                        {% endfor %}
+    
+    </div>
+    </div>
+    
+    </div>
+    </div>
+    <div class="col-md-3 col-sm-4 left-sidebar">
+    <div class="filter-result">
+    <h4>Filter results</h4>
+        {% assign all_types= '' | split: '' %}
+        {% assign all_ages = '' | split: '' %}
+        {% assign all_locations = '' | split: '' %}
+        {% for event in site.events %}
+            
+        {% assign startDate = event.event.start_date | date: '%s' | plus: 0 %}                             
+        {% if startDate> today %}
+            {% for t in event.event.type %}
+                {% if all_types contains t %}
+                {% else %}
+                    {% assign tName = t | split: '_' %}
+                    {% assign all_types = all_types | concat: tName %}
+                {% endif %}
+            {% endfor %}
+            {% for a in event.event.age-group %}
+                {% if all_ages contains a %}
+                {% else %}
+                    {% assign aName = a | split: '_' %}
+                    {% assign all_ages = all_ages | concat: aName %}
+                {% endif %}
+            {% endfor %}
+            {% for l in event.event.location %}
+                {% if all_locations contains l %}
+                {% else %}
+                    {% assign lName = l | split: '_' %}
+                    {% assign all_locations = all_locations | concat: lName %}
+                {% endif %}
+            {% endfor %}
+            {% endif %}
+        {% endfor %}
+    <h6>Type</h6>
+    <ul class="division type">
+        {% for type in all_types %}
+        <li><input type="checkbox" name="{{ type | slugify }}" id="division_filter_{{ type | slugify }}" value="{{ type }}" /><label for="division_filter_{{ type | slugify }}">{% include eventtypes.html type=type %}</label></li>
+        {% endfor %}    
+    </ul>
+    <h6>Age Group</h6>
+    <ul class="division age">
+        {% for age in all_ages %}
+        <li><input type="checkbox" name="{{age | slugify }}"" id="age_filter_{{ age | slugify }}" value="{{ age }}" /><label for="age_filter_{{ age | slugify }}">{{ age }}</label> </li>
+        {% endfor %}    
+    </ul>
+    <h6>Location</h6>
+    <ul class="division location">
+        {% assign sortedLocations = all_locations | sort_natural %}
+        {% assign prvLoc = '' %}
+        {% assign isIndented = false %}
+        {% for location in sortedLocations %}
+            {% assign parent = location | split: ',' | first %}
+            {% assign child = location | split: ',' | last %}
+            {% if parent == prvLoc %}
+                {% unless isIndented %}
+                <ul>
+                    {% assign isIndented = true %}
+                {% endunless %}
+                {% else %}
+                {% assign prvLoc = parent %}
+                {% if isIndented %}
+                </ul>
+                {% endif %}
+                {% unless prvLoc=='' %}
+                </li>
+                {% endunless %}
+            {% endif %}
+        <li><input type="checkbox" id="location-filter-{{location | slugify }}" name="{{ location | slugify }}" value="{{ location }}"/><label for="location-filter-{{location | slugify }}">{{ child }} </label>
+            {% if isIndented %}
+        </li>{% endif %}
+        {% endfor %}
+        {% if isIndented %}
+        </ul>
+        {%endif %}
+        </li>
+    </ul>
+    </div>
+    </div>
+    </div>
+    </div>
+    {% include noticeboard-footer.html %}
+    </div>
+    <script type="text/javascript">
+        (function($){
+            var showBlock = function($block,$filters, dataName){
+                if (typeof($block)==="undefined" || $block==null){
+                    console.error("$block cannot be null");
+                    return true;
+                }
+                if ($filters.length==0){
+                    return true;
+                }
+                var categories=$block.data(dataName);
+                if (typeof(categories)==="undefined" || categories==null){
+                    console.warn("No data attribute: " + dataName);
+                    return true;
+                }
+                var showBlock=false;
+                $filters.each(function(index,obj){
+                    if (categories.indexOf("|" + $(this).val() + "|")>=0){
+                        showBlock=true;
+                    }
+                });
+                return showBlock;
+            }
+            var filterPosts = function(){
+                $(".eventshop-block").hide();
+                var $type=$(".division.type input:checked");
+                var $age=$(".division.age input:checked");
+                var $location=$(".division.location input:checked");
+                $(".eventshop-block").each(function(index,obj){
+                    if (showBlock($(this),$type,"type") && showBlock($(this),$age,"age-group") && showBlock($(this),$location,"location")){
+                        $(this).show();
+                    }
+                });
+            }
+            $(document).ready(function(){
+         $(".division input").on("change",function(event){
+             console.log(this);
+             filterPosts();
+         });
+         
+        });
+        })(jQuery);
+        
+        </script>

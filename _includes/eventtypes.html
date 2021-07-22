@@ -1,0 +1,19 @@
+{% capture type %}
+{{ include.type | normalize_whitespace }}
+{% endcapture %}
+<span class="icon">
+{% case type %} 
+{% when "Activity Day" %}
+<img src="/wp-content/uploads/2016/03/marker-blue.png" alt="" />
+{% when "Residential/Camp" %}
+<img src="/wp-content/uploads/2016/05/marker-pink.png" alt=""/>
+{% when "Training" %}
+<img src="/wp-content/uploads/2016/05/marker-orange.png" alt=""/>
+{% when "First Response" %}
+<img src="/wp-content/uploads/2016/05/marker-black-green.png" alt=""/>
+{% when "Social" %}
+<img src="/wp-content/uploads/2016/06/marker-grey.png" alt="">
+{% else %}
+&nbsp;
+{% endcase %}
+{{ type }}</span>

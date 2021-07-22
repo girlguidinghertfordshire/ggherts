@@ -1,0 +1,99 @@
+main:
+  items:
+  - id: about-us
+  - id: get-involved
+  - id: youth
+  - id: noticeboard
+  - id: events
+  - id: news
+  - id: international
+  - id: contact
+about-us:
+  title: About Us
+  url: /about-us/
+  items:
+  - title: County Team
+    url: /about-us/county-team/
+  - title: Divisions
+    url: /about-us/divisions/
+  - title: Resources and Links
+    url: /about-us/resources/
+  - title: Wellbeing Resources
+    url: /about-us/wellbeing-resources-and-links/
+  - title: County Centre
+    url: /about-us/county-centre/
+  - title: Shops & Depots
+    url: /about-us/shops-depots/
+  - title: Nights Away
+    url: /about-us/nights-away/
+  - title: County Archives
+    url: /about-us/county-archives/
+get-involved:
+  title: Get Involved
+  url: /get-involved/
+  items:
+  - title: Challenge Badges
+    url: /get-involved/challenge-badges/
+  - title: Virtual Ideas and Activities
+    url: /get-involved/activities/
+  - title: Vacancies
+    url: /get-involved/vacancies/
+  - title: Share With Us
+    url: /get-involved/share/
+  - title: Thanks, Awards and Recognition
+    url: /get-involved/thanks/
+youth:
+  title: Youth Opportunities
+  url: /youth-opportunities/
+  items:
+noticeboard:
+  title: Noticeboard
+  url: /noticeboard/
+  items:
+events:
+  title: Events
+  url: /events/
+  items:
+  - title: Great Patrol Hunt
+    url: /great-patrol-hunt/
+news:
+  title: News
+  url: /news/
+  items:
+international:
+  title: International Adventures
+  url: /international-adventures/
+  items:
+  - title: Unit Opportunities
+    url: /international-adventures/international-unit-opportunities/
+  - title: County Opportunities
+    url: /international-adventures/international-county/
+  - title: Region Opportunities
+    url: /international-adventures/international-region-opportunities/
+  - title: National & WAGGGS Opportunities
+    url: /international-adventures/international-national-wagggs-opportunities/
+contact:
+  title: Contact Us
+  url: /contact-us/
+cookie:
+  title: Cookie Policy
+  url: /cookie-policy/
+sitemap:
+  title: Sitemap
+  url: /sitemap/
+privacy:
+  title: Privacy policy
+  url: /privacy-policy/
+term:
+  title: Term of Use
+  url: /term-of-use/
+membership:
+  title: Membership System Updates (2021)
+  url: /membership-system-updates/
+  items:
+  - title: 2020
+    url: /membership-system-updates/2020/
+  - title: 2019
+    url: /membership-system-updates/2019/
+  - title: 2018
+    url: /membership-system-updates/2018/

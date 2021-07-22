@@ -1,0 +1,33 @@
+---
+layout: page
+title: County Team
+date: 2016-03-04 11:03:44.000000000 +00:00
+toc: about-us
+advertId: get-involved
+description: The County Team is here to support local guiding, as well
+    as providing trainings, events, and much more. Find out more about the County
+    Team here.
+
+author:
+  display_name: GGH-Admin1
+---
+
+<p class="lead">The County Team is here to support local guiding, as well as providing trainings, events, and much more.</h5>
+<p>For details on how to contact a member of the county team please <a href="/contact-us/">click here</a></p>
+<p>There are currently some vacancies in the county team which are detailed on our <a href="/get-involved/vacancies/" target="_blank" rel="noopener">vacancies page</a>.  For more information or if you have any other skills that you would like to offer, please email <a href="mailto:countysec@girlguidinghertfordshire.org.uk" target="_blank" rel="noopener">county office</a></p>
+<div class="row">
+{% for member in site.members %}
+<div class="col-sm-6 person-block">
+  {% assign img=member.image.thumbnail %}
+  {% unless img %}
+    {% assign img = "/wp-content/uploads/2016/05/GGH-Logo1-360x243.jpg" %}
+  {% endunless %}
+<div class="person-image"><a class="" href="{{ member.url }}"><img src="{{ img }}" alt=""></a></div>
+<h2><a class="" href="{{ member.url }}">{{ member.title }}</a></h2>
+<span>{{ member.job_title }}</span>
+<p>{{ member.person_intro }}</p>
+<a class="btn btn-pink" href="{{ member.url }}"><span>Read more</span></a>
+<div class="line country-line"></div>
+</div>  
+{% endfor %}
+</div>

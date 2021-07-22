@@ -1,0 +1,32 @@
+collections:
+    events:
+      output: true
+      permalink: /event/:title/
+      sort_by: event.start_date
+    noticeboards:
+      output: true
+      permalink: /noticeboard/:title/
+    members:
+      output: true
+      permalink: /about-us/county-team/:title/
+      sort_by: order
+    shops_nights:
+      output: true
+      sort_by: title
+      permalink: /shops-nights/:title/
+    membership_updates:
+    adverts:
+defaults:
+  - scope:
+      path: ""
+      type: "members"
+    values:
+      layout: "county_team"
+      toc: "about-us"
+  - scope:
+      path: ""
+      type: "shops_nights"
+    values:
+      layout: "shops_nights"
+      toc: "about-us"
+      county: "Hertfordshire"

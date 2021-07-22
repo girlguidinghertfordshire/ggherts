@@ -1,0 +1,114 @@
+---
+layout: default
+---
+{% include banner.html %}
+<div class="main-content noticebord">
+    <div class="container">
+    <div class="row"><div class="col-sm-12"><div class="breadcrumb"><ul><li class="item-home"><a class="bread-link bread-home" href="/" title="Home">Home</a></li><li class="item-current item-348 active">Noticeboard</li></ul></div></div></div> <div class="row">
+    <div class="col-md-8 col-md-offset-1 col-sm-8 pull-right">
+    <h1>Noticeboard</h1>
+    <p>This is where Divisions, Districts, Units and County Teams may promote guiding events and activities. Posts must be proof read and publish-ready, and emailed to: <a href="mailto:website@girlguidinghertfordshire.org.uk">websites@girlguidinghertfordshire.org.uk</a></p>
+    <p>Please note Girlguiding Hertfordshire do not endorse any external organisations that may be displayed on the noticeboard.</p>
+    <div class="post-list">
+    <div class="row">
+        {% assign noticeboards = site.noticeboards | sort: "date" | reverse %}
+        {% for notice in noticeboards %}
+    <div class="col-sm-6">
+    <div class="noticeboard-list" data-category="|{{notice.categories | join: '|' }}|">
+    <a class="" href="{{ notice.url }}">
+    <svg viewBox="0 0 343 166" preserveAspectRatio="xMinYMin none">
+    <defs>
+    <path fill="none" id="thePath1" d="M54.038,1c85.923,0,171.85,0,257.772,0c18.471,1.308,28.173,11.384,29.182,30.155
+                                c0,22.696,0,45.393,0,68.091c0.761,29.562-51.645,29.42-79.764,33.074c-79.083,10.273-163.573,21.158-237.344,31.127
+                                c-4.444,0.6-11.785,0.436-14.862-3.344c-2.748-3.377-2.304-9.18-1.675-13.193c3.953-25.195,8.287-73.868,11.673-105.056
+                                C21.906,15.263,28.898,0.958,54.038,1z" />
+    </defs>
+    <clipPath id="cloudClip1">
+    <use xlink:href="#thePath1" />
+    </clipPath>
+    <image clip-path="url(#cloudClip1)" width="343" height="166" xlink:href="{{ notice.listing_image }}"></image>
+    </svg>
+    </a>
+    <h2><a class="" href="{{ notice.url}}">{{ notice.title }}</a></h2>
+    <p>{{ notice.excerpt | strip_html | normalize_whitespace | truncatewords: 30 | escape }}</p>
+    <div class="button-center"><a class="btn btn-pink front" href="{{ notice.url }}"><span>Read more </span></a></div>
+    </div>
+    </div>
+    {% endfor %}
+    
+    </div>
+    </div>
+    </div>
+    <div class="col-sm-4 col-md-3">
+    <div class="slider-bar-block">
+    <div class="left-sidebar">
+    <h4>Filter results</h4>
+    <h6>Category</h6>
+    <ul class="division">
+        {% assign categories = '' | split: '' %}
+        {% for notice in site.noticeboards %}
+            {% for c in notice.categories %}
+                {% if categories contains c %}
+                {% else %}
+                    {% assign cName = c | split: '_' %}
+                    {% assign categories = categories | concat: cName %}
+                {% endif %}
+            {% endfor %}
+        {% endfor %}
+        {% for cat in categories %}
+    <li>
+    <input type="checkbox" name="{{ cat | slugify }}" value="{{cat}}" id="category_filter_{{ cat | slugify }}" >
+    <label for="category_filter_{{ cat | slugify }}">
+    {{ cat }} </label>&nbsp;
+    </li>
+    {% endfor %}
+    </ul>
+    
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    <script type="text/javascript">
+        (function($){
+            var showBlock = function($block,$filters, dataName){
+                if (typeof($block)==="undefined" || $block==null){
+                    console.error("$block cannot be null");
+                    return true;
+                }
+                if ($filters.length==0){
+                    return true;
+                }
+                var categories=$block.data(dataName);
+                if (typeof(categories)==="undefined" || categories==null){
+                    console.warn("No data attribute: " + dataName);
+                    return true;
+                }
+                var showBlock=false;
+                $filters.each(function(index,obj){
+                    if (categories.indexOf("|" + $(this).val() + "|")>=0){
+                        showBlock=true;
+                    }
+                });
+                return showBlock;
+            }
+            var filterPosts = function(){
+                $(".noticeboard-list").parent().hide();
+                var $cat=$(".division input:checked");
+                $(".noticeboard-list").each(function(index,obj){
+                    if (showBlock($(this),$cat,"category")){
+                        $(this).parent().show();
+                    }
+                });
+            }
+            $(document).ready(function(){
+         $(".division input").on("change",function(event){
+             console.log(this);
+             filterPosts();
+         });
+         
+        });
+        })(jQuery);
+        
+        </script>

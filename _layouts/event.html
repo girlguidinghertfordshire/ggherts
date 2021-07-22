@@ -1,0 +1,75 @@
+---
+layout: default
+---
+{% include banner.html %}
+<div class="main-content news-listing">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="breadcrumb">
+                    <ul>
+                        <li class="item-home"><a class="bread-link bread-home" href="/">Home</a></li>
+                        <li class="item-cat item-custom-post-type-post"><a class="bread-cat bread-custom-post-type-post" href="/events/">Events</a></li>
+                        <li class="item-current item-4320 active">{{ page.title }}</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-8">
+                <h1>{{ page.title }}</h1>
+                <date>{{ page.event.start_date | date_to_string: "ordinal","GB" }}
+                    {% if page.event.end_date != '' and page.event.start_date != page.event.end_date %}
+                     - {{ page.event.end_date | date_to_string: "ordinal","GB" }}
+                    {% endif %}
+                </date>
+            </div>
+            <div class="col-md-3 col-sm-4 col-md-offset-1">
+                <a class="event-back" href="/events/">Back to events</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-8">
+                <div class="post-list">
+                    {{ content }}
+                    <div class="posts-navigation">
+                        {% if page.previous.url %}
+                            <a class="prev-post" href="{{page.previous.url}}">{{page.previous.title}}</a>
+                        {% endif %}
+                        {% if page.next.url %}
+                            <a class="next-post" href="{{page.next.url}}">{{page.next.title}}</a>
+                        {% endif %}
+                    </div>
+                    <div class="social-media">
+                        <label>Share:</label>
+                        <div class="widget-text">
+                            <span class="st_facebook_large" displaytext="Facebook"></span>
+                            <span class="st_twitter_large" displaytext="Tweet"></span>
+                            <span class="st_sharethis_large" displaytext="ShareThis"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-4 col-md-offset-1">
+                <div class="slider-bar-block">
+                <div class="side-block">
+                <div class="sidebar-about">
+                <div class="event business-block">
+                    <h3>Address details</h3>
+                    <span>{{page.event.address}}</span>
+                    <p class="contact-name">Contact Name</p>
+                    <a href="mailto:{{page.event.contact_email}}"><i class="fa fa-at"></i>{{page.event.contact_email}}</a>
+                </div>
+                    {% unless page.event.book_now_link == '' %}
+                    <div>
+                        <button class="btn btn-pink btn-inverse" type="button"><span><i class="fa fa-external-link"></i> Book places </span></button></div>
+                    {% endunless %}
+                </div>
+                
+                
+                </div>
+                </div>
+                </div>
+        </div>
+    </div>
+</div>
