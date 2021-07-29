@@ -5,9 +5,8 @@ order: 17
 job_title: Safeguarding Adviser
 person_intro: "Supports and advises members of the county with all aspects of safeguarding.\n\n"
 email: 'Safeguarding@girlguidinghertfordshire.org.uk'
-image:
-  thumbnail: /wp-content/uploads/2020/01/Vicki-Richards-278x243.jpg
-  fullsize: /wp-content/uploads/2020/01/Vicki-Richards.jpg
+image: /wp-content/uploads/2020/01/Vicki-Richards.jpg
+thumbnail: /wp-content/uploads/2020/01/Vicki-Richards-278x243.jpg
 author:
   display_name: Rachel Kemp
 ---

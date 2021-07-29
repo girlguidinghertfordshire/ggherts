@@ -5,9 +5,8 @@ order: 2
 job_title: Assistant County Commissioner - Members (including Growth and Retention)
 person_intro: "Undertakes duties assigned to her by the County Commissioner and is her representative."
 email: 'SallyACC@girlguidinghertfordshire.org.uk'
-image:
-  thumbnail: /wp-content/uploads/2019/10/Sally-Settle-290x243.jpg
-  fullsize: /wp-content/uploads/2019/10/Sally-Settle.jpg
+image: /wp-content/uploads/2019/10/Sally-Settle.jpg
+thumbnail: /wp-content/uploads/2019/10/Sally-Settle-290x243.jpg
 author:
   display_name: Rachel Kemp
 ---

@@ -4,10 +4,9 @@ date: 2020-01-09 12:45:47.000000000 +00:00
 order: 19
 job_title: 'Peer Educator Co-ordinator '
 person_intro: ''
-email: 'Email: Peereducators@girlguidinghertfordshire.org.uk'
-image:
-  thumbnail: /wp-content/uploads/2016/05/Herts-24-a-360x243.jpg
-  fullsize: /wp-content/uploads/2016/05/Herts-24-a.jpg
+email: 'peereducators@girlguidinghertfordshire.org.uk'
+image: /wp-content/uploads/2016/05/Herts-24-a.jpg
+thumbnail: /wp-content/uploads/2016/05/Herts-24-a-360x243.jpg
 author:
   display_name: Rachel Kemp
 ---

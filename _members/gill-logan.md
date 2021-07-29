@@ -5,9 +5,8 @@ order: 15
 job_title: Special Needs Adviser
 person_intro: Supports members regarding adults and girls who have special and complex needs.
 email: 'Inclusions@girlguidinghertfordshire.org.uk'
-image:
-  thumbnail: /wp-content/uploads/2016/04/GLogan-360x243.jpg
-  fullsize: /wp-content/uploads/2016/04/GLogan.jpg
+image: /wp-content/uploads/2016/04/GLogan.jpg
+thumbnail: /wp-content/uploads/2016/04/GLogan-360x243.jpg
 author:
   display_name: GGH-Admin1
 ---

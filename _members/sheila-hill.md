@@ -5,9 +5,8 @@ order: 28
 job_title: Archivist
 person_intro: Maintains the County Archives covering the history of guiding in Hertfordshire.
 email: 'Archives@girlguidinghertfordshire.org.uk'
-image:
-  thumbnail: /wp-content/uploads/2018/06/SHill-360x243.jpg
-  fullsize: /wp-content/uploads/2018/06/SHill.jpg
+image: /wp-content/uploads/2018/06/SHill.jpg
+thumbnail: /wp-content/uploads/2018/06/SHill-360x243.jpg
 author:
   display_name: GGH-Admin1
   first_name: ''

@@ -7,9 +7,8 @@ person_intro: 'The County Commissioner is responsible for and accountable to the
     whole membership in the County, ensuring quality guiding is delivered at a County
     level.'
 email: 'cc@girlguidinghertfordshire.org.uk'
-image:
-  thumbnail: /wp-content/uploads/2019/09/Jenny-Maskrey1-237x243.jpg
-  fullsize: /wp-content/uploads/2019/09/Jenny-Maskrey1.jpg
+image: /wp-content/uploads/2019/09/Jenny-Maskrey1.jpg
+thumbnail: /wp-content/uploads/2019/09/Jenny-Maskrey1-237x243.jpg
 author:
   display_name: Rachel Kemp
 ---

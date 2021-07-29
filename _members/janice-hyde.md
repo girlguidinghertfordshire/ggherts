@@ -5,33 +5,8 @@ order: 30
 job_title: Trefoil Guild Chairman
 person_intro: ''
 email:
-image:
-  thumbnail: /wp-content/uploads/2019/06/Janice-Hyde-300x243.jpg
-  fullsize: /wp-content/uploads/2019/06/Janice-Hyde.jpg
-type: page
-parent_id: '23'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '248'
-  _wp_page_template: tp-county_person.php
-  person_image: '3113'
-  _person_image: field_56dd1c599156b
-  _job_title: field_56dd167d982df
-  _person_intro: field_56dd1da78fca4
-  person_content: |-
-    
-  _person_content: field_56dd1dc28fca5
-  flexible_listing: ''
-  _flexible_listing: field_56d6e2d82a2c5
-  banner_image: ''
-  _banner_image: field_56dee33b3e2b7
-  advert_list: ''
-  _advert_list: field_56dfe5d445506
-  _yoast_wpseo_content_score: '30'
+image: /wp-content/uploads/2019/06/Janice-Hyde.jpg
+thumbnail: /wp-content/uploads/2019/06/Janice-Hyde-300x243.jpg
 author:
   login: GGH-Admin1
   email: share@girlguidinghertfordshire.org.uk

@@ -5,9 +5,8 @@ order: 18
 job_title: Training and Event Administrator
 person_intro: Coordinates and organises the training and ongoing development of Leaders.
 email: 'Email: Guidingdev@girlguidinghertfordshire.org.uk'
-image:
-  thumbnail: /wp-content/uploads/2021/06/Karin-Hunter1-360x243.jpg
-  fullsize: /wp-content/uploads/2021/06/Karin-Hunter1-445x507.jpg
+image: /wp-content/uploads/2021/06/Karin-Hunter1-445x507.jpg
+thumbnail: /wp-content/uploads/2021/06/Karin-Hunter1-360x243.jpg
 author:
   display_name: GGH-Admin1
 ---

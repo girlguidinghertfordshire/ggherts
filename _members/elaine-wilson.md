@@ -5,9 +5,8 @@ order: 6
 job_title: County Treasurer 
 person_intro: 'Monitors and maintains the financial administration of the County.'
 email: 'CTreasurer@girlguidinghertfordshire.org.uk'
-image:
-  thumbnail: /wp-content/uploads/2019/01/Wilson-Elaine_BW2-1-268x243.jpg
-  fullsize: /wp-content/uploads/2019/01/Wilson-Elaine_BW2-1.jpg
+image: /wp-content/uploads/2019/01/Wilson-Elaine_BW2-1.jpg
+thumbnail: /wp-content/uploads/2019/01/Wilson-Elaine_BW2-1-268x243.jpg
 author:
   display_name: Rachel Kemp
 ---

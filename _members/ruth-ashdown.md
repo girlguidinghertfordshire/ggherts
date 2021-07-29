@@ -6,9 +6,8 @@ job_title: Assistant County Commissioner - Commissioner Support
 person_intro: Undertakes duties assigned to her by the county commissioner and is her representative.
     Ruth looks after district commissioners within the county.
 email: 'RuthACC@girlguidinghertfordshire.org.uk' 
-image:
-  thumbnail: /wp-content/uploads/2016/03/Herts-4-a-360x243.jpg
-  fullsize: /wp-content/uploads/2016/03/Herts-4-a-676x507.jpg
+image: /wp-content/uploads/2016/03/Herts-4-a-676x507.jpg
+thumbnail: /wp-content/uploads/2016/03/Herts-4-a-360x243.jpg
 author:
   display_name: GGH-Admin1
 ---

@@ -7,9 +7,8 @@ person_intro: Advises and supports unit Leaders within the County regarding Rang
     encourages the transition from Guide to Rangers, and promotes opportunities to
     young members.
 email: 'Youthops@girlguidinghertfordshire.org.uk'
-image:
-  thumbnail: /wp-content/uploads/2020/01/CFarman-360x243.jpg
-  fullsize: /wp-content/uploads/2020/01/CFarman.jpg
+image: /wp-content/uploads/2020/01/CFarman.jpg
+thumbnail: /wp-content/uploads/2020/01/CFarman-360x243.jpg
 author:
   display_name: GGH-Admin1
 ---

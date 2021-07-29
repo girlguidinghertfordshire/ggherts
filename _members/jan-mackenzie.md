@@ -6,8 +6,7 @@ job_title: Chaplain
 person_intro: ''
 email:
 image:
-  thumbnail:
-  fullsize:
+thumbnail:
 author:
   login: GGH-Admin1
   email: share@girlguidinghertfordshire.org.uk

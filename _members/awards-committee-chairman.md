@@ -5,9 +5,8 @@ order: 31
 job_title: Awards Committee Chairman
 person_intro: ''
 email:
-image:
-  thumbnail: /wp-content/uploads/2021/02/Janice-Hyde-200x243.jpg
-  fullsize: /wp-content/uploads/2021/02/Janice-Hyde.jpg
+image: /wp-content/uploads/2021/02/Janice-Hyde.jpg
+thumbnail: /wp-content/uploads/2021/02/Janice-Hyde-200x243.jpg
 author:
   display_name: Rachel Kemp
 ---

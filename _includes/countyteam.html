@@ -26,8 +26,8 @@
     {% endif %}
     <div class="team-member">
         {% assign thumbnail="/wp-content/uploads/2016/05/GGH-Logo1-360x243.jpg" %}
-        {% if site.members[i].image.thumbnail %}
-            {% assign thumbnail=site.members[i].image.thumbnail %}
+        {% if site.members[i].thumbnail %}
+            {% assign thumbnail=site.members[i].thumbnail %}
         {% endif %}
     <div class="person-image"><a class="" href="{{site.members[i].url }}"><img src="{{ thumbnail }}" alt="person"></a></div>
     <h3><a class="" href="{{site.members[i].url }}">{{site.members[i].title }}</a></h3>

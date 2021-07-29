@@ -7,9 +7,8 @@ person_intro: Girlguiding has introducing a new offering for members who are age
     between 18 and 30 and a group of champions has been formed to ensure that Anglia
     region provides a full offering of activities and opportunities for 18-30s members.
 email: 'Inspire@girlguidinghertfordshire.org.uk'
-image:
-  thumbnail: /wp-content/uploads/2019/10/Rebecca-Park-282x243.jpg
-  fullsize: /wp-content/uploads/2019/10/Rebecca-Park.jpg
+image: /wp-content/uploads/2019/10/Rebecca-Park.jpg
+thumbnail: /wp-content/uploads/2019/10/Rebecca-Park-282x243.jpg
 author:
   display_name: Rachel Kemp
 ---

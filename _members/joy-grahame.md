@@ -6,8 +6,7 @@ job_title: Queen’s Guide Award Coordinator
 person_intro: Advises and supports members of Rangers working towards the Queen’s Guide Award
 email:
 image:
-  thumbnail:
-  fullsize:
+thumbnail:
 author:
   login: GGH-Admin1
   email: share@girlguidinghertfordshire.org.uk

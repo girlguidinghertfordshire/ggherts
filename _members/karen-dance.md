@@ -6,10 +6,8 @@ job_title: International Adviser
 person_intro: Promotes and supports international opportunities, and organises international
     trips.
 email:
-image:
-  thumbnail: /wp-content/uploads/2019/09/Karen-Dance-1-336x243.jpg
-  fullsize: /wp-content/uploads/2019/09/Karen-Dance-1.jpg
-
+image: /wp-content/uploads/2019/09/Karen-Dance-1.jpg
+thumbnail: /wp-content/uploads/2019/09/Karen-Dance-1-336x243.jpg
 author:
   display_name: Rachel Kemp
 ---

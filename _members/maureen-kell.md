@@ -5,9 +5,8 @@ order: 25
 job_title: Guiding Development Coordinator (Leadership Qualification)
 person_intro: ''
 email: 'Mentors@girlguidinghertfordshire.org.uk'
-image:
-  thumbnail: /wp-content/uploads/2016/04/MKell-360x243.jpg
-  fullsize: /wp-content/uploads/2016/04/MKell.jpg
+image: /wp-content/uploads/2016/04/MKell.jpg
+thumbnail: /wp-content/uploads/2016/04/MKell-360x243.jpg
 author:
   display_name: GGH-Admin1
 ---

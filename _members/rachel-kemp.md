@@ -6,9 +6,8 @@ job_title: County Administrator
 person_intro: 'Provides administrative support for the County Commissioner, Team
     and Advisers. '
 email: 'countysec@girlguidinghertfordshire.org.uk'
-image:
-  thumbnail: /wp-content/uploads/2018/06/RKemp-360x243.jpg
-  fullsize: /wp-content/uploads/2018/06/RKemp.jpg
+image: /wp-content/uploads/2018/06/RKemp.jpg
+thumbnail: /wp-content/uploads/2018/06/RKemp-360x243.jpg
 author:
   display_name: GGH-Admin1
 ---

@@ -5,9 +5,8 @@ order: 12
 job_title: Youth Opportunities Adviser
 person_intro: Promotes opportunities to young members.
 email: 'Email: Youthops@girlguidinghertfordshire.org.uk'
-image:
-  thumbnail: /wp-content/uploads/2020/01/CFarman-360x243.jpg
-  fullsize: /wp-content/uploads/2020/01/CFarman.jpg
+image: /wp-content/uploads/2020/01/CFarman.jpg
+thumbnail: /wp-content/uploads/2020/01/CFarman-360x243.jpg
 author:
   display_name: Rachel Kemp
 ---

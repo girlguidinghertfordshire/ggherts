@@ -5,9 +5,8 @@ order: 10
 job_title: Young Leader Adviser
 person_intro: 'Advises and supports young leaders within the County '
 email: 'YL@girlguidinghertfordshire.org.uk'
-image:
-  thumbnail: /wp-content/uploads/2020/03/Amy-Gilbert-295x243.jpg
-  fullsize: /wp-content/uploads/2020/03/Amy-Gilbert.jpg
+image: /wp-content/uploads/2020/03/Amy-Gilbert.jpg
+thumbnail: /wp-content/uploads/2020/03/Amy-Gilbert-295x243.jpg
 author:
   display_name: Rachel Kemp
 ---

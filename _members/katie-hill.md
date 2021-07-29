@@ -6,9 +6,8 @@ job_title: 'Badge Secretary '
 person_intro: 'Liaises with Girlguiding nationally with regard to badges and certificates,
     and Chairs the County Depots Annual General Meeting '
 email: 'Badges@girlguidinghertfordshire.org.uk'
-image:
-  thumbnail: /wp-content/uploads/2018/06/KHill-360x243.jpg
-  fullsize: /wp-content/uploads/2018/06/KHill.jpg
+image: /wp-content/uploads/2018/06/KHill.jpg
+thumbnail: /wp-content/uploads/2018/06/KHill-360x243.jpg
 author:
   display_name: GGH-Admin1
 ---

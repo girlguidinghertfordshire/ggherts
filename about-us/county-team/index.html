@@ -7,7 +7,6 @@ advertId: get-involved
 description: The County Team is here to support local guiding, as well
     as providing trainings, events, and much more. Find out more about the County
     Team here.
-
 author:
   display_name: GGH-Admin1
 ---
@@ -18,7 +17,7 @@ author:
 <div class="row">
 {% for member in site.members %}
 <div class="col-sm-6 person-block">
-  {% assign img=member.image.thumbnail %}
+  {% assign img=member.thumbnail %}
   {% unless img %}
     {% assign img = "/wp-content/uploads/2016/05/GGH-Logo1-360x243.jpg" %}
   {% endunless %}

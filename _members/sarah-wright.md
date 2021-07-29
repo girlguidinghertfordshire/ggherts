@@ -8,8 +8,7 @@ person_intro: Coordinates the Outdoor Team, organises and supports outdoor event
     outdoors.
 email: 
 image: 
-  thumbnail:
-  fullsize:
+thumbnail:
 author:
   display_name: GGH-Admin1
 ---

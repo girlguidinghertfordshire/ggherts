@@ -5,9 +5,8 @@ order: 9
 job_title: Membership Systems Coordinator
 person_intro: Coordinates the membership systems management in Hertfordshire
 email: 'membership@girlguidinghertfordshire.org.uk'
-image:
-  thumbnail: /wp-content/uploads/2018/06/SHill-360x243.jpg
-  fullsize: /wp-content/uploads/2018/06/SHill.jpg
+image: /wp-content/uploads/2018/06/SHill.jpg
+thumbnail: /wp-content/uploads/2018/06/SHill-360x243.jpg
 author:
   display_name: Rachel Kemp
 ---

@@ -6,9 +6,8 @@ job_title: Communications and PR Adviser
 person_intro: Promotes Girlguiding Hertfordshire and advising members about marketing
     and communications.
 email:
-image: 
-  thumbnail: /wp-content/uploads/2020/11/Hazel-Carmichael-312x243.jpg
-  fullsize: /wp-content/uploads/2020/11/Hazel-Carmichael.jpg
+image:  /wp-content/uploads/2020/11/Hazel-Carmichael.jpg
+thumbnail: /wp-content/uploads/2020/11/Hazel-Carmichael-312x243.jpg
 author:
   display_name: GGH-Admin1
 ---
