@@ -30,3 +30,8 @@ defaults:
       layout: "shops_nights"
       toc: "about-us"
       county: "Hertfordshire"
+email:
+  base_url: "https://email.girlguidinghertfordshire.org.uk/api/"
+  apikey: "OifYW6lBBY3CUykd9NhfBeojO8aAYWhdHiJaDa8RFm8="
+recaptcha:
+  sitekey: "6LeUzcQbAAAAAMu_4Jr8oMO_e-i1R3_bF0y08BRk"

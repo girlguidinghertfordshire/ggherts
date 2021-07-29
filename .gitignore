@@ -5,3 +5,5 @@
 /.jekyll-cache/Jekyll/Cache
 /.vs
 /_site
+_config.development.yml
+jekyll-dev.bat

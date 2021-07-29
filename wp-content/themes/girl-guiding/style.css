@@ -2583,6 +2583,7 @@ textarea:focus {
 .submit-btn {
     background-color: #fff;
     border-radius: 20px;
+    border-color: transparent;
     color: #cb1f76;
     font-size: 16px;
     height: 43px;
