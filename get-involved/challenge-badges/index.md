@@ -23,12 +23,7 @@ permalink: "/get-involved/challenge-badges/"
   <img class="wp-image-4191 alignright" src="/wp-content/uploads/2021/04/FullSizeRender-300x298.jpeg" alt="" width="157" height="156" />
 
   This badge is full of programme links and is suitable for all sections from Rainbows to Trefoil Guild! Badges are £1.20 each and all profits are to fundraise 50/50 for Girlguiding and our Great Wall of China charity fundraising trek. <a href="/wp-content/uploads/2021/04/Let-The-Sun-Shine-Challenge-Badge.pdf" target="_blank" rel="noopener">Download Challenge Badge pack</a> which contains all of the activities, requirements and badge pre-order form.
-  <h2 id="eggstraordinary">Eggstraordinary Easter Challenge Badge</h2>
-  This is a fun badge packed full of programme links and virtual guiding ideas. There are<img class=" wp-image-4086 alignright" src="/wp-content/uploads/2021/03/Eggstraordinary-Easter-Challenge-Badge-221x300.jpg" alt="" width="118" height="160" /> sections for everyone from Rainbows to Trefoil.
-
-  This badge was designed by leaders at 1st Baldock Rainbows to support their fundraising for Girlguiding and a Great Wall of China trek.
-
-  Download the <a href="/wp-content/uploads/2021/05/Eggstraordinary-Easter-Challenge-Badge-Activity-Pack.pdf">Eggstraordinary Easter Challenge Badge Activity Pack</a> which contains all the activities and badge order form (badges cost £1.30 each).
+  
   <h2 id="marathon">Marathon Challenge Badge</h2>
   The Walking Team is excited to announce a brand new Challenge badge to link in with the Olympics. Anyone can participate, <img class="wp-image-4024 alignright" src="/wp-content/uploads/2021/01/2021-Marathon-Challenge.jpg" alt="" width="167" height="166" />member or non-member, so families can go out and exercise together and everyone can have fun earning the badge.
 
