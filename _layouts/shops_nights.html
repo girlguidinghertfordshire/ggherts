@@ -16,7 +16,7 @@ layout: page
         {% assign marker = '/wp-content/uploads/2016/03/marker-blue.png' %}
     {% endcase %}
     <script>
-        var LocationData = [[{{page.shop.latlng }},"{{ page.shop.mapaddress }}","{{ marker }}","<div>{{ page.shop.type | join: ' & '}}: <br/><span>{{ page.shop.location }}<br /></span>{% if page.shop.contact_email %}<a href='mailto:{{ page.shop.contact_email }}'><i class='fa fa-at'></i> {{ page.shop.contact_email}}</a>{% endif %}{% if page.shop.contact_number %}<a href='callto:{{ page.shop.contact_number }}'><i class='fa fa-phone'></i> {{ page.shop.contact_number }}</a>{% endif %}</div>"]];
+        var LocationData = [[{{page.shop.latlng }},"{{ page.shop.mapaddress | strip_newlines }}","{{ marker }}","<div>{{ page.shop.type | join: ' & '}}: <br/><span>{{ page.shop.location | strip_newlines }}<br /></span>{% if page.shop.contact_email %}<a href='mailto:{{ page.shop.contact_email }}'><i class='fa fa-at'></i> {{ page.shop.contact_email}}</a>{% endif %}{% if page.shop.contact_number %}<a href='callto:{{ page.shop.contact_number }}'><i class='fa fa-phone'></i> {{ page.shop.contact_number }}</a>{% endif %}</div>"]];
                     </script>
     <div id="map"></div>
     <div class="map-form">
