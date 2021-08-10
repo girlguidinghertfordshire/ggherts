@@ -3,7 +3,7 @@ layout: event
 title: Sensory Safari (Provisional)
 date: '2021-06-30 12:33'
 event:
-  start_date: '2021-09-04'
+  start_date: '2021-10-09'
   end_date: ''
   address: Broxbourne Woods, Broxbourne
   contact_name: 
@@ -24,7 +24,7 @@ author:
   first_name: 
   last_name: 
 ---
-Sensory Safari for Rainbows &amp; Brownies in Broxbourne Woods on <strong>Saturday, 4 September</strong>.
+Sensory Safari for Rainbows &amp; Brownies in Broxbourne Woods on <strong>Saturday, 9 October</strong> _(**new date,** previously advertised as 4 September)_.
 
 1.5 hour activity with staggered starts for small groups. Plenty of woodland for picnics so groups can extend the time as they wish.
 
