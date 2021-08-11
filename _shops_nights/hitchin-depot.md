@@ -9,13 +9,13 @@ shop:
     Hitchin  
     SG5 1SG
   division: North
-  contact_name: Mrs Valerie Higgs
-  contact_email: valh1@ntlworld.com
-  contact_number: 01462 433005
+  contact_name: Jo Clinch
+  contact_email: girlguidinghitchinshop@gmail.com
+  contact_number: '07736351045'
   latlng: "51.9561171,-0.2716811999999891"
   type:
     - Shop
 author:
 ---
 <p>Mondays during term time 6.00-8.00pm<br />
-Also open around one Saturday a term – contact Val Higgs for details</p>
+Also open around one Saturday a term – contact Jo Clinch for details</p>
