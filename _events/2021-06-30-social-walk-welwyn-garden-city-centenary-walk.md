@@ -2,6 +2,7 @@
 layout: event
 title: Social Walk - Welwyn Garden City Centenary Walk
 date: 2021-06-30
+published: false
 event:
   start_date: '2021-08-01'
   end_date: ''

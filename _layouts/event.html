@@ -55,10 +55,21 @@ layout: default
                 <div class="side-block">
                 <div class="sidebar-about">
                 <div class="event business-block">
+                    {% if page.event.address!='' %}
                     <h3>Address details</h3>
                     <span>{{page.event.address}}</span>
-                    <p class="contact-name">Contact Name</p>
-                    <a href="mailto:{{page.event.contact_email}}"><i class="fa fa-at"></i>{{page.event.contact_email}}</a>
+                    {% endif %}
+                    {% if page.event.contact_name or page.event.contact_email %}
+                    <h3>Contact: </h3>
+                    <ul>
+                        {% if page.event.contact_name %}
+                        <li>{{ page.event.contact_name }}</li>
+                        {% endif %}                        
+                        {% if page.event.contact_email %}
+                        <li><a href="mailto:{{page.event.contact_email}}"><i class="fa fa-envelope-o"></i> {{page.event.contact_email}}</a></li>
+                        {% endif %}
+                    </ul>
+                    {% endif %}
                 </div>
                     {% unless page.event.book_now_link == '' %}
                     <div>

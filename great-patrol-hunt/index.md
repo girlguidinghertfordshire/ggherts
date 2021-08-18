@@ -1,7 +1,7 @@
 ---
 layout: page_full
 title: Great Patrol Hunt
-date: 2018-07-06 20:56:03.000000000 +01:00
+date: 2021-08-18 22:08:03.000000000 +01:00
 toc: events
 banner_image: /wp-content/uploads/2018/07/GPH_Collage.jpg
 author:
@@ -25,11 +25,16 @@ It began in 1968, Hertfordshire Scout Patrols competed annually in various ways,
 
 ## Our Events
 <ul>
-<li><a href="/event/great-patrol-hunt-2021-2022-round-1/" target="_blank" rel="noopener">Round 1, 2021/22</a>  |  Saturday 16 October 2021  |  Borehamwood</li>
-<li><a href="/event/great-patrol-hunt-2022-round-2/" target="_blank" rel="noopener">Round 2, 2022</a> | <strong> </strong>Saturday 26 March 2022</li>
-<li><a href="/event/great-patrol-hunt-2022-round-3/" target="_blank" rel="noopener">Round 3, 2022</a> | <b> </b>Friday-Sunday 24-26 June 2022</li>
+<li><a href="/event/great-patrol-hunt-2021-2022-round-1/">Round 1, 2021/22</a>  |  Saturday 16 October 2021  |  Borehamwood</li>
+<li><a href="/event/great-patrol-hunt-2022-round-2/">Round 2, 2022</a> | <strong> </strong>Saturday 26 March 2022</li>
+<li><a href="/event/great-patrol-hunt-2022-round-3/">Round 3, 2022</a> | <b> </b>Friday-Sunday 24-26 June 2022</li>
 </ul>
-<p><span class="style_1">Want to join the fun? Click on the event link above.  An Entry Form (per Patrol) and an Information &amp; Consent Form (per Guide) will be added soon.  Be sure to read the competition rules below before entering.</span></p>
+
+### Round 1
+Entry for round 1 is now open - **closes Friday 1st October 2021** - download the entry form to get started.
+ <div><a class="btn-gg" href="/assets/images/2021/08/GPH-Entry-Form-Round-1-2021.docx"><i class="fa fa-download"></i> Download round 1 entry form (PDF)</a></div>
+
+ Be sure to read the competition rules below before entering.
 
 ## About the Competition
 <p class="paragraph_style_6">The competition spans over a year and comprises of 3 rounds. Each round has different and diverse challenges that encourage patrols to work together as a team. Marks are awarded for team work, presentation, effort, etiquette, good deeds and achievement throughout the challenges and the event.</p>
@@ -38,7 +43,3 @@ It began in 1968, Hertfordshire Scout Patrols competed annually in various ways,
 
 ## Competition Rules
 <p class="paragraph_style_8"><em>Participants are aged between 10-15 years and an active member of a Guide Unit. Teams need not be regular weekly Patrols, but they must choose a unique name for themselves in order to enter. Patrols <strong>must consist of 4-6 Guides</strong> and should not include more than 10 different patrol members throughout the three rounds. To participate in Round 3, a patrol and at least 2 members must have competed in one of the previous rounds. </em><em>If you are unable to make a full Patrol in Rounds 1 &amp; 2,  then  join the &#8216;GPH Mavericks&#8217;, a patrol made of Guides from different units.</em></p>
-
-## Results
-<p>Congratulations to Anonymous from 15th Stevenage Guides for achieving 1st place in round 1.</p>
-<p><a href="/wp-content/uploads/2019/10/GPH-Results-201920-Round-1.pdf">GPH Results &#8211; 2019:20 Round 1</a></p>

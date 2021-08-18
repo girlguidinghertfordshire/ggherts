@@ -5,7 +5,7 @@ date: '2021-07-20 22:03'
 event:
   start_date: '2021-10-02'
   end_date: ''
-  address:
+  address: Hemel Hempstead
   contact_name: Lynne Kirby
   contact_email: 
   contact_number: ''
