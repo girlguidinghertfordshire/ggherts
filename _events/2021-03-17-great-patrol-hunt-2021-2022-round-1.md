@@ -26,7 +26,7 @@ The Great Patrol Hunt 2021/2022 Round 1 is taking place on Saturday 16 October 2
 
 ## Enter round 1
 Entry for round 1 is now open - **closes Friday 1st October 2021** - download the entry form to get started.
- <div><a class="btn-gg" href="/assets/images/2021/08/GPH-Entry-Form-Round-1-2021.docx"><i class="fa fa-download"></i> Download round 1 entry form (PDF)</a></div>
+ <div><a class="btn-gg" href="/assets/images/2021/08/GPH-Entry-Form-Round-1-2021.docx"><i class="fa fa-download"></i> Download round 1 entry form (Word)</a></div>
 
 ## More information
 Visit the <a href="/great-patrol-hunt/">Great Patrol Hunt</a> page for more information and the rules.
