@@ -27,6 +27,13 @@ It is packed with stories and photos of what everyone has been doing, from cake 
 </div>
 
 <hr />
+<h3><a href="/assets/images/2021/08/Share46_Summer21.pdf" target="_blank" rel="noopener">Share 46, Summer Edition 2021</a></h3>
+<div class="row">
+<div class="col-sm-6"><a href="/assets/images/2021/08/Share46_Summer21.pdf" target="_blank" rel="noopener"><img class="alignnone size-medium wp-image-4107" src="/assets/images/2021/08/Share46_Summer21_300.jpg" alt="Cover of issue 46 of share magazine" width="300" height="300" /></a></div>
+<div class="col-sm-6"><a class="btn btn-pink" href="/assets/images/2021/08/Share46_Summer21.pdf" target="_blank" rel="noopener"><span style="color: #c40063!important; font-size: 20px!important;">View</span></a></div>
+</div>
+
+<hr />
 
 <h3><a href="/wp-content/uploads/2021/03/Share45_Spring21_single-pages_Final-Draft3.pdf" target="_blank" rel="noopener">Share 45, Spring Edition 2021</a></h3>
 <div class="row">
