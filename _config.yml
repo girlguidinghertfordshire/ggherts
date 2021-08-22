@@ -29,6 +29,11 @@ defaults:
       layout: "event"
   - scope:
       path: ""
+      type: "noticeboards"
+    values:
+      layout: "noticeboard"
+  - scope:
+      path: ""
       type: "members"
     values:
       layout: "county_team"
