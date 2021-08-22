@@ -27,7 +27,7 @@ layout: default
                             {% assign startDate = event.event.start_date | date: '%s' | plus: 0 %}                             
                             {% if startDate> today %}                                
                         <div class="col-sm-6 eventshop-block" data-type="|{{ event.event.type | join: '|'}}|" data-age-group="|{{ event.event.age-group | join: '|'}}|" data-location="|{{ event.event.location | join: '|'}}|">
-                            <figure style="background-image: url('{{ event.event.listing_image}}'); height: 273px;"><img src="{{ event.event.listing_image }}" alt="">
+                            <figure style="background-image: url('{{ event.event.image}}'); height: 273px;"><img src="{{ event.event.image }}" alt="">
                                 <div class="pattern-one" style="background-color: rgba(78,136,199, 0.85);"></div>
                             </figure>
                             <div class="eventshop-content">

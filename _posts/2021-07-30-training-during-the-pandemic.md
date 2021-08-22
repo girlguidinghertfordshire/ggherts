@@ -2,7 +2,7 @@
 layout: post
 title: Training during the pandemic
 date: 2021-07-30T07:50:36.000Z
-listing_image: /wp-content/uploads/2019/06/training-events-350x243.jpg
+image: /wp-content/uploads/2019/06/training-events-350x243.jpg
 categories:
   - Announcements
 tags: []

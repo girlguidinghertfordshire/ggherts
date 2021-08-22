@@ -9,7 +9,7 @@ event:
   contact_email: 
   contact_number: ''
   book_now_link: 'https://www.eventbrite.co.uk/e/girlguiding-hertfordshire-1st-response-course-tickets-163756196191'
-  listing_image: '/wp-content/uploads/2016/07/IMG_5900-360x273.jpg'
+  image: '/wp-content/uploads/2016/07/IMG_5900-360x273.jpg'
   type: 
     - First Response
   age-group: 

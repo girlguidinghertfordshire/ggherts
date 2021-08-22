@@ -1,7 +1,7 @@
 ---
 title: Young External Volunteers Welcome Event
 date: 2021-06-30T12:24:44.000Z
-listing_image: /wp-content/uploads/2021/06/Young-External-Volunteers-Welcome-Events-250x250.jpg
+image: /wp-content/uploads/2021/06/Young-External-Volunteers-Welcome-Events-250x250.jpg
 categories:
   - Announcements
 tags: []

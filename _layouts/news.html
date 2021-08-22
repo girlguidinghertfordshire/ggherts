@@ -38,7 +38,7 @@ layout: default
                                     <clipPath id="cloudClip">
                                     <use xlink:href="#thePath"></use>
                                     </clipPath>
-                                    <image clip-path="url(#cloudClip)" width="370px" height="248px" xlink:href="{{ post.listing_image }}"></image>
+                                    <image clip-path="url(#cloudClip)" width="370px" height="248px" xlink:href="{{ post.image }}"></image>
                                     </svg>
                                 </a>
                                 <p>{{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 30 | escape }}</p>

@@ -9,7 +9,7 @@ event:
   contact_email: walking@girlguidinghertfordshire.org.uk
   contact_number: ''
   book_now_link: ''
-  listing_image: '/wp-content/uploads/2021/06/Bluebells-2-Mobile-337x273.jpg'
+  image: '/wp-content/uploads/2021/06/Bluebells-2-Mobile-337x273.jpg'
   type: 
     - Activity Day
   age-group: 

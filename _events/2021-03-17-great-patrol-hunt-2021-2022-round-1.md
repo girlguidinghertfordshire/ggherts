@@ -9,7 +9,7 @@ event:
   contact_email: swbanks1@aol.com
   contact_number: ''
   book_now_link: ''
-  listing_image: /wp-content/uploads/2018/06/GPH-2018-360x273.png
+  image: /wp-content/uploads/2018/06/GPH-2018-360x273.png
   type: Activity Day
   age-group: 
   - Guides

@@ -21,7 +21,7 @@
 <clipPath id="cloudClip">
 <use xlink:href="#thePath" />
 </clipPath>
-<image clip-path="url(#cloudClip)" width="650" height="100%" xlink:href="{{ post.listing_image }}"></image>
+<image clip-path="url(#cloudClip)" width="650" height="100%" xlink:href="{{ post.image }}"></image>
 </svg></a> </div></div>
 <div class="future-content">
 {{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 30 | escape | markdownify }}
@@ -48,7 +48,7 @@
             <clipPath id="cloudClip">
             <use xlink:href="#thePath" />
             </clipPath>
-            <image clip-path="url(#cloudClip)" width="650" height="100%" xlink:href="{{ post.listing_image }}"></image>
+            <image clip-path="url(#cloudClip)" width="650" height="100%" xlink:href="{{ post.image }}"></image>
             </svg>
             </a>
             </div>

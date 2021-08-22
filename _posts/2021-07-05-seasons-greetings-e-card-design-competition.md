@@ -1,7 +1,7 @@
 ---
 title: Season's Greetings E-Card Design Competition
 date: 2021-07-05T12:42:44.000Z
-listing_image: /wp-content/uploads/2021/07/seasonsgreetings-360x214.jpg
+image: /wp-content/uploads/2021/07/seasonsgreetings-360x214.jpg
 categories:
     - Announcements
 tags: []

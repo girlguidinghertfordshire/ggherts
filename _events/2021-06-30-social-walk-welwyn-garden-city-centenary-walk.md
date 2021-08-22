@@ -10,7 +10,7 @@ event:
   contact_email: walking@girlguidinghertfordshire.org.uk
   contact_number: ''
   book_now_link: ''
-  listing_image: '/wp-content/uploads/2019/01/Photo-1-360x273.jpg'
+  image: '/wp-content/uploads/2019/01/Photo-1-360x273.jpg'
   type: 
     - Social
   age-group: 
