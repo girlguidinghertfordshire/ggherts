@@ -1,5 +1,5 @@
 @font-face {
-    font-family: trebuchet ms;
+    font-family: trebuchet-ms;
     src: url(fonts/Trebuchet-BoldItalic.eot);
     src: url(fonts/Trebuchet-BoldItalic.eot?#iefix) format('embedded-opentype'),url(fonts/Trebuchet-BoldItalic.woff) format('woff'),url(fonts/Trebuchet-BoldItalic.ttf) format('truetype');
     font-weight: 700;
@@ -7,7 +7,7 @@
 }
 
 @font-face {
-    font-family: trebuchet ms;
+    font-family: trebuchet-ms;
     src: url(fonts/TrebuchetMS.eot);
     src: url(fonts/TrebuchetMS.eot?#iefix) format('embedded-opentype'),url(fonts/TrebuchetMS.woff) format('woff'),url(fonts/TrebuchetMS.ttf) format('truetype');
     font-weight: 400;
@@ -15,7 +15,7 @@
 }
 
 @font-face {
-    font-family: trebuchet ms;
+    font-family: trebuchet-ms;
     src: url(fonts/TrebuchetMS-Italic.eot);
     src: url(fonts/TrebuchetMS-Italic.eot?#iefix) format('embedded-opentype'),url(fonts/TrebuchetMS-Italic.woff) format('woff'),url(fonts/TrebuchetMS-Italic.ttf) format('truetype');
     font-weight: 400;
@@ -23,7 +23,7 @@
 }
 
 @font-face {
-    font-family: trebuchet ms;
+    font-family: trebuchet-ms;
     src: url(fonts/TrebuchetMS-Bold.eot);
     src: url(fonts/TrebuchetMS-Bold.eot?#iefix) format('embedded-opentype'),url(fonts/TrebuchetMS-Bold.woff) format('woff'),url(fonts/TrebuchetMS-Bold.ttf) format('truetype');
     font-weight: 700;
@@ -32,7 +32,7 @@
 
 body {
     font-size: 14px;
-    font-family: "open sans",sans-serif
+    font-family: trebuchet-ms,"open sans",sans-serif
 }
 
 /*h1 {
