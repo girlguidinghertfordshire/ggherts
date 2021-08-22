@@ -1,18 +1,15 @@
 ---
 layout: post
 title: Training during the pandemic
-date: 2021-07-30 08:50:36.000000000 +01:00
+date: 2021-07-30T07:50:36.000Z
 listing_image: /wp-content/uploads/2019/06/training-events-350x243.jpg
 categories:
-- Announcements
+  - Announcements
 tags: []
 author:
-  login: GGH-CMS
-  email: guidingdev@girlguidinghertfordshire.org.uk
   display_name: Karin Hunter
-  first_name: ''
-  last_name: ''
-permalink: "/training-during-the-pandemic/"
+permalink: /training-during-the-pandemic/
+lastmod: '2021-08-22T16:49:42.498Z'
 ---
 Many of you will now be taking a well-earned break over the summer holiday but as we come out of
 lockdown from the 19th of July, we wanted to remind you that face-to-face training will now be

@@ -1,18 +1,16 @@
 ---
-layout: post
 title: Young External Volunteers Welcome Event
-date: 2021-06-30 13:24:44.000000000 +01:00
+date: 2021-06-30T12:24:44.000Z
 listing_image: /wp-content/uploads/2021/06/Young-External-Volunteers-Welcome-Events-250x250.jpg
 categories:
-- Announcements
+  - Announcements
 tags: []
 author:
-  login: rachelkempis
-  email: rachelkempis@hotmail.com
   display_name: the County Office
   first_name: Rachel
   last_name: Kemp
-permalink: "/young-external-volunteers-welcome-event/"
+permalink: /young-external-volunteers-welcome-event/
+lastmod: '2021-08-22T16:48:24.564Z'
 ---
 We have been informed by Anglia that there is an opportunity for a Welcome event for Young External Volunteers
 

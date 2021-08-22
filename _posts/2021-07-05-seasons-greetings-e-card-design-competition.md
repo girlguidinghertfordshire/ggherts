@@ -1,18 +1,14 @@
 ---
-layout: post
 title: Season's Greetings E-Card Design Competition
-date: 2021-07-05 13:42:44.000000000 +01:00
+date: 2021-07-05T12:42:44.000Z
 listing_image: /wp-content/uploads/2021/07/seasonsgreetings-360x214.jpg
 categories:
-- Announcements
+    - Announcements
 tags: []
 author:
-  login: rachelkempis
-  email: rachelkempis@hotmail.com
-  display_name: the County Office
-  first_name: Rachel
-  last_name: Kemp
-permalink: "/seasons-greetings-e-card-design-competition/"
+    display_name: the County Office
+permalink: /seasons-greetings-e-card-design-competition/
+lastmod: '2021-08-22T16:48:51.006Z'
 ---
 We’re looking for Rainbows, Brownies, Guides, Young Leaders and Rangers to come up with a colourful festive design for Girlguiding Hertfordshire’s Season’s Greetings E-card.
 
