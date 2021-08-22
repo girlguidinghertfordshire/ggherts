@@ -10,11 +10,20 @@
 {% include google.html %}
 {% feed_meta %}
 {% seo %} 
-
-<link rel='dns-prefetch' href='https://code.jquery.com/' />
-<link rel='dns-prefetch' href='https://maps.googleapis.com/' />
-<link rel='dns-prefetch' href='https://s.w.org/' />
+<link rel="preload" href="/wp-content/themes/girl-guiding/fonts/fontawesome-webfont.woff2"/>
+<link rel='dns-prefetch' href='https://cdnjs.cloudflare.com/' />
+<link rel='dns-prefetch' href='https://cdn.sitesearch360.com/' />
 {% include stylesscripts.html %}
+{% if page.location_map or page.division_map %}
+<link rel='dns-prefetch' href='https://maps.googleapis.com/' />
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyC8lZG8HH0rs3iZ03uCiDdokKQAWE-Aj04' id='maps-js'></script>
+    {% if page.division_map %}
+<script type='text/javascript' src='/wp-content/themes/girl-guiding/js/geoxml3.js' id='geoxml3-js'></script>
+<script type='text/javascript' src='/wp-content/themes/girl-guiding/js/ProjectedOverlay.js' id='ProjectedOverlay-js'></script>
+    {% else %}
+<script type='text/javascript' src='/wp-content/themes/girl-guiding/js/location-map.js' id='location-maps-js'></script>
+    {% endif %}
+{% endif %}
 </head>
 <body>
 <div class="wrapper">
