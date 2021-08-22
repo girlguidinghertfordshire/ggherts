@@ -1,5 +1,4 @@
 ---
-layout: event
 title: Social Walk - Ver Valley, Radlett
 date: '2021-06-30 11:32:00'
 event:

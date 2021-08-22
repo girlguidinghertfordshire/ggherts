@@ -1,5 +1,4 @@
 ---
-layout: event
 title: Social Walk - Aston, Stevenage
 date: '2021-06-30 10:50:00'
 event:

@@ -1,5 +1,4 @@
 ---
-layout: event
 title: Great Patrol Hunt 2021/2022 Round 1
 date: 2021-03-17 12:15:58.000000000 +00:00
 event:

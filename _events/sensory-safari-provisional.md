@@ -1,5 +1,4 @@
 ---
-layout: event
 title: Sensory Safari (Provisional)
 date: '2021-06-30 12:33'
 event:

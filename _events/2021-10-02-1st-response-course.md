@@ -1,5 +1,4 @@
 ---
-layout: event
 title: 1st Response Course
 date: '2021-07-20 22:03'
 event:

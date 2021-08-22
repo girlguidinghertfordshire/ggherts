@@ -24,6 +24,11 @@ defaults:
       layout: "post"
   - scope:
       path: ""
+      type: "events"
+    values:
+      layout: "event"
+  - scope:
+      path: ""
       type: "members"
     values:
       layout: "county_team"
