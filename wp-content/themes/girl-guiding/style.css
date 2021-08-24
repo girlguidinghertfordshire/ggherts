@@ -2857,8 +2857,9 @@ button.wpcf7-form-control.wpcf7-submit span:after {
 
 .business-block h3 {
     font-weight: 400;
-    margin: 0 0 20px
+    margin: 20 0 10px
 }
+.slider-bar-block .business-block ul { margin-top: 0;}
 
 .business-block span {
     display: block;
