@@ -821,20 +821,10 @@ equalheight = function(container,child) {
 }
 
 function homeglobal_script() {
-    /*var width=jQuery(".home-slider").width()/4;
-    if (jQuery(window).width() > 767){
-        jQuery(".slider-col-1").width(width);
-        jQuery(".slider-col-2").width(width*2);
-    }else{        
-        jQuery(".slider-col-1").width("100%");
-        jQuery(".slider-col-2").width("100%");
-    }*/
     var mainHeight = jQuery(".home-slider .full-image").height();
     var sliderHeight = (mainHeight - 12) / 3;
     var doubleHeight = jQuery(".home .slider-main .double-height").outerHeight();
     var sliderhaftHeight = (doubleHeight - 6) / 2;
-    console.log("mainHeight: " + mainHeight + ", sliderHeight: " + sliderHeight + ", doubleH: " + doubleHeight + ", sliderhaft: " + sliderhaftHeight);
-    
     if (jQuery(window).width() > 767) {
         jQuery(".home .slider-main .double-height").height(doubleHeight);
         jQuery('.home-slider .haft figure').height(sliderhaftHeight);

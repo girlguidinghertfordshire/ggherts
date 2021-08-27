@@ -1,4 +1,4 @@
-@font-face {
+/*@font-face {
     font-family: trebuchet-ms;
     src: url(fonts/Trebuchet-BoldItalic.eot);
     src: url(fonts/Trebuchet-BoldItalic.eot?#iefix) format('embedded-opentype'),url(fonts/Trebuchet-BoldItalic.woff) format('woff'),url(fonts/Trebuchet-BoldItalic.ttf) format('truetype');
@@ -32,11 +32,11 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap
-}
+}*/
 
 body {
     font-size: 14px;
-    font-family: trebuchet-ms,"open sans",sans-serif
+    font-family: "trebuchet ms","open sans",sans-serif
 }
 
 /*h1 {
