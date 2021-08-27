@@ -1,39 +1,3 @@
-/*@font-face {
-    font-family: trebuchet-ms;
-    src: url(fonts/Trebuchet-BoldItalic.eot);
-    src: url(fonts/Trebuchet-BoldItalic.eot?#iefix) format('embedded-opentype'),url(fonts/Trebuchet-BoldItalic.woff) format('woff'),url(fonts/Trebuchet-BoldItalic.ttf) format('truetype');
-    font-weight: 700;
-    font-style: italic;
-    font-display: swap
-}
-
-@font-face {
-    font-family: trebuchet-ms;
-    src: url(fonts/TrebuchetMS.eot);
-    src: url(fonts/TrebuchetMS.eot?#iefix) format('embedded-opentype'),url(fonts/TrebuchetMS.woff) format('woff'),url(fonts/TrebuchetMS.ttf) format('truetype');
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap
-}
-
-@font-face {
-    font-family: trebuchet-ms;
-    src: url(fonts/TrebuchetMS-Italic.eot);
-    src: url(fonts/TrebuchetMS-Italic.eot?#iefix) format('embedded-opentype'),url(fonts/TrebuchetMS-Italic.woff) format('woff'),url(fonts/TrebuchetMS-Italic.ttf) format('truetype');
-    font-weight: 400;
-    font-style: italic;
-    font-display: swap
-}
-
-@font-face {
-    font-family: trebuchet-ms;
-    src: url(fonts/TrebuchetMS-Bold.eot);
-    src: url(fonts/TrebuchetMS-Bold.eot?#iefix) format('embedded-opentype'),url(fonts/TrebuchetMS-Bold.woff) format('woff'),url(fonts/TrebuchetMS-Bold.ttf) format('truetype');
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap
-}*/
-
 body {
     font-size: 14px;
     font-family: "trebuchet ms","open sans",sans-serif
@@ -298,7 +262,7 @@ input {
     border-color: #0072bc
 }
 
-.btn.btn-primary>span,.btn.btn-orange span,.btn.btn-pink span {
+.btn.btn-primary>span,.btn.btn-orange span,.btn.btn-pink>span {
     display: block;
     position: relative;
     text-align: center;
@@ -1456,7 +1420,7 @@ date {
 }
 
 .event-block .event-detail {
-    background-color: #1b7fc0;
+    background-color: #4E88C7;
     border-radius: 0 0 0 10px;
     float: left;
     min-height: 124px;
@@ -1468,6 +1432,9 @@ date {
     margin: 0 0 10px;
     font-weight: 700;
     color: #fff
+}
+a:hover .event-block .event-detail h3 {
+    text-decoration: underline;
 }
 
 .about .event-detail h3 {
@@ -1562,7 +1529,7 @@ date {
 }
 
 .event-block .event-pattern {
-    background: #1b7fc0 none repeat scroll 0 0;
+    background: #4E88C7 none repeat scroll 0 0;
     border-radius: 0 0 20px 20px;
     bottom: 20px;
     float: left;

@@ -17,7 +17,7 @@
     </a> </div></div>
     <div class="future-content">
     {{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 30 | escape | markdownify }}
-    <a class="btn btn-pink" href="{{ post.url }}"><span>Read more</span></a> </div>
+    <a class="btn btn-pink" href="{{ post.url }}"><span>Read more<span class="sr-only">: {{ post.title }}</span></span></a> </div>
     </div>
     {% endfor %}
     </div>
@@ -35,23 +35,11 @@
                 
                 <a class="" href="{{ post.url }}">
                     <img src="{{ post.image }}" alt=""/>
-                <!--<svg viewBox="0 0 570 250">
-                <defs>
-                <path fill="none" id="thePath" d="M23.997,0c168.31,0,336.629,0,504.937,0c6.638,2.063,18.256,0.82,23.997,6.999
-                                                    c8.597,9.252,6.143,36.872,6.999,54.993c2.676,56.615,5.407,124.732,8.999,174.979c0,1.666,0,3.333,0,4.999
-                                                    c-1.214,2.786-4.211,3.788-6.999,4.999c-3.333,0-6.666,0-9.999,0c-153.853-7.558-325.075-13.925-485.939-20.997
-                                                    C40.38,224.846,3.128,228.745,0,209.974C0,145.648,0,81.324,0,16.998C1.433,4.766,11.975,1.643,23.997,0z" />
-                </defs>
-                <clipPath id="cloudClip">
-                <use xlink:href="#thePath" />
-                </clipPath>
-                <image clip-path="url(#cloudClip)" width="650" height="100%" xlink:href="{{ post.image }}"></image>
-                </svg>-->
                 </a>
                 </div>
                 </div>
             {{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 15 | escape }}
-            <a class="link" href="{{ post.url }}">Read more</a>
+            <a class="link" href="{{ post.url }}">Read more<span class="sr-only">: {{ post.title }}</span></a>
         </div>
         {% endfor %}        
     </article>
@@ -68,23 +56,11 @@
                 
                 <a class="" href="{{ post.url }}">
                     <img src="{{ post.image }}" alt=""/>
-                    <!--<svg viewBox="0 0 570 250">
-                    <defs>
-                    <path fill="none" id="thePath" d="M23.997,0c168.31,0,336.629,0,504.937,0c6.638,2.063,18.256,0.82,23.997,6.999
-                                                        c8.597,9.252,6.143,36.872,6.999,54.993c2.676,56.615,5.407,124.732,8.999,174.979c0,1.666,0,3.333,0,4.999
-                                                        c-1.214,2.786-4.211,3.788-6.999,4.999c-3.333,0-6.666,0-9.999,0c-153.853-7.558-325.075-13.925-485.939-20.997
-                                                        C40.38,224.846,3.128,228.745,0,209.974C0,145.648,0,81.324,0,16.998C1.433,4.766,11.975,1.643,23.997,0z" />
-                    </defs>
-                    <clipPath id="cloudClip">
-                    <use xlink:href="#thePath" />
-                    </clipPath>
-                    <image clip-path="url(#cloudClip)" width="650" height="100%" xlink:href="{{ post.image }}"></image>
-                    </svg>-->
                 </a>
                 </div>
                 </div>
             <p>{{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 15 | escape}}</p>
-            <a class="link" href="{{ post.url }}">Read more</a>
+            <a class="link" href="{{ post.url }}">Read more<span class="sr-only">: {{ post.title }}</span></a>
         </div>
         {% endfor %} 
     </article>

@@ -45,7 +45,7 @@ layout: default
                                         <p>{{ event.event.location | join: ', ' }}</p>
                                     </div>
                                     <div class="col-md-6">
-                                        <div class="more-link"><a href="{{ event.url }}" class="btn btn-pink"><span>More details</span></a></div>
+                                        <div class="more-link"><a href="{{ event.url }}" class="btn btn-pink"><span>More details</span><span class="sr-only">: {{ event.title }}</span></a></div>
                                     </div>
                                 </div>
                             </div>

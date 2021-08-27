@@ -9,7 +9,7 @@
     <img src="{{ notice.image }}" alt="" />
     <h3><a class="" href="{{ notice.url }}">{{ notice.title }}</a></h3>    
     {{ notice.excerpt | strip_html | normalize_whitespace | truncatewords: 30 | escape | markdownify }}    
-    <div class="button-group"> <a class="btn btn-primary pull-right front" href="{{ notice.url }}"><span>Read more </span></a> </div>
+    <div class="button-group"> <a class="btn btn-primary pull-right front" href="{{ notice.url }}"><span>Read more </span><span class="sr-only">: {{ notice.title }}</span></a> </div>
     </div>
     </div>
         {% endfor %}    
