@@ -740,10 +740,6 @@ jQuery(window).load(function() {
     equalheight('.eventshop-content h3');
     equalBlockHeight();
     homeglobal_script();
-    var script = document.createElement('script');
-    script.setAttribute('src', '//w.sharethis.com/button/buttons.js');
-    script.setAttribute('type', 'text/javascript');
-    document.getElementsByTagName('head')[0].appendChild(script);
 });
 function equalBlockHeight() {
     equalheight('.latest-post-block > h3');

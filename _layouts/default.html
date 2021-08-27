@@ -83,7 +83,8 @@ Cottered<br />
 Buntingford<br />
 Hertfordshire<br />
 SG9 9QP </address>
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4918.554001206864!2d-0.080472!3d51.94714!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x270a82ff6b880eb9!2sGirlguiding%20UK!5e0!3m2!1sen!2suk!4v1604057144990!5m2!1sen!2suk" width="100%" height="360" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+<div id="hgcmap"></div>
+
 </div>
 <div class="col-sm-12 col-md-4">
 <h3>Quick Links</h3>
@@ -121,7 +122,9 @@ SG9 9QP </address>
 <div class="col-sm-12 col-md-4">
 <h3>Social</h3>
 <div class="tweet-list">
-<a class="twitter-timeline" data-width="360" data-height="439" href="https://twitter.com/gguidingherts?ref_src=twsrc%5Etfw">Tweets by gguidingherts</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="360" data-height="439" href="https://twitter.com/gguidingherts?ref_src=twsrc%5Etfw">Tweets by gguidingherts</a> 
+
+
 </div>
 </div>
 </div>
@@ -141,6 +144,39 @@ SG9 9QP </address>
 </div>
 </footer>
 </div>
+<script>
+    (function($,w,d){
+        var tweetList=d.querySelectorAll(".tweet-list")[0];
+        var hgcmap=d.getElementById("hgcmap");
+        var social=d.querySelectorAll(".social-media")[0];
+        var isTwitterLoaded=false, isMapLoaded=false, isSocialLoaded=false;
+        function lazyLoad(){
+            var viewportHeight = w.innerHeight || d.documentElement.clientHeight;
+            var tPos=tweetList.getBoundingClientRect().top;
+            var mPos=hgcmap.getBoundingClientRect().top;
+            var sPos=social.getBoundingClientRect().top;
+            if (!isSocialLoaded && sPos - viewportHeight < 100){
+                isSocialLoaded=true;
+                var script = document.createElement('script');
+                script.setAttribute('src', '//w.sharethis.com/button/buttons.js');
+                script.setAttribute('type', 'text/javascript');
+                document.getElementsByTagName('head')[0].appendChild(script);
+            }
+            if (!isTwitterLoaded && (tPos - viewportHeight < 100)){
+                isTwitterLoaded=true;
+                $("body").append('<script async src="https://platform.twitter.com/widgets.js" charset="utf-8" />');
+            }
+            if (!isMapLoaded && (mPos - viewportHeight < 100)){
+                isMapLoaded=true;
+                $("#hgcmap").append('<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4918.554001206864!2d-0.080472!3d51.94714!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x270a82ff6b880eb9!2sGirlguiding%20UK!5e0!3m2!1sen!2suk!4v1604057144990!5m2!1sen!2suk" width="100%" height="360" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>')
+            }
+        }
+        lazyLoad();
+        $(w).on("scroll resize",function(e){
+            lazyLoad();
+        });
+    })(jQuery,window,document);
+</script>
 <script type='text/javascript' src='/wp-content/themes/girl-guiding/js/modernizr.js' id='modernizr-js'></script>
 <script type='text/javascript' src='/wp-content/themes/girl-guiding/js/bootstrap.min.js' id='bootstrap-min-js'></script>
 <script type='text/javascript' src='/wp-content/themes/girl-guiding/js/owl.carousel.js' id='owl-carousel-js'></script>
