@@ -3,7 +3,7 @@
     <h2>Noticeboard</h2>
     <div class="row">
         {% assign noticeboards = site.noticeboards | sort: "date" | reverse %}
-        {% for notice in noticeboards %}
+        {% for notice in noticeboards limit:3 %}
     <div class="post">
     <div class="latest-post-block">
     <img src="{{ notice.image }}" alt="" />

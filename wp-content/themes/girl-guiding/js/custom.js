@@ -50,9 +50,8 @@ jQuery(document).ready(function() {
             720: {
                 items: 3,
                 margin: 15,
-            },
-            1000: {
-                items: 3
+                nav:false,
+                navigation:false
             }
         }
     });
