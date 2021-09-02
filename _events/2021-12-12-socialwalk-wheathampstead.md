@@ -2,7 +2,7 @@
 title: Social Walk from Wheathampstead to Batford Springs
 date: 2021-08-24T17:24:51.193Z
 event:
-    start_date: '2021-11-13'
+    start_date: 2021-12-12
     end_date: ''
     address: Wheathampstead
     contact_name: Alison Tuch
@@ -23,7 +23,7 @@ author:
     display_name: Andrew Settle
     first_name: null
     last_name: null
-lastmod: '2021-08-24T18:23:36.274Z'
+lastmod: '2021-09-02T18:37:01.807Z'
 ---
 A social walk from Wheathampstead to Batford Springs plus optional Christmas meal at [The Bull, Wheathampstead](https://www.millerandcarter.co.uk/restaurants/east-of-england/millerandcarterwheathampstead/festivemenu).
 
