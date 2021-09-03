@@ -10,11 +10,11 @@ author:
   first_name: Rachel
   last_name: Kemp
 permalink: /membership-system-updates/
-lastmod: '2021-09-02T21:32:27.835Z'
+lastmod: '2021-09-03T19:39:30.757Z'
 ---
 {% assign updates = site.membership_updates | reverse %}
 <div class="row">
-<div class="col-md-3 left-sidebar" style="position:sticky; top:20px">
+<div class="col-md-3 left-sidebar hidden-xs" style="position:sticky; top:20px">
 <h2>Updates</h2>
 <ul class="nav" role="tablist">
 {% for update in updates %}

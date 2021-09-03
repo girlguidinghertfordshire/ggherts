@@ -148,6 +148,17 @@ p {
     position: relative
 }
 
+.left-sidebar .nav>li>ul {
+    display: none;
+}
+
+.left-sidebar .nav>li.active>ul {
+    display: block;
+}
+.left-sidebar .nav .active>a {
+    color:#c40063;
+}
+
 input:focus {
     outline: none
 }
