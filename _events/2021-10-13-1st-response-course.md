@@ -1,33 +1,32 @@
 ---
 title: 1st Response Course
 date: '2021-07-20 22:03'
-published: false
 event:
     start_date: '2021-10-13'
     end_date: '2021-10-20'
     address: 'St John''s Church Hall, Gills Hill Lane, Radlett, WD7 8DF'
-    contact_name: Lynne Kirby
-    contact_email: null
+    contact_name: Verity Maclachlan
+    contact_email: verity.guides@gmail.com
     contact_number: ''
-    book_now_link: ''
+    book_now_link: 'https://www.eventbrite.co.uk/e/girlguiding-hertfordshire-full-1st-response-course-2-x-3-hour-sessions-tickets-169755526349'
     image: /wp-content/uploads/2016/07/IMG_5900-360x273.jpg
     type:
         - First Response
     age-group:
         - Leader
     location:
-        - 'Hertfordshire, West'
+        - 'Hertfordshire, Central'
 author:
     email: null
     display_name: null
     first_name: null
     last_name: null
 permalink: /event/1st-response-course-13-20-oct-21
-lastmod: '2021-09-02T19:05:42.529Z'
+lastmod: '2021-09-05T20:10:01.264Z'
 ---
 This 1st Response course takes place over 2 evenings, **Wednesday, 13 October and Wednesday, 20 October** at St John's Church Hall (temporary building), Gills Hill Lane, Radlett, WD7 8DF.  Sessions run from 7pm - 9.30pm and both must be attended.  The course is for leaders and Leaders in Training.
 
-Bookings: via [Eventbrite]().  You will need to provide your name, membership number, role, unit and county guiding in when booking.  
+Bookings: via [Eventbrite]({{page.event.book_now_link}}).  You will need to provide your name, membership number, role, unit and county guiding in when booking.  
 
 Booking deadline: **Wednesday, 6 October 2021**
 

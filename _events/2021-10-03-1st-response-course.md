@@ -5,8 +5,8 @@ event:
   start_date: '2021-10-03'
   end_date: ''
   address: Radlett
-  contact_name: Lynne Kirby
-  contact_email: null
+  contact_name: Verity Maclachlan
+  contact_email: verity.guides@gmail.com
   contact_number: ''
   book_now_link: 'https://www.eventbrite.co.uk/e/girlguiding-hertfordshire-1st-response-course-radlett-tickets-168460230083'
   image: /wp-content/uploads/2016/07/IMG_5900-360x273.jpg
@@ -15,14 +15,14 @@ event:
   age-group:
     - Leader
   location:
-    - 'Hertfordshire, West'
+    - 'Hertfordshire, Central'
 author:
   email: null
   display_name: null
   first_name: null
   last_name: null
 permalink: /event/1st-response-course-3-oct-21
-lastmod: '2021-09-02T18:42:38.002Z'
+lastmod: '2021-09-05T20:13:55.354Z'
 ---
 This 1st Response course on Saturday, 3 October 2021 from 9.30am - 2.30pm in Radlett is for leaders and Leaders in Training.
 
