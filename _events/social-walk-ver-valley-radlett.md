@@ -1,6 +1,7 @@
 ---
-title: Social Walk - Ver Valley, Radlett
+title: 'Social Walk - Ver Valley, Radlett'
 date: '2021-06-30 11:32:00'
+published: false
 event:
   start_date: '2021-10-10'
   end_date: ''
@@ -9,20 +10,21 @@ event:
   contact_email: walking@girlguidinghertfordshire.org.uk
   contact_number: ''
   book_now_link: ''
-  image: '/wp-content/uploads/2019/01/Photo-1-360x273.jpg'
-  type: 
+  image: /wp-content/uploads/2019/01/Photo-1-360x273.jpg
+  type:
     - Social
-  age-group: 
+  age-group:
     - Adults
     - Young Leader
     - Ranger
-  location: 
-    - Hertfordshire, Central
+  location:
+    - 'Hertfordshire, Central'
 author:
-  email: 
-  display_name: 
-  first_name: 
-  last_name: 
+  email: null
+  display_name: null
+  first_name: null
+  last_name: null
+lastmod: '2021-09-07T19:21:34.512Z'
 ---
 Social walk for all adults, Young Leaders and Rangers on <strong>Sunday, 10 October </strong>in Ver Valley, Radlett lasting 2-3 hours.
 
