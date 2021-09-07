@@ -62,6 +62,8 @@ news:
   title: News
   url: /news/
   items:
+  - title: Essential News
+    url: /news/essential-news
 international:
   title: International Adventures
   url: /international-adventures/
