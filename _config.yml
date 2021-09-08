@@ -50,3 +50,5 @@ email:
   apikey: "OifYW6lBBY3CUykd9NhfBeojO8aAYWhdHiJaDa8RFm8="
 recaptcha:
   sitekey: "6LeUzcQbAAAAAMu_4Jr8oMO_e-i1R3_bF0y08BRk"
+include: 
+  - _redirects
