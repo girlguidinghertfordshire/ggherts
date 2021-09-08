@@ -7,7 +7,7 @@ categories:
 tags: []
 author:
   display_name: the County Office
-permalink: /hertfordshire-guide-centre-cottered-outdoor-area-is-open/
+permalink: /hertfordshire-guide-centre-cottered-is-open/
 lastmod: '2021-09-08T17:27:50.045Z'
 ---
 Following the re-opening of the outdoor space at Hertfordshire Guide Centre earlier this year, we are pleased to announce that the **indoor accommodation** has also now re-opened for bookings.
