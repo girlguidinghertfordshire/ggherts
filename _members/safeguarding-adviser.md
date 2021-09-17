@@ -11,6 +11,6 @@ image: null
 thumbnail: null
 author:
   display_name: Rachel Kemp
-lastmod: '2021-09-17T19:55:18.315Z'
---
+lastmod: '2021-09-17T20:02:25.008Z'
+---
 Advises the commissioner and supports all members and young people on safeguarding issues
