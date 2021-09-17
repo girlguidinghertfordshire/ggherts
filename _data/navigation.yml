@@ -63,7 +63,9 @@ news:
   url: /news/
   items:
   - title: Essential News
-    url: /news/essential-news
+    url: /news/essential-news/
+  - title: Billboard
+    url: /news/billboard/
 international:
   title: International Adventures
   url: /international-adventures/
