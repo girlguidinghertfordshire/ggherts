@@ -22,14 +22,14 @@ author:
   display_name: null
   first_name: null
   last_name: null
-lastmod: '2021-08-24T12:33:01.720Z'
+lastmod: '2021-09-22T06:28:21.638Z'
 ---
-Sensory Safari for Rainbows &amp; Brownies in Broxbourne Woods on <strong>Saturday, 9 October</strong> _(**new date,** previously advertised as 4 September)_.
+Sensory Safari for Rainbows &amp; Brownies in Broxbourne Woods on <strong>Saturday, 9 October</strong>.
 
-Participants will use all their senses as they discover the sculpture trail and take part in some short activities to take approximately 2 hours.
+Participants will use all their senses over 2 hours, as they discover the wooden sculpture trail and take part in some short activities.
 
-Small groups with staggered starts (from 10.30am.) Groups can have a picnic in beautiful woodland (optional). _Free event, but bookings essential by **25th September.**_
+Groups will be small (6-8 girls plus leaders), with staggered starts (from 10.00am).
 
-All groups must be accompanied by their Leaders and normal ratios adhered to.
+_Free event, but bookings essential by 1st October._
 
-To book a place please email: <a href="mailto:walking@girlguidinghertfordshire.org.uk">walking@girlguidinghertfordshire.org.uk</a>.
+To book a place or ask for further information please email: <a href="mailto:walking@girlguidinghertfordshire.org.uk">walking@girlguidinghertfordshire.org.uk</a>.
