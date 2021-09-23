@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vacancies
-date: 2019-10-17 11:38:11.000000000 +01:00
+date: 2019-10-17T10:38:11.000Z
 toc: get-involved
 advertId: get-involved
 author:
@@ -10,10 +10,21 @@ author:
   display_name: GGH-Admin1
   first_name: ''
   last_name: ''
-permalink: "/get-involved/vacancies/"
+permalink: /get-involved/vacancies/
+lastmod: '2021-09-23T20:17:12.391Z'
 ---
 <h2>Current Volunteer Vacancies</h2>
 We have a fantastic team of volunteers who look to the County Team for guidance, support and vision. As part of this County Team structure we are looking for new advisers to help the County to move forward and be the best that we can be.  All members of the team need to fully embrace the programme and spread passion and enthusiasm for guiding.
+
+### Inclusion Team
+<p class="clearfix">
+<img src="/assets/images/2021/09/inclusionteam.png" alt="" class="pull-right" style="padding:15px"/>
+Working with Lead Advisors at HQ, we are still looking for county volunteers to help give support to leaders in aspects of being fully inclusive.  Please get in touch if you would like to get involved. <a href="mailto:cc@girlguidinghertfordshire.org.uk">cc@girlguidinghertfordshire.org.uk</a></p>
+
+### Outdoor Team
+<p class="clearfix"><img src="/assets/images/2021/09/outdoor.png" alt="" style="float:left;padding:15px"/>
+Do you enjoy walking, water activities, archery, climbing or something else?  If you enjoy being outdoors, this could be the perfect team for you to join. Contact <a href="mailto:outdoors@girlguidinghertfordshire.org.uk">outdoors@girlguidinghertfordshire.org.uk</a></p>
+
 <h3 class="clearfix">Growth &amp; Retention Working Team</h3>
 The Growth &amp; Retention Group are looking for new members to join the team.
 
