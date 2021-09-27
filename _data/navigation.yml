@@ -2,18 +2,15 @@ main:
   items:
   - id: about-us
   - id: get-involved
-  - id: youth
+  - id: county-teams
   - id: noticeboard
   - id: events
   - id: news
-  - id: international
   - id: contact
 about-us:
   title: About Us
   url: /about-us/
   items:
-  - title: County Team
-    url: /about-us/county-team/
   - title: Mission Statement
     url: /about-us/mission-statement/
   - title: Divisions
@@ -44,10 +41,25 @@ get-involved:
     url: /get-involved/share/
   - title: Thanks, Awards and Recognition
     url: /get-involved/thanks/
-youth:
-  title: Youth Opportunities
-  url: /youth-opportunities/
+county-teams:
+  title: County Teams
+  url: /county-teams/
   items:
+  - title: Your County Team
+    url: /about-us/county-team/
+  - title: Youth Opportunities
+    url: /youth-opportunities/
+  - title: International Adventures
+    url: /international-adventures/
+    items:
+    - title: Unit Opportunities
+      url: /international-adventures/international-unit-opportunities/
+    - title: County Opportunities
+      url: /international-adventures/international-county/
+    - title: Region Opportunities
+      url: /international-adventures/international-region-opportunities/
+    - title: National & WAGGGS Opportunities
+      url: /international-adventures/international-national-wagggs-opportunities/
 noticeboard:
   title: Noticeboard
   url: /noticeboard/
@@ -66,18 +78,6 @@ news:
     url: /news/essential-news/
   - title: Billboard
     url: /news/billboard/
-international:
-  title: International Adventures
-  url: /international-adventures/
-  items:
-  - title: Unit Opportunities
-    url: /international-adventures/international-unit-opportunities/
-  - title: County Opportunities
-    url: /international-adventures/international-county/
-  - title: Region Opportunities
-    url: /international-adventures/international-region-opportunities/
-  - title: National & WAGGGS Opportunities
-    url: /international-adventures/international-national-wagggs-opportunities/
 contact:
   title: Contact Us
   url: /contact-us/
