@@ -3,7 +3,6 @@ main:
   - id: about-us
   - id: get-involved
   - id: county-teams
-  - id: noticeboard
   - id: events
   - id: news
   - id: contact
@@ -17,6 +16,8 @@ about-us:
     url: /about-us/divisions/
   - title: Resources and Links
     url: /about-us/resources/
+  - title: Membership System Updates
+    url: /membership-system-updates/
   - title: Wellbeing Resources
     url: /about-us/wellbeing-resources-and-links/
   - title: County Centre
@@ -60,10 +61,6 @@ county-teams:
       url: /international-adventures/international-region-opportunities/
     - title: National & WAGGGS Opportunities
       url: /international-adventures/international-national-wagggs-opportunities/
-noticeboard:
-  title: Noticeboard
-  url: /noticeboard/
-  items:
 events:
   title: Events
   url: /events/
@@ -74,6 +71,8 @@ news:
   title: News
   url: /news/
   items:
+  - title: Noticeboard
+    url: /noticeboard/
   - title: Essential News
     url: /news/essential-news/
   - title: Billboard

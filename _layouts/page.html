@@ -33,7 +33,8 @@ layout: default
                     <h2><a href="{{ menu.url }}">{{ menu.title }}</a></h2>
                     <ul>
                     {% for item in menu.items %}
-                    <li {% if item.url==page.url %} class="current_page_item"{% endif %}><a href="{{ item.url}}"{%if item.url==page.url %} aria-current="page"{% endif %}>{{ item.title }}</a></li>
+                    <li {% if item.url==page.url %} class="current_page_item"{% endif %}><a href="{{ item.url}}"{%if item.url==page.url %} aria-current="page"{% endif %}>{{ item.title }}</a>{% if item.url==page.url and item.items %}<ul>
+                        {% for childItem in item.items %}<li><a href="{{ childItem.url}}"{%if childItem.url==page.url %} aria-current="page"{% endif %}>{{ childItem.title }}</a></li>{% endfor %} </ul>{% endif %}</li>
                     {% endfor %}
                     </ul>
                 </div>
