@@ -1,6 +1,6 @@
 ---
 title: 1st Response Course
-date: '2021-07-20 22:03'
+date: '2021-09-30T19:11:56.798Z'
 event:
     start_date: '2021-11-01'
     end_date: '2021-11-08'
@@ -21,8 +21,8 @@ author:
     display_name: null
     first_name: null
     last_name: null
-permalink: /event/1st-response-course-13-20-oct-21
-lastmod: '2021-09-30T19:00:27.193Z'
+permalink: /event/1st-response-course-01-08-nov-21
+lastmod: '2021-09-30T19:11:56.798Z'
 ---
 This 1st Response course takes place over 2 evenings, **Monday, 1 November and Monday, 8 November** at St John's Church Hall (temporary building), Gills Hill Lane, Radlett, WD7 8DF.  Sessions run from 7pm - 9.30pm and both must be attended.  The course is for leaders and Leaders in Training.
 
