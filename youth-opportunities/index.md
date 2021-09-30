@@ -9,7 +9,7 @@ author:
   display_name: Rachel Kemp
   first_name: Rachel
   last_name: Kemp
-lastmod: '2021-09-27T20:14:18.434Z'
+lastmod: '2021-09-30T19:46:08.864Z'
 ---
 Welcome to the new Youth Opportunities webpage which we hope will support and assist leaders, 13+ Guides, Rangers and Young Leaders.  The newly formed county Youth Opportunities Team are here to support YOU and have created a new newsletter providing information and articles from all the advisers within this team and their plans and current opportunities.
 <h4><a href="/wp-content/uploads/2021/04/g-ops-newsletter-April-2021.pdf" target="_blank" rel="noopener">*LATEST* Youth Opportunities Team April 2021 Newsletter</a></h4>
