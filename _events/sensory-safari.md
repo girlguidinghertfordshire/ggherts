@@ -1,5 +1,5 @@
 ---
-title: Sensory Safari (Provisional)
+title: Sensory Safari
 date: '2021-06-30 12:33'
 event:
   start_date: '2021-10-09'

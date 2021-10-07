@@ -1,17 +1,17 @@
 ---
 layout: page
 title: International Adventures
-date: 2018-06-07 19:46:31.000000000 +01:00
+date: 2018-06-07T18:46:31.000Z
 toc: international
 banner_image: /wp-content/uploads/2018/06/International_banner.jpg
-description: We're part of a truly global movement so Girlguiding Hertfordshire
-    can offer members a huge range of amazing international adventures.
+description: We're part of a truly global movement so Girlguiding Hertfordshire can offer members a huge range of amazing international adventures.
 author:
   login: GGH-CMS
   email: countysec@girlguidinghertfordshire.org.uk
   display_name: the County Office
   first_name: ''
   last_name: ''
+lastmod: '2021-10-07T12:33:44.797Z'
 ---
 
 Welcome to the Girlguiding Hertfordshire International Adventures.
@@ -26,6 +26,12 @@ As International Advisers it is our role to bring international guiding to Hertf
 
 Lorraine England & Karen Dance
 County International Advisers
+
+## 25th World Scout Jamboree 2023, South Korea
+Selection events are planned for Leaders and Girls who would like to attend the 25th World Scout Jamboree in South Korea:
+
+- [Leader selection](/event/world-jamboree-selection/)
+- [Young person selection](/event/wsj-yp-selection/)
 
 ## International REN Form
 The International REN Form can be found on the Girlguiding website.  If you are planning an international adventure, or need some advice on international travel or resources within Girlguiding, then please do get in touch via <a href="mailto:International@girlguidinghertfordshire.org.uk">International@girlguidinghertfordshire.org.uk</a>.
