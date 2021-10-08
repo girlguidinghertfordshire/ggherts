@@ -3,14 +3,15 @@ layout: page
 title: Billboard
 date: '2021-09-07T19:51:13.187Z'
 toc: news
-lastmod: '2021-09-17T16:29:53.038Z'
+lastmod: '2021-10-08T13:33:11.570Z'
 ---
 
 _Billboard_ is sent to all Girlguiding Hertforshire Members who have set their communication preferences on _GO_ to subscribe to marketing.
 
 Recent editions:
 
-- [September 2021](/assets/docs/september-2021-newsletter.pdf)
+- [October 2021 <i class="fa fa-external-link"></i>](https://mailchi.mp/2efbb058862e/oct-2021-billboard-6520952){:target="_blank"}{:rel="noreferrer noopener"}
+- [September 2021 <i class="fa fa-file-pdf-o"></i>](/assets/docs/september-2021-newsletter.pdf)
 
 ## Deadline dates for submission
 ### 2021 Newsletters
