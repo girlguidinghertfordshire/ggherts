@@ -1,13 +1,14 @@
 ---
 title: 9th St Albans (Abbey) Guides and Brownies 100th Anniversary
 date: '2021-09-17T16:35:37.859Z'
+published: false
 image: /assets/images/2021/09/st-albans-abbey-centenary-360.jpg
 categories:
     - Announcements
 tags: []
 author:
     display_name: the County Office
-lastmod: '2021-09-17T16:48:54.852Z'
+lastmod: '2021-10-12T18:18:01.569Z'
 ---
 
 Calling all former members of the 9th St Albans (Abbey) Guides and Brownies.

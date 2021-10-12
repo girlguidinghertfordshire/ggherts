@@ -2,6 +2,7 @@
 title: Virtual Festival of The Girl 2021
 date: '2021-09-30T19:13:31.875Z'
 image: /assets/images/2021/09/festivalofthegirl.webp
+published: false
 categories:
     - Notice
 tags: []
@@ -9,7 +10,7 @@ author:
     display_name: null
     first_name: null
     last_name: null
-lastmod: '2021-09-30T19:20:37.565Z'
+lastmod: '2021-10-12T18:18:55.298Z'
 ---
 
 Join the virtual [Festival of The Girl](https://www.festivalofthegirl.com), created for girls aged 7-11, on Sunday 10th October 2021 in celebration of International Day of The Girl.
