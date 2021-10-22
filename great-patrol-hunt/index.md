@@ -1,7 +1,7 @@
 ---
 layout: page_full
 title: Great Patrol Hunt
-date: 2021-08-18 22:08:03.000000000 +01:00
+date: 2021-08-18T21:08:03.000Z
 toc: events
 banner_image: /wp-content/uploads/2018/07/GPH_Collage.jpg
 author:
@@ -10,6 +10,7 @@ author:
   display_name: the County Office
   first_name: ''
   last_name: ''
+lastmod: '2021-10-22T16:43:23.960Z'
 ---
 
 <div class="lead">With the Great Patrol Hunt girls have the best experiences</div>
@@ -25,16 +26,12 @@ It began in 1968, Hertfordshire Scout Patrols competed annually in various ways,
 
 ## Our Events
 <ul>
-<li><a href="/event/great-patrol-hunt-2021-2022-round-1/">Round 1, 2021/22</a>  |  Saturday 16 October 2021  |  Borehamwood</li>
+<li>Round 1, 2021/22  |  Saturday 16 October 2021  |  Borehamwood **Completed**</li>
 <li><a href="/event/great-patrol-hunt-2022-round-2/">Round 2, 2022</a> | <strong> </strong>Saturday 26 March 2022</li>
 <li><a href="/event/great-patrol-hunt-2022-round-3/">Round 3, 2022</a> | <b> </b>Friday-Sunday 24-26 June 2022</li>
 </ul>
 
-### Round 1
-Entry for round 1 is now open - **closes Friday 1st October 2021** - download the entry form to get started.
- <div><a class="btn-gg" href="/assets/images/2021/08/GPH-Entry-Form-Round-1-2021.docx"><i class="fa fa-download"></i> Download round 1 entry form (Word)</a></div>
 
- Be sure to read the competition rules below before entering.
 
 ## About the Competition
 <p class="paragraph_style_6">The competition spans over a year and comprises of 3 rounds. Each round has different and diverse challenges that encourage patrols to work together as a team. Marks are awarded for team work, presentation, effort, etiquette, good deeds and achievement throughout the challenges and the event.</p>

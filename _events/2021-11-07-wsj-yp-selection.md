@@ -1,6 +1,7 @@
 ---
 title: Young Person Selection for 25th World Scout Jamboree 2023
 date: '2021-10-07T12:17:05.256Z'
+published: false
 event:
     start_date: '2021-11-07'
     end_date: ''
@@ -9,21 +10,21 @@ event:
     contact_email: suet@girlguiding-anglia.org.uk
     contact_number: ''
     book_now_link: ''
-    image: '/assets/images/2021/09/wsjgirls.jpg'
-    type: 
-    - Selection day
-    age-group: 
-    - Guides
-    - Rangers
-    - Young Leader
-    location: 
-    - Anglia, Cambridge
+    image: /assets/images/2021/09/wsjgirls.jpg
+    type:
+        - Selection day
+    age-group:
+        - Guides
+        - Rangers
+        - Young Leader
+    location:
+        - 'Anglia, Cambridge'
 author:
     email: null
     display_name: null
     first_name: null
     last_name: null
-lastmod: '2021-10-07T12:27:02.217Z'
+lastmod: '2021-10-22T16:38:02.463Z'
 ---
 The World Scout Jamboree is an amazing opportunity for girls across the world with 2023’s Jamboree planned for South Korea with the theme of _Draw Your Dream._
 
