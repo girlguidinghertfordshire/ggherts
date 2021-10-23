@@ -10,7 +10,7 @@ author:
   display_name: the County Office
   first_name: ''
   last_name: ''
-lastmod: '2021-10-22T16:43:23.960Z'
+lastmod: '2021-10-23T20:15:49.783Z'
 ---
 
 <div class="lead">With the Great Patrol Hunt girls have the best experiences</div>
@@ -31,7 +31,9 @@ It began in 1968, Hertfordshire Scout Patrols competed annually in various ways,
 <li><a href="/event/great-patrol-hunt-2022-round-3/">Round 3, 2022</a> | <b> </b>Friday-Sunday 24-26 June 2022</li>
 </ul>
 
-
+### Round 1
+Round 1 of the Great Patrol Hunt was completed on Saturday 16 October 2021; download the results.
+ <div><a class="btn-gg" href="/assets/docs/2021-22-GPH-Round-1-Results.pdf"><i class="fa fa-download"></i> Download round 1 results (PDF)</a></div>
 
 ## About the Competition
 <p class="paragraph_style_6">The competition spans over a year and comprises of 3 rounds. Each round has different and diverse challenges that encourage patrols to work together as a team. Marks are awarded for team work, presentation, effort, etiquette, good deeds and achievement throughout the challenges and the event.</p>
