@@ -3,6 +3,8 @@ title: Donna Groves
 date: 2017-11-16 14:00:50.000000000 +00:00
 order: 8
 job_title: County Administrator
+image: /assets/images/2021/10/donna-groves-county-administrator.jpg
+thumbnail: /assets/images/2021/10/donna-groves-county-administrator_237.jpg
 person_intro: Provides administrative support to the County Commissioner, Team and
   Advisers
 email: 'countysec@girlguidinghertfordshire.org.uk'
