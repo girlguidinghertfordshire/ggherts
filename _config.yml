@@ -1,4 +1,6 @@
 collections:
+    posts:
+      permalink: /news/:title/
     events:
       output: true
       permalink: /event/:title/
