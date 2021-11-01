@@ -11,11 +11,15 @@ author:
   first_name: ''
   last_name: ''
 permalink: /get-involved/vacancies/
-lastmod: '2021-10-29T20:20:58.242Z'
+lastmod: '2021-11-01T21:14:06.286Z'
 ---
 <h2>Current Volunteer Vacancies</h2>
 We have a fantastic team of volunteers who look to the County Team for guidance, support and vision. As part of this County Team structure we are looking for new advisers to help the County to move forward and be the best that we can be.  All members of the team need to fully embrace the programme and spread passion and enthusiasm for guiding.
 
+### Challenge Badge Team
+![](/assets/images/2021/11/challenge-team.png){:class="pull-right"}{:width="250"}{:height="210"}
+We are looking for people to join our County Challenge Badge planning team.  The theme for next year is Grow Guiding.  If you would like to be part of the team, please email [events@girlguidinghertfordshire.org.uk](mailto:events@girlguidinghertfordshire.org.uk)
+<div class="clearfix"></div>
 ### Jubilee Team
 <p class="clearfix">
 <img src="/assets/images/2021/10/jubilee-vacancy.png" alt="" class="pull-left" style="padding:15px"/>
