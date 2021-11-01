@@ -1,19 +1,25 @@
 ---
 layout: page
 title: Challenge Badges
-date: 2021-02-15 22:25:36.000000000 +00:00
+date: 2021-02-15T22:25:36.000Z
 toc: get-involved
-description: 'New challenge badges for guiding units in Hertfordshire:
-    Let the Sun Shine, Marathon, Lifesaver, Flower Power and more.'
+description: 'New challenge badges for guiding units in Hertfordshire: Let the Sun Shine, Marathon, Lifesaver, Flower Power and more.'
 author:
   login: andrew
   email: andrew@settle.uk.com
   display_name: andrew
   first_name: Andrew
   last_name: Settle
-permalink: "/get-involved/challenge-badges/"
+permalink: /get-involved/challenge-badges/
+lastmod: '2021-11-01T21:07:32.772Z'
 ---
+## Snow is Falling Challenge Badge
+![](/assets/images/2021/11/SnowFalling-180.jpg){:class="pull-right"}{:width="180}{:height="174"}
+This badge has been created to support 1st Baldock Brownies fundraising for Girlguiding via a Discover Adventure Great Wall of China Trek.  There are 10 themed sections of this badge, each named after lyrics from a seasonal song.  The badge pack is full of colour coded programme links and there are activities for all sections.  Badges are £1.20 each plus postage.  Download the Challenge Badge Pack which contains all the activities, requirements and badge order form.
 
+[Snow is Falling Challenge Badge Pack <i class="fa fa-download"></i>](/assets/docs/challenge-badge-snow-is-falling.pdf){:class="btn-gg"}
+
+<div class="clearfix"></div>
 <h2>Raise West Hertfordshire NHS Trust Charity Badge</h2>
   <img class=" wp-image-4195 alignleft" src="/wp-content/uploads/2021/04/Raise-Challenge-Badge.png" alt="" width="187" height="182" />
 
@@ -24,6 +30,7 @@ permalink: "/get-involved/challenge-badges/"
 
   This badge is full of programme links and is suitable for all sections from Rainbows to Trefoil Guild! Badges are £1.20 each and all profits are to fundraise 50/50 for Girlguiding and our Great Wall of China charity fundraising trek. <a href="/wp-content/uploads/2021/04/Let-The-Sun-Shine-Challenge-Badge.pdf" target="_blank" rel="noopener">Download Challenge Badge pack</a> which contains all of the activities, requirements and badge pre-order form.
   
+<div class="clearfix"></div>
   <h2 id="marathon">Marathon Challenge Badge</h2>
   The Walking Team is excited to announce a brand new Challenge badge to link in with the Olympics. Anyone can participate, <img class="wp-image-4024 alignright" src="/wp-content/uploads/2021/01/2021-Marathon-Challenge.jpg" alt="" width="167" height="166" />member or non-member, so families can go out and exercise together and everyone can have fun earning the badge.
 
