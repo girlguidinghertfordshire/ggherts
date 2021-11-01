@@ -17,6 +17,7 @@ author:
   display_name: GGH-Admin1
   first_name: ''
   last_name: ''
-lastmod: '2021-10-27T21:30:35.617Z'
+lastmod: '2021-11-01T20:32:29.200Z'
 ---
 
+Details for collection of orders will be provided by the depot manager.
