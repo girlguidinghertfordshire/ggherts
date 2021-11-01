@@ -22,8 +22,10 @@ author:
     display_name: null
     first_name: null
     last_name: null
-lastmod: '2021-08-24T17:23:16.490Z'
+lastmod: '2021-11-01T20:34:00.847Z'
 ---
+**FULLY BOOKED**
+
 Anglia Region event in the Peak District, with Hertfordshire trainers. 
 
 New blended format combining online learning with face-2-face outdoor training over the weekend, or you can just choose social walking in friendly groups. 
