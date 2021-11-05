@@ -11,7 +11,7 @@ author:
   first_name: Andrew
   last_name: Settle
 permalink: /get-involved/challenge-badges/
-lastmod: '2021-11-01T21:07:32.772Z'
+lastmod: '2021-11-05T22:55:11.377Z'
 ---
 ## Snow is Falling Challenge Badge
 ![](/assets/images/2021/11/SnowFalling-180.jpg){:class="pull-right"}{:width="180}{:height="174"}
@@ -75,7 +75,7 @@ This badge has been created to support 1st Baldock Brownies fundraising for Girl
 
   Contact: <a href="mailto:verity.guides@gmail.com" target="_blank" rel="noopener">verity.guides@gmail.com</a> for further information.
   <h2 id="flower">Flower Power Challenge Badge</h2>
-  <img class=" wp-image-4020 alignleft" src="/wp-content/uploads/2021/01/Flower-Power-Badge-300x297.jpg" alt="" width="169" height="168" />This badge was designed by 1st Baldock Brownies to support fundraising for the October 2021 Girlguiding Great Wall of China Trek (postponed from 2020)*.
+  <img class=" wp-image-4020 alignleft" src="/wp-content/uploads/2021/01/Flower-Power-Badge-300x297.jpg" alt="" width="169" height="168" />This badge was designed by 1st Baldock Brownies to support fundraising for the October 2022 Girlguiding Great Wall of China Trek (postponed from 2020)*.
 
   Download the <a href="/wp-content/uploads/2021/06/Flower-Power-Badge-pack-and-order-form.pdf">Flower Power activity pack and badge order form</a>. The activity pack has been updated to include virtual guiding ideas and an example virtual sleepover plan.
 
