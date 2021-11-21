@@ -24,7 +24,7 @@ author:
     display_name: Alison Tuch
     first_name: ''
     last_name: ''
-lastmod: '2021-09-27T19:32:35.472Z'
+lastmod: '2021-10-29T20:00:50.395Z'
 ---
 
 Anglia Region event with Hertfordshire trainers (Verity Maclachlan and Alison Tuch) **for those aged 16+** from Saturday, 4 - Sunday, 5 December 2021 at Ellesborough Guide Centre in Buckinghamshire. 
@@ -33,4 +33,4 @@ Do you lack the confidence to take your girls for a local walk, maybe in woodlan
 
 Cost: Thanks to funding from National HQ the cost will be **£20** (which includes all training, food and accommodation in bunk rooms!).
 
-Please register your interest with [walking@girlguidinghertfordshire.org.uk](mailto:walking@girlguidinghertfordshire.org.uk) but booking, once open, will be via the [Anglia Girlguiding website.](https://www.girlguiding-anglia.org.uk/events)
+To register your interest/book please email [walking@girlguidinghertfordshire.org.uk](mailto:walking@girlguidinghertfordshire.org.uk)

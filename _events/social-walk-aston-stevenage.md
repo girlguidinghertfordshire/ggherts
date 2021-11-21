@@ -1,6 +1,7 @@
 ---
 title: 'Social Walk - Aston, Stevenage'
 date: '2021-06-30 10:50:00'
+published: false
 event:
   start_date: '2021-09-18'
   end_date: ''
@@ -23,7 +24,7 @@ author:
   display_name: null
   first_name: null
   last_name: null
-lastmod: '2021-08-24T12:47:21.450Z'
+lastmod: '2021-10-04T12:07:05.233Z'
 ---
 Social walk for all adults, Young Leaders and Rangers on <strong>Saturday, 18 September</strong> starting at 10am from Aston, near Stevenage (8km), lasting approx. 2 hours with one stile. For those aged 14+. Map reading skills help available – please say if you want this when booking. **No charge.**
 

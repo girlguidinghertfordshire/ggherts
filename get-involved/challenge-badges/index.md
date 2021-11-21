@@ -1,19 +1,25 @@
 ---
 layout: page
 title: Challenge Badges
-date: 2021-02-15 22:25:36.000000000 +00:00
+date: 2021-02-15T22:25:36.000Z
 toc: get-involved
-description: 'New challenge badges for guiding units in Hertfordshire:
-    Let the Sun Shine, Marathon, Lifesaver, Flower Power and more.'
+description: 'New challenge badges for guiding units in Hertfordshire: Let the Sun Shine, Marathon, Lifesaver, Flower Power and more.'
 author:
   login: andrew
   email: andrew@settle.uk.com
   display_name: andrew
   first_name: Andrew
   last_name: Settle
-permalink: "/get-involved/challenge-badges/"
+permalink: /get-involved/challenge-badges/
+lastmod: '2021-11-14T14:33:15.528Z'
 ---
+## Snow is Falling Challenge Badge
+![](/assets/images/2021/11/SnowFalling-180.jpg){:class="pull-right"}{:width="180}{:height="174"}
+This badge has been created to support 1st Baldock Brownies fundraising for Girlguiding via a Discover Adventure Great Wall of China Trek.  There are 10 themed sections of this badge, each named after lyrics from a seasonal song.  The badge pack is full of colour coded programme links and there are activities for all sections.  Badges are £1.20 each plus postage.  Download the Challenge Badge Pack which contains all the activities, requirements and badge order form.
 
+[Snow is Falling Challenge Badge Pack <i class="fa fa-download"></i>](/assets/docs/challenge-badge-snow-is-falling.pdf){:class="btn-gg"}
+
+<div class="clearfix"></div>
 <h2>Raise West Hertfordshire NHS Trust Charity Badge</h2>
   <img class=" wp-image-4195 alignleft" src="/wp-content/uploads/2021/04/Raise-Challenge-Badge.png" alt="" width="187" height="182" />
 
@@ -24,6 +30,7 @@ permalink: "/get-involved/challenge-badges/"
 
   This badge is full of programme links and is suitable for all sections from Rainbows to Trefoil Guild! Badges are £1.20 each and all profits are to fundraise 50/50 for Girlguiding and our Great Wall of China charity fundraising trek. <a href="/wp-content/uploads/2021/04/Let-The-Sun-Shine-Challenge-Badge.pdf" target="_blank" rel="noopener">Download Challenge Badge pack</a> which contains all of the activities, requirements and badge pre-order form.
   
+<div class="clearfix"></div>
   <h2 id="marathon">Marathon Challenge Badge</h2>
   The Walking Team is excited to announce a brand new Challenge badge to link in with the Olympics. Anyone can participate, <img class="wp-image-4024 alignright" src="/wp-content/uploads/2021/01/2021-Marathon-Challenge.jpg" alt="" width="167" height="166" />member or non-member, so families can go out and exercise together and everyone can have fun earning the badge.
 
@@ -68,9 +75,9 @@ permalink: "/get-involved/challenge-badges/"
 
   Contact: <a href="mailto:verity.guides@gmail.com" target="_blank" rel="noopener">verity.guides@gmail.com</a> for further information.
   <h2 id="flower">Flower Power Challenge Badge</h2>
-  <img class=" wp-image-4020 alignleft" src="/wp-content/uploads/2021/01/Flower-Power-Badge-300x297.jpg" alt="" width="169" height="168" />This badge was designed by 1st Baldock Brownies to support fundraising for the October 2021 Girlguiding Great Wall of China Trek (postponed from 2020)*.
+  <img class=" wp-image-4020 alignleft" src="/wp-content/uploads/2021/01/Flower-Power-Badge-300x297.jpg" alt="" width="169" height="168" />This badge was designed by 1st Baldock Brownies to support fundraising for the October 2022 Girlguiding Great Wall of China Trek (postponed from 2020)*.
 
-  Download the <a href="/wp-content/uploads/2021/06/Flower-Power-Badge-pack-and-order-form.pdf">Flower Power activity pack and badge order form</a>. The activity pack has been updated to include virtual guiding ideas and an example virtual sleepover plan.
+  Download the <a href="/assets/docs/challenge-badge-flower-power-pack.pdf">Flower Power activity pack and badge order form</a>. The activity pack has been updated to include virtual guiding ideas and an example virtual sleepover plan.
 
   *<em>In the event of further postponement or cancellation of the trek, funds from badges sold will go towards a future trek with Girlguiding or be used for activities within the unit</em>.
   <h2 id="racismawareness">Racism Awareness Challenge Badge</h2>

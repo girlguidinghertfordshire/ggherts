@@ -1,27 +1,29 @@
 ---
 title: 1st Response Course
 date: '2021-07-20 22:03'
+published: false
 event:
   start_date: '2021-10-02'
   end_date: ''
   address: Hemel Hempstead
   contact_name: Lynne Kirby
-  contact_email: 
+  contact_email: null
   contact_number: ''
   book_now_link: 'https://www.eventbrite.co.uk/e/girlguiding-hertfordshire-1st-response-course-tickets-163756196191'
-  image: '/wp-content/uploads/2016/07/IMG_5900-360x273.jpg'
-  type: 
+  image: /wp-content/uploads/2016/07/IMG_5900-360x273.jpg
+  type:
     - First Response
-  age-group: 
+  age-group:
     - Leader
-  location: 
-    - Hertfordshire, West
+  location:
+    - 'Hertfordshire, West'
 author:
-  email: 
-  display_name: 
-  first_name: 
-  last_name: 
+  email: null
+  display_name: null
+  first_name: null
+  last_name: null
 permalink: /event/1st-response-course-2-oct-21
+lastmod: '2021-10-04T12:05:00.210Z'
 ---
 This 1st Response course on Saturday, 2 October 2021 from 10am - 4pm in Hemel Hempstead is for leaders and Leaders in Training.
 

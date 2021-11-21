@@ -1,14 +1,16 @@
 ---
 title: Gill Logan
-date: 2016-04-04 17:05:36.000000000 +01:00
+date: 2016-04-04T16:05:36.000Z
+published: false
 order: 15
 job_title: Special Needs Adviser
 person_intro: Supports members regarding adults and girls who have special and complex needs.
-email: 'Inclusions@girlguidinghertfordshire.org.uk'
+email: Inclusions@girlguidinghertfordshire.org.uk
 image: /wp-content/uploads/2016/04/GLogan.jpg
 thumbnail: /wp-content/uploads/2016/04/GLogan-360x243.jpg
 author:
   display_name: GGH-Admin1
+lastmod: '2021-10-27T21:14:18.531Z'
 ---
 I started guiding in 1955 on the Isle of Anglesey in a completely Welsh unit - the only English resource was an Our Chalet song book. In 1962 I became Unit Guider of 1st Amlwch Brownies, and in 1975 Unit Guider of 6th Welwyn Garden City Brownies.
     

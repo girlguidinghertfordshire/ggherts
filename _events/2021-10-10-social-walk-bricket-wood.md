@@ -2,6 +2,7 @@
 layout: event
 title: 'Social Walk from Moor Mill, Bricket Wood'
 date: 2021-08-24T12:34:00.000Z
+published: false
 event:
     start_date: '2021-10-10'
     end_date: ''

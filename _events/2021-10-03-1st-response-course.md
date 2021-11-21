@@ -1,6 +1,7 @@
 ---
 title: 1st Response Course
 date: '2021-07-20 22:03'
+published: false
 event:
   start_date: '2021-10-03'
   end_date: ''

@@ -9,16 +9,19 @@ author:
   display_name: Rachel Kemp
   first_name: Rachel
   last_name: Kemp
-lastmod: '2021-10-01T20:48:07.963Z'
+lastmod: '2021-11-21T12:05:43.063Z'
 ---
 Welcome to the new Youth Opportunities webpage which we hope will support and assist leaders, 13+ Guides, Rangers and Young Leaders.  The newly formed county Youth Opportunities Team are here to support YOU and have created a new newsletter providing information and articles from all the advisers within this team and their plans and current opportunities.
-<h4><a href="/wp-content/uploads/2021/04/g-ops-newsletter-April-2021.pdf" target="_blank" rel="noopener">*LATEST* Youth Opportunities Team April 2021 Newsletter</a></h4>
-<a href="/wp-content/uploads/2021/04/g-ops-newsletter-3.pdf" target="_blank" rel="noopener">Youth Opportunities Team February 2021 Newsletter</a>
 
-<a href="/wp-content/uploads/2021/04/Youth-Opportunities-Team-October-2020-Newsletter.pdf" target="_blank" rel="noopener">Youth Opportunities Team October 2020 Newsletter</a>
+## Youth opportunities newsletters
 
-<a href="/wp-content/uploads/2021/04/g-ops-newsletter-May-20-.pdf" target="_blank" rel="noopener">Youth Opportunities Team May 2020 Newsletter</a>
+- [**LATEST** September 2021 <i class="fa fa-file-pdf-o"></i>](/assets/docs/youth-ops-september-2021-newsletter.pdf){:target="_blank"}{:rel="noopener noreferrer"}{:class="lead"}
+- <a href="/wp-content/uploads/2021/04/g-ops-newsletter-April-2021.pdf" target="_blank" rel="noopener">April 2021 Newsletter <i class="fa fa-file-pdf-o"></i></a>
+- <a href="/wp-content/uploads/2021/04/g-ops-newsletter-3.pdf" target="_blank" rel="noopener">February 2021 Newsletter <i class="fa fa-file-pdf-o"></i></a>
+- <a href="/wp-content/uploads/2021/04/Youth-Opportunities-Team-October-2020-Newsletter.pdf" target="_blank" rel="noopener">October 2020 Newsletter <i class="fa fa-file-pdf-o"></i></a>
+- <a href="/wp-content/uploads/2021/04/g-ops-newsletter-May-20-.pdf" target="_blank" rel="noopener">May 2020 Newsletter <i class="fa fa-file-pdf-o"></i></a>
 
+## Events
 Watch out here, for further information of events aimed specifically at this age group which we will put out there as soon as we are allowed to meet up safely again.
 
 Young Leaders can also find information on the <a href="https://www.girlguiding-anglia.org.uk/young-leader-opportunities" target="_blank" rel="noopener">Girlguiding Anglia's website</a> about various opportunities available.

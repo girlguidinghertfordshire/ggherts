@@ -1,6 +1,7 @@
 ---
 title: Leaders selection for 25th World Scout Jamboree 2023
 date: '2021-09-17T07:08:43.030Z'
+published: false
 event:
     start_date: '2021-10-23'
     end_date: '2021-10-24'
@@ -9,7 +10,7 @@ event:
     contact_email: international@girlguidinghertfordshire.org.uk
     contact_number: ''
     book_now_link: ''
-    image: '/assets/images/2021/09/25wsj-korea-350.png'
+    image: /assets/images/2021/09/25wsj-korea-350.png
     type:
         - Selection day
     age-group:
@@ -21,7 +22,7 @@ author:
     display_name: null
     first_name: null
     last_name: null
-lastmod: '2021-09-17T07:14:45.149Z'
+lastmod: '2021-10-22T16:38:16.589Z'
 ---
 
 The search is on to find the 12 Hertfordshire leaders who will be taking 108 Explorer Scouts and Guides from all around the County to the 25th WSJ in South Korea in 2023.
