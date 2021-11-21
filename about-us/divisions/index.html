@@ -95,6 +95,7 @@ advertId: get-involved
                    }
                 }
                 function kmlClick(pm) {
+                  console.log(pm);
                    if (geoXml.docs[0].placemarks[pm].marker.getMap()) {
                       google.maps.event.trigger(geoXml.docs[0].placemarks[pm].marker,"click");
                    } else {
@@ -249,7 +250,7 @@ advertId: get-involved
 
                 function makeSidebar() {
                   //sidebarHtml = '<table><tr><td><a href="javascript:showAll();">Show All</a></td></tr>';
-                  sidebarHtml = '<h3>Areas</h3>';
+                  sidebarHtml = '<h2>Divisions</h2>';
                   sidebarHtml += '<table>';
                   var currentBounds = map.getBounds();
                     // if bounds not yet available, just use the empty bounds object;
