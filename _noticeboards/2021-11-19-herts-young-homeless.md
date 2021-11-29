@@ -1,6 +1,7 @@
 ---
 title: Herts Young Homeless Annual Sleepout Event
 date: '2021-10-23T20:52:49.596Z'
+published: false
 image: /assets/images/2021/10/hertsyounghomeless.png
 categories:
     - Notice
@@ -9,7 +10,7 @@ author:
     display_name: null
     first_name: null
     last_name: null
-lastmod: '2021-10-23T20:54:49.455Z'
+lastmod: '2021-11-29T20:25:25.383Z'
 ---
 
 Our annual sleepout event will be held on Friday, 19 November at Oaklands College.  It is our BIGGEST fundraising event and this year we have an ambitious target to reach - £30,000 
