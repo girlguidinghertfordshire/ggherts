@@ -2,6 +2,7 @@
 title: NSGSO and NSGCB 2022 Course - APPLICATIONS OPEN
 date: '2021-10-23T20:25:21.193Z'
 image: /assets/images/2021/10/nsgso-300.jpg
+published: false
 categories:
     - Notice
 tags: []
@@ -9,7 +10,7 @@ author:
     display_name: null
     first_name: null
     last_name: null
-lastmod: '2021-10-23T20:41:04.007Z'
+lastmod: '2021-11-29T20:43:39.216Z'
 ---
 We are very pleased to be able to announce that applications for the 2022 NSGSO and NSGCB course are now open.  We are accepting applications for **both** the Symphony Orchestra and the Concert Band.  This year we are particularly searching for **harpists** to join the Symphony Orchestra.
 
