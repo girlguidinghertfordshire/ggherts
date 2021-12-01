@@ -2,7 +2,7 @@
 title: Social Walk from Wheathampstead to Batford Springs
 date: 2021-08-24T17:24:51.193Z
 event:
-    start_date: 2021-12-12
+    start_date: 2021-12-12T00:00:00.000Z
     end_date: ''
     address: Wheathampstead
     contact_name: Alison Tuch
@@ -15,7 +15,7 @@ event:
     age-group:
         - Adults
         - Young Leader
-        - Ranger
+        - Rangers
     location:
         - 'Hertfordshire, Harpenden & Redbourn'
 author:
@@ -23,9 +23,9 @@ author:
     display_name: Andrew Settle
     first_name: null
     last_name: null
-lastmod: '2021-09-02T18:37:01.807Z'
+lastmod: '2021-12-01T21:45:08.427Z'
 ---
-A social walk from Wheathampstead to Batford Springs plus optional Christmas meal at [The Bull, Wheathampstead](https://www.millerandcarter.co.uk/restaurants/east-of-england/millerandcarterwheathampstead/festivemenu).
+All adults, with a role in Girlguiding, plus friends, are welcome on this 3 hour plus social walk from Wheathampstead to Batford Springs, followed by an optional Christmas meal at [Miller and Carter, Wheathampstead.](https://www.millerandcarter.co.uk/restaurants/east-of-england/millerandcarterwheathampstead/festivemenu).
 
 - 5.8mi or 9km, 2.5 to 3 hour guided walk, **no charge**. 
 - Lunch at own expense, _must be pre-booked._
