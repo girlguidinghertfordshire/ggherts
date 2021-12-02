@@ -12,6 +12,7 @@ event:
     image: '/assets/images/2021/12/dofe_expedition_training.jpg'
     type: 
     - Training
+    - Residential/Camp
     age-group: 
     - Guides
     - Rangers

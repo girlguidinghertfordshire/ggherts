@@ -23,11 +23,13 @@ author:
     display_name: Andrew Settle
     first_name: null
     last_name: null
-lastmod: '2021-12-01T21:45:08.427Z'
+lastmod: '2021-12-02T20:16:30.873Z'
 ---
-All adults, with a role in Girlguiding, plus friends, are welcome on this 3 hour plus social walk from Wheathampstead to Batford Springs, followed by an optional Christmas meal at [Miller and Carter, Wheathampstead.](https://www.millerandcarter.co.uk/restaurants/east-of-england/millerandcarterwheathampstead/festivemenu).
+All adults, with a role in Girlguiding, plus friends, are welcome on this 3 hour plus social walk from Wheathampstead to Batford Springs, followed by an optional Christmas meal at [Miller and Carter, Wheathampstead.](https://www.millerandcarter.co.uk/restaurants/east-of-england/millerandcarterwheathampstead/festivemenu)
 
-- 5.8mi or 9km, 2.5 to 3 hour guided walk, **no charge**. 
+- Time: 9.30am - 12:45pm
+- Distance: 5.8mi or 9km
+- Walk: **no charge**
 - Lunch at own expense, _must be pre-booked._
 
 To book a place please email: <a href="mailto:walking@girlguidinghertfordshire.org.uk">walking@girlguidinghertfordshire.org.uk</a>.
