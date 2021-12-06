@@ -3,7 +3,7 @@ layout: page
 title: Billboard
 date: '2021-09-07T19:51:13.187Z'
 toc: news
-lastmod: '2021-11-05T22:58:19.915Z'
+lastmod: '2021-12-06T22:29:36.652Z'
 ---
 
 _Billboard_ is sent to all Girlguiding Hertforshire Members who have set their communication preferences on _GO_ to subscribe to marketing.
@@ -33,6 +33,6 @@ Recent editions:
 
 ## Make a submission
 
-To feature in the Girlguiding Hertfordshire monthly newsletter, sent to all county members opted into receiving marketing messages, please complete this form and email it to: [countysec@girlguidinghertfordshire.org.uk](mailto:countysec@girlguidinghertfordshire.org.uk)
+To feature in the Girlguiding Hertfordshire monthly newsletter, sent to all county members opted into receiving marketing messages, please complete this [online form  <i class="fa fa-external-link"></i>](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJUMENVSEM5TEFGQUNVQ1BERklIT0ozUzcwMi4u){:target="_blank"}{:rel="noopener noreferrer"}.  Should you be unable to complete the form please contact <countysec@girlguidinghertfordshire.org.uk> for a Word version of the document.
 
-<a class="btn-gg" href="/assets/docs/newsletter-article-submission-form.docx"><i class="fa fa-download"></i> Article Submission Form</a>
+<a class="btn-gg" href="https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJUMENVSEM5TEFGQUNVQ1BERklIT0ozUzcwMi4u" target="_blank" rel="noopener noreferrer">Article Submission Form <i class="fa fa-external-link"></i></a>

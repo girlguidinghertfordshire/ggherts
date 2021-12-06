@@ -17,13 +17,13 @@ event:
         - Young Leaders
         - Rangers
     location:
-        - 'Herfordshire, St Albans'
+        - Herfordshire
 author:
     email: null
     display_name: null
     first_name: null
     last_name: null
-lastmod: '2021-12-01T22:02:37.693Z'
+lastmod: '2021-12-06T22:13:39.561Z'
 ---
 
  Adults, Young Leaders & Rangers are welcome to join the Walking Team on a social walk from Debden Green, near Saffron Walden, starting at 10.30am on Sunday 6th February until approximately 12:30pm
