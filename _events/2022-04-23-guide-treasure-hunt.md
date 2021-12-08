@@ -4,7 +4,7 @@ date: '2021-12-01T20:39:12.359Z'
 event:
     start_date: '2022-04-23'
     end_date: ''
-    address: 'Leeswood Activity Centre, Chandlers Cross, Hertfordshire'
+    address: 'Chandlers Cross, Hertfordshire'
     contact_name: null
     contact_email: outdoor@girlguidinghertfordshire.org.uk
     contact_number: ''
@@ -21,9 +21,9 @@ author:
     display_name: null
     first_name: null
     last_name: null
-lastmod: '2021-12-01T20:51:36.609Z'
+lastmod: '2021-12-08T22:45:44.305Z'
 ---
-This treasure hunt for Guides is taking place on Saturday, 23 April 2022 at Leeswood Activity Centre, Chandlers Cross, Hertfordshire, from 10am – 4pm. 
+This treasure hunt for Guides is taking place on Saturday, 23 April 2022 at Chandlers Cross, Hertfordshire, from 10am – 4pm. 
 
 A day of fun whilst completing the Explore Skills Builder Level 3 and an additional Challenge badge. 
 

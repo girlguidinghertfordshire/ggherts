@@ -9,7 +9,7 @@ event:
     contact_email: walking@girlguidinghertfordshire.co.uk
     contact_number: ''
     book_now_link: ''
-    image: /assets/images/2021/11/outdoor_first_aid.jpg
+    image: /assets/images/2021/11/outdoor_first_aid360.jpg
     type:
         - First Response
         - Training

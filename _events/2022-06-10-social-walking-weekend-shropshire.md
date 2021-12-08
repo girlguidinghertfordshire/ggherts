@@ -4,8 +4,8 @@ date: '2021-12-02T20:35:29.694Z'
 event:
     start_date: '2022-06-10'
     end_date: '2022-06-12'
-    address: Bridges Long Mynd YHA near Church Stretton
-    contact_name: Verity Maclachlan 
+    address: null
+    contact_name: Verity Maclachlan
     contact_email: walking@girlguiding-Anglia.org.uk
     contact_number: ''
     book_now_link: ''
@@ -23,7 +23,7 @@ author:
     display_name: null
     first_name: null
     last_name: null
-lastmod: '2021-12-02T20:48:26.577Z'
+lastmod: '2021-12-08T22:49:02.827Z'
 ---
 
 Adult and Ranger social walking weekend in the gentle Shropshire Hills for those new to hillwalking up to Level 2 of the walking scheme. You choose; walk miles for Logbook walks or have a relaxing weekend in beautiful surroundings.
@@ -32,7 +32,7 @@ Adult and Ranger social walking weekend in the gentle Shropshire Hills for those
 
 From the afternoon of Friday, 10th June until the afternoon of Sunday, 12th June. 
 
-Address details: TBC - Bridges Long Mynd YHA near Church Stretton or Rangers camp Brow Farm near by Bridges Long Mynd YHA near Church Stretton
+Address details: TBC 
 
 Booking will be through Eventbrite via Anglia website (likely to be open early next year)
 

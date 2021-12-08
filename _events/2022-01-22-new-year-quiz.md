@@ -9,7 +9,7 @@ event:
     contact_email: events@girlguidinghertfordshire.org.uk
     contact_number: ''
     book_now_link: ''
-    image: /assets/images/2021/11/new-year-quiz-360.png
+    image: /assets/images/2021/11/new-year-quiz-360sm.png
     type:
         - Social
     age-group:
@@ -21,7 +21,7 @@ author:
     display_name: null
     first_name: null
     last_name: null
-lastmod: '2021-11-01T21:51:07.569Z'
+lastmod: '2021-12-08T22:13:50.041Z'
 ---
 
 <div class="hidden-xs">
