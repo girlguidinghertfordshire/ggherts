@@ -4,7 +4,7 @@ date: '2021-11-29T20:37:02.307Z'
 event:
     start_date: '2022-10-23'
     end_date: ''
-    address: 'St. Albans, Herts, AL3 6DR'
+    address: null
     contact_name: null
     contact_email: null
     contact_number: ''
@@ -24,10 +24,10 @@ author:
     display_name: null
     first_name: null
     last_name: null
-lastmod: '2021-12-08T22:50:19.326Z'
+lastmod: '2021-12-08T23:06:26.709Z'
 ---
 
-This event will be taking place on 23rd October 2022 at  St. Albans, Herts, AL3 6DR. 
+This event will be taking place on 23rd October 2022 in St. Albans. 
 Open to all sections.
 
 Further details and booking form to follow. 

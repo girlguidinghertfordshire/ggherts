@@ -25,7 +25,7 @@ author:
 permalink: /event/1st-response-course-29-jan-22
 lastmod: '2021-12-08T22:43:13.108Z'
 ---
-This 1st Response course takes place on Saturday, 29 January 2022 in Hemel Hempstead, HP2 4SA from **10am - 4pm.**  The course is open to all Guiding personnel.
+This 1st Response course takes place on Saturday, 29 January 2022 in Hemel Hempstead from **10am - 4pm.**  The course is open to all Guiding personnel.
 
 Contact Lynne Kirby to book: [lynnekirby1@googlemail.com](mailto:lynnekirby1@googlemail.com)
 

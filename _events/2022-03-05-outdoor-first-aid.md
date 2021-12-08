@@ -25,10 +25,10 @@ author:
     display_name: null
     first_name: null
     last_name: null
-lastmod: '2021-12-01T21:13:24.256Z'
+lastmod: '2021-12-08T23:04:30.589Z'
 ---
 
-This course is taking place on Saturday, 5 March and Sunday, 6th March 2022 at the Scout Hut in Little Gaddesden, Hertfordshire
+This course is taking place on Saturday, 5 March and Sunday, 6th March 2022 in Little Gaddesden, Hertfordshire
 
 Emphasis will be on learning outside where possible with all scenarios on the hill or in woodland. 
  

@@ -26,7 +26,7 @@ author:
 lastmod: '2021-12-08T22:41:51.258Z'
 ---
 
-This course is taking place from 10am Saturday, 29th January until 4pm Sunday, 30th January near St Albans, Herts AL4 0QH.
+This course is taking place from 10am Saturday, 29th January until 4pm Sunday, 30th January near St Albans.
 
 Girlguiding Hertfordshire offers the DofE award scheme for all those interested. Guides can start Bronze DofE from the beginning of Year 9. 
 
