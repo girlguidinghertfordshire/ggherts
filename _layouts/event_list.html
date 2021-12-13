@@ -9,7 +9,12 @@ layout: default
             <div class="breadcrumb">
                 <ul>
                     <li class="item-home"><a class="bread-link bread-home" href="/" title="Home">Home</a></li>
-                    <li class="item-current item-189 active">Events</li>
+                    {% if page.age %}
+                    <li class=""><a class="bread-link" href="/events/" title="Events">Events</a></li>
+                    <li class="item-current active">{{ page.age }}</li>
+                    {% else %}
+                    <li class="item-current active">Events</li>
+                    {% endif %}
                 </ul>
             </div>
         </div>
@@ -19,10 +24,26 @@ layout: default
     <div class="row">
         <div class="col-sm-8 col-md-8 col-md-offset-1 pull-right">
             <div>
-                <h1>Upcoming events</h1>
+                <h1>Upcoming events {% if page.age %}for {% if page.age=="Rangers" %}Rangers and Young Leaders{% elsif page.age=="Adults"%}Adults, Leaders and Trefoil{% else %}{{ page.age }}{% endif %}{% endif %}</h1>
                 <div class="eventshop-list">
                     <div class="row">
-                        {% assign events = site.events | sort: "event.start_date" %}
+                        {% if page.age == "Rainbows" %}
+                            {% assign eventlist = site.events | where: "event.age-group","Rainbows" %}
+                        {% elsif page.age == "Brownies" %}
+                            {% assign eventlist = site.events | where: "event.age-group","Brownies" %}
+                        {% elsif page.age == "Guides" %}
+                            {% assign eventlist = site.events | where: "event.age-group","Guides" %}
+                        {% elsif page.age == "Rangers" %}
+                            {% assign eventlist = site.events | where: "event.age-group","Rangers" | where: "event.age-group","Young Leaders" %}
+                            {% assign eventlist = site.events | where: "event.age-group","Young Leaders" | concat: eventlist | uniq %}
+                        {% elsif page.age == "Adults" %}
+                            {% assign eventlist = site.events | where: "event.age-group","Adults" %}
+                            {% assign eventlist = site.events | where: "event.age-group","Leaders" | concat: eventlist | uniq %}
+                            {% assign eventlist = site.events | where: "event.age-group","Trefoil" | concat: eventlist | uniq %}
+                        {% else %}
+                            {% assign eventlist = site.events %}
+                        {% endif %}
+                        {% assign events = eventlist | sort: "event.start_date" %}
                         {% assign today = 'now' | date: '%s' | plus: 0 %}
                         {% for event in events %}
                             {% assign startDate = event.event.start_date | date: '%s' | plus: 0 %}                             
@@ -64,7 +85,7 @@ layout: default
         {% assign all_types= '' | split: '' %}
         {% assign all_ages = '' | split: '' %}
         {% assign all_locations = '' | split: '' %}
-        {% for event in site.events %}
+        {% for event in eventlist %}
             
         {% assign startDate = event.event.start_date | date: '%s' | plus: 0 %}                             
         {% if startDate> today %}
