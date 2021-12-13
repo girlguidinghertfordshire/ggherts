@@ -2,6 +2,7 @@
 title: Want to help your Guiding community?
 date: '2021-12-01T20:59:26.699Z'
 image: /assets/images/2021/12/activity_day_volunteers_360.jpg
+published: false
 categories:
     - Notice
 tags: []
@@ -9,7 +10,7 @@ author:
     display_name: The County Office
     first_name: null
     last_name: null
-lastmod: '2021-12-01T21:07:13.646Z'
+lastmod: '2021-12-13T20:14:57.511Z'
 ---
 <div class="hidden-xs">
 <img srcset="/assets/images/2021/12/activity_day_volunteers_360.jpg 360w, /assets/images/2021/12/activity_day_volunteers.jpg 640w" sizes="(max-width: 1023px) 360px, 640px" src="/assets/images/2021/12/activity_day_volunteers.jpg">

@@ -11,10 +11,18 @@ author:
   first_name: ''
   last_name: ''
 permalink: /get-involved/vacancies/
-lastmod: '2021-11-01T21:14:06.286Z'
+lastmod: '2021-12-13T20:12:07.374Z'
 ---
 <h2>Current Volunteer Vacancies</h2>
 We have a fantastic team of volunteers who look to the County Team for guidance, support and vision. As part of this County Team structure we are looking for new advisers to help the County to move forward and be the best that we can be.  All members of the team need to fully embrace the programme and spread passion and enthusiasm for guiding.
+
+### Want to help your Guiding community?
+![](/assets/images/2021/12/activity_day_volunteers_250.jpg){:class="pull-left"}{:width="280"}{:height="207"}{:style="padding:15px"}
+Are you free to help make our County Activity Day, taking place on Saturday, 23 April 2022 from 9.30am - 4.30pm, a success for the Rainbows, Brownies and Guides who will be attending?
+
+Volunteers aged 16+ and members of the Trefoil Guild are sought to help with set up and take down, manning bases, running activities, and undertaking administrative duties in the lead up to the event.
+
+If you are interested in any of the above roles or would like to assist the team with planning, please contact <Outdoor@girlguidinghertfordshire.org.uk> to express your interest and availability.
 
 ### Challenge Badge Team
 ![](/assets/images/2021/11/challenge-team.png){:class="pull-right"}{:width="250"}{:height="210"}
