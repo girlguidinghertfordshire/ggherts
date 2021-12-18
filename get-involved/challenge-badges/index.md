@@ -11,8 +11,16 @@ author:
   first_name: Andrew
   last_name: Settle
 permalink: /get-involved/challenge-badges/
-lastmod: '2021-11-14T14:33:15.528Z'
+lastmod: '2021-12-18T23:15:33.010Z'
 ---
+## Book Challenge Badge
+![](/assets/images/2021/12/challenge_badges_book.jpg){:class="pull-left"}{:width="180}{:height="165"}{:style="margin:10px;"}
+The Book Badge Team have been busy creating a badge for everyone to take part in! This challenge badge is open to all ages and abilities - whether you are a book lover or looking for an opportunity to get back into reading. This is an ongoing badge and with 4 different colours to earn you can do this badge again and again throughout your time in guiding.
+
+Badges cost £1 each plus postage and packaging. Download the challenge badge pack to find out more about the requirements and activities.
+
+[Download Challenge Pack <i class="fa fa-download"></i>](/assets/docs/challenge-badge-book-pack.pdf){:class="btn-gg"} [Order form <i class="fa fa-external-link"></i>](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwRrqs7bdo19CnIwI_9Lov51URUpKNTNISEZFWVpCVVlXRUo5NEg0MlFQRC4u){:class="btn-gg"}{:target="blank"}{:rel="noopener noreferrer"}
+
 ## Snow is Falling Challenge Badge
 ![](/assets/images/2021/11/SnowFalling-180.jpg){:class="pull-right"}{:width="180}{:height="174"}
 This badge has been created to support 1st Baldock Brownies fundraising for Girlguiding via a Discover Adventure Great Wall of China Trek.  There are 10 themed sections of this badge, each named after lyrics from a seasonal song.  The badge pack is full of colour coded programme links and there are activities for all sections.  Badges are £1.20 each plus postage.  Download the Challenge Badge Pack which contains all the activities, requirements and badge order form.

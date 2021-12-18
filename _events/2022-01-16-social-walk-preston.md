@@ -17,7 +17,7 @@ event:
     - Young Leaders
     - Rangers
     location: 
-    - Herfordshire, North
+    - Hertfordshire, North
 author:
     email: null
     display_name: null

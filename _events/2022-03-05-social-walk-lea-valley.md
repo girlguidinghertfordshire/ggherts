@@ -17,7 +17,7 @@ event:
         - Young Leaders
         - Rangers
     location:
-        - 'Herfordshire, St Albans'
+        - 'Hertfordshire, St Albans'
 author:
     email: null
     display_name: null

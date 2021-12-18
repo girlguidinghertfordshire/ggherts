@@ -1,0 +1,52 @@
+---
+---
+{
+"events" :[
+    {% assign eventlist = site.events | sort: "event.start_date" %}    
+    {% assign today = 'now' | date: '%s' | plus: 0 %}
+    {% for event in eventlist %}
+    {% assign startDate = event.event.start_date | date: '%s' | plus: 0 %}                             
+        {% if startDate> today %}{
+        "title": "{{ event.title }}",
+        "image": "{{ event.event.image }}",
+        "start_date": "{{ event.event.start_date }}",
+        "end_date": "{{ event.event.end_date}}",
+        "location": ["{{ event.event.location | join: '","' }}"],
+        "age_group": ["{{ event.event.age-group | join: '","' }}"],
+        "type":["{{ event.event.type | join: '","'}}"],
+        "url": "{{ event.url }}"
+    }{% unless forloop.last %},{% endunless %}{% endif %}
+    {% endfor %}
+], {% assign all_types= '' | split: '' %}
+{% assign all_ages = '' | split: '' %}
+{% assign all_locations = '' | split: '' %}
+{% for event in eventlist %}    
+{% assign startDate = event.event.start_date | date: '%s' | plus: 0 %}                             
+{% if startDate> today %}
+    {% for t in event.event.type %}
+        {% if all_types contains t %}
+        {% else %}
+            {% assign tName = t | split: '_' %}
+            {% assign all_types = all_types | concat: tName %}
+        {% endif %}
+    {% endfor %}
+    {% for a in event.event.age-group %}
+        {% if all_ages contains a %}
+        {% else %}
+            {% assign aName = a | split: '_' %}
+            {% assign all_ages = all_ages | concat: aName %}
+        {% endif %}
+    {% endfor %}
+    {% for l in event.event.location %}
+        {% if all_locations contains l %}
+        {% else %}
+            {% assign lName = l | split: '_' %}
+            {% assign all_locations = all_locations | concat: lName %}
+        {% endif %}
+    {% endfor %}
+    {% endif %}
+{% endfor %}
+"ages": ["{{ all_ages | sort | join: '","' }}"],
+"locations": ["{{ all_locations | sort | join: '","' }}"],
+"types": ["{{ all_types | sort | join: '","' }}"]
+}
