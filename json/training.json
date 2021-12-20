@@ -1,14 +1,12 @@
 ---
 ---
-{% assign eventlist = site.events | sort: "event.start_date" %}    
-{% assign today = 'now' | date: '%s' | plus: 0 %}
-{% assign ctr = 0 %}
 {
 "events" :[
+    {% assign eventlist = site.events | where: "event.type","Training" | sort: "event.start_date" %}    
+    {% assign today = 'now' | date: '%s' | plus: 0 %}
     {% for event in eventlist %}
-    {% unless event.event.type contains 'Training' %}
     {% assign startDate = event.event.start_date | date: '%s' | plus: 0 %}                             
-        {% if startDate> today %}{% assign ctr = ctr | plus: 1  %}{% unless ctr==1 %},{% endunless %}{
+        {% if startDate> today and event.event.type contains 'Training' %}{
         "title": "{{ event.title }}",
         "image": "{{ event.event.image }}",
         "start_date": "{{ event.event.start_date }}",
@@ -17,15 +15,14 @@
         "age_group": ["{{ event.event.age-group | join: '","' }}"],
         "type":["{{ event.event.type | join: '","'}}"],
         "url": "{{ event.url }}"
-    }{% endif %}
-    {% endunless %}
+    }{% unless forloop.last %},{% endunless %}{% endif %}
     {% endfor %}
 ], {% assign all_types= '' | split: '' %}
 {% assign all_ages = '' | split: '' %}
 {% assign all_locations = '' | split: '' %}
 {% for event in eventlist %}    
 {% assign startDate = event.event.start_date | date: '%s' | plus: 0 %}                             
-{% if startDate> today %}{% unless event.event.type contains 'Training' %}
+{% if startDate> today and event.event.type contains 'Training' %}
     {% for t in event.event.type %}
         {% if all_types contains t %}
         {% else %}
@@ -47,7 +44,7 @@
             {% assign all_locations = all_locations | concat: lName %}
         {% endif %}
     {% endfor %}
-    {% endunless %}{% endif %}
+    {% endif %}
 {% endfor %}
 "ages": ["{{ all_ages | sort | join: '","' }}"],
 "locations": ["{{ all_locations | sort | join: '","' }}"],
