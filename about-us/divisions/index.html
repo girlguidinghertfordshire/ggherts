@@ -5,10 +5,8 @@ division_map: true
 toc: about-us
 advertId: get-involved
 ---
-<p>Girlguiding Hertfordshire is divided into 9 Divisions. Each Division consists of many Districts, which support local units and events.</p>
+<p>Girlguiding Hertfordshire is divided into 10 divisions.  Each one, with the exception of the Flexible division which covers the whole county, contains many districts, which support local units and events.  You can contact your local division commissioner via the email links below</p>
 <script type="text/javascript">
-                    
-                    
                     var geoXml = null;
                     var geoXmlDoc = null;
                     var map = null;
@@ -18,7 +16,7 @@ advertId: get-involved
                     var infowindow = null;
                     var kmlLayer = null;
                     var defaultElement = 3;
-                    var filename = "/wp-content/themes/girl-guiding/js/maps_regions.kml";
+                    var filename = "/wp-content/themes/girl-guiding/js/maps_regions.kml?v=2";
                     var geocoder = new google.maps.Geocoder();
                     function MapTypeId2UrlValue(maptype) {
                         var urlValue = 'm';
@@ -128,14 +126,14 @@ advertId: get-involved
                 var highlightOptions = {fillColor: "#D67CB3", strokeColor: "#D67CB3", fillOpacity: 0.8, strokeWidth: 10};
                 var highlightLineOptions = {fillColor: "#D67CB3", strokeColor: "#D67CB3", strokeWidth: 10, fillOpacity: 0.8};
                 function kmlHighlightPoly(pm) {
-                    console.log('kmlHighlightPoly');
+                    console.log('kmlHighlightPoly'+pm);
                    for (var i=0;i<geoXmlDoc.placemarks.length;i++) {
                      var placemark = geoXmlDoc.placemarks[i];
                      var name = geoXmlDoc.placemarks[i].name;
                      if (i == pm) {
                          defaultElement = pm;
                        jQuery('.area-content-'+i).css('display','block');
-                       jQuery('#row'+i).css('font-weight','bold');
+                       jQuery('#row'+i).addClass("selected");
                        if (placemark.polygon) placemark.polygon.setOptions(highlightOptions);
                        if (placemark.polyline) placemark.polyline.setOptions(highlightLineOptions);
                        if (geoXmlDoc.placemarks[i].polygon.getMap()) {
@@ -149,7 +147,7 @@ advertId: get-involved
                        if (placemark.polygon) placemark.polygon.setOptions(placemark.polygon.normalStyle);
                        if (placemark.polyline) placemark.polyline.setOptions(placemark.polyline.normalStyle);
                        jQuery('.area-content-'+i).css('display','none');
-                       jQuery('#row'+i).css('font-weight','');
+                       jQuery('#row'+i).removeClass("selected");
                      }
                    }
                 }
@@ -187,7 +185,7 @@ advertId: get-involved
                        setTimeout(function(){
                              jQuery('#sidebar table td').removeAttr('style');      
                              jQuery('.area-content-'+polynum).css('display','block');
-                             jQuery('#row'+polynum).css('font-weight','bold');      
+                             jQuery('#row'+polynum).addClass("selected");      
                          },200);
                          
                        if (placemark.polygon) placemark.polygon.setOptions(highlightOptions);
@@ -197,7 +195,7 @@ advertId: get-involved
                        if (placemark.polygon) placemark.polygon.setOptions(placemark.polygon.normalStyle);
                        if (placemark.polyline) placemark.polyline.setOptions(placemark.polyline.normalStyle);
                        jQuery('.area-content-'+i).css('display','none');
-                       jQuery('#row'+i).css('font-weight','');
+                       jQuery('#row'+i).removeClass("selected");
                      }
                    }
                   });
@@ -220,16 +218,13 @@ advertId: get-involved
                 // == rebuilds the sidebar to match the markers currently displayed ==
                 function makeSidebarPolygonEntry(i) {
                   var name = geoXmlDoc.placemarks[i].name;
+                  var email=geoXmlDoc.placemarks[i].email;
                    if (!name  || (name.length == 0)) name = "polygon #"+i;
-                   // alert(name);
-                   /* sidebarHtml += '<tr id="row'+i+'"><td onmouseover="kmlHighlightPoly('+i+');" onmouseout="kmlUnHighlightPoly('+i+');"><a href="javascript:kmlPgClick('+i+');">'+name+'</a> - <a href="javascript:kmlShowPlacemark('+i+');">show</a></td></tr>'; */
-                    if(i % 3 == 0){
-                        sidebarHtml += '<tr style=" width:33.3%; display:inline-block;" >';
-                    }
-                    sidebarHtml += '<td  id="row'+i+'"><a href="javascript:kmlHighlightPoly('+i+');">'+name+'</a></td>';
-                     if(i % 3 == 2 ){
-                        sidebarHtml += '</tr>';
-                    }
+                    sidebarHtml += '<div class="col-sm-4" id="row'+i+'"><a href="javascript:kmlHighlightPoly('+i+');">'+name+'</a>';
+                    if (typeof(email)!=="undefined" && email !=''){
+                       sidebarHtml += '<a href="mailto:' + email + '" class="small"><i class="fa fa-envelope-o"></i> <span class="sr-only">' + name + '</span> division commissioner</a>'
+                    }                     
+                    sidebarHtml +='</div>';
                 }
 
 
@@ -237,20 +232,20 @@ advertId: get-involved
                   var name = geoXmlDoc.placemarks[i].name;
                    if (!name  || (name.length == 0)) name = "polyline #"+i;
                    // alert(name);
-                   sidebarHtml += '<tr id="row'+i+'"><td onmouseover="kmlHighlightPoly('+i+');" onmouseout="kmlUnHighlightPoly('+i+');"><a href="javascript:kmlPlClick('+i+');">'+name+'</a> - <a href="javascript:kmlShowPlacemark('+i+');">show</a></td></tr>';
+                   sidebarHtml += '<div class="col-xs-12" id="row'+i+'" onmouseover="kmlHighlightPoly('+i+');" onmouseout="kmlUnHighlightPoly('+i+');"><a href="javascript:kmlPlClick('+i+');">'+name+'</a> - <a href="javascript:kmlShowPlacemark('+i+');">show</a></div>';
                  
                 }
                 function makeSidebarEntry(i) {
                   var name = geoXmlDoc.placemarks[i].name;
                    if (!name  || (name.length == 0)) name = "marker #"+i;
                    // alert(name);
-                   sidebarHtml += '<tr id="row'+i+'"><td><a href="javascript:kmlClick('+i+');">'+name+'</a></td></tr>';
+                   sidebarHtml += '<div class="col-xs-12" id="row'+i+'"><a href="javascript:kmlClick('+i+');">'+name+'</a></div>';
                 }
 
                 function makeSidebar() {
                   //sidebarHtml = '<table><tr><td><a href="javascript:showAll();">Show All</a></td></tr>';
-                  sidebarHtml = '<h3>Areas</h3>';
-                  sidebarHtml += '<table>';
+                  sidebarHtml = '<h2 class="js-areas">Areas</h2>';
+                  sidebarHtml += '<div class="row">';
                   var currentBounds = map.getBounds();
                     // if bounds not yet available, just use the empty bounds object;
                     if (!currentBounds) currentBounds=new google.maps.LatLngBounds();
@@ -274,9 +269,9 @@ advertId: get-involved
                         }
                       }
                     }
-                  sidebarHtml += "</table>";
+                  sidebarHtml += '<div class="col-xs-12"><a href="/flexible-guiding-units/">Flexible Guiding (not on map)</a><a href="mailto:flexibledivision@girlguidinghertfordshire.org.uk"><i class="fa fa-envelope-o"></i> <span class="sr-only">Flexible </span>division commissioner</a></div></div>';
                   document.getElementById("sidebar").innerHTML = sidebarHtml;
-                  jQuery('#row'+defaultElement).css('font-weight','bold');
+                  jQuery('#row'+defaultElement).addClass("selected");
                 }
 
                 function geoxmlErrorHandler(doc){
@@ -334,8 +329,7 @@ advertId: get-involved
                   sidebarHtml += "</table>";
                   document.getElementById("sidebar").innerHTML = sidebarHtml;
                   kmlHighlightPoly(defaultElement);
-                };
-                            
+                };        
 
                function hide_kml(){
                     geoXml.hideDocument();  
@@ -404,7 +398,5 @@ advertId: get-involved
 <div id="map_canvas"></div>
 <div class="areas">
 <div id="sidebar"></div>
-</div>
-<div class="areas">
 </div>
 </div>

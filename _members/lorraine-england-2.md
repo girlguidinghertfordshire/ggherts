@@ -5,7 +5,7 @@ order: 21
 job_title: International Adviser
 person_intro: Promotes and supports international opportunities, and organises international
     trips.
-email:
+email: international@girlguidinghertfordshire.org.uk
 image: /wp-content/uploads/2019/10/Lorraine-England-1.jpg
 thumbnail: /wp-content/uploads/2019/10/Lorraine-England-1-252x243.jpg
 author:

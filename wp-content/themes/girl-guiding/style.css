@@ -4095,14 +4095,19 @@ span.wpcf7-not-valid-tip {
     padding: 0 15px
 }
 
-.page-template-tp-divisions table td {
+.page-template-tp-divisions table td, .page-template-tp-divisions .areas div>div>div {
     display: block;
     border-bottom: 1px solid #dfdddd;
-    padding: 5px 0
 }
 
-.page-template-tp-divisions table td a {
-    color: #c40063
+.page-template-tp-divisions table td a, .page-template-tp-divisions .areas div>div>div a {
+    display: block;
+    color: #c40063;
+    padding: 5px 15px;
+}
+.page-template-tp-divisions .areas div>div>div.selected a {
+    background-color: #c40063;
+    color: #d8d8d8;
 }
 
 .page-template-tp-divisions table tr td:last-child {

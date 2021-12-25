@@ -1,15 +1,15 @@
 ---
 title: Hazel Carmichael
-date: 2016-04-04 17:10:53.000000000 +01:00
+date: 2016-04-04T16:10:53.000Z
 order: 24
 job_title: Communications and PR Adviser
-person_intro: Promotes Girlguiding Hertfordshire and advising members about marketing
-    and communications.
-email:
-image:  /wp-content/uploads/2020/11/Hazel-Carmichael.jpg
+person_intro: Promotes Girlguiding Hertfordshire and advising members about marketing and communications.
+email: pr@girlguidinghertfordshire.org.uk
+image: /wp-content/uploads/2020/11/Hazel-Carmichael.jpg
 thumbnail: /wp-content/uploads/2020/11/Hazel-Carmichael-312x243.jpg
 author:
   display_name: GGH-Admin1
+lastmod: '2021-12-20T22:45:06.853Z'
 ---
 I loved Brownies when I was a young girl growing up in Dublin, and never wanted to leave! I have so many happy memories of wonderful crafts, games, songs, pack holidays and special friendships. I was honoured to be chosen to take part in the Rally to celebrate Irish Girl Guides’ Diamond Jubilee in 1971. Moving on to Guides brought new adventures and more freedom. I especially loved our summer camps and cooking over an open fire.
 

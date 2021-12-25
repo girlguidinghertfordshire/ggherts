@@ -6,7 +6,7 @@ job_title: Safeguarding Adviser
 person_intro: |+
   Supports and advises members of the county with all aspects of safeguarding.
 
-email: Safeguarding@girlguidinghertfordshire.org.uk
+email: 
 image: null
 thumbnail: null
 author:
