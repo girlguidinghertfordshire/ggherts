@@ -2,12 +2,13 @@
 title: 2021 CUSAGC Marathon Challenge
 date: '2021-09-17T07:03:49.182Z'
 image: /assets/images/2021/09/cusagc-marathon-challenge-2021.jpg
+published: false
 categories:
     - Notice
 tags: []
 author:
     display_name: Rachel Kemp
-lastmod: '2021-09-17T07:03:49.182Z'
+lastmod: '2021-12-01T08:04:12.615Z'
 ---
 The 2021 CUSAGC Marathon Challenge is taking place on Saturday, 27 November in the Potton area. 
 

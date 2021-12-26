@@ -6,7 +6,7 @@ job_title: Outdoor Activities Adviser
 person_intro: Coordinates the Outdoor Team, organises and supports outdoor events
     and trainings, liaising with other advisers, and promoting an enthusiasm for the
     outdoors.
-email: 
+email: outdoors@girlguidinghertfordshire.org.uk
 image: 
 thumbnail:
 author:

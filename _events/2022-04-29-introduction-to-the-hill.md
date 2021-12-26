@@ -1,10 +1,10 @@
 ---
-title: Introduction to the Hill (ITTH)
+title: Introduction to the Hills (ITTH)
 date: '2021-11-01T20:44:59.233Z'
 event:
     start_date: '2022-04-29'
     end_date: '2022-05-02'
-    address: 'The Foundry Adventure Centre, Derbyshire'
+    address: Derbyshire
     contact_name: null
     contact_email: itthherts@gmail.com
     contact_number: ''
@@ -21,9 +21,9 @@ author:
     display_name: null
     first_name: null
     last_name: null
-lastmod: '2021-11-01T20:53:54.180Z'
+lastmod: '2021-12-08T22:47:06.096Z'
 ---
-A camping weekend for Hertfordshire Guides and Scouts, aged between 11 and 13, at The Foundry Adventure Centre in the Peak District on **Friday, 29 April 2022 - Bank Holiday Monday, 2 May 2022**
+A camping weekend for Hertfordshire Guides and Scouts, aged between 11 and 13, in the Peak District on **Friday, 29 April 2022 - Bank Holiday Monday, 2 May 2022**
 
 Activities include hill walking, outdoor climbing, cycling and caving.
 

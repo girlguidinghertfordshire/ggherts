@@ -2,13 +2,14 @@
 title: 'Hertfordshire Guide Centre, Cottered - Open for bookings'
 date: 2021-09-08T17:21:53.608Z
 image: /wp-content/uploads/2018/11/Herts_GC_Pic-360x243.jpg
+published: false
 categories:
   - Announcements
 tags: []
 author:
   display_name: the County Office
 permalink: /hertfordshire-guide-centre-cottered-is-open/
-lastmod: '2021-09-08T17:27:50.045Z'
+lastmod: '2021-11-29T22:17:47.870Z'
 ---
 Following the re-opening of the outdoor space at Hertfordshire Guide Centre earlier this year, we are pleased to announce that the **indoor accommodation** has also now re-opened for bookings.
 

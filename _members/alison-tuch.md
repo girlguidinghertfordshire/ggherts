@@ -6,7 +6,7 @@ job_title: County Walking Adviser
 person_intro: 'Promotes all forms of walking activities from scavenger hunts to
     mountaineering. Supports members undertaking Walking Scheme training and advises
     on walking events. '
-email:
+email: walking@girlguidinghertfordshire.org.uk
 image: /wp-content/uploads/2018/06/ATuch1.jpg
 thumbnail: /wp-content/uploads/2018/06/ATuch1-360x243.jpg
 author:
