@@ -5,14 +5,26 @@ date: 2021-02-15T22:25:36.000Z
 toc: get-involved
 description: 'New challenge badges for guiding units in Hertfordshire: Let the Sun Shine, Marathon, Lifesaver, Flower Power and more.'
 author:
-  login: andrew
-  email: andrew@settle.uk.com
   display_name: andrew
   first_name: Andrew
   last_name: Settle
 permalink: /get-involved/challenge-badges/
-lastmod: '2021-12-18T23:15:33.010Z'
+lastmod: '2021-12-28T17:24:12.063Z'
 ---
+## Tiger Tiger Challenge Badge
+![](/assets/images/2021/12/tiger_tiger_badge.jpg){:class="pull-right"}{:width="180}{:height="179"}{:style="margin:10px;"}
+Celebrate Chinese New Year (Tuesday 1 February 2022) by gaining our Tiger Tiger Challenge badge. 
+
+All profits raised from the sale of these badges will support 1st Baldock Brownies fundraising for Girlguiding via a Discover Adventure, Great Wall of China Trek (taking place in October 2022). 
+
+We have included lots of ideas in the pack but feel free to add your own! 
+
+This badge could be completed in one evening in a round robin style or over several weeks.
+
+Download the Challenge badge pack which contains the activites, requirements and badge order form.
+
+[Download Tiger Tiger Challenge Pack <i class="fa fa-download"></i>](/assets/docs/challenge-badge-tiger-tiger-pack.pdf){:class="btn-gg"}
+
 ## Book Challenge Badge
 ![](/assets/images/2021/12/challenge_badges_book.jpg){:class="pull-left"}{:width="180}{:height="165"}{:style="margin:10px;"}
 The Book Badge Team have been busy creating a badge for everyone to take part in! This challenge badge is open to all ages and abilities - whether you are a book lover or looking for an opportunity to get back into reading. This is an ongoing badge and with 4 different colours to earn you can do this badge again and again throughout your time in guiding.
