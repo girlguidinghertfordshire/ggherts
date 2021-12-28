@@ -95,13 +95,11 @@ layout: default
             var showBlock=true;
             var categories=$(this).data("categories");
             $cats.each(function(index,obj){
-                console.log($(this).val() + categories + categories.indexOf("|" + $(this).val() + "|"));
                 if (categories.indexOf("|" + $(this).val() + "|")<0){
                     showBlock=false;
                 }
             });
             var date=$(this).data("month");
-            console.log($date[0].value + " !=== " + date);
             if ($date.length>0 && $date[0].value!==date){
                 showBlock=false;
             }
@@ -112,13 +110,9 @@ layout: default
     }
     $(document).ready(function(){
  $(".category input").on("change",function(event){
-     //event.cancelBubble();
-     console.log(this);
      filterPosts();
  });
  $(".archive-select input,.archive-select select").on("change", function(event){
-     //event.cancelBubble();
-     console.log($(this).val());
      filterPosts();
  });
 });
