@@ -19,7 +19,7 @@ event:
         - Virtual
 author:
     display_name: The County Office
-lastmod: '2022-01-01T09:54:34.814Z'
+lastmod: '2022-01-01T17:17:27.814Z'
 permalink: /events/2022/01/1st-response-course/
 ---
 
@@ -36,5 +36,5 @@ _Session 2:_ Monday 7 February 2022, 7-9.30pm in Radlett (face to face)
 
 **Please note:** In order to be a recognised first aider in Girlguiding you must also complete the 1st Response e-learning via the [Girlguiding website.][2]
 
-[1]: {{ page.book_now_link}}
+[1]: {{ page.event.book_now_link}}
 [2]: https://training.girlguiding.org.uk/first-response/
