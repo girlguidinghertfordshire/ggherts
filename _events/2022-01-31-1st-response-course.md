@@ -19,13 +19,13 @@ event:
         - Virtual
 author:
     display_name: The County Office
-lastmod: '2022-01-01T17:17:27.814Z'
+lastmod: '2022-01-01T17:27:25.114Z'
 permalink: /events/2022/01/1st-response-course/
 ---
 
 1st Response course for leaders and leaders in training, taking place over 2 sessions, one virtual and one face to face.  Both sessions MUST be attended.
 
-_Session 1:_ Monday 31 January 2022, 7-9.30pm via Zoom
+_Session 1:_ Monday 31 January 2022, 7-9.30pm via Zoom  
 _Session 2:_ Monday 7 February 2022, 7-9.30pm in Radlett (face to face)
 
 **Cost:** £10 by cheque (payable to 1st Aid Fundraising) or by bank transfer.  Bank details will be provided once you have booked your space.
