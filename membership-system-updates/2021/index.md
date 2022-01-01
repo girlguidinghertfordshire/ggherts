@@ -4,15 +4,14 @@ title: Membership System Updates
 date: 2016-11-29T10:28:52.000Z
 toc: membership
 author:
-  login: rachelkempis
-  email: rachelkempis@hotmail.com
-  display_name: Rachel Kemp
-  first_name: Rachel
-  last_name: Kemp
-permalink: /membership-system-updates/
-lastmod: '2022-01-01T10:50:41.757Z'
+    login: rachelkempis
+    email: rachelkempis@hotmail.com
+    display_name: Rachel Kemp
+    first_name: Rachel
+    last_name: Kemp
+lastmod: '2022-01-01T10:49:49.292Z'
 ---
-{% assign updates = site.membership_updates | where:"year","2022" | reverse %}
+{% assign updates = site.membership_updates | where:"year","2021" | reverse %}
 <div class="row">
 <div class="col-md-3 left-sidebar hidden-xs" style="position:sticky; top:20px">
 <h2>Updates</h2>
@@ -31,13 +30,15 @@ lastmod: '2022-01-01T10:50:41.757Z'
 {% endfor %}
 
 <hr>
-
 <div class="posts-navigation">
-	<a  class="next-post" href="2021/">2021 updates</a>
+	<a class="prev-post" href="../">2022 updates</a>
+	<a  class="next-post" href="../2020/">2020 updates</a>
 </div>
 
 </div>
+
 </div>
+<div class="clearfix"></div>
 <script>
   (function($){
     $(document).ready(function(){
