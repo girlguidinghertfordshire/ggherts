@@ -23,12 +23,12 @@ author:
     display_name: null
     first_name: null
     last_name: null
-lastmod: '2021-12-08T22:49:02.827Z'
+lastmod: '2022-01-01T09:42:02.260Z'
 ---
 
 Adult and Ranger social walking weekend in the gentle Shropshire Hills for those new to hillwalking up to Level 2 of the walking scheme. You choose; walk miles for Logbook walks or have a relaxing weekend in beautiful surroundings.
 
-[Download Flier <i class="fa fa-download"></i>](/assets/docs/social-walking-weekend-june-2022.docx){:class="btn-gg"}{:rel="noopener noreferrer"}
+[Download Flyer <i class="fa fa-download"></i>](/assets/docs/social-walking-weekend-june-2022.docx){:class="btn-gg"}{:rel="noopener noreferrer"}
 
 From the afternoon of Friday, 10th June until the afternoon of Sunday, 12th June. 
 
