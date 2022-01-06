@@ -12,6 +12,7 @@ event:
     image: /wp-content/uploads/2016/07/IMG_5900-360x273.jpg
     type:
         - First Response
+        - Training
     age-group:
         - Leaders
     location:
@@ -19,7 +20,7 @@ event:
         - Virtual
 author:
     display_name: The County Office
-lastmod: '2022-01-01T17:27:42.871Z'
+lastmod: '2022-01-06T08:00:08.428Z'
 permalink: /events/2022/02/1st-response-course/
 ---
 
