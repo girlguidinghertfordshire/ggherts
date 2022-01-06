@@ -93,6 +93,7 @@ advertId: get-involved
                    }
                 }
                 function kmlClick(pm) {
+                  console.log(pm);
                    if (geoXml.docs[0].placemarks[pm].marker.getMap()) {
                       google.maps.event.trigger(geoXml.docs[0].placemarks[pm].marker,"click");
                    } else {

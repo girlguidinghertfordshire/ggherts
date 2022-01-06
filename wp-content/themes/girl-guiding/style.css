@@ -1,11 +1,14 @@
 body {
-    font-size: 14px;
+    font-size: 16px;
     font-family: "trebuchet ms","open sans",sans-serif
 }
 
 /*h1 {
     font-family: open sans,sans-serif
 }*/
+
+.navbar-nav { font-size: 1.8rem;}
+.sub-menu { font-size: 1.4rem;}
 
 a:focus,a:hover {
     text-decoration: none;

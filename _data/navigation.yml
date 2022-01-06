@@ -2,24 +2,22 @@ main:
   items:
   - id: about-us
   - id: get-involved
-  - id: youth
-  - id: noticeboard
+  - id: county-teams
   - id: events
   - id: news
-  - id: international
   - id: contact
 about-us:
   title: About Us
   url: /about-us/
   items:
-  - title: County Team
-    url: /about-us/county-team/
   - title: Mission Statement
     url: /about-us/mission-statement/
   - title: Divisions
     url: /about-us/divisions/
   - title: Resources and Links
     url: /about-us/resources/
+  - title: Membership System Updates
+    url: /membership-system-updates/
   - title: Wellbeing Resources
     url: /about-us/wellbeing-resources-and-links/
   - title: County Centre
@@ -44,14 +42,40 @@ get-involved:
     url: /get-involved/share/
   - title: Thanks, Awards and Recognition
     url: /get-involved/thanks/
-youth:
-  title: Youth Opportunities
-  url: /youth-opportunities/
+county-teams:
+  title: County Teams
+  url: /county-teams/
   items:
-noticeboard:
-  title: Noticeboard
-  url: /noticeboard/
-  items:
+  - title: Your County Team
+    url: /about-us/county-team/
+  - title: Youth Opportunities
+    url: /youth-opportunities/
+  - title: International Adventures
+    url: /international-adventures/
+    items:
+    - title: Unit Opportunities
+      url: /international-adventures/international-unit-opportunities/
+    - title: County Opportunities
+      url: /international-adventures/international-county/
+    - title: Region Opportunities
+      url: /international-adventures/international-region-opportunities/
+    - title: National & WAGGGS Opportunities
+      url: /international-adventures/international-national-wagggs-opportunities/
+  - title: Outdoor Activities
+    url: /county-teams/outdoor/
+    items:
+    - title: Paddlesports
+      url: /county-teams/outdoor/paddlesports/
+    - title: Walks around Hertfordshire
+      url: /county-teams/outdoor/walks/
+    - title: How to find local routes
+      url: /county-teams/outdoor/walks/local-routes/
+    - title: Outdoors useful apps
+      url: /county-teams/outdoor/useful-apps/
+    - title: Social Walking
+      url: /county-teams/outdoor/social-walking/
+    - title: Outdoor training
+      url: /county-teams/outdoor/training/
 events:
   title: Events
   url: /events/
@@ -64,22 +88,12 @@ news:
   title: News
   url: /news/
   items:
+  - title: Noticeboard
+    url: /noticeboard/
   - title: Essential News
     url: /news/essential-news/
   - title: Billboard
     url: /news/billboard/
-international:
-  title: International Adventures
-  url: /international-adventures/
-  items:
-  - title: Unit Opportunities
-    url: /international-adventures/international-unit-opportunities/
-  - title: County Opportunities
-    url: /international-adventures/international-county/
-  - title: Region Opportunities
-    url: /international-adventures/international-region-opportunities/
-  - title: National & WAGGGS Opportunities
-    url: /international-adventures/international-national-wagggs-opportunities/
 contact:
   title: Contact Us
   url: /contact-us/
