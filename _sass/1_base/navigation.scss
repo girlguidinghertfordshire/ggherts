@@ -1,0 +1,36 @@
+.gg-main-nav {
+    background-color: white;
+    font-size: 1.125rem;
+    .nav-item.dropdown:hover .dropdown-menu {
+            display: block;
+            top: 100%;
+            left: 0;
+        } 
+    .dropdown-toggle::after { 
+        border: none; 
+        content: "\f107";
+        display: inline-block;
+        font-family: FontAwesome;
+        color: #695f5f;
+        padding-left: 5px;
+        vertical-align: middle}
+    .dropdown-menu { font-size: 0.9rem; background-color: $gg-blue;
+        .dropdown-item { color: white;
+        &:focus,&:hover { background-color: $gg-pink;}} 
+    }
+     
+    
+}
+.navbar-light.gg-main-nav .navbar-nav .nav-link{
+    color: $gg-dark-gray;
+    &:hover{color: $gg-pink; }
+}
+.gg-search-form {
+    max-width: 50%;
+    .search-text {
+        border-left: none;
+        border-right: none;
+        border-top: none;
+        border-bottom: 1px solid #b4afaf;
+    }
+}

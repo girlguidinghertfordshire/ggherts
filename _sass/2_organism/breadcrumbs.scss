@@ -1,0 +1,10 @@
+.breadcrumb-item+.breadcrumb-item::before {
+    content: "\f105";
+    font-family: fontawesome;
+    //font-size: 14px;
+    color: $gg-light-pink;
+    //padding: 0 4px 3px;
+    //display: inline-block;
+    //line-height: 25px;
+    //vertical-align: middle;
+}

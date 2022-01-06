@@ -1,5 +1,5 @@
 ---
-layout: event_list
+layout: event_list-v5
 title: Events for Brownies
 age: Brownies
 date: 2016-03-09T07:22:50.000Z

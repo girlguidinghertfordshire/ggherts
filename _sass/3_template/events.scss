@@ -1,0 +1,92 @@
+.gg-event-card {
+    figure {
+        background-repeat: no-repeat;
+        background-size: cover;
+        overflow: hidden;
+        border-radius: 3px;
+        position: relative;
+        margin-bottom: 0;
+        max-height: 200px;
+        img {
+            opacity: 0;
+            max-width: 100%;
+        }
+    } 
+    .pattern-one {
+        border-radius: 0 45px 0 0;
+        bottom: -25px;
+        content: "";
+        display: inline-block;
+        height: 80px;
+        left: -20px;
+        position: absolute;
+        -webkit-transform: skew(-22deg,6deg);
+        transform: skew(-22deg,6deg);
+        width: 104%;
+        z-index: 1;
+    }
+    .icon {
+        display: inline-block;
+        margin-bottom: 20px;
+        img {
+            width:20px;
+            height: auto;
+        }
+    }
+    h3 {
+        font-size: 1.5rem;
+        a { 
+            color: $gg-dark-gray; 
+            text-decoration: none;
+            &:hover,&:focus { 
+                color: $gg-pink;
+                text-decoration: underline;
+            }
+        }        
+    }
+    .card-text {
+        date {
+            color: #817777;
+            margin-bottom: 20px;
+            display: block;
+            }
+        p {
+            color: $gg-pink;
+        }
+    }
+    
+} 
+
+.filter-result {
+    margin-top: 2.5rem;
+    h4 {
+        padding: 8px 0 20px;
+    }
+    h5 {
+        font-size: 1rem;
+        font-weight: 700;
+        padding-bottom: 8px;
+        border-bottom: 1px solid $gg-gray;
+        margin: 35px 0;
+    }
+    .division {
+        list-style: none;
+        padding-left: 0;
+        margin-top: 10px;
+        li {
+            margin: 7px 0;
+            label {
+                padding-left: 10px;
+                font-size: 0.9rem;
+                color: $gg-dark-gray;
+                .icon img {
+                    width: 15px;
+                    height: auto;
+                }
+            }
+        }
+        ul {
+            list-style: none;
+        }
+    }
+}

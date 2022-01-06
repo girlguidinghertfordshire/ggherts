@@ -1,5 +1,5 @@
 ---
-layout: event_list
+layout: event_list-v5
 title: Events for Adults, Leaders and Trefoil Guild
 age: Adults
 date: 2016-03-09T07:22:50.000Z
