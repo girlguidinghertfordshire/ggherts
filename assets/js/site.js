@@ -21,6 +21,9 @@ var breakpoint = { xs:0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400};
     }
     var initialisePage = function () {
         if (window.innerWidth < breakpoint.lg) {
+            if ($(".gg-menu").attr("style")!==''){
+                $(".gg-menu").attr("style","");
+            }
             $(".gg-sliding-frame,.main-content").css("min-height", document.documentElement.clientHeight);
             $(".gg-menu-fixed").css("height", document.documentElement.clientHeight);
             $("#showmenu").on("click", function (event) {
@@ -51,8 +54,12 @@ var breakpoint = { xs:0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400};
                 }
             });        
         }else {
+            if ($(".gg-sliding-frame").attr("style")!==''){
+                $(".gg-sliding-frame").attr("style","");
+            }
             $(".gg-sliding-frame,.main-content").css("min-height","auto");
             $(".gg-menu-fixed").css("height","auto");
+            $(".gg-menu").css("right",$(document).width() - ($(".gg-search-form").position().left + $(".gg-search-form").width()));
         }
     };
     $(document).ready(function () {
