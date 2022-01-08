@@ -1,127 +1,159 @@
 <!doctype html>
 <html lang="en-GB">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    {% include google.html %}
-    {% feed_meta %}
-    {% seo %} 
-    <link rel='dns-prefetch' href='https://cdnjs.cloudflare.com/' />
-    <link rel='dns-prefetch' href='https://cdn.sitesearch360.com/' />
-    <link rel="preload" href="/wp-content/themes/girl-guiding/fonts/fontawesome-webfont.woff2" as="font" type="font/woff2" crossorigin/>
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css" integrity="sha512-GQGU0fMMi238uA+a/bdWJfpUGKUkBdgfFdgBm72SUQ6BeyWjoY/ton0tEjH+OSH9iP4Dfh+7HM0I9f5eR0L/4w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel='stylesheet' id='font-awesome-style-css' href='/wp-content/themes/girl-guiding/css/font-awesome.min.css' type='text/css' media='all' />
-    <link rel="stylesheet" href="/css/site.css" />
-    <title>Hello, world!</title>
-  </head>
-  <body>      
-    {% include google-body.html %}
-    <header class="header">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-3">
-                    <a href="/"><img src="/wp-content/themes/girl-guiding/images/logo.png" alt="GirlGuiding Hertfordshire" /></a>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% include google.html %}
+  {% feed_meta %}
+  {% seo %}
+  <link rel='dns-prefetch' href='https://cdnjs.cloudflare.com/' />
+  <link rel='dns-prefetch' href='https://cdn.sitesearch360.com/' />
+  <link rel="preload" href="/wp-content/themes/girl-guiding/fonts/fontawesome-webfont.woff2" as="font" type="font/woff2"
+    crossorigin />
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css"
+    integrity="sha512-GQGU0fMMi238uA+a/bdWJfpUGKUkBdgfFdgBm72SUQ6BeyWjoY/ton0tEjH+OSH9iP4Dfh+7HM0I9f5eR0L/4w=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel='stylesheet' id='font-awesome-style-css' href='/wp-content/themes/girl-guiding/css/font-awesome.min.css'
+    type='text/css' media='all' />
+  <link rel="stylesheet" href="/css/site.css" />
+</head>
+<body>
+  {% include google-body.html %}
+  <div class="gg-viewport">
+    <div class="gg-sliding-frame">
+      <div class="gg-content-wrapper">
+        <div class="gg-content">
+          <header class="header">
+            <div class="container">
+              <div class="row">
+                <div class="col-12 col-sm-3">
+                  <a href="/"><img src="/assets/images/core/logo.png" class="gg-logo"
+                      alt="GirlGuiding Hertfordshire" /></a>
+                  <button class="gg-menu-toggler" id="showmenu" type="button" aria-label="Toggle navigation">
+                    <div><i class="fa fa-bars" aria-hidden="true"></i></div>
+                    <div class="gg-menu-toggler-text">Menu</div>
+                  </button>
                 </div>
-                <div class="col-sm-9">
-                {% include main-navigation-v5.html %}
-                <div class="gg-search-form pull-right">
-                <script>var ss360Config={siteId:'www.girlguidinghertfordshire.org.uk',searchBox:{selector:'#searchBox'}};</script>
-                <script src="https://cdn.sitesearch360.com/v13/sitesearch360-v13.min.js" async></script>
-                <div class="input-group">
-                    <input type="text" size="50" name="searchBox" id="searchBox" class="form-control search-text" placeholder="Search" value="" />
-                    <button type="submit" id="searchsubmit" class="btn btn-link"><img src="/assets/images/core/search-icon.png" alt="Search"></button>
+                <div class="col-sm-8 col-md-9">
+                  <div class="gg-search-form pull-right">
+                    <script>var ss360Config = { siteId: 'www.girlguidinghertfordshire.org.uk', searchBox: { selector: '#searchBox' } };</script>
+                    <script src="https://cdn.sitesearch360.com/v13/sitesearch360-v13.min.js" async></script>
+                    <div class="input-group">
+                      <input type="text" size="50" name="searchBox" id="searchBox" class="form-control search-text"
+                        placeholder="Search" value="" />
+                      <button type="submit" id="searchsubmit" class="btn btn-link"><img
+                          src="/assets/images/core/search-icon.png" alt="Search"></button>
+                    </div>
+                  </div>
                 </div>
-                </div>
-                </div>
+              </div>
             </div>
+          </header>
+          {{ content }}
+          <footer class="footer">
+            <div class="top-footer">
+              <div class="container">
+                <div class="social-media">
+                  <label>Share:</label>
+                  <div class="widget-text">
+                    <span class='st_facebook_large' displayText='Facebook'></span>
+                    <span class='st_twitter_large' displayText='Tweet'></span>
+                    <span class='st_pinterest_large' displayText='Pintrest'></span>
+                    <span class='st_instagram_large' displayText='Instagram'></span>
+                    <span class='st_sharethis_large' displayText='ShareThis'></span>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-sm-12 col-md-4">
+                    <h3>Contact Us</h3>
+                    <address>
+                      c/o Hertfordshire Guide Centre<br />
+                      Cottered<br />
+                      Buntingford<br />
+                      Hertfordshire<br />
+                      SG9 9QP </address>
+                    <div id="hgcmap"></div>
+
+                  </div>
+                  <div class="col-sm-12 col-md-4">
+                    <h3>Quick Links</h3>
+                    <div class="row">
+                      <div class="col-sm-6">
+                        {% include footer-nav-segment.html segment="about-us" %}
+                      </div>
+                      <div class="col-sm-6">
+                        {% include footer-nav-segment.html segment="get-involved" %}
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-sm-6">
+                        <div class="link-list">
+                          <h4>Useful Links</h4>
+                          <ul id="menu-useful-links" class="">
+                            <li><a href="/news/">Latest News</a></li>
+                            <li><a href="/events/">Events</a></li>
+                            <li><a href="/youth-opportunities/">Youth Opportunities</a></li>
+                            <li><a href="/noticeboard/">Noticeboard</a></li>
+                            <li><a href="/contact-us/">Contact Us</a></li>
+                            <li><a href="/sitemap/">Sitemap</a></li>
+                          </ul>
+                        </div>
+                      </div>
+                      <div class="col-sm-6">
+                        <div class="link-list">
+                          <h4>Legal Policies</h4>
+                          <ul id="menu-legal-policies" class="">
+                            <li><a href="/term-of-use/">Term of Use</a></li>
+                            <li><a href="/cookie-policy/">Cookie Policy</a></li>
+                            <li><a href="/privacy-policy/">Privacy Policy</a></li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-sm-12 col-md-4">
+                    <h3>Social</h3>
+                    <div class="tweet-list">
+                      <a class="twitter-timeline" data-width="360" data-height="439" href="https://twitter.com/gguidingherts?ref_src=twsrc%5Etfw">Tweets by gguidingherts</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="bottom-footer">
+              <div class="container">
+                <div class="row">
+                  <div class="col">
+                    <p>&copy; {{ "now" | date: "%Y" }} <a
+                        href="mailto:countysec@girlguidinghertfordshire.org.uk">Girlguiding Hertfordshire.</a></p>
+                    <p>Girlguiding Hertfordshire is an operating name of The Guide Association County of Hertfordshire.
+                      Registered Charity No. 274225</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </footer>
         </div>
-        </header>
-        {{ content }}
-<footer class="footer">
-<div class="top-footer">
-<div class="container">
-<div class="social-media">
-<label>Share:</label>
-<div class="widget-text">
-<span class='st_facebook_large' displayText='Facebook'></span>
-<span class='st_twitter_large' displayText='Tweet'></span>
-<span class='st_pinterest_large' displayText='Pintrest'></span>
-<span class='st_instagram_large' displayText='Instagram'></span>
-<span class='st_sharethis_large' displayText='ShareThis'></span>
-</div>
-</div>
-<div class="row">
-<div class="col-sm-12 col-md-4">
-<h3>Contact Us</h3>
-<address>
-c/o Hertfordshire Guide Centre<br />
-Cottered<br />
-Buntingford<br />
-Hertfordshire<br />
-SG9 9QP </address>
-<div id="hgcmap"></div>
-
-</div>
-<div class="col-sm-12 col-md-4">
-<h3>Quick Links</h3>
-<div class="row">
-<div class="col-sm-6">
-{% include footer-nav-segment.html segment="about-us" %}
-</div>
-<div class="col-sm-6">
-{% include footer-nav-segment.html segment="get-involved" %}
-</div>
-</div>
-<div class="row">
-<div class="col-sm-6">
-<div class="link-list">
-<h4>Useful Links</h4>
-<ul id="menu-useful-links" class=""><li><a href="/news/">Latest News</a></li>
-<li><a href="/events/">Events</a></li>
-<li><a href="/youth-opportunities/">Youth Opportunities</a></li>
-<li><a href="/noticeboard/">Noticeboard</a></li>
-<li><a href="/contact-us/">Contact Us</a></li>
-<li><a href="/sitemap/">Sitemap</a></li>
-</ul> </div>
-</div>
-<div class="col-sm-6">
-<div class="link-list">
-<h4>Legal Policies</h4>
-<ul id="menu-legal-policies" class=""><li><a href="/term-of-use/">Term of Use</a></li>
-<li><a href="/cookie-policy/">Cookie Policy</a></li>
-<li><a href="/privacy-policy/">Privacy Policy</a></li>
-</ul> </div>
-</div>
-</div>
-</div>
-
-<div class="col-sm-12 col-md-4">
-<h3>Social</h3>
-<div class="tweet-list">
-<a class="twitter-timeline" data-width="360" data-height="439" href="https://twitter.com/gguidingherts?ref_src=twsrc%5Etfw">Tweets by gguidingherts</a> 
+      </div>
+      <div class="gg-menu">
+        <div class="gg-menu-fixed">          
+          {% include main-navigation-v5.html %}
+        </div>
+      </div>
+    </div>
+  </div>
 
 
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="bottom-footer">
-<div class="container">
-<div class="row">
-<div class="col">
-<p>&copy; {{ "now" | date: "%Y" }} <a href="mailto:countysec@girlguidinghertfordshire.org.uk">Girlguiding Hertfordshire.</a></p>
-<p>Girlguiding Hertfordshire is an operating name of The Guide Association County of Hertfordshire. Registered Charity No. 274225</p>
-</div>
-</div>
-</div>
-</div>
-</footer>
-</div>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/js/bootstrap.bundle.min.js" integrity="sha512-pax4MlgXjHEPfCwcJLQhigY7+N8rt6bVvWLFyUMuxShv170X53TRzGPmPkZmGBhk+jikR8WBM4yl7A9WMHHqvg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <script src="/assets/js/site.js"></script>
-  </body>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"
+    integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/js/bootstrap.bundle.min.js"
+    integrity="sha512-pax4MlgXjHEPfCwcJLQhigY7+N8rt6bVvWLFyUMuxShv170X53TRzGPmPkZmGBhk+jikR8WBM4yl7A9WMHHqvg=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="/assets/js/site.js"></script>
+</body>
+
 </html>

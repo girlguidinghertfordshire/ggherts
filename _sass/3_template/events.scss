@@ -60,14 +60,14 @@
 .filter-result {
     margin-top: 2.5rem;
     h4 {
-        padding: 8px 0 20px;
+        padding: 8px 0;
     }
     h5 {
         font-size: 1rem;
         font-weight: 700;
         padding-bottom: 8px;
         border-bottom: 1px solid $gg-gray;
-        margin: 35px 0;
+        margin: 10px 0 35px;
     }
     .division {
         list-style: none;
@@ -88,5 +88,35 @@
         ul {
             list-style: none;
         }
+    }
+}
+@media (max-width:($grid-md-min - 1)) {
+    .filter-result {
+        margin: 0;
+        border: 1px solid $gg-dark-blue;
+        margin: 0 -12px 12px;
+        .filter-summary {
+            padding: 12px;
+            background: $gg-dark-blue;
+            color: white;
+            h4 {
+                padding: 0;
+                margin-bottom: 0;
+                &::after {
+                    content: "\f1de";
+                    font-family: 'FontAwesome';
+                    float: right;
+                    padding-right: 10px;
+                }         
+            }
+        }       
+        .filter-options {
+            display: none;
+            margin: 0 12px;
+            h5 {
+                margin: 10px 0;
+            }
+        }
+
     }
 }

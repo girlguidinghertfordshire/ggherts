@@ -1,5 +1,138 @@
-.gg-main-nav {
-    background-color: white;
+$menu-width: 250px;
+.gg-viewport {
+    position: relative;
+}
+
+.gg-logo { max-width: 150px;}
+.gg-menu-toggler {
+    position: absolute;
+    right:20px;
+    top:20px;
+    border:none;
+    background: transparent;
+    font-size: 1.5rem;
+}
+.gg-menu-toggler-text {
+    font-size: 0.7rem;
+}
+.gg-main-nav ul {
+    //font-size: 0;
+    //line-height: 0;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    //color: #fff;
+    &> li {
+        display: block;
+        position: relative;
+        a {
+            color: #fff;
+            font-size: 1.125rem;
+            padding: 10px 5px 10px 10px;
+            display: block;
+            line-height: normal;
+            text-decoration: none;
+            &.has-children::after{
+                content: "\f107";
+                display: inline-block;
+                font-family: FontAwesome;
+                color: #695f5f;
+                padding-left: 5px;
+                vertical-align: middle
+            }
+        }
+    }
+    ul { 
+        display: none;
+    }
+}
+@media (max-width:($grid-lg-min - 1)) {
+    .gg-viewport {
+    width: 100%;
+    overflow-x: hidden;
+    max-height: 100%;
+    background-color: $gg-dark-blue;
+    }
+    .gg-sliding-frame {
+        margin-right: -#{$menu-width};
+        position: relative;
+    }
+    .gg-content-wrapper {
+        margin-left: -#{$menu-width};
+        float: left;
+        width: 100%;
+    }
+    .gg-content{
+        margin-left: $menu-width;
+        background: #fff;
+        min-height: 100%;
+        position: relative;
+    }
+    .gg-menu {
+        width: $menu-width;
+        float: right;
+        position: relative;
+        .container-md {
+            padding-right: 0;
+            padding-left: 0;
+            .row {
+                margin:0;
+                .col {
+                    padding: 0;
+                }
+            }
+        }
+    }
+    .gg-menu-fixed {
+        position: fixed;
+        width: $menu-width;
+        padding-top: 20px;
+        overflow-y: scroll;
+    }
+    .gg-main-nav ul>li a.has-children::after{
+        position: absolute;
+        right: 0;
+        padding: 0 5px;
+        color: #fff;
+    }
+    .gg-main-nav ul>li a {
+        border-top: #a5a5a5 1px solid;
+    }
+    .gg-main-nav ul>li.open>ul {
+        display: block;
+        >li a {
+            font-size: 0.9rem;
+            padding: 10px;
+            padding-left: 20px;
+        }
+    }
+}
+@media (min-width: $grid-lg-min){
+    .gg-menu-toggler {
+        display: none;
+    }
+    .gg-menu {
+        position: absolute;
+        top: 20px;
+        right: 20px;
+    }
+    
+    .gg-main-nav ul {
+        width: 100%;
+    }
+    
+    .gg-main-nav ul > li {
+        display: inline-block;
+    }
+    
+    .gg-main-nav ul > li a {
+        color: $gg-dark-gray;
+    }
+    .gg-search-form {
+        margin-top: 60px;
+    }
+}
+/*.gg-main-nav {
     font-size: 1.125rem;
     .nav-item.dropdown:hover .dropdown-menu {
             display: block;
@@ -24,13 +157,20 @@
 .navbar-light.gg-main-nav .navbar-nav .nav-link{
     color: $gg-dark-gray;
     &:hover{color: $gg-pink; }
-}
+}*/
 .gg-search-form {
-    max-width: 50%;
     .search-text {
         border-left: none;
         border-right: none;
         border-top: none;
         border-bottom: 1px solid #b4afaf;
+    }
+}
+@media (min-width: $grid-sm-min){
+    .gg-logo {
+        max-width: 100%;
+    }
+    .gg-search-form {
+        max-width: 50%;
     }
 }

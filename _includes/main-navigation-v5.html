@@ -1,23 +1,27 @@
-<nav class="navbar navbar-expand-lg navbar-light gg-main-nav">
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-    
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+<nav class="gg-main-nav">
+    <div class="container-md">
+        <div class="row">
+            <div class="col">
+                <ul>
             {% for item in site.data.navigation["main"].items %}
             {% assign menu= site.data.navigation[item.id] %}
             {% unless menu.items.size%}
-            <li class="nav-item"><a href="{{ menu.url }}" class="nav-link">{{ menu.title }}</a>
+            <li><a href="{{ menu.url }}" class="nav-link">{{ menu.title }}</a>
             {% else %}
-            <li class="nav-item dropdown"><a href="{{ menu.url }}" class="nav-link dropdown-toggle" id="{{ menu.title | slugify | camelcase | replace: "-",""}}" >{{ menu.title }}</a>
-            <ul class="dropdown-menu gg-blue-menu" aria-labelledby="{{ menu.title |slugify | camelcase | replace: "-",""}}">
+            <li><a href="{{ menu.url }}" class="has-children" id="{{ menu.title | slugify | camelcase | replace: "-",""}}" >{{ menu.title }}</a>
+            <ul class="gg-blue-menu" aria-labelledby="{{ menu.title |slugify | camelcase | replace: "-",""}}">
                 {% for submenu in menu.items %}
                     <li><a href="{{ submenu.url }}" class="dropdown-item">{{ submenu.title }}</a></li>
                 {% endfor %}
             </ul></li>{% endunless %}
             {% endfor %}<!--
             <li class="nav-item"><button href="https://www.facebook.com/GirlguidingHertfordshire" class="btn btn-outline-dark"><i class="fa fa-facebook"></i><span class="visually-hidden">Facebook</span></button><button href="https://twitter.com/gguidingherts" class="btn btn-outline-dark"><i class="fa fa-twitter"></i><span class="visually-hidden">Twitter</span></button></li>-->
-        </ul> 
+        </ul>
+            </div>
+        </div>
+    </div>
+    
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+         
     </div>
 </nav>

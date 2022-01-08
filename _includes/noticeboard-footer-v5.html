@@ -1,10 +1,13 @@
 <section class="post-section blue-bg gg-blue-bg">
     <div class="container">
         <h2>Noticeboard</h2>
-        <div class="row row-cols-1 row-cols-md-3 g-5">
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-5">
             {% assign noticeboards = site.noticeboards | sort: "date" | reverse %}
             {% for notice in noticeboards limit:3 %}
-            <div class="col">
+            {% if forloop.last %}
+            {% assign class=" d-md-none d-lg-flex" %}
+            {% endif %}
+            <div class="col{{ class }}">
                 <div class="card">
                     <img src="{{ notice.image }}" alt="" class="card-img-top" />
                     <div class="card-body">
