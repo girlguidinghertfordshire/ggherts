@@ -3,16 +3,18 @@ layout: page
 title: Essential News
 date: '2021-09-07T19:51:13.187Z'
 toc: news
-lastmod: '2021-12-06T22:18:57.714Z'
+lastmod: '2022-01-08T15:33:41.119Z'
 ---
 
 _Essential News_ is sent to all **Girlguiding Hertfordshire** members by email on the first Monday of each month (subject to Bank Holidays). Please check your junk mail folders if you haven't received a copy.
 
+## 2022
+- [January 2022 <i class="fa fa-external-link"></i>](https://mailchi.mp/a3aed69df64d/jan-2022-essential-news-5015594?e=3599adf2bf){:target="_blank"}{:class="lead"}{:rel="noreferrer noopener"}
 ## 2021
-- [December 2021 <i class="fa fa-external-link"></i>](https://mailchi.mp/2c8ad8b2e52e/dec-2021-essential-news-5000438){:target="_blank"}{:class="lead"}
-- [November 2021 <i class="fa fa-external-link"></i>](https://mailchi.mp/65b0a7d996c4/nov-2021-essential-news-4986410){:target="_blank"}
-- [October 2021 <i class="fa fa-external-link"></i>](https://mailchi.mp/e1eb216f47fe/oct-2021-essential-news-4972418){:target="_blank"}
-- [September 2021 <i class="fa fa-external-link"></i>](https://mailchi.mp/47bc1115bc9e/sept-2021-essential-news){:target="_blank"}
+- [December 2021 <i class="fa fa-external-link"></i>](https://mailchi.mp/2c8ad8b2e52e/dec-2021-essential-news-5000438){:target="_blank"}{:rel="noreferrer noopener"}
+- [November 2021 <i class="fa fa-external-link"></i>](https://mailchi.mp/65b0a7d996c4/nov-2021-essential-news-4986410){:target="_blank"}{:rel="noreferrer noopener"}
+- [October 2021 <i class="fa fa-external-link"></i>](https://mailchi.mp/e1eb216f47fe/oct-2021-essential-news-4972418){:target="_blank"}{:rel="noreferrer noopener"}
+- [September 2021 <i class="fa fa-external-link"></i>](https://mailchi.mp/47bc1115bc9e/sept-2021-essential-news){:target="_blank"}{:rel="noreferrer noopener"}
 - August 2021 (No newsletter)
-- [July 2021 <i class="fa fa-external-link"></i>](https://mailchi.mp/2a701b398b86/july-2021-essential-news){:target="_blank"}
-- [June 2021 <i class="fa fa-external-link"></i>](https://mailchi.mp/be4b583e65bd/june-2021-essential-news){:target="_blank"}
+- [July 2021 <i class="fa fa-external-link"></i>](https://mailchi.mp/2a701b398b86/july-2021-essential-news){:target="_blank"}{:rel="noreferrer noopener"}
+- [June 2021 <i class="fa fa-external-link"></i>](https://mailchi.mp/be4b583e65bd/june-2021-essential-news){:target="_blank"}{:rel="noreferrer noopener"}
