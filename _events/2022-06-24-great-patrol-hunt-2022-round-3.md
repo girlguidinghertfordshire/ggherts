@@ -5,8 +5,8 @@ event:
   start_date: '2022-06-24'
   end_date: '2022-06-26'
   address: Wymondley Wood, Letchworth
-  contact_name: Pauline Levy
-  contact_email: parkstreetguides@icloud.com
+  contact_name: Jean Banks
+  contact_email: ggheartsoaa@gmail.com
   contact_number: ''
   book_now_link: ''
   image: /wp-content/uploads/2018/06/GPH-2018-360x273.png
