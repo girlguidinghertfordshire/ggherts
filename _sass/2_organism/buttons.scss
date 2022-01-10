@@ -57,6 +57,9 @@
         transform: skew(-2deg,17deg);
         width: 128px;
     }
+    &:focus{
+        box-shadow: none;
+    }
     > span { 
         display: block;
         position: relative;
