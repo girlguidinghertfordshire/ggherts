@@ -90,6 +90,25 @@
         }
     }
 }
+.gg-event-card-header {
+    display: flex;
+    .card-title {
+        flex-grow: 1;
+    }
+}
+.gg-card-footer {
+    a {
+        color: $gg-pink;
+        text-decoration: none;
+        &:focus span,&:hover span{
+            text-decoration: underline;
+        }
+        .fa {
+            padding: 0 10px;
+            text-decoration: none;
+        }
+    }
+}
 @media (max-width:($grid-md-min - 1)) {
     .filter-result {
         margin: 0;

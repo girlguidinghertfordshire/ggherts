@@ -4,6 +4,7 @@ main:
   - id: get-involved
   - id: county-teams
   - id: events
+  - id: training
   - id: news
   - id: contact
 about-us:
@@ -84,6 +85,9 @@ events:
     url: /events/calendar/
   - title: Great Patrol Hunt
     url: /great-patrol-hunt/
+training:
+  title: Training
+  url: /training/
 news:
   title: News
   url: /news/

@@ -1,0 +1,89 @@
+---
+layout: default-v5
+---
+{% include banner.html %}
+<div class="container">
+    <div class="row">
+        <div class="col-sm-12">
+            <nav aria-label="breadcrumb">
+                <ul class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="/" title="Home">Home</a></li>
+                    <li class="breadcrumb-item">{% if page.event.type contains "Training" %}
+                        <a href="/training/">Training courses</a>
+                        {% else %}
+                        <a href="/events/">Events</a>
+                        {% endif %}</li>
+                    <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <div class="card">
+                <div class="card-header gg-event-card-header">
+                    <h1 class="card-title">{{ page.title }}</h1>
+                    <div class="widget-text">
+                        <span class="st_facebook_large" displaytext="Facebook" title="Share on Facebook"></span>
+                        <span class="st_twitter_large" displaytext="Tweet" title="Share on Twitter"></span>
+                    </div>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col">
+                            <date class="card-subtitle text-muted">{{ page.event.start_date | date_to_string:
+                                "ordinal","GB" }}
+                                {% if page.event.end_date != '' and page.event.start_date != page.event.end_date %}
+                                - {{ page.event.end_date | date_to_string: "ordinal","GB" }}
+                                {% endif %}
+                            </date>
+                            <div class="card-text">{{ content }}</div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <ul class="list-group list-group-flush">
+                            {% if page.event.contact_name or page.event.contact_email %}
+                                {% if page.event.address!='' %}
+                                <li class="list-group-item"><i class="fa fa-map-marker"></i> <span>{{page.event.address}}</span></li>
+                                {% endif %}
+                                {% if page.event.contact_name %}
+                                <li class="list-group-item"><i class="fa fa-user"></i> {{ page.event.contact_name }}</li>
+                                {% endif %}
+                                {% if page.event.contact_email %}
+                                <li class="list-group-item"><a href="mailto:{{page.event.contact_email}}"><i
+                                            class="fa fa-envelope-o"></i> {{page.event.contact_email}}</a></li>
+                                {% endif %}
+                            {% endif %}
+                            {% unless page.event.book_now_link == '' %}
+                                <li class="list-group-item"><button class="btn btn-pink btn-inverse" type="button"><span><i
+                                        class="fa fa-external-link"></i> Book places </span></button></li>
+                            {% endunless %}
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-footer gg-card-footer">
+                    <div class="row">
+                    <div class="col-md-5">
+                    {% if page.previous.url %}
+                    <a class="d-flex" href="{{page.previous.url}}"><i class="fa fa-long-arrow-left"></i><span class="flex-grow">{{page.previous.title}}</span></a>
+                    {% endif %}
+                    </div>
+                    <div class="col-md-2 text-center">
+                    {% if page.event.type contains "Training" %}
+                    <a href="/training/"><span>All courses</span></a>
+                    {% else %}
+                    <a href="/events/"><span>All events</span></a>
+                    {% endif %}
+                    </div>
+                    <div class="col-md-5">
+                        {% if page.next.url %}
+                        <a class="d-flex justify-content-end" href="{{page.next.url}}"><span class="flex-grow">{{page.next.title}}</span> <i class="fa fa-long-arrow-right"></i></a>
+                        {% endif %}
+                    </div></div>
+                </div>
+            </div>
+        </div>              
+    </div>
+</div>
