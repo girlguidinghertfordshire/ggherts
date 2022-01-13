@@ -40,16 +40,16 @@ var breakpoint = { xs:0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400};
                 }
             });
 
-            $(".gg-menu .has-children").on("click", function (event) {
+            $(".gg-menu .has-children>a").on("click", function (event) {
                 event.preventDefault();
                 event.stopImmediatePropagation();
-                var li = $(this);
+                var li = $(this).parent();
                 if ($(li).hasClass("open")) {
                     closeChildMenu(li);
                 } else {
                     closeAllChildMenus($(this).closest("ul"));
                     $(li).addClass("open");
-                    var $a=$(this).find("a:first");
+                    var $a=$(this);
                     var firstLi = "<li><a href=\"" + $a.prop("href") + "\">" + $a.text() + "</a></li>";
                     $(li).find("ul:first").prepend(firstLi);
                 }
