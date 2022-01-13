@@ -6,7 +6,7 @@ event:
   end_date: ''
   address: Hertfordshire
   contact_name: Jean Banks
-  contact_email: ggheartsoaa@gmail.com
+  contact_email: gghertsoaa@gmail.com
   contact_number: ''
   book_now_link: ''
   image: /wp-content/uploads/2018/06/GPH-2018-360x273.png
