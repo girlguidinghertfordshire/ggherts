@@ -4,7 +4,7 @@ date: '2022-01-01T09:45:52.715Z'
 event:
     start_date: '2022-02-09'
     end_date: '2022-03-02'
-    address: Zoom/Radlett
+    address: Zoom/Hertford
     contact_name: null
     contact_email: null
     contact_number: ''
@@ -16,18 +16,18 @@ event:
     age-group:
         - Leaders
     location:
-        - 'Hertfordshire, Central'
+        - 'Hertfordshire, East'
         - Virtual
 author:
     display_name: The County Office
-lastmod: '2022-01-06T08:00:08.428Z'
+lastmod: '2022-01-13T22:03:27.211Z'
 permalink: /events/2022/02/1st-response-course/
 ---
 
 1st Response course for leaders and leaders in training, taking place over 2 sessions, one virtual and one face to face.  Both sessions MUST be attended.
 
 Session 1 (via Zoom): Wednesday 9 February 2022, 7-9.30pm  
-Session 2 (face to face): Wednesday 2 March 2022, 7-9.30pm. Venue TBC, will be in either Hertford or Central Hertfordshire
+Session 2 (face to face): Wednesday 2 March 2022, 7-9.30pm - taking place in Hertford
 
 **Cost:** £10 by cheque (payable to 1st Aid Fundraising) or by bank transfer.  Bank details will be provided once you have booked your space.
 
