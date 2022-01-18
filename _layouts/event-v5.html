@@ -56,8 +56,8 @@ layout: default-v5
                                 {% endif %}
                             {% endif %}
                             {% unless page.event.book_now_link == '' %}
-                                <li class="list-group-item"><button class="btn btn-primary d-block w-100" type="button"><span><i
-                                        class="fa fa-external-link"></i> Book places </span></button></li>
+                                <li class="list-group-item"><a class="btn btn-primary d-block w-100" href="{{page.event.book_now_link}}" target="_blank" rel="noopener noreferrer"><span><i
+                                        class="fa fa-external-link"></i> Book places </span></a></li>
                             {% endunless %}
                             </ul>
                         </div>
