@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Thanks, Awards and Recognition
-date: 2017-06-09 10:58:20.000000000 +01:00
+title: 'Thanks, Awards and Recognition'
+date: 2017-06-09T09:58:20.000Z
 toc: get-involved
 advertId: get-involved
 author:
@@ -10,27 +10,18 @@ author:
   display_name: Rachel Kemp
   first_name: Rachel
   last_name: Kemp
+lastmod: '2022-01-18T19:45:00.076Z'
 ---
 <div class="lead">There are many ways to say thank you, and to acknowledge
     all that is done within guiding, including <a href="#county">County</a>, <a href="#region">Region</a> and
     <a href="#national">National</a> awards. </div>
 <h2 id="county">County Awards</h2>
 <img class="alignright wp-image-3060 " src="/wp-content/uploads/2019/05/p1140471_46955040804_o-300x225.jpg" alt="" width="252" height="189" />These recognise and reward the work that our volunteers do which is over and beyond their roles in Girlguiding Hertfordshire. Each nominee for a county award should be proposed and seconded by members of Girlguiding Hertfordshire and approved by the appropriate commissioner, who must not be either the proposer or seconder and not related to any party.
-<h3>The nomination process for 2021-2022 Awards is now OPEN</h3>
-We have a large number of remarkable people in Hertfordshire and this is your opportunity to put them forward for recognition.
 
-The current awards nomination session will be open until <strong>Monday,</strong> <strong>18 October 2021</strong>.
+### The nomination process for 2021-2022 Awards is now CLOSED
+The Grand Garden party celebration event for our award recipients, their guests and VIPs will be held in June 2022. Invitations will be sent closer to the date.
 
-Download the <a href="/wp-content/uploads/2021/07/Awards-Nomination-Form-and-Instructions.docx">Awards Nomination Form and guidance</a> which details how to complete the form and supporting letters.
-
-Download the <a href="/wp-content/uploads/2021/07/Guidelines-for-County-Award-Nominations-2021-22.docx">Awards guidelines</a> which details the awards available and the eligibility criteria for each.
-
-If you have any questions or suggestions, please contact the Awards team via either: 
-
-- <a href="mailto:awardsec@girlguidinghertfordshire.org.uk">awardsec@girlguidinghertfordshire.org.uk</a> or 
-- <a href="mailto:awards@girlguidinghertfordshire.org.uk">awards@girlguidinghertfordshire.org.uk</a>
-
-There are two sessions for nominations every year and we hold an annual celebration event, currently our plan is to hold this in the summer next year, more information will be forthcoming on this soon.
+Nominations for awards in 2022-2023 will open later in the year
 
 ### Hertfordshire County Thanks Certificate
 
