@@ -11,7 +11,7 @@ event:
     book_now_link: 'https://www.eventbrite.co.uk/e/girlguiding-hertfordshire-full-1st-response-course-over-2-sessions-tickets-235328051537'
     image: /wp-content/uploads/2016/07/IMG_5900-360x273.jpg
     type:
-        - First Response
+        - 1st Response
         - Training
     age-group:
         - Leaders
@@ -20,7 +20,7 @@ event:
         - Virtual
 author:
     display_name: The County Office
-lastmod: '2022-01-06T07:59:52.796Z'
+lastmod: '2022-01-18T16:33:48.454Z'
 permalink: /events/2022/01/1st-response-course/
 ---
 

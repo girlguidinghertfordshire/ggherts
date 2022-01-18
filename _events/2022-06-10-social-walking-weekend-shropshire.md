@@ -12,7 +12,7 @@ event:
     image: /assets/images/2021/08/social-walk2.jpg
     type:
         - Social
-        - Residential/Camp
+        - Residential
     age-group:
         - Adults
         - Rangers
@@ -23,7 +23,7 @@ author:
     display_name: null
     first_name: null
     last_name: null
-lastmod: '2022-01-01T09:42:02.260Z'
+lastmod: '2022-01-18T16:38:50.875Z'
 ---
 
 Adult and Ranger social walking weekend in the gentle Shropshire Hills for those new to hillwalking up to Level 2 of the walking scheme. You choose; walk miles for Logbook walks or have a relaxing weekend in beautiful surroundings.

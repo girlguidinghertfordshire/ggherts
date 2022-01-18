@@ -12,6 +12,7 @@ event:
     image: /assets/images/2021/08/social-walk2.jpg
     type:
         - Social
+        - Residential
     age-group:
         - Adults
         - Trefoil
@@ -19,7 +20,7 @@ event:
         - Scotland
 author:
     display_name: The County Office
-lastmod: '2022-01-01T09:42:32.677Z'
+lastmod: '2022-01-18T16:33:09.708Z'
 ---
 
 Social walking weekend for adults from Friday 26 - Tuesday 30 August 2022 in the Scottish mountains near Crainlarich.

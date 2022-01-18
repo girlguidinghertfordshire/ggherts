@@ -11,7 +11,7 @@ event:
     book_now_link: ''
     image: /assets/images/2021/11/outdoor_first_aid360.jpg
     type:
-        - First Response
+        - First Aid
         - Training
     age-group:
         - Rangers
@@ -25,7 +25,7 @@ author:
     display_name: null
     first_name: null
     last_name: null
-lastmod: '2021-12-08T23:04:30.589Z'
+lastmod: '2022-01-18T16:34:24.268Z'
 ---
 
 This course is taking place on Saturday, 5 March and Sunday, 6th March 2022 in Little Gaddesden, Hertfordshire
