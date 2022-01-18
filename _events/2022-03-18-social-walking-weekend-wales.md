@@ -9,20 +9,20 @@ event:
     contact_email: walking@girlguidinghertfordshire.org.uk
     contact_number: ''
     book_now_link: ''
-    image: '/assets/images/2021/08/social-walk2.jpg'
-    type: 
-    - Social
-    - Residential/Camp
-    age-group: 
-    - Adults
-    location: 
-    - South Wales
+    image: /assets/images/2021/08/social-walk2.jpg
+    type:
+        - Social
+        - Residential
+    age-group:
+        - Adults
+    location:
+        - South Wales
 author:
     email: null
     display_name: null
     first_name: null
     last_name: null
-lastmod: '2021-12-02T20:36:54.520Z'
+lastmod: '2022-01-18T16:32:04.751Z'
 ---
 
 Adult members of Girlguiding & friends are welcome to join the Walking Team on a social walking weekend in South Wales (Black Mountains or Brecon Beacons - exact location tbc) from the evening of Friday, 18th March until the evening of Sunday, 20th March. 

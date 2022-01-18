@@ -11,7 +11,7 @@ event:
   book_now_link: ''
   image: /assets/images/2021/12/1st_response_badge360.jpg
   type:
-    - First Response
+    - 1st Response
     - Training
   age-group:
     - Leaders
@@ -23,7 +23,7 @@ author:
   first_name: null
   last_name: null
 permalink: /event/1st-response-course-29-jan-22
-lastmod: '2021-12-15T07:47:47.376Z'
+lastmod: '2022-01-18T16:33:36.988Z'
 ---
 **This course is now fully booked**
 

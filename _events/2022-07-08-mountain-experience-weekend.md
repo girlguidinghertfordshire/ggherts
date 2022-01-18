@@ -12,7 +12,7 @@ event:
     image: /assets/images/2021/12/mountain-experience-weekend.jpg
     type:
         - Social
-        - Residential/Camp
+        - Residential
     age-group:
         - Rangers
         - Young Leaders
@@ -23,7 +23,7 @@ author:
     display_name: null
     first_name: null
     last_name: null
-lastmod: '2021-12-08T22:49:47.602Z'
+lastmod: '2022-01-18T16:32:34.310Z'
 ---
 
 Rangers & Young Leaders are invited to have a fun hillwalking weekend in the Peak District & to improve their map reading and navigation skills, either for their own personal adventures, for DofE, or to enable them to participate in Peak Assault, an orienteering competition run by Hertfordshire Scouts in remote terrain. 

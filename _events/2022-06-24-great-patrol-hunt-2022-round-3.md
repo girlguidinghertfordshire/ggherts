@@ -1,23 +1,24 @@
 ---
 title: Great Patrol Hunt 2022 Round 3
-date: 2021-04-21 08:43:16.000000000 +01:00
+date: 2021-04-21T07:43:16.000Z
 event:
   start_date: '2022-06-24'
   end_date: '2022-06-26'
-  address: Wymondley Wood, Letchworth
+  address: 'Wymondley Wood, Letchworth'
   contact_name: Jean Banks
   contact_email: gghertsoaa@gmail.com
   contact_number: ''
   book_now_link: ''
   image: /wp-content/uploads/2018/06/GPH-2018-360x273.png
-  type: 
-  - Activity Day
-  - Residential/Camp
+  type:
+    - Activity Day
+    - Residential
   age-group: Guides
-  location: Hertfordshire, North
+  location: 'Hertfordshire, North'
 author:
   display_name: Rachel Kemp
-permalink: "/event/great-patrol-hunt-2022-round-3/"
+permalink: /event/great-patrol-hunt-2022-round-3/
+lastmod: '2022-01-18T16:36:10.379Z'
 ---
 <p>The Great Patrol Hunt 2022 Round 3 is taking place Friday-Sunday 24-26 June 2022 at Wymondley Wood, Letchworth.</p>
 <p>Further information will be added in due course.</p>

@@ -12,7 +12,8 @@ event:
     image: /assets/images/2021/12/dofe_expedition_training360.jpg
     type:
         - Training
-        - Residential/Camp
+        - Residential
+        - DofE
     age-group:
         - Guides
         - Rangers
@@ -23,7 +24,7 @@ author:
     display_name: null
     first_name: null
     last_name: null
-lastmod: '2021-12-08T22:41:51.258Z'
+lastmod: '2022-01-18T17:16:06.031Z'
 ---
 
 This course is taking place from 10am Saturday, 29th January until 4pm Sunday, 30th January near St Albans.

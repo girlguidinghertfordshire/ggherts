@@ -73,7 +73,7 @@ layout: default
                 </div>
                     {% unless page.event.book_now_link == '' %}
                     <div>
-                        <button class="btn btn-pink btn-inverse" type="button"><span><i class="fa fa-external-link"></i> Book places </span></button></div>
+                        <a class="btn btn-pink btn-inverse" href="{{ page.event.book_now_link }}"><span><i class="fa fa-external-link"></i> Book places </span></a></div>
                     {% endunless %}
                 </div>
                 

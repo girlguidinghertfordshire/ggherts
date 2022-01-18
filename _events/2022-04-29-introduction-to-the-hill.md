@@ -11,7 +11,7 @@ event:
     book_now_link: ''
     image: /assets/images/2021/11/ITTH.jpg
     type:
-        - Residential/Camp
+        - Residential
     age-group:
         - Guides
     location:
@@ -21,7 +21,7 @@ author:
     display_name: null
     first_name: null
     last_name: null
-lastmod: '2021-12-08T22:47:06.096Z'
+lastmod: '2022-01-18T16:32:27.573Z'
 ---
 A camping weekend for Hertfordshire Guides and Scouts, aged between 11 and 13, in the Peak District on **Friday, 29 April 2022 - Bank Holiday Monday, 2 May 2022**
 
