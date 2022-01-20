@@ -24,9 +24,8 @@ author:
   first_name: null
   last_name: null
 permalink: /event/1st-response-course-26-mar-22
-lastmod: '2022-01-18T19:38:08.184Z'
+lastmod: '2022-01-20T09:09:16.376Z'
 ---
-**This course is now fully booked**
 
 This 1st Response course takes place on Saturday, 26 March 2022 in Hemel Hempstead from **10am - 4pm.**  The course is open to all Guiding personnel.
 
