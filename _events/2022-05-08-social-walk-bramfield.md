@@ -1,10 +1,10 @@
 ---
-title: 'Social Walk from Debden Green, nr Saffron Walden'
-date: '2021-12-01T21:48:23.190Z'
+title: Social Walk from Bramfield
+date: '2022-01-25T19:43:35.251Z'
 event:
-    start_date: '2022-02-06'
+    start_date: '2022-05-08'
     end_date: ''
-    address: 'Debden Green, nr Saffron Walden'
+    address: Bramfield
     contact_name: null
     contact_email: walking@girlguidinghertfordshire.org.uk
     contact_number: ''
@@ -17,19 +17,19 @@ event:
         - Young Leaders
         - Rangers
     location:
-        - Hertfordshire
+        - 'Hertfordshire, East'
 author:
     email: null
     display_name: null
     first_name: null
     last_name: null
-lastmod: '2021-12-06T22:13:39.561Z'
+lastmod: '2022-01-25T19:48:07.164Z'
 ---
 
- Adults, Young Leaders & Rangers are welcome to join the Walking Team on a social walk from Debden Green, near Saffron Walden, starting at 9am on Sunday 6th February until approximately 1.15pm. Bring a hot drink and several snacks!
+Social walk from Bramfield, Hertfordshire for Rangers, Young Leaders and adults taking place on Sunday 8 May from 10.30am - 12.30pm.
 
 You can just 'walk & talk' or improve your map reading skills if you wish - please say if you want this when booking.
 
 No charge.
 
-To book a place please email <walking@girlguidinghertfordshire.org.uk>
+Email <walking@girlguidinghertfordshire.org.uk> to book.
