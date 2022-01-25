@@ -26,9 +26,9 @@ author:
 lastmod: '2021-12-06T22:13:39.561Z'
 ---
 
- Adults, Young Leaders & Rangers are welcome to join the Walking Team on a social walk from Debden Green, near Saffron Walden, starting at 10.30am on Sunday 6th February until approximately 12:30pm
+ Adults, Young Leaders & Rangers are welcome to join the Walking Team on a social walk from Debden Green, near Saffron Walden, starting at 9am on Sunday 6th February until approximately 1.15pm. Bring a hot drink and several snacks!
 
-You can just 'walk & talk' or practice your map reading skills if you wish to.
+You can just 'walk & talk' or improve your map reading skills if you wish - please say if you want this when booking.
 
 No charge.
 
