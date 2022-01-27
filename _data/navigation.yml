@@ -42,6 +42,9 @@ get-involved:
     url: /get-involved/share/
   - title: Thanks, Awards and Recognition
     url: /get-involved/thanks/
+    items:
+    - title: Long Service Awards
+      url: /get-involved/thanks/long-service-awards/
 county-teams:
   title: County Teams
   url: /county-teams/

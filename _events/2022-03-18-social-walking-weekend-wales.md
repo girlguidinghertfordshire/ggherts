@@ -22,11 +22,13 @@ author:
     display_name: null
     first_name: null
     last_name: null
-lastmod: '2022-01-18T16:32:04.751Z'
+lastmod: '2022-01-27T20:41:58.846Z'
 ---
 
-Adult members of Girlguiding & friends are welcome to join the Walking Team on a social walking weekend in South Wales (Black Mountains or Brecon Beacons - exact location tbc) from the evening of Friday, 18th March until the evening of Sunday, 20th March. 
+Adult members of Girlguiding & friends are welcome to join the Walking Team on a social walking weekend in the Black Mountains, South Wales from the evening of Friday, 18th March until the evening of Sunday, 20th March. 
 Walks will be led by qualified leaders so you can just walk & enjoy the scenery or practice your map reading skills if you wish to. 
+
+Walks will be guided so navigational ability not essential, but participants need to be able to walk at moderate pace for 6 hours, including ascent and descent.
 
 Participants will be responsible for their own travel, but we will help set up car shares. 
 
