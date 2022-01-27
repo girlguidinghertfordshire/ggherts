@@ -144,20 +144,25 @@ layout: default-v5
                                 <h5>Type</h5>
                                 <ul class="division type">
                                     {% for type in all_types %}
+                                    {% unless page.type=="training" and type=="Training" %}
                                     <li><input type="checkbox" name="{{ type | slugify }}"
                                             id="division_filter_{{ type | slugify }}" value="{{ type }}" /><label
                                             for="division_filter_{{ type | slugify }}">{% include
                                             eventtypes.html type=type %}</label></li>
+                                    {% endunless %}
                                     {% endfor %}
                                 </ul>
                             </div>
                             <div class="col">
-                                <h5>Age Group</h5>
+                                <h5>Section</h5>
+                                {% assign sections = "Rainbows,Brownies,Guides,Rangers,Young Leaders,Inspire,Adults,Leaders,Trefoil" | split:"," %}
                                 <ul class="division age">
-                                    {% for age in all_ages %}
-                                    <li><input type="checkbox" name="{{age | slugify }}"" id="age_filter_{{ age | slugify }}" value="{{ age }}" />
-                                        <label for="age_filter_{{ age | slugify }}">{{ age }}</label>
+                                    {% for section in sections %}
+                                    {% if all_ages contains section %}
+                                    <li><input type="checkbox" name="{{section | slugify }}"" id="age_filter_{{ section | slugify }}" value="{{ section }}" />
+                                        <label for="age_filter_{{ section | slugify }}">{{ section }}</label>
                                     </li>
+                                    {% endif %}
                                     {% endfor %}
                                 </ul>
                             </div>

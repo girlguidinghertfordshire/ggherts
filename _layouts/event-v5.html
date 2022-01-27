@@ -37,7 +37,9 @@ layout: default-v5
                                 - {{ page.event.end_date | date_to_string: "ordinal","GB" }}
                                 {% endif %}
                             </date>
-                            <div class="card-text">{{ content }}</div>
+                            <div class="card-text">{{ content }} {% if page.event.type contains "1st Response" or page.event.type contains "First Aid" %}
+                                {% include firstaid.html %}
+                                {% endif %}</div>
                         </div>
                     </div>
                     <div class="row">
