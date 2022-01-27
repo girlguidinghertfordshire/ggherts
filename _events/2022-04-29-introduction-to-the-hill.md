@@ -21,8 +21,10 @@ author:
     display_name: null
     first_name: null
     last_name: null
-lastmod: '2022-01-18T16:32:27.573Z'
+lastmod: '2022-01-27T20:16:54.836Z'
 ---
+**This event is now FULLY BOOKED**
+
 A camping weekend for Hertfordshire Guides and Scouts, aged between 11 and 13, in the Peak District on **Friday, 29 April 2022 - Bank Holiday Monday, 2 May 2022**
 
 Activities include hill walking, outdoor climbing, cycling and caving.
