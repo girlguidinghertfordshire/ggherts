@@ -9,7 +9,7 @@ event:
     contact_email: null
     contact_number: ''
     book_now_link: ''
-    image: /assets/images/2022/01/geocache.jpg
+    image: /assets/images/2022/01/geocache1.jpg
     type:
         - Social
     age-group:
@@ -23,7 +23,7 @@ author:
     display_name: The County Office
     first_name: null
     last_name: null
-lastmod: '2022-01-25T19:47:21.742Z'
+lastmod: '2022-01-27T19:56:06.485Z'
 ---
 
 An afternoon of social geocaching in central Hertfordshire for Young Leaders, Rangers and adults.  Training and advice available.  Please say if you would like training when booking.

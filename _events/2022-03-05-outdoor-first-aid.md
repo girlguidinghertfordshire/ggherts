@@ -25,7 +25,7 @@ author:
     display_name: null
     first_name: null
     last_name: null
-lastmod: '2022-01-18T16:34:24.268Z'
+lastmod: '2022-01-27T21:04:00.565Z'
 ---
 
 This course is taking place on Saturday, 5 March and Sunday, 6th March 2022 in Little Gaddesden, Hertfordshire
@@ -37,5 +37,3 @@ The course is essential for those leading outdoor activities such as hillwalking
 **Cost:** £130. Funding is available for those needing Outdoor First Aid as part of another outdoor qualification which they are using for Girlguiding events. 
 
 To book contact <walking@girlguidinghertfordshire.co.uk>
-
-**Please note:** In order to be a recognised first aider in Girlguiding you must also complete the 1st Response e-learning via the [Girlguiding website.](https://training.girlguiding.org.uk/first-response/?_ga=2.243395270.2123503171.1626684443-707145301.1620647744#/menu/5f1ec172e2dbde2f11ab1d0d)

@@ -20,7 +20,7 @@ event:
         - Virtual
 author:
     display_name: The County Office
-lastmod: '2022-01-22T19:13:24.376Z'
+lastmod: '2022-01-27T20:35:17.111Z'
 permalink: /events/2022/02/1st-response-course/
 ---
 
@@ -35,7 +35,4 @@ Session 2 (face to face): Wednesday 2 March 2022, 7-9.30pm - taking place in Her
 
 **Deadline for bookings:** Wednesday 2 February 2022
 
-**Please note:** In order to be a recognised first aider in Girlguiding you must also complete the 1st Response e-learning via the [Girlguiding website.][2]
-
 [1]: {{ page.event.book_now_link}}
-[2]: https://training.girlguiding.org.uk/first-response/

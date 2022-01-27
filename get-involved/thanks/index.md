@@ -10,7 +10,7 @@ author:
   display_name: Rachel Kemp
   first_name: Rachel
   last_name: Kemp
-lastmod: '2022-01-18T19:45:00.076Z'
+lastmod: '2022-01-27T20:59:59.389Z'
 ---
 <div class="lead">There are many ways to say thank you, and to acknowledge
     all that is done within guiding, including <a href="#county">County</a>, <a href="#region">Region</a> and
@@ -75,6 +75,8 @@ There are many national awards that can be given to volunteers. These include:
 - Thanks Badge<img class="size-medium wp-image-1847 alignright" src="/wp-content/uploads/2017/06/service16-300x200.jpg" alt="" width="300" height="200" /> 
 - Good Service Brooch 
 - Long Service Awards (awarded automatically) 
+
+Our Long Service Award recipients are celebrated on our [Long Service Awards page](long-service-awards/)
 
 Members can also be nominated for the following discretionary awards: 
 
