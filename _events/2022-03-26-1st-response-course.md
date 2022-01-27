@@ -24,7 +24,7 @@ author:
   first_name: null
   last_name: null
 permalink: /event/1st-response-course-26-mar-22
-lastmod: '2022-01-20T09:09:16.376Z'
+lastmod: '2022-01-27T20:35:43.381Z'
 ---
 
 This 1st Response course takes place on Saturday, 26 March 2022 in Hemel Hempstead from **10am - 4pm.**  The course is open to all Guiding personnel.
@@ -32,5 +32,3 @@ This 1st Response course takes place on Saturday, 26 March 2022 in Hemel Hempste
 Contact Lynne Kirby to book: [lynnekirby1@googlemail.com](mailto:lynnekirby1@googlemail.com)
 
 Cost: **£20**
-
-**Please note:**  In order to be a recognised first aider in Girlguiding you must also complete the 1st Response e-learning via the [Girlguiding website.](https://training.girlguiding.org.uk/first-response/?_ga=2.243395270.2123503171.1626684443-707145301.1620647744#/menu/5f1ec172e2dbde2f11ab1d0d)

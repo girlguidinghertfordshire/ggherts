@@ -32,6 +32,9 @@ layout: default
             <div class="col-sm-8">
                 <div class="post-list">
                     {{ content }}
+                    {% if page.event.type contains "1st Response" or page.event.type contains "First Aid" %}
+                    {% include firstaid.html %}
+                    {% endif %}
                     <div class="posts-navigation">
                         {% if page.previous.url %}
                             <a class="prev-post" href="{{page.previous.url}}">{{page.previous.title}}</a>
