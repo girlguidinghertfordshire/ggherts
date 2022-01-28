@@ -3,7 +3,7 @@ layout: page
 title: Social Walking
 date: '2021-11-21T12:10:26.889Z'
 toc: county-teams
-lastmod: '2022-01-27T20:22:00.940Z'
+lastmod: '2022-01-28T19:36:44.646Z'
 ---
 
 We have an active and friendly walking team in Hertfordshire, why not join us for a walk or a weekend on one of our training and social weekends which can be found on the [event page](/events/), or contact our Walking Team by:
@@ -13,9 +13,10 @@ We have an active and friendly walking team in Hertfordshire, why not join us fo
 ## Newsletter
 To see what the Walking Team have planned please view the latest Walking Team newsletter
 
-[December 2021 Newsletter <i class="fa fa-download"></i>](/assets/docs/walking-team-december-2021-newsletter.docx){:class="btn-gg"}
+[January 2022 Newsletter <i class="fa fa-download"></i>](/assets/docs/2022/walking-team-jan-2022-newsletter.docx){:class="btn-gg"}
 
 ### Previous editions
+- [December 2021 Newsletter <i class="fa fa-download"></i>](/assets/docs/walking-team-december-2021-newsletter.docx)
 - [November 2021 Newsletter <i class="fa fa-download"></i>](/assets/docs/walking-team-november-2021-newsletter.docx)
 
 ## Activities for unit meetings

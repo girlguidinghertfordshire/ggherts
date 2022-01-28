@@ -10,7 +10,7 @@ author:
     display_name: Rachel Kemp
     first_name: Rachel
     last_name: Kemp
-lastmod: '2022-01-27T21:00:47.283Z'
+lastmod: '2022-01-28T19:30:27.408Z'
 ---
 60, 50, 40, 30, 20, 10 and 5 year Long Service Awards are awarded to any adult member aged 16 or over<a href="#service">*</a>. 
 
@@ -24,24 +24,24 @@ Congratulations to our members who have achieved their Long Service Awards.
 Mary Mooney
 
 ### 30 Year
-Gill Carter
+Gill Carter  
 Julia Davies
 
 ### 20 Year
-Heather Gomm
-Sheila Hill
-Amanda Jones
+Heather Gomm  
+Sheila Hill  
+Amanda Jones  
 Anna Murphy
 
 ### 10 Year
-Jane Connelly-Owen
+Jane Connelly-Owen  
 Eleanor Thomas
 
 ### 5 Year
-Norman Apthorpe
-Brian Carroll
-Emma Damiral
-Janet Wade
+Norman Apthorpe  
+Brian Carroll  
+Emma Damiral  
+Janet Wade  
 Shirin Edwards
 
 <hr>
