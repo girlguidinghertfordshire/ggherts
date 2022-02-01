@@ -9,7 +9,7 @@ event:
     contact_email: outdoor@girlguidinghertfordshire.org.uk
     contact_number: ''
     book_now_link: ''
-    image: /assets/images/2021/12/guide_treasure.jpg
+    image: /assets/images/2022/02/guidetreasurehunt.jpg
     type:
         - Activity Day
     age-group:
@@ -21,7 +21,7 @@ author:
     display_name: null
     first_name: null
     last_name: null
-lastmod: '2021-12-08T22:45:44.305Z'
+lastmod: '2022-02-01T20:24:32.681Z'
 ---
 This treasure hunt for Guides is taking place on Saturday, 23 April 2022 at Chandlers Cross, Hertfordshire, from 10am – 4pm. 
 

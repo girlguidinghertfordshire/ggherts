@@ -1,0 +1,21 @@
+// -----------------------------------------------------------------------------
+// Base font-size
+// -----------------------------------------------------------------------------
+$font-size : 16;       
+$em        : $font-size*1em;
+
+// Base style
+body {
+    font-size: 16px;
+    font-family: "trebuchet ms","open sans",sans-serif;
+}
+
+//
+.header {
+    padding: 6px 0;
+}
+
+h1 { 
+    color: $gg-pink;
+    font-weight: 700;
+}

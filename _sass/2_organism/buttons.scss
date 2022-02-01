@@ -1,0 +1,121 @@
+// override BS default colours
+.btn-primary {
+    color: #fff;
+    background-color: $gg-pink;
+    border-color: $gg-pink;
+}
+.btn-secondary {
+    color: #fff;
+    background-color: $gg-dark-blue;
+    border-color: $gg-dark-blue;
+}
+// shaped buttons
+.gg-btn {
+    border-radius: 20px;
+    height: 43px;
+    left: 2px;
+    transform: skew(2deg,-10deg);
+    width: 130px;
+    font-size: 14px;
+    padding-top: 7px;
+    span {
+        color: white;
+        &::after {
+            content: "\f105";
+            display: inline-block;
+            font-family: FontAwesome;
+            padding-left: 5px;
+            vertical-align: middle;
+            margin-top: -1px;
+        }
+    }
+    &::before{
+        border-color: $gg-dark-pink;
+        background-color: $gg-pink;
+        border-radius: 10px 12px 0 0;
+        border-style: solid solid none;
+        border-width: 1px 1px medium;
+        content: "";
+        height: 40px;
+        left: 0;
+        position: absolute;
+        top: 0;
+        transform: skew(0deg,10deg);
+        width: 100%;
+    }
+    &::after{
+        border-color: $gg-dark-pink;
+        background-color: $gg-pink;
+        border-radius: 0 0 5px 8px;
+        border-style: none solid solid;
+        border-width: 0 1px 1px;
+        content: "";
+        height: 50%;
+        left: 0;
+        position: absolute;
+        top: 32px;
+        transform: skew(-2deg,17deg);
+        width: 128px;
+    }
+    &:focus{
+        box-shadow: none;
+    }
+    > span { 
+        display: block;
+        position: relative;
+        text-align: center;
+        top: 6px;
+        -webkit-transform: skew(0deg,10deg);
+        transform: skew(0deg,10deg);
+        z-index: 999;
+        font-size: 14px;
+    }
+}
+.gg-btn-pink-o {
+    span {
+        color: $gg-dark-pink;
+        &::after {
+            color: $gg-dark-pink;
+        }
+    }
+    &::before, &::after {
+        background-color: white;
+    }    
+    &:hover{        
+        span {
+            color: white;
+            &::after {
+                color: white;
+            }
+        }
+        &::before,&::after {
+            background-color: $gg-light-pink;
+            border-color: darken($gg-dark-pink,15%);
+        }
+    }
+}
+.gg-btn-blue {
+    span {
+        color: white;
+        &::after {
+            color: white;
+        }
+    }
+    &::before,&::after {
+        background-color: $gg-dark-blue;
+        border-color: $gg-blue;
+    }
+    &:hover{
+        &::before,&::after {
+            background-color: darken($gg-dark-blue,15%);
+            border-color: darken($gg-blue,15%);
+        }
+    }
+     
+}
+.gg-btn-shift {
+    position: absolute;
+    right: 14px;
+    bottom: -45px;
+    z-index: 999;
+}

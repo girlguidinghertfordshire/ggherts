@@ -5,6 +5,10 @@ collections:
       output: true
       permalink: /event/:title/
       sort_by: event.start_date
+    trainingevents:
+      output: true
+      permalink: /training/:title/
+      sort_by: event.start_date
     noticeboards:
       output: true
       permalink: /noticeboard/:title/
@@ -28,7 +32,12 @@ defaults:
       path: ""
       type: "events"
     values:
-      layout: "event"
+      layout: "event-v5"
+  - scope:
+      path: ""
+      type: "trainingevents"
+    values:
+      layout: "event-v5"
   - scope:
       path: ""
       type: "noticeboards"

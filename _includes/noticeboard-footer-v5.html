@@ -1,0 +1,26 @@
+<section class="post-section blue-bg gg-blue-bg">
+    <div class="container">
+        <h2>Noticeboard</h2>
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-5">
+            {% assign noticeboards = site.noticeboards | sort: "date" | reverse %}
+            {% for notice in noticeboards limit:3 %}
+            {% if forloop.last %}
+            {% assign class=" d-md-none d-lg-flex" %}
+            {% endif %}
+            <div class="col{{ class }}">
+                <div class="card">
+                    <img src="{{ notice.image }}" alt="" class="card-img-top" />
+                    <div class="card-body">
+                        <h3 class="card-title"><a class="" href="{{ notice.url }}">{{ notice.title }}</a></h3>
+                        <div class="card-text">{{ notice.excerpt | strip_html | normalize_whitespace | truncatewords: 20
+                            | escape | markdownify }}</div>
+                        <div class="gg-btn-shift">
+                        <a class="btn gg-btn gg-btn-blue pull-right front" href="{{ notice.url }}"><span>Read more </span><span
+                                class="sr-only">: {{ notice.title }}</span></a></div>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>

@@ -1,6 +1,7 @@
 ---
 title: DofE Expedition Training Weekend
 date: '2021-12-01T22:07:12.973Z'
+published: false
 event:
     start_date: '2022-01-29'
     end_date: '2022-01-30'
@@ -24,7 +25,7 @@ author:
     display_name: null
     first_name: null
     last_name: null
-lastmod: '2022-01-18T17:16:06.031Z'
+lastmod: '2022-02-01T20:20:59.861Z'
 ---
 
 This course is taking place from 10am Saturday, 29th January until 4pm Sunday, 30th January near St Albans.
