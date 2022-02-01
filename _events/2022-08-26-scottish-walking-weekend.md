@@ -3,7 +3,7 @@ title: 'Scottish Walking Weekend, Scottish Highlands'
 date: '2022-01-01T09:34:19.300Z'
 event:
     start_date: '2022-08-26'
-    end_date: '2022-08-30'
+    end_date: '2022-08-31'
     address: null
     contact_name: null
     contact_email: walking@girlguiding-anglia.org.uk
@@ -20,7 +20,7 @@ event:
         - Scotland
 author:
     display_name: The County Office
-lastmod: '2022-01-18T16:33:09.708Z'
+lastmod: '2022-01-28T19:40:29.726Z'
 ---
 
 Social walking weekend for adults from Friday 26 - Tuesday 30 August 2022 in the Scottish mountains near Crainlarich.
@@ -31,4 +31,4 @@ email <walking@girlguiding-anglia.org.uk> for more information and a booking for
 
 Please note spaces are limited.
 
-[Flyer for Walk <i class="fa fa-download"></i>](/assets/docs/2022/social-walking-scotland-august-2022.docx){:class="btn-gg"}
+[Flyer for Walk <i class="fa fa-download"></i>](/assets/docs/2022/social-walking-scotland-august-2022v2.docx){:class="btn-gg"}
