@@ -1,6 +1,7 @@
 ---
 title: New Year Quiz
 date: '2021-11-01T21:16:47.024Z'
+published: false
 event:
     start_date: '2022-01-22'
     end_date: ''
@@ -21,7 +22,7 @@ author:
     display_name: null
     first_name: null
     last_name: null
-lastmod: '2021-12-08T22:13:50.041Z'
+lastmod: '2022-02-01T20:20:59.865Z'
 ---
 
 <div class="hidden-xs">

@@ -1,29 +1,30 @@
 ---
-title: Social Walk, Preston near Hitchin
+title: 'Social Walk, Preston near Hitchin'
 date: '2021-12-01T21:48:23.190Z'
+published: false
 event:
     start_date: '2022-01-16'
     end_date: ''
-    address: Preston, nr Hitchin
+    address: 'Preston, nr Hitchin'
     contact_name: null
     contact_email: walking@girlguidinghertfordshire.org.uk
     contact_number: ''
     book_now_link: ''
-    image: '/assets/images/2021/08/social-walk1.jpg'
-    type: 
-    - Social
-    age-group: 
-    - Adults
-    - Young Leaders
-    - Rangers
-    location: 
-    - Hertfordshire, North
+    image: /assets/images/2021/08/social-walk1.jpg
+    type:
+        - Social
+    age-group:
+        - Adults
+        - Young Leaders
+        - Rangers
+    location:
+        - 'Hertfordshire, North'
 author:
     email: null
     display_name: null
     first_name: null
     last_name: null
-lastmod: '2021-12-01T21:48:23.190Z'
+lastmod: '2022-02-01T20:20:59.867Z'
 ---
 
 Adults, Young Leaders & Rangers are welcome to join the Walking Team on a social walk from Preston, nr Hitchin 10am-12.30pm approx. on Sunday 16th January. 

@@ -9,7 +9,7 @@ event:
     contact_email: outdoor@girlguidinghertfordshire.org.uk
     contact_number: ''
     book_now_link: ''
-    image: /assets/images/2021/12/rainbow_safari.jpg
+    image: /assets/images/2022/02/rainbowsafari.jpg
     type:
         - Activity Day
     age-group:
@@ -21,7 +21,7 @@ author:
     display_name: null
     first_name: null
     last_name: null
-lastmod: '2021-12-08T22:46:08.567Z'
+lastmod: '2022-02-01T20:23:25.928Z'
 ---
 
 This Sensory Safari for Rainbows is taking place on Saturday, 23 April 2022 at Chandlers Cross, Hertfordshire from 10am – 4pm. 

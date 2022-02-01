@@ -9,7 +9,7 @@ event:
   contact_email: international@girlguidinghertfordshire.org.uk
   contact_number: ''
   book_now_link: ''
-  image: /assets/images/2022/01/INTOPS-Selection-Days.png
+  image: /assets/images/2022/02/intops-selection-days.jpg
   type:
     - Activity Day
   age-group:
@@ -21,7 +21,7 @@ event:
     - Hertfordshire
 author:
   display_name: The County Office
-lastmod: '2022-01-18T14:59:02.619Z'
+lastmod: '2022-02-01T20:22:22.089Z'
 ---
 For leaders, Guides, Rangers and Young Leaders (who will be aged between 12 and 18 by 26 July 2023), who would like to be considered for an international trip or join a Girlguiding Hertfordshire group going to an event in the UK in 2023 our INTOPS selection days will be taking place on **Saturday 2 and Sunday 3 April 2022 from 9.30am - 5.30pm both days. _YOU ONLY NEED TO ATTEND ONE OF THE DAYS._**
 
