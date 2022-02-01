@@ -22,7 +22,7 @@ layout: default-v5
             </div>
         </div>
         {% if page.type == "training" %}
-        {% assign eventlist = site.events | where: "event.type","Training" | sort: "event.start_date" %}
+        {% assign eventlist = site.trainingevents | sort: "event.start_date" %}
         {% else %}
         {% if page.age == "Rainbows" %}
         {% assign eventlist = site.events | where: "event.age-group","Rainbows" %}
