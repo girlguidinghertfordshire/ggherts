@@ -70,6 +70,7 @@ var breakpoint = { xs:0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400};
         $("#showmenu").off("click");
         initialisePage();
     });
+// eslint-disable-next-line no-undef
 })(jQuery);
 // Lazy loader for footer content
 (function ($, w, d) {
@@ -99,9 +100,10 @@ var breakpoint = { xs:0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400};
         }
     }
     lazyLoad();
-    $(w).on("scroll resize", function (e) {
+    $(w).on("scroll resize", function () {
         lazyLoad();
     });
+// eslint-disable-next-line no-undef
 })(jQuery, window, document);
 // Filter for Events/Training pages
 (function ($) {
@@ -119,7 +121,7 @@ var breakpoint = { xs:0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400};
             return true;
         }
         var showBlock = false;
-        $filters.each(function (index, obj) {
+        $filters.each(function () {
             if (categories.indexOf("|" + $(this).val() + "|") >= 0) {
                 showBlock = true;
             }
@@ -131,7 +133,7 @@ var breakpoint = { xs:0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400};
         var $type = $(".division.type input:checked");
         var $age = $(".division.age input:checked");
         var $location = $(".division.location input:checked");
-        $(".eventshop-list .col").each(function (index, obj) {
+        $(".eventshop-list .col").each(function () {
             if (showBlock($(this), $type, "type") && showBlock($(this), $age, "age-group") && showBlock($(this), $location, "location")) {
                 $(this).show();
             }
@@ -141,19 +143,20 @@ var breakpoint = { xs:0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400};
     var initialiseFilters = function(){
         if (window.innerWidth < breakpoint.md){
             $(".js-selected-filters").text($(".eventshop-list .col").length + " events - no filters");
-            $(".filter-result h4").on("click",function(event){
+            $(".filter-result h4").on("click",function(){
                 $(".filter-options").toggle();
             });
-            $("#filterClose").on("click",function(event){
+            $("#filterClose").on("click",function(){
                 $(".filter-options").hide();
             });
         }
     }
     $(document).ready(function () {
         initialiseFilters();
-        $(".division input").on("change", function (event) {
+        $(".division input").on("change", function () {
             console.log(this);
             filterPosts();
         });
     });
+// eslint-disable-next-line no-undef
 })(jQuery);
