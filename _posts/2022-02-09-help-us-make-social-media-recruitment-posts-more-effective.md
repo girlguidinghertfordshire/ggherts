@@ -1,7 +1,7 @@
 ---
 title: Help us make social media recruitment posts more effective
 date: '2022-02-09T20:17:39.574Z'
-image: /assets/images/2022/02/worktogether.jpg
+image: /assets/images/2022/02/work-together.jpg
 categories:
     - Announcements
     - Badges
@@ -11,7 +11,7 @@ author:
     display_name: The County Office
     first_name: ''
     last_name: ''
-lastmod: '2022-02-09T20:28:16.199Z'
+lastmod: '2022-02-09T21:09:13.939Z'
 ---
 
 Working together - we are making a REAL difference to how many people actually see our recruitment posts across social media. Here’s how you can help make the campaign even MORE effective in your own district! Just three simple steps...
