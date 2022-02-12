@@ -79,7 +79,7 @@ layout: default-v5
                                             {% include eventtypes.html type=type %}
                                             {% endfor %}
                                         </div>
-                                        <h3 class="card-title"><a href="{{ event.url }}">{{ event.title }}</a></h3>
+                                        <h2 class="card-title"><a href="{{ event.url }}">{{ event.title }}</a></h2>
                                         <date class="card-text">{{ event.event.start_date | date: "%d %b %Y" }}
                                             {% if event.event.end_date != '' and event.event.start_date !=
                                             event.event.end_date %}
@@ -104,7 +104,25 @@ layout: default-v5
                             </div>
                             {% endif %}
                             {% endfor %}
-
+                            {% if page.type == "training" %}
+                            <div class="col">
+                            <div class="card gg-event-card">
+                                <figure style="background-image: url('/wp-content/uploads/2021/03/Training-badges-1-360x243.png');" class="card-img-top">
+                                    <img src="/wp-content/uploads/2021/03/Training-badges-1-360x243.png" alt="">
+                                    <div class="pattern-one" style="background-color: rgba(78,136,199, 0.85);">
+                                    </div>
+                                </figure>
+                                <div class="card-body">
+                                    <h2 class="card-title"><a href="/training-badges/">Training Badges</a></h2>
+                                    <div class="card-text">
+                                        <p>Log your training hours to claim a pin badge when you reach milestones.</p>                                
+                                        <div class="clearfix"><a class="btn gg-btn gg-btn-pink-o pull-right" href="/training-badges/"><span>Read more</span></a></div>
+                                    </div>
+                                    <div class="clearfix">&nbsp;</div>
+                                </div>                                
+                            </div>
+                            </div>
+                            {% endif %}
                         </div>
                     </div>
 

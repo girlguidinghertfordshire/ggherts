@@ -20,10 +20,10 @@ event:
         - Scotland
 author:
     display_name: The County Office
-lastmod: '2022-01-28T19:40:29.726Z'
+lastmod: '2022-02-12T20:54:25.206Z'
 ---
 
-Social walking weekend for adults from Friday 26 - Tuesday 30 August 2022 in the Scottish mountains near Crainlarich.
+Social walking weekend for adults from Friday 26 - Wednesday 31 August 2022 in the Scottish mountains near Crainlarich.
 
 Cost: approximately £15 per night plus £10 per day for food
 
