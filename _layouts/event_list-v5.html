@@ -54,7 +54,15 @@ layout: default-v5
                         <div class="row row-cols-1 row-cols-md-2 row-cols-xxl-3 g-4">
                             {% for event in events %}
                             {% assign startDate = event.event.start_date | date: '%s' | plus: 0 %}
-                            {% if startDate> today %}
+                            {% assign endDate = event.event.end_date | date: '%s' | plus: 0 %}
+                            {% if endDate>0 and endDate>= today %}
+                            {% assign showEvent=true %}
+                            {% elsif startDate > today %}
+                            {% assign showEvent=true %}
+                            {% else %}
+                            {% assign showEvent=false %}
+                            {% endif %}
+                            {% if showEvent %}
                             <div class="col" data-type="|{{ event.event.type | join: '|'}}|"
                                 data-age-group="|{{ event.event.age-group | join: '|'}}|"
                                 data-location="|{{ event.event.location | join: '|'}}|">
