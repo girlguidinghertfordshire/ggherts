@@ -2,7 +2,7 @@
 layout: page
 title: Resources
 toc: about-us
-lastmod: '2022-02-22T22:07:10.748Z'
+lastmod: '2022-02-22T22:18:08.490Z'
 ---
 <h2>Membership Systems Updates</h2>
 <ul>
@@ -31,8 +31,11 @@ To view the names of the current year's winners please visit the Hertfordshire G
 
 [Online Application Form <i class="fa fa-external-link"></i>](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwZf5T0i4octErRCYrHkhHVhUMjhJOTFER1lCQ0k1S0ZVWURCRklVRUo0QS4u){:class="btn-gg"}{:target="_blank"}{:rel="noopener"} [Terms and Conditions <i class="fa fa-download"></i>](/assets/docs/2022/200_club_t_cs.docx){:class="btn-gg"}{:target="_blank"}{:rel="noopener"}
 <hr />
-<h2>Forms &amp; Stationery</h2>
-<h5><a href="/wp-content/uploads/2021/05/County-Bursary-Application-Form.pdf">Girlguiding Hertfordshire Bursary Application Form</a></h5>
+
+## Forms &amp; Stationery
+
+##### [Girlguiding Hertfordshire Grant Application Form <i class="fa fa-external-link"></i>](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwRrqs7bdo19CnIwI_9Lov51UMEs3SDFBNk1XVUE1NERQTEVQT0lES1VVVy4u){:target="_blank"}{:rel="noopener"}
+
 <h5><a href="/wp-content/uploads/2021/05/Girlguiding-Hertfordshire-Expenses-Claim-Form-2021.xlsx">Girlguiding Hertfordshire Expenses Claim Form 2021</a></h5>
 
 ##### [Girlguiding Hertfordshire Online Photograph Consent Form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwZf5T0i4octErRCYrHkhHVhUNEtGRkdCNTAzSDlJV1ZJNTZLUU9ES1EwQy4u){:target="_blank"}{:rel="noopener"}
