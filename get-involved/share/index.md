@@ -14,7 +14,7 @@ author:
   first_name: ''
   last_name: ''
 permalink: /get-involved/share/
-lastmod: '2022-01-22T19:14:44.985Z'
+lastmod: '2022-02-22T21:50:13.588Z'
 ---
 <div class="row">
 <div class="col-sm-6">
@@ -81,6 +81,6 @@ There are many ideas, and it is likely that you will see Share coming to you in 
 
 Please note photos submitted may be used for Girlguiding Hertfordshire publicity.
 
-<strong>Photo Permissions: </strong>For any photos submitted, please send a completed and signed <a href="/assets/docs/photo-consent-form-version-c.docx" target="_blank" rel="noopener">Girlguiding Hertfordshire Photo consent form</a> (for all adults featured in photographs provided) or a <a href="/assets/docs/photo-permission-form-leader.docx" target="_blank" rel="noopener">Leader Photo Permission form</a> (confirming all girls featured in photographs have already provided their full photo consent).
+**Photo Permissions:** For any photos submitted, please send a completed and signed [Girlguiding Hertfordshire Online Photograph Consent Form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwZf5T0i4octErRCYrHkhHVhUNEtGRkdCNTAzSDlJV1ZJNTZLUU9ES1EwQy4u){:target="_blank"}{:rel="noopener"} (for all adults featured in photographs provided) or a <a href="/assets/docs/photo-permission-form-leader.docx" target="_blank" rel="noopener">Leader Photo Permission form</a> (confirming all girls featured in photographs have already provided their full photo consent).
 
-<strong>Deadline to send articles for next edition is Friday 18 February 2022 - </strong>we would love to hear your stories about what you and your unit, district and division or Trefoil Guild have been up during Spring.
+**Deadline to send articles for next edition is Friday 18 February 2022** - we would love to hear your stories about what you and your unit, district and division or Trefoil Guild have been up during Spring.

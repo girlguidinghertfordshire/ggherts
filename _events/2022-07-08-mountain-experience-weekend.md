@@ -23,7 +23,7 @@ author:
     display_name: null
     first_name: null
     last_name: null
-lastmod: '2022-01-18T16:32:34.310Z'
+lastmod: '2022-02-22T21:14:13.309Z'
 ---
 
 Rangers & Young Leaders are invited to have a fun hillwalking weekend in the Peak District & to improve their map reading and navigation skills, either for their own personal adventures, for DofE, or to enable them to participate in Peak Assault, an orienteering competition run by Hertfordshire Scouts in remote terrain. 
@@ -34,3 +34,7 @@ Accommodation is warm bunk rooms, all food and transport is included. Saturday e
 
 Cost: **£70** payable in advance by bank transfer.  Bank details will be provided once your place has been confirmed.
 Any queries or to book please email: <walking@girlguidinghertfordshire.org.uk> for more details.
+
+[Download mountain experience flyer <i class="fa fa-download"></i>][1]{:class="btn-gg"}{:rel="noopener"}{:target="_blank"}
+
+[1]: /assets/docs/2022/mountain-flyer.pdf

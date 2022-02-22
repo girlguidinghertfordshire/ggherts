@@ -2,6 +2,7 @@
 layout: page
 title: Resources
 toc: about-us
+lastmod: '2022-02-22T21:50:19.384Z'
 ---
 <h2>Membership Systems Updates</h2>
 <ul>
@@ -16,17 +17,28 @@ toc: about-us
 <p>Before submitting an external First Aid course certificate please complete the Girlguiding <a href="https://learning.girlguiding.org.uk/login/index.php" target="_blank" rel="noopener">1st Response e-learning</a> and check that it has been recorded on GO.</p>
 <p>Your external course must have been delivered face to face, lasting at least 6 hours.  It must have included both child and adult CPR and covered all the clauses in the Girlguiding 1st Response syllabus.  If there are clauses which were not covered, you may be able to discuss these with a Girlguiding trainer.  Please speak to your commissioner if you need to arrange this.</p>
 <p>Please email a copy of your external course certificate to the <a href="mailto:countysec@girlguidinghertfordshire.org.uk" target="_blank" rel="noopener">county office</a> along with a copy of the Girlguiding <a href="/wp-content/uploads/2021/05/1st-response-syllabus-Nov-2020.pdf">1st Response Syllabus</a> signed and dated by yourself, to confirm that all requirements have been fulfilled.</p>
-<h3>Recognising Prior Safeguarding Learning and Experience</h3>
-<p>It is possible to recognise prior learning and experience for exemption from A Safe Space, Level 3 face-to-face training.  Please complete and <a href="https://www.dropbox.com/s/h11rkmulza7kghg/a-safe-space-recogniseing-prior-learning-process.pdf?dl=0" target="_blank" rel="noopener">return this form</a> to region: <a href="mailto:safespace@girlguiding-anglia.org.uk" target="_blank" rel="noopener">SafeSpace@girlguiding-anglia.org.uk</a> to complete necessary checks.  You will need to have already completed A Safe Space Levels 1 and 2.</p>
-<hr />
+
+### Recognising Prior Safeguarding Learning and Experience
+
+Girlguiding are currently reviewing recognised prior learning across all A Safe Space training to make sure it matches the revised training content. The Recognised Prior Learning process is currently suspended and no new applications will be accepted while the review is being carried out.
+
+___
+
 <h2><img loading="lazy" class="alignleft wp-image-3945" style="font-size: 16px;" src="/wp-content/uploads/2020/12/200-Club-Logo-150x150.jpg" alt="" width="115" height="115" srcset="/wp-content/uploads/2020/12/200-Club-Logo-150x150.jpg 150w, /wp-content/uploads/2020/12/200-Club-Logo.jpg 184w" sizes="(max-width: 115px) 100vw, 115px" />Hertfordshire Guide Centre 200 Club</h2>
-<p>For Girlguiding Hertfordshire members, districts and/or units. An application form and the terms and conditions are available on the Hertfordshire Guide Centre website&#8217;s <a href="https://www.hertsguidecentre.co.uk/200-club.html" target="_blank" rel="noopener noreferrer">200 Club Results</a> page.</p>
+<p>For Girlguiding Hertfordshire members, districts and/or units. If you would like to join the 200 Club please complete the online application form and download and read the terms and conditions via the buttons below.</p>
+
+To view the names of the current year's winners please visit the Hertfordshire Guide Centre website's [200 Club Results <i class="fa fa-external-link"></i>](https://www.hertsguidecentre.co.uk/200-club.html)
+
+[Online Application Form <i class="fa fa-external-link"></i>](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwZf5T0i4octErRCYrHkhHVhUMjhJOTFER1lCQ0k1S0ZVWURCRklVRUo0QS4u){:class="btn-gg"}{:target="_blank"}{:rel="noopener"}
 <hr />
 <h2>Forms &amp; Stationery</h2>
 <h5><a href="/wp-content/uploads/2021/05/County-Bursary-Application-Form.pdf">Girlguiding Hertfordshire Bursary Application Form</a></h5>
 <h5><a href="/wp-content/uploads/2021/05/Girlguiding-Hertfordshire-Expenses-Claim-Form-2021.xlsx">Girlguiding Hertfordshire Expenses Claim Form 2021</a></h5>
-<h5><a href="/wp-content/uploads/2021/07/Girlguiding-Hertfordshire-Photo-consent-form-version-C.docx">Girlguiding Hertfordshire Photograph Consent Form</a></h5>
-<p>This photo consent form is to be used when submitting photographs for County publicity and when sending Share articles.</p>
+
+##### [Girlguiding Hertfordshire Online Photograph Consent Form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwZf5T0i4octErRCYrHkhHVhUNEtGRkdCNTAzSDlJV1ZJNTZLUU9ES1EwQy4u){:target="_blank"}{:rel="noopener"}
+
+This photo consent form is to be used when submitting photographs for County publicity and when sending Share articles.
+
 <h5><a href="/wp-content/uploads/2021/05/Girlguiding-Hertfordshire-Letterhead.doc">Girlguiding Hertfordshire Letterhead</a></h5>
 <p>This letterhead is fully editable and may be opened in Microsoft Word or other word processing software.</p>
 <h5><a href="/wp-content/uploads/2021/05/Unit-Registration-Form-Oct-2020.docx">Girlguiding Hertfordshire Unit Registration Form</a></h5>

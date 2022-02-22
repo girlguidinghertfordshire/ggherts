@@ -25,8 +25,10 @@ author:
     display_name: null
     first_name: null
     last_name: null
-lastmod: '2022-01-27T21:04:00.565Z'
+lastmod: '2022-02-22T21:16:52.210Z'
 ---
+
+**This event is now FULLY BOOKED**
 
 This course is taking place on Saturday, 5 March and Sunday, 6th March 2022 in Little Gaddesden, Hertfordshire
 
