@@ -2,7 +2,7 @@
 layout: page
 title: Resources
 toc: about-us
-lastmod: '2022-02-22T21:50:19.384Z'
+lastmod: '2022-02-22T22:07:10.748Z'
 ---
 <h2>Membership Systems Updates</h2>
 <ul>
@@ -29,7 +29,7 @@ ___
 
 To view the names of the current year's winners please visit the Hertfordshire Guide Centre website's [200 Club Results <i class="fa fa-external-link"></i>](https://www.hertsguidecentre.co.uk/200-club.html)
 
-[Online Application Form <i class="fa fa-external-link"></i>](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwZf5T0i4octErRCYrHkhHVhUMjhJOTFER1lCQ0k1S0ZVWURCRklVRUo0QS4u){:class="btn-gg"}{:target="_blank"}{:rel="noopener"}
+[Online Application Form <i class="fa fa-external-link"></i>](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwZf5T0i4octErRCYrHkhHVhUMjhJOTFER1lCQ0k1S0ZVWURCRklVRUo0QS4u){:class="btn-gg"}{:target="_blank"}{:rel="noopener"} [Terms and Conditions <i class="fa fa-download"></i>](/assets/docs/2022/200_club_t_cs.docx){:class="btn-gg"}{:target="_blank"}{:rel="noopener"}
 <hr />
 <h2>Forms &amp; Stationery</h2>
 <h5><a href="/wp-content/uploads/2021/05/County-Bursary-Application-Form.pdf">Girlguiding Hertfordshire Bursary Application Form</a></h5>
