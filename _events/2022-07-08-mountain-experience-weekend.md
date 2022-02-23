@@ -23,7 +23,7 @@ author:
     display_name: null
     first_name: null
     last_name: null
-lastmod: '2022-02-22T21:14:13.309Z'
+lastmod: '2022-02-23T10:34:00.280Z'
 ---
 
 Rangers & Young Leaders are invited to have a fun hillwalking weekend in the Peak District & to improve their map reading and navigation skills, either for their own personal adventures, for DofE, or to enable them to participate in Peak Assault, an orienteering competition run by Hertfordshire Scouts in remote terrain. 
@@ -37,4 +37,4 @@ Any queries or to book please email: <walking@girlguidinghertfordshire.org.uk> f
 
 [Download mountain experience flyer <i class="fa fa-download"></i>][1]{:class="btn-gg"}{:rel="noopener"}{:target="_blank"}
 
-[1]: /assets/docs/2022/mountain-flyer.pdf
+[1]: /assets/docs/2022/mountain-experience.pdf
