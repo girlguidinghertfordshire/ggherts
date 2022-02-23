@@ -1,7 +1,7 @@
 ---
 title: Girlguiding Herts Pinterest
 date: '2021-12-16T22:20:12.852Z'
-image: /assets/images/2021/12/pinterest_360.jpg
+image: /assets/images/2022/02/pinterest.webp
 categories:
     - Announcements
 tags: []
@@ -10,7 +10,7 @@ author:
     display_name: The County Office
     first_name: ''
     last_name: ''
-lastmod: '2021-12-16T23:02:31.067Z'
+lastmod: '2022-02-22T22:57:21.173Z'
 ---
 
 Have you seen the new Girlguiding Hertfordshire [Pinterest][1]?

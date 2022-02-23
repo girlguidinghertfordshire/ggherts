@@ -1,7 +1,7 @@
 ---
 title: Meet the Leader Posts
 date: '2022-02-09T20:21:07.506Z'
-image: /assets/images/2022/02/meet_leader1.png
+image: /assets/images/2022/02/meet_leader1.webp
 categories:
     - Announcements
     - Badges
@@ -11,7 +11,7 @@ author:
     display_name: The County Office
     first_name: ''
     last_name: ''
-lastmod: '2022-02-22T21:52:39.883Z'
+lastmod: '2022-02-22T22:53:23.508Z'
 ---
 
 The PR team would love to create more Meet the Leader posts for our volunteer recruitment campaign.
