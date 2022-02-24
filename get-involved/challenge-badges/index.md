@@ -9,7 +9,7 @@ author:
   first_name: Andrew
   last_name: Settle
 permalink: /get-involved/challenge-badges/
-lastmod: '2021-12-28T17:24:12.063Z'
+lastmod: '2022-02-24T19:04:53.758Z'
 ---
 ## Tiger Tiger Challenge Badge
 ![](/assets/images/2021/12/tiger_tiger_badge.jpg){:class="pull-right"}{:width="180}{:height="179"}{:style="margin:10px;"}
@@ -76,24 +76,22 @@ This badge has been created to support 1st Baldock Brownies fundraising for Girl
   However you choose to do your Marathon Challenge, have fun.
 
   <a class="btn-gg" href="http://bit.ly/hertswalkingchallenge"><i class="fa fa-external-link"></i> Order challenge badges</a>
-  <h2 id="lifesaver">Lifesaver Challenge Badge</h2>
-  <img class="size-full wp-image-4021 alignleft" src="/wp-content/uploads/2021/01/Lifesaver-badge.png" alt="" width="187" height="167" />To encourage everyone to learn 1st Aid.
 
-  To spread the skills to parents and beyond.
+## Lifesaver Challenge Badge
+{: #lifesaver}
 
-  To raise awareness of how essential the actions of those first at the scene are.
+![](/wp-content/uploads/2021/01/Lifesaver-badge.png){: .alignleft}{:width="187"}{:height="167"}This badge has been designed to encourage everyone to learn First Aid and to raise awareness of how essential the actions of those first at the scene are. 
 
-  Use apps and videos to aid learning e.g. Red Cross, St John Ambulance, British Heart Foundation.
+Once learnt new skills can also be passed on to parents and beyond.
 
-  <span style="text-decoration: underline;">Challenge</span>:
+### Challenge
 
-  Act out dramatic first aid scenes
+Use online resources, videos and apps as learning aids  e.g. Red Cross, St John Ambulance, British Heart Foundation.
 
-  Demonstrate to a leader in their unit, or film and send in
+Act out and practise dramatic first aid scenes then demonstrate your new skills to your unit leader.
 
-  Use online learning at present or unit meeting Zoom sessions.
+For further information or ideas please contact the county First Aid Adviser [Verity Maclachlan.](mailto:verity.guides@gmail.com) 
 
-  Contact: <a href="mailto:verity.guides@gmail.com" target="_blank" rel="noopener">verity.guides@gmail.com</a> for further information.
   <h2 id="flower">Flower Power Challenge Badge</h2>
   <img class=" wp-image-4020 alignleft" src="/wp-content/uploads/2021/01/Flower-Power-Badge-300x297.jpg" alt="" width="169" height="168" />This badge was designed by 1st Baldock Brownies to support fundraising for the October 2022 Girlguiding Great Wall of China Trek (postponed from 2020)*.
 

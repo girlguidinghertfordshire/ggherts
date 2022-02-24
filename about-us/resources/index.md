@@ -2,7 +2,7 @@
 layout: page
 title: Resources
 toc: about-us
-lastmod: '2022-02-22T22:18:08.490Z'
+lastmod: '2022-02-24T19:07:23.108Z'
 ---
 <h2>Membership Systems Updates</h2>
 <ul>
@@ -24,13 +24,24 @@ Girlguiding are currently reviewing recognised prior learning across all A Safe 
 
 ___
 
-<h2><img loading="lazy" class="alignleft wp-image-3945" style="font-size: 16px;" src="/wp-content/uploads/2020/12/200-Club-Logo-150x150.jpg" alt="" width="115" height="115" srcset="/wp-content/uploads/2020/12/200-Club-Logo-150x150.jpg 150w, /wp-content/uploads/2020/12/200-Club-Logo.jpg 184w" sizes="(max-width: 115px) 100vw, 115px" />Hertfordshire Guide Centre 200 Club</h2>
-<p>For Girlguiding Hertfordshire members, districts and/or units. If you would like to join the 200 Club please complete the online application form and download and read the terms and conditions via the buttons below.</p>
+## <img loading="lazy" class="alignleft wp-image-3945" style="margin-right: 10px;" src="/wp-content/uploads/2020/12/200-Club-Logo-150x150.jpg" alt="" width="115" height="115" srcset="/wp-content/uploads/2020/12/200-Club-Logo-150x150.jpg 150w, /wp-content/uploads/2020/12/200-Club-Logo.jpg 184w" sizes="(max-width: 115px) 100vw, 115px" />Hertfordshire Guide Centre 200 Club
+
+For Girlguiding Hertfordshire members and friends.
+
+All proceeds from the 200 club go towards the upkeep of the Girlguiding Hertfordshire County Centre, Cottered, so why not show your support.
+
+A one off payment of £15* gives you the opportunity to join the monthly prize draw, worth £50, along with a super draw in December. This prize pot will be dependant upon how many subscriptions are sold.
+
+If you would like to join the 200 Club please complete the online application form and download and read the terms and conditions via the buttons below.
+
+[Online Application Form <i class="fa fa-external-link"></i>](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwZf5T0i4octErRCYrHkhHVhUMjhJOTFER1lCQ0k1S0ZVWURCRklVRUo0QS4u){:class="btn-gg"}{:target="_blank"}{:rel="noopener"} [Terms and Conditions <i class="fa fa-download"></i>](/assets/docs/2022/200_club_t_cs.docx){:class="btn-gg"}{:target="_blank"}{:rel="noopener"}
 
 To view the names of the current year's winners please visit the Hertfordshire Guide Centre website's [200 Club Results <i class="fa fa-external-link"></i>](https://www.hertsguidecentre.co.uk/200-club.html)
 
-[Online Application Form <i class="fa fa-external-link"></i>](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwZf5T0i4octErRCYrHkhHVhUMjhJOTFER1lCQ0k1S0ZVWURCRklVRUo0QS4u){:class="btn-gg"}{:target="_blank"}{:rel="noopener"} [Terms and Conditions <i class="fa fa-download"></i>](/assets/docs/2022/200_club_t_cs.docx){:class="btn-gg"}{:target="_blank"}{:rel="noopener"}
-<hr />
+{:.small}
+\* Those persons joining throughout the year may pay a pro rata payment for the remaining part of the year.
+
+___
 
 ## Forms &amp; Stationery
 
@@ -49,7 +60,7 @@ This photo consent form is to be used when submitting photographs for County pub
 <h5><a href="/wp-content/uploads/2021/07/Girlguiding-Hertfordshire-Leadership-Qualification-Form.docx">Girlguiding Hertfordshire &#8211; Leadership Qualification Form</a></h5>
 <h5><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJUM0xHWVBTV1A0WkIzMzRDRzQ5VjNISUgxRy4u" target="_blank" rel="noreferrer noopener">Girlguiding Hertfordshire Declaration of Interest Form <i class="fa fa-external-link"></i></a></h5>
 <p>This is to identify any areas where there may be competing interests and should be completed annually by all Trustees, Sub-Committee Members and paid staff.</p>
-<h5><a href="/wp-content/uploads/2021/05/Trustee-Confirmation-of-Eligibility-Form-2.pdf">Trustee Confirmation of Eligibility Form</a></h5>
+##### [Trustee Confirmation of Eligibility Form  <i class="fa fa-external-link"></i>](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJUNzBCSEQyM0Y0NEs2WkpLN0M2M08yUkpZRS4u){:target="_blank"}{:rel="noopener"}</h5>
 <p>This form is used by Girlguiding Hertfordshire to enable individuals who hold, or are applying for, a trustee position, to declare that they are not disqualified from holding that position.</p>
 <h5><a href="/wp-content/uploads/2021/06/Cottered-County-Store-Inventory.pdf">County Store Inventory</a></h5>
 <p>Hertfordshire County has many items available to borrow from the County Store. For a list of items and details of how to book click on the County Store Inventory above.</p>

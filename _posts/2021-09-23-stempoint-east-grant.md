@@ -2,12 +2,13 @@
 title: Apply for a STEMPOINT East Grant
 date: '2021-09-23T20:30:12.713Z'
 image: /assets/images/2021/09/stempoint-east.jpg
+published: false
 categories:
     - Announcements
 tags: []
 author:
     display_name: the County Office
-lastmod: '2021-09-24T06:56:59.763Z'
+lastmod: '2022-02-24T18:36:29.370Z'
 ---
 
 Can you help interest more girls in STEM subjects?  STEMPOINT East are offering grants of up to £500 to buy STEM equipment.  Available to Guiding. Apply by 29th November
