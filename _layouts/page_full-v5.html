@@ -1,0 +1,51 @@
+---
+layout: default-v5
+---
+
+{% include banner.html %}
+<div class="main-content">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <nav aria-label="breadcrumb">
+                    <ul class="breadcrumb">
+                        <li class="breadcrumb-item">
+                            <a href="/">Home</a>
+                        </li>
+                        {% assign menu = site.data.navigation[page.toc] %}
+                        {% if menu.url != page.url %}
+                        <li class="breadcrumb-item"><a class="bread-link" href="{{menu.url}}">{{menu.title}}</a></li>
+                        {% endif %}
+                        <li class="breadcrumb-item active" aria-current="page">
+                            {{ page.title }}
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12">
+                <h1>{{ page.title }}</h1>
+                {{ content }}
+            </div>
+        </div>
+    </div>
+    {% if page.layout=="county_team"%}
+    {% include countyteam.html %}
+    {% endif %}
+    {% if page.showMap %}
+    {% include countycentre.html %}
+    {% endif %}
+    {% for inc in page.includes %}
+        {% case inc %}
+        {% when "Events" %}
+    {% include latest-events.html %}
+        {% when "News" %}
+    {% include latest-news.html %}
+        {% when "Noticeboard" %}
+    {% include noticeboard-footer-v5.html %}
+        {% else %}
+        <!-- Unknown include: {{ inc }}-->
+        {% endcase %}
+    {% endfor %}
+</div>

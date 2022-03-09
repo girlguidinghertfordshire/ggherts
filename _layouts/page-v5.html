@@ -1,0 +1,80 @@
+---
+layout: default-v5
+---
+
+{% include banner.html %}
+<div class="main-content">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <nav aria-label="breadcrumb">
+                    <ul class="breadcrumb">
+                        <li class="breadcrumb-item">
+                            <a href="/">Home</a>
+                        </li>
+                        {% assign menu = site.data.navigation[page.toc] %}
+                        {% if menu.url != page.url %}
+                        <li class="breadcrumb-item"><a class="bread-link" href="{{menu.url}}">{{menu.title}}</a></li>
+                        {% endif %}
+                        <li class="breadcrumb-item active" aria-current="page">
+                            {{ page.title }}
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-8 col-xxl-10 order-md-2">
+                <h1>{{ page.title }}</h1>
+                {{ content }}
+            </div>
+            <div class="col-md-4 col-lg-3 col-xxl-2 left-sidebar">
+                <nav class="gg-left-menu">
+                    <h2><a href="{{ menu.url }}">{{ menu.title }}</a></h2>
+                    <ul class="nav flex-column">
+                    {% for item in menu.items %}
+                    {% assign linkClass="nav-link" %}{% if item.url==page.url %}{% assign linkClass="nav-link active"%}{% endif %}
+                    <li class="nav-item"><a href="{{ item.url}}"{%if item.url==page.url %} aria-current="page"{% endif %}>{{ item.title }}</a>{% if item.items %}<ul>
+                        {% for childItem in item.items %}<li {% if item.url==page.url %} class="current_page_item"{% endif %}><a href="{{ childItem.url}}"{%if childItem.url==page.url %} aria-current="page"{% endif %}>{{ childItem.title }}</a></li>{% endfor %} </ul>{% endif %}</li>
+                    {% endfor %}
+                    </ul>
+                </nav>
+                
+                {% if page.advertId != '' %}
+                    {% for advert in site.adverts %}
+                        {% if advert.advertId == page.advertId %}
+                            <a href="{{ advert.advert_url }}">
+                                <div class="promo-block">
+                                    <div class="add-description">
+                                        <h3>{{ advert.advert_title }}</h3>
+                                        <p>{{ advert.advert_description }}</p>
+                                    </div>
+                                </div>                            
+                            </a>
+                            {% break %}
+                        {% endif %}
+                    {% endfor %}
+                {% endif %}
+            </div>
+        </div>
+    </div>
+    {% if page.layout=="county_team"%}
+    {% include countyteam.html %}
+    {% include noticeboard-footer.html %}
+    {% endif %}
+    {% if page.showMap %}
+    {% include countycentre.html %}
+    {% endif %}
+    {% for inc in page.includes %}
+        {% case inc %}
+        {% when "Events" %}
+    {% include latest-events.html %}
+        {% when "News" %}
+    {% include latest-news.html %}
+        {% when "Noticeboard" %}
+    {% include noticeboard-footer.html %}
+        {% else %}
+        <!-- Unknown include: {{ inc }}-->
+        {% endcase %}
+    {% endfor %}
+</div>
