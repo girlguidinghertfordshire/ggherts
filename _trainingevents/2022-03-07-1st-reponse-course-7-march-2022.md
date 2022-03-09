@@ -8,7 +8,7 @@ event:
     contact_name: null
     contact_email: null
     contact_number: ''
-    book_now_link: 'https://www.eventbrite.co.uk/e/girlguiding-hertfordshire-full-1st-response-course-2-x-25-hour-sessions-tickets-266647869957'
+    book_now_link: null
     image: /assets/images/2021/12/1st_response_badge360.jpg
     type:
         - 1st Response
@@ -23,8 +23,10 @@ author:
     display_name: null
     first_name: null
     last_name: null
-lastmod: '2022-02-11T07:54:22.968Z'
+lastmod: '2022-03-09T13:12:58.717Z'
 ---
+
+**This course is now CANCELLED**
 
 1st Response course for leaders and leaders in training, taking place over 2 sessions, in Radlett, Hertfordshire.
 
@@ -35,6 +37,6 @@ Both sessions MUST be attended.
 
 **Cost:** £20 by cheque (payable to 1st Aid Fundraising) or by bank transfer. Bank details will be provided once you have booked your space.
 
-**Booking:** via [Eventbrite]({{page.event.book_now_link}}){:rel="noopener"}{:target="_blank"}
+
 
 **Deadline for bookings:** Monday, 28 February

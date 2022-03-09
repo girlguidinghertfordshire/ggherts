@@ -2,7 +2,7 @@
 layout: page
 title: Resources
 toc: about-us
-lastmod: '2022-02-24T19:07:23.108Z'
+lastmod: '2022-03-09T13:23:21.447Z'
 ---
 <h2>Membership Systems Updates</h2>
 <ul>
@@ -62,8 +62,11 @@ This photo consent form is to be used when submitting photographs for County pub
 <p>This is to identify any areas where there may be competing interests and should be completed annually by all Trustees, Sub-Committee Members and paid staff.</p>
 ##### [Trustee Confirmation of Eligibility Form  <i class="fa fa-external-link"></i>](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJUNzBCSEQyM0Y0NEs2WkpLN0M2M08yUkpZRS4u){:target="_blank"}{:rel="noopener"}</h5>
 <p>This form is used by Girlguiding Hertfordshire to enable individuals who hold, or are applying for, a trustee position, to declare that they are not disqualified from holding that position.</p>
-<h5><a href="/wp-content/uploads/2021/06/Cottered-County-Store-Inventory.pdf">County Store Inventory</a></h5>
-<p>Hertfordshire County has many items available to borrow from the County Store. For a list of items and details of how to book click on the County Store Inventory above.</p>
+
+##### [County Store Inventory](/assets/docs/2022/cottered-county-store-inventory.pdf)
+
+Hertfordshire County has many items available to borrow from the County Store. For a list of items and details of how to book click on the County Store Inventory above.
+
 <h2>Reports &amp; Information</h2>
 <h5><a href="/wp-content/uploads/2021/07/Financial-Statements-ye-31.12.20.pdf">Girlguiding Hertfordshire Charity Commission Report 2020</a></h5>
 <h5><a href="/wp-content/uploads/2021/05/Charity-Commission-Report-2019.pdf">Girlguiding Hertfordshire Charity Commission Report 2019</a></h5>

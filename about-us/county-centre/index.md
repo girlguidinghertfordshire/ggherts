@@ -14,7 +14,7 @@ author:
   first_name: ''
   last_name: ''
 permalink: /about-us/county-centre/
-lastmod: '2022-02-01T20:44:45.445Z'
+lastmod: '2022-03-09T13:18:13.242Z'
 ---
 <div class="single-slider">
   <div class="item"><img src="/wp-content/uploads/2016/03/750x500-750x427.jpg" alt="GTA V"></div>
@@ -23,7 +23,7 @@ lastmod: '2022-02-01T20:44:45.445Z'
   
 Hertfordshire Guide Centre campsite is now closed for the winter period but the indoor accommodation remains open for bookings.  We will continue to follow the Girlguiding restrictions to remain Covid responsible.
 
-**Girlguiding Hertfordshire Members:** A special offer on new indoor bookings is available to our members on any booking made by 28 February 2022 for any date(s) from now until 30 April 2022.  Please read the [HGC Indoor Booking Offer][4]{:target="_blank"}{:rel="noopener"} information sheet for more details.
+**Girlguiding Hertfordshire Members:** A special offer on new indoor bookings is available to our members for any event held up to and including 31 August 2022.  Please read the [HGC Indoor Booking Offer][4]{:target="_blank"}{:rel="noopener"} information sheet for more details.
 
 For more details, availability and booking forms, please complete the [Contact Us][3] form.
   
@@ -36,4 +36,4 @@ If a visit to the site is required, please contact the [HGC Bookings Secretary][
 [1]: mailto:hgcbookings@girlguidinghertfordshire.org.uk
 [2]: https://www.hertsguidecentre.co.uk
 [3]: #hgcForm
-[4]: /assets/docs/2022/hgc_hire_offer.pdf
+[4]: /assets/docs/2022/hgc_indoor_hire_offer-aug-2022-extension.docx
