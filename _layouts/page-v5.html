@@ -3,7 +3,7 @@ layout: default-v5
 ---
 
 {% include banner.html %}
-<div class="main-content">
+<div class="main-content {{ page.title | slugify }}">
     <div class="container">
         <div class="row">
             <div class="col-sm-12">
@@ -24,17 +24,17 @@ layout: default-v5
             </div>
         </div>
         <div class="row">
-            <div class="col-md-8 col-xxl-10 order-md-2">
+            <div class="col-md-8 col-xxl-10 order-md-2 content">
                 <h1>{{ page.title }}</h1>
                 {{ content }}
             </div>
-            <div class="col-md-4 col-lg-3 col-xxl-2 left-sidebar">
+            <div class="col-md-4 col-lg-3 col-xxl-2">
                 <nav class="gg-left-menu">
                     <h2><a href="{{ menu.url }}">{{ menu.title }}</a></h2>
                     <ul class="nav flex-column">
                     {% for item in menu.items %}
                     {% assign linkClass="nav-link" %}{% if item.url==page.url %}{% assign linkClass="nav-link active"%}{% endif %}
-                    <li class="nav-item"><a href="{{ item.url}}"{%if item.url==page.url %} aria-current="page"{% endif %}>{{ item.title }}</a>{% if item.items %}<ul>
+                    <li class="nav-item"><a href="{{ item.url}}" class="{{ linkClass }}"{%if item.url==page.url %} aria-current="page"{% endif %}>{{ item.title }}</a>{% if item.items %}<ul>
                         {% for childItem in item.items %}<li {% if item.url==page.url %} class="current_page_item"{% endif %}><a href="{{ childItem.url}}"{%if childItem.url==page.url %} aria-current="page"{% endif %}>{{ childItem.title }}</a></li>{% endfor %} </ul>{% endif %}</li>
                     {% endfor %}
                     </ul>

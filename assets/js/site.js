@@ -160,3 +160,14 @@ var breakpoint = { xs:0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400};
     });
 // eslint-disable-next-line no-undef
 })(jQuery);
+// Add in-page links for long pages
+(function ($) {    
+    var pages = ["challenge-badges"]; //classes added to main-content section used to filter which pages this runs on
+    var page = pages.find(pageClass => $(".main-content").hasClass(pageClass));
+    if (typeof(page)==="undefined" || page==null){
+        return;
+    }
+    var $ul = $(`.${page} .gg-left-menu .nav-link.active`).parent().append("<ul/>");
+    $(`.${page} .content h2`).each(function(){$ul.find("ul").append(`<li><a href="#${this.id}">${$(this).text()}</a></li>`)});
+// eslint-disable-next-line no-undef
+})(jQuery);

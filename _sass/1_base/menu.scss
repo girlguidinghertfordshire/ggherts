@@ -1,8 +1,15 @@
 // Styles for the left-hand menu
 .gg-left-menu {
+    position: sticky;
+    top: 20px;
+    margin-top: 10px;
     a { text-decoration: none;
         color: $gg-pink;
     &:hover,&:focus { text-decoration: underline; color: $gg-dark-pink;}
+    }
+    .nav-item>a {
+        padding-left: 0;
+        font-weight: 700;
     }
     h2 {
         border-bottom: 1px solid #c40063;

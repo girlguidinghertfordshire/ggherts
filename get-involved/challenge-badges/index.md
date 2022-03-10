@@ -3,13 +3,14 @@ layout: page-v5
 title: Challenge Badges
 date: 2021-02-15T22:25:36.000Z
 toc: get-involved
-description: 'New challenge badges for guiding units in Hertfordshire: Let the Sun Shine, Marathon, Lifesaver, Flower Power and more.'
+description: "New challenge badges for guiding units in Hertfordshire: Let the Sun Shine,
+  Marathon, Lifesaver, Flower Power and more."
 author:
   display_name: andrew
   first_name: Andrew
   last_name: Settle
 permalink: /get-involved/challenge-badges/
-lastmod: '2022-03-09T13:08:51.860Z'
+lastmod: 2022-03-10T10:27:15.510Z
 ---
 ## Book Challenge Badge
 
@@ -30,15 +31,12 @@ This badge has been designed to encourage everyone to learn First Aid and to rai
 
 Once learnt new skills can also be passed on to parents and beyond.
 
-### Challenge
+[Download Challenge Pack <i class="fa fa-download"></i>](/assets/docs/2022/challenge-badge-lifesaver-clauses.docx){:.btn.btn-primary} [Order form <i class="fa fa-download"></i>](/assets/docs/2022/challenge-badge-lifesaver-order-form.docx){:.btn.btn-primary}{:target="blank"}{:rel="noopener noreferrer"}
 
-Use online resources, videos and apps as learning aids  e.g. Red Cross, St John Ambulance, British Heart Foundation.
-
-Act out and practise dramatic first aid scenes then demonstrate your new skills to your unit leader.
-
-For further information or ideas please contact the county First Aid Adviser [Verity Maclachlan.](mailto:verity.guides@gmail.com) 
+<div class="clearfix"></div>
 
 ## 1st Baldock Brownies Fundraising Challenge Badges
+{:#baldock}
 
 These badges have been designed by 1st Baldock Brownies and are part of their fundraising efforts for the Girlguiding Great Wall of China Trek via Discover Adventure. This event in now due to take place in October 2022 having been postponed from 2020.
 
@@ -92,7 +90,7 @@ To make your daily walks more fun, follow the <a href="https://www.facebook.com/
 
 ![](/wp-content/uploads/2021/04/Raise-Challenge-Badge.png){:class="pull-right"}{:width="187}{:height="182"}{:style="margin:10px;"}{:loading="lazy"}
 
-Raise is the official fundraising charity of West Herts Hospitals NHS trust, and supports the communities that surround Hemel Hempstead, St Albans City and Watford General Hospitals. Throughout the pandemic Raise has continued to support staff and patients, whilst also raising money to provide staff with new technologies and supporting staff with their wellbeing. This badge has been created to support the work of the Raise charity. 
+Raise is the official fundraising charity of West Herts Hospitals NHS trust, and supports the communities that surround Hemel Hempstead, St Albans City and Watford General Hospitals. This badge has been created to support the work of the Raise charity.
 
 [Download <span class="visually-hidden">Raise</span> Pack and order form <i class="fa fa-download"></i>](/wp-content/uploads/2021/06/Raise-Challenge-badge.pdf){: .btn.btn-primary}
 

@@ -1,7 +1,7 @@
 <div class="card h-100">
     <img src="{{ include.src }}" alt="{{ include.alt }}" loading="lazy" class="card-img-top" />
-    <h3 class="card-header h6">{{ include.title }}</h3>
     <div class="card-body">
-        <div class="card-text"><a href="{{include.download }}" target="_blank" rel="noopener" class="btn btn-primary">Download<span class="visually-hidden"> {{ include.name }}</span> Pack <i class="fa fa-download"></i></a></div>
-    </div>
+    <h3 class="card-title h6">{{ include.title }}</h3>
+        
+    </div><div class="card-footer"><a href="{{include.download }}" target="_blank" rel="noopener" class="btn btn-primary">Download<span class="visually-hidden"> {{ include.name }}</span> Pack <i class="fa fa-download"></i></a></div>
 </div>
