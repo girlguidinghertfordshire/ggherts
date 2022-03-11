@@ -1,15 +1,16 @@
 ---
-layout: page
+layout: page-v5
 title: Billboard
-date: '2021-09-07T19:51:13.187Z'
+date: 2021-09-07T19:51:13.187Z
 toc: news
-lastmod: '2022-02-12T11:18:24.262Z'
+lastmod: 2022-03-11T10:06:33.315Z
 ---
 
 _Billboard_ is sent to all Girlguiding Hertforshire Members who have set their communication preferences on _GO_ to subscribe to marketing.
 
 Recent editions:
 
+- [March 2022 <i class="fa fa-external-link"></i>](https://mailchi.mp/29e184bd9d33/march-2022-billboard-13447924){:target="_blank"}{:rel="noreferrer noopener"}
 - [February 2022 <i class="fa fa-external-link"></i>](https://mailchi.mp/1c4050de964e/feb-2022-billboard-6537356){:target="_blank"}{:rel="noreferrer noopener"}
 - [January 2022 <i class="fa fa-external-link"></i>](https://mailchi.mp/5f7bc6af2310/jan-2022-billboard-6534420){:target="_blank"}{:rel="noreferrer noopener"}
 - [December 2021 <i class="fa fa-external-link"></i>](https://mailchi.mp/38a6694a010d/dec-2021-billboard-6529040){:target="_blank"}{:rel="noreferrer noopener"}
@@ -19,10 +20,6 @@ Recent editions:
 
 ## Deadline dates for submission
 
-### 2022 Newsletters
-
-- February: 31 January 2022
-- March: 28 February 2022
 - April: 31 March 2022
 - May: 29 April 2022
 - June: 31 May 2022
