@@ -10,7 +10,7 @@ author:
   first_name: Andrew
   last_name: Settle
 permalink: /get-involved/challenge-badges/
-lastmod: 2022-03-11T09:10:41.299Z
+lastmod: 2022-03-11T10:22:27.491Z
 ---
 ## Book Challenge Badge
 
@@ -71,7 +71,7 @@ For more information and an badge order form:
 {: #marathon}
 
 {:.text-center}
-![](/assets/images/2022/03/marathon-challenge-badges.webp){:width="550"}{:loading="lazy"}{:style="max-width:100%"}
+![](/assets/images/2022/03/marathon-challenge-badges.webp){:width="550"}{:loading="lazy"}
 
 The Walking Team Marathon Badge Challenge will continue into 2022, to allow us to celebrate and be inspired by the Winter Olympics & Winter Para Olympics.  Anyone can participate, member or non-member, so families can go out and exercise together and everyone can have fun earning the badge.
 
