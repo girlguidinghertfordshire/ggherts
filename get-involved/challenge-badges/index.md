@@ -10,7 +10,7 @@ author:
   first_name: Andrew
   last_name: Settle
 permalink: /get-involved/challenge-badges/
-lastmod: 2022-03-10T10:27:15.510Z
+lastmod: 2022-03-11T09:10:41.299Z
 ---
 ## Book Challenge Badge
 
@@ -40,23 +40,23 @@ Once learnt new skills can also be passed on to parents and beyond.
 
 These badges have been designed by 1st Baldock Brownies and are part of their fundraising efforts for the Girlguiding Great Wall of China Trek via Discover Adventure. This event in now due to take place in October 2022 having been postponed from 2020.
 
-<div class="row  g-0 row-cols-md-2 row-cols-lg-4">
-  <div class="col">
+<div class="row g-0 row-cols-2 row-cols-lg-4 justify-content-center">
+  <div class="col col-sm-5 col-xxl-2">
   {% include baldock-badge-card.html title="Eggstraordinary Easter" src="/assets/images/2022/03/easter_v2.webp" alt="2022 Eggstraordinary Easter Challenge Badge" download="/assets/docs/2022/eggstraordinary_easter_challenge_badge_v2.pdf" name="2022 Eggstraordinary Easter Challenge" %}
   </div>
-  <div class="col">
+  <div class="col col-sm-5 col-xxl-2">
   {% include baldock-badge-card.html title="Snow is falling" src="/assets/images/2021/11/SnowFalling-180.jpg" alt="Snow is falling challenge badge" download="/assets/docs/challenge-badge-snow-is-falling.pdf" name="Snow is Falling Challenge"%}  
   </div>
-   <div class="col">
+   <div class="col col-sm-5 col-xxl-2">
    {% include baldock-badge-card.html title="Flower Power" src="/assets/images/2022/03/Flower-Power-Badge.webp" alt="Flower Power Challenge Badge" name="Flower Power Challenge" download="/assets/docs/challenge-badge-flower-power-pack.pdf" %}
   </div>
-  <div class="col-lg-3">
+  <div class="col col-sm-5 col-xxl-2">
   {% include baldock-badge-card.html title="Let the Sun Shine" src="/assets/images/2022/03/let-the-sun-shine-badge.webp" alt="Let the Sun Shine Challenge Badge" name="Let the Sun Shine Challenge" download="/wp-content/uploads/2021/04/Let-The-Sun-Shine-Challenge-Badge.pdf" %}
   </div>
 </div>
 
 ## Racism Awareness Challenge Badge
-{: #racismawareness .mt-3}
+{: #racismawareness .mb-3}
 
 ![Racism Awareness Challenge Badge](/wp-content/uploads/2020/08/Racism_Awareness_Challenge-291x300.jpg){: .pull-left}{:width="155"}{:height="160"}{:style="margin:10px"}{:loading="lazy"}
 This Challenge has been created and designed by Eleanor Teather as part of the work towards her Queen's Guide Award. The badge is suitable for all sections and its aim is to raise awareness about racism and inspire members to become an ally.
@@ -70,6 +70,7 @@ For more information and an badge order form:
 ## Marathon Challenge Badge
 {: #marathon}
 
+{:.text-center}
 ![](/assets/images/2022/03/marathon-challenge-badges.webp){:width="550"}{:loading="lazy"}{:style="max-width:100%"}
 
 The Walking Team Marathon Badge Challenge will continue into 2022, to allow us to celebrate and be inspired by the Winter Olympics & Winter Para Olympics.  Anyone can participate, member or non-member, so families can go out and exercise together and everyone can have fun earning the badge.
@@ -78,13 +79,11 @@ The Challenge is to walk, use a wheelchair, or run a marathon - that’s 42km - 
 
 To help you keep a record of your progress, you might like to use one of the following:
 
-[Download colour-in footpath (PDF) <i class="fa fa-download"></i>](/wp-content/uploads/2021/03/Marathon-Challenge-Colour-in-Footpath-v2.pdf){:.btn.btn-primary}
-
-[Download walking logbook (PDF) <i class="fa fa-download"></i>](/wp-content/uploads/2021/03/Marathon-Challenge-Log-Book-v2.pdf){:.btn.btn-primary}
-
-[Order challenge badges <i class="fa fa-external-link"></i>](http://bit.ly/hertswalkingchallenge){:.btn.btn-primary}
+[Colour-in footpath <i class="fa fa-download"></i>](/wp-content/uploads/2021/03/Marathon-Challenge-Colour-in-Footpath-v2.pdf){:.btn.btn-primary} [Walking logbook <i class="fa fa-download"></i>](/wp-content/uploads/2021/03/Marathon-Challenge-Log-Book-v2.pdf){:.btn.btn-primary} [Order challenge badges <i class="fa fa-external-link"></i>](http://bit.ly/hertswalkingchallenge){:.btn.btn-primary}
 
 To make your daily walks more fun, follow the <a href="https://www.facebook.com/hertsguideswalkingteam" target="_blank" rel="noopener">Herts Guides Walking Team Facebook page</a> where different activity ideas are posted regularly
+
+<div class="clearfix"></div>
 
 ## Raise West Hertfordshire NHS Trust Charity Badge
 
@@ -94,8 +93,20 @@ Raise is the official fundraising charity of West Herts Hospitals NHS trust, and
 
 [Download <span class="visually-hidden">Raise</span> Pack and order form <i class="fa fa-download"></i>](/wp-content/uploads/2021/06/Raise-Challenge-badge.pdf){: .btn.btn-primary}
 
-## The 2017 Gambia Challenge Badge and 2018 Uganda Friendship Challenge Badges
+<div class="clearfix"></div>
 
-![Gambia Challenge Badge](/wp-content/uploads/2017/02/Gambia-Badge-small.png){:loading="lazy"} ![Uganda Friendship Challenge Badge](/wp-content/uploads/2017/11/Uganda-Friendship-2018-CP-150x150.png){:loading="lazy"}
+## Previous Challenge Badges - Stock Still Available
 
-If you are interested in either of these challenge badges please contact <countysec@girlguidinghertfordshire.org.uk> for further details.
+<div class="row g-0 row-cols-2 row-cols-lg-4 justify-content-center">
+  <div class="col col-sm-5 col-xxl-2">
+  {% include baldock-badge-card.html title="Gambia Challenge Badge" src="/assets/images/2022/03/Gambia-Badge-small.webp" alt="Gambia Challenge Badge" %}
+  </div>
+  <div class="col col-sm-5 col-xxl-2">
+  {% include baldock-badge-card.html title="Uganda Friendship Challenge Badge" src="/wp-content/uploads/2017/11/Uganda-Friendship-2018-CP-150x150.png" alt="Uganda Friendship Challenge Badge" %}
+  </div>
+  <div class="col col-sm-5 col-xxl-2">
+  {% include baldock-badge-card.html title="Tiger Tiger Challenge Badge" src="/assets/images/2022/03/tiger_tiger_badge_white.webp" alt="Tiger Tiger Challenge Badge" %}
+  </div>
+</div>
+
+If you are interested in any of these challenge badges please contact <countysec@girlguidinghertfordshire.org.uk> for further details.
