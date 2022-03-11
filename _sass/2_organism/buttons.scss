@@ -3,6 +3,10 @@
     color: #fff;
     background-color: $gg-pink;
     border-color: $gg-pink;
+    &:hover{
+        background-color: $gg-pink-hover;
+        border-color: $gg-pink-border-hover;
+    }
 }
 .btn-secondary {
     color: #fff;

@@ -1,5 +1,14 @@
 // Core Girlguiding colours
-
+// scss-docs-start color-functions
+// Tint a color: mix a color with white
+@function tint-color($color, $weight) {
+    @return mix(white, $color, $weight);
+  }
+  
+  // Shade a color: mix a color with black
+  @function shade-color($color, $weight) {
+    @return mix(black, $color, $weight);
+  }
 // blues
 $gg-blue: #4e88c7;
 $gg-dark-blue: #0072bc;
@@ -9,6 +18,8 @@ $gg-light-blue: #83abd8;
 $gg-pink: #c40063;
 $gg-light-pink: #cf3e83;
 $gg-dark-pink: #cb1f76;
+$gg-pink-hover: shade-color($gg-pink, 15%);
+$gg-pink-border-hover: shade-color($gg-pink, 20%);
 
 // Grays
 $gg-gray: #d8d7d7;
