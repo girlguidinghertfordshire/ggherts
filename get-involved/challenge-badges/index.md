@@ -10,7 +10,7 @@ author:
   first_name: Andrew
   last_name: Settle
 permalink: /get-involved/challenge-badges/
-lastmod: 2022-03-11T10:22:27.491Z
+lastmod: 2022-03-11T10:30:55.884Z
 ---
 ## Book Challenge Badge
 
@@ -89,7 +89,9 @@ To make your daily walks more fun, follow the <a href="https://www.facebook.com/
 
 ![](/wp-content/uploads/2021/04/Raise-Challenge-Badge.png){:class="pull-right"}{:width="187}{:height="182"}{:style="margin:10px;"}{:loading="lazy"}
 
-Raise is the official fundraising charity of West Herts Hospitals NHS trust, and supports the communities that surround Hemel Hempstead, St Albans City and Watford General Hospitals. This badge has been created to support the work of the Raise charity.
+Raise is the official fundraising charity of West Herts Hospitals NHS trust, and supports the communities that surround Hemel Hempstead, St Albans City and Watford General Hospitals.
+
+This badge has been created to support the work of the Raise charity and continues to be available to complete and purchase in 2022.
 
 [Download <span class="visually-hidden">Raise</span> Pack and order form <i class="fa fa-download"></i>](/wp-content/uploads/2021/06/Raise-Challenge-badge.pdf){: .btn.btn-primary}
 
