@@ -162,7 +162,7 @@ var breakpoint = { xs:0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400};
 })(jQuery);
 // Add in-page links for long pages
 (function ($) {    
-    var pages = ["challenge-badges"]; //classes added to main-content section used to filter which pages this runs on
+    var pages = ["challenge-badges","resources"]; //classes added to main-content section used to filter which pages this runs on
     var page = pages.find(pageClass => $(".main-content").hasClass(pageClass));
     if (typeof(page)==="undefined" || page==null){
         return;

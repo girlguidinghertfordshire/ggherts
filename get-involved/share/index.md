@@ -6,15 +6,16 @@ toc: get-involved
 advertId: get-involved
 includes:
   - News
-description: SHARE is our termly magazine posted to all adult members of Girlguiding Hertfordshire. It is packed with stories and photos of everything that we do.
+description: SHARE is our termly magazine posted to all adult members of Girlguiding
+  Hertfordshire. It is packed with stories and photos of everything that we do.
 author:
   login: GGH-Admin1
   email: share@girlguidinghertfordshire.org.uk
   display_name: GGH-Admin1
-  first_name: ''
-  last_name: ''
+  first_name: ""
+  last_name: ""
 permalink: /get-involved/share/
-lastmod: '2022-03-09T13:19:56.419Z'
+lastmod: 2022-03-13T20:03:31.499Z
 ---
 <div class="row">
 <div class="col-sm-6">
@@ -70,17 +71,30 @@ It is packed with stories and photos of what everyone has been doing, from cake 
 </div>
 </div>
 </div>
-<h4 style="margin-bottom: 0; margin-top: 30px;">Share Now Online - available to View and Download</h4>
+
+## Share Now Online - available to View and Download
+
 Keeping up with technology and communication trends; doing our part in protecting the environment and staying current for our members are all things we need to consider and therefore going forward Share will look slightly different.
 
-There are many ideas, and it is likely that you will see Share coming to you in different formats and, as a result, on a more regular basis. This will enable you to digest the news and act on the exciting opportunities when they are relevant. We will continue to consult members and gather feedback. Please send any ideas you may have to <a href="mailto:share@girlguidinghertfordshire.org.uk" target="_blank" rel="noopener">share@girlguidinghertfordshire.org.uk</a>
-<h4><strong>To submit your story</strong> <a href="mailto:share@girlguidinghertfordshire.org.uk">send us an email here</a></h4>
-<strong>Photos: </strong>Please attach original photos with picture sizes of 1MB-3MB if possible as these reproduce best in <em>Share.</em> Mobile phone cameras take great photos so when sending in, please email each photo separately (so they are not condensed in size) and if prompted to, please ask for the photo to be sent in its original/actual size - anything around 1-3MB would be ideal. <a href="https://www.dropbox.com/s/9f9jjetv5hxki0d/How%20to%20Submit%20Photos%20for%20Share%20Magazine.pdf?dl=0" target="_blank" rel="noopener">Click here</a> for a step-by-step guide on sending photos.
+There are many ideas, and it is likely that you will see Share coming to you in different formats and, as a result, on a more regular basis. This will enable you to digest the news and act on the exciting opportunities when they are relevant. We will continue to consult members and gather feedback. Please send any ideas you may have to <share@girlguidinghertfordshire.org.uk>
 
-<img class="alignnone size-full wp-image-4005" src="/wp-content/uploads/2021/01/Photo-1-3mb.png" alt="" width="209" height="178" />
+### Submit your story
+
+To submit your story [send us an email](mailto:share@girlguidinghertfordshire.org.uk). We would love to hear your stories about what you and your unit, district and division or Trefoil Guild have been up during Spring.
+
+### Photos
+
+![Choose the Actual Size option on mobile devices](/wp-content/uploads/2021/01/Photo-1-3mb.png){:width="209"}{:height="178"}{:.pull-right}{:style="margin:10px"}
+Please attach original photos with picture sizes of 1MB-3MB if possible as these reproduce best in _Share._
+
+Mobile phone cameras take great photos so when sending in, please email each photo separately (so they are not condensed in size) and if prompted to, please ask for the photo to be sent in its original/actual size - anything around 1-3MB would be ideal.
 
 Please note photos submitted may be used for Girlguiding Hertfordshire publicity.
 
-**Photo Permissions:** For any photos submitted, please send a completed and signed [Girlguiding Hertfordshire Online Photograph Consent Form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwZf5T0i4octErRCYrHkhHVhUNEtGRkdCNTAzSDlJV1ZJNTZLUU9ES1EwQy4u){:target="_blank"}{:rel="noopener"} (for all adults featured in photographs provided) or a [Leader Photo Permission form](https://forms.office.com/Pages/DesignPage.aspx#FormId=3yob_CzTykeMNWNnWM6OwZf5T0i4octErRCYrHkhHVhUQU5SMVhVSURFVko3UjlFQ1ZSV0dQQUFRRy4u){:target="_blank"}{:rel="noopener"} (confirming all girls featured in photographs have already provided their full photo consent).
+#### Photo Permissions
 
-**Deadline to send articles for next edition is Friday 18 February 2022** - we would love to hear your stories about what you and your unit, district and division or Trefoil Guild have been up during Spring.
+Every adult featured in a photograph, will need to submit their consent, either via the online Girlguiding Hertfordshire Individual Photo Consent form or by completing and signing the Word version of the form.  This form can also be completed by a parent/guardian/carer to provide consent for their child aged under 14.
+
+Where groups of girls feature in photographs, a Girlguiding Hertfordshire Group Photo Consent form should be completed by a leader, either via the online form or using the Word version of the form, confirming all girls have already provided their full photo consent.
+
+The links for the photo consent forms, both online and Word versions can be found in the Forms and Stationery section on the website's [Resources page.](/about-us/resources/#photoconsent)

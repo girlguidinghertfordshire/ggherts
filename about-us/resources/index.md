@@ -1,57 +1,35 @@
 ---
-layout: page
+layout: page-v5
 title: Resources
 toc: about-us
-lastmod: '2022-03-09T13:23:21.447Z'
+lastmod: 2022-03-13T19:36:40.485Z
 ---
-<h2>Membership Systems Updates</h2>
-<ul>
-    <li><a href="/membership-system-updates/">2022</a></li>
-    <li><a href="/membership-system-updates/2021/">2021</a></li>
-    <li><a href="/membership-system-updates/2020/">2020</a></li>
-    <li><a href="/membership-system-updates/2019/">2019</a></li>
-    <li><a href="/membership-system-updates/2018/">2018</a></li>
-</ul>
-
-<h3>External First Aid Courses</h3>
-<p>Before submitting an external First Aid course certificate please complete the Girlguiding <a href="https://learning.girlguiding.org.uk/login/index.php" target="_blank" rel="noopener">1st Response e-learning</a> and check that it has been recorded on GO.</p>
-<p>Your external course must have been delivered face to face, lasting at least 6 hours.  It must have included both child and adult CPR and covered all the clauses in the Girlguiding 1st Response syllabus.  If there are clauses which were not covered, you may be able to discuss these with a Girlguiding trainer.  Please speak to your commissioner if you need to arrange this.</p>
-<p>Please email a copy of your external course certificate to the <a href="mailto:countysec@girlguidinghertfordshire.org.uk" target="_blank" rel="noopener">county office</a> along with a copy of the Girlguiding <a href="/wp-content/uploads/2021/05/1st-response-syllabus-Nov-2020.pdf">1st Response Syllabus</a> signed and dated by yourself, to confirm that all requirements have been fulfilled.</p>
-
-### Recognising Prior Safeguarding Learning and Experience
-
-Girlguiding are currently reviewing recognised prior learning across all A Safe Space training to make sure it matches the revised training content. The Recognised Prior Learning process is currently suspended and no new applications will be accepted while the review is being carried out.
-
-___
-
-## <img loading="lazy" class="alignleft wp-image-3945" style="margin-right: 10px;" src="/wp-content/uploads/2020/12/200-Club-Logo-150x150.jpg" alt="" width="115" height="115" srcset="/wp-content/uploads/2020/12/200-Club-Logo-150x150.jpg 150w, /wp-content/uploads/2020/12/200-Club-Logo.jpg 184w" sizes="(max-width: 115px) 100vw, 115px" />Hertfordshire Guide Centre 200 Club
-
-For Girlguiding Hertfordshire members and friends.
-
-All proceeds from the 200 club go towards the upkeep of the Girlguiding Hertfordshire County Centre, Cottered, so why not show your support.
-
-A one off payment of £15* gives you the opportunity to join the monthly prize draw, worth £50, along with a super draw in December. This prize pot will be dependant upon how many subscriptions are sold.
-
-If you would like to join the 200 Club please complete the online application form and download and read the terms and conditions via the buttons below.
-
-[Online Application Form <i class="fa fa-external-link"></i>](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwZf5T0i4octErRCYrHkhHVhUMjhJOTFER1lCQ0k1S0ZVWURCRklVRUo0QS4u){:class="btn-gg"}{:target="_blank"}{:rel="noopener"} [Terms and Conditions <i class="fa fa-download"></i>](/assets/docs/2022/200_club_t_cs.docx){:class="btn-gg"}{:target="_blank"}{:rel="noopener"}
-
-To view the names of the current year's winners please visit the Hertfordshire Guide Centre website's [200 Club Results <i class="fa fa-external-link"></i>](https://www.hertsguidecentre.co.uk/200-club.html)
-
-{:.small}
-\* Those persons joining throughout the year may pay a pro rata payment for the remaining part of the year.
-
-___
-
 ## Forms &amp; Stationery
+
+### Girlguiding Hertfordshire Online Photograph Consent Form
+{:#photoconsent}
+
+A photo consent form should be used when submitting photographs for county publicity and when sending Share articles.  
+
+You can submit consent either via the online forms or use the Word versions.
+
+#### Individual Consent
+
+This form should be completed by adults submitting their own consent or by parents/carers/guardians for those aged under 14.
+
+[<span class="sr-only">Individual Consent </span>Online Form <i class="fa fa-external-link"></i>](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwZf5T0i4octErRCYrHkhHVhUNEtGRkdCNTAzSDlJV1ZJNTZLUU9ES1EwQy4u){:target="_blank"}{:rel="noopener"}{:.btn.btn-primary} [<span class="sr-only">Individual Consent </span>Word form <i class="fa fa-file-word-o"></i>](/assets/docs/2022/individual_photo_permission_form.docx){:target="_blank"}{:rel="noopener"}{:.btn.btn-primary}
+
+#### Group Consent
+
+Where photos feature groups of girls, this form should be completed by leaders confirming all girls featured have already provided their full photo consent.
+
+[<span class="sr-only">Group Consent </span>Online Form <i class="fa fa-external-link"></i>](https://forms.office.com/Pages/DesignPage.aspx#FormId=3yob_CzTykeMNWNnWM6OwZf5T0i4octErRCYrHkhHVhUQU5SMVhVSURFVko3UjlFQ1ZSV0dQQUFRRy4u){:target="_blank"}{:rel="noopener"}{:.btn.btn-primary} [<span class="sr-only">Group Consent </span>Word form <i class="fa fa-file-word-o"></i>](/assets/docs/2022/group_photo_permission_form.docx){:target="_blank"}{:rel="noopener"}{:.btn.btn-primary}
+
+### Other forms
 
 ##### [Girlguiding Hertfordshire Grant Application Form <i class="fa fa-external-link"></i>](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwRrqs7bdo19CnIwI_9Lov51UMEs3SDFBNk1XVUE1NERQTEVQT0lES1VVVy4u){:target="_blank"}{:rel="noopener"}
 
 <h5><a href="/wp-content/uploads/2021/05/Girlguiding-Hertfordshire-Expenses-Claim-Form-2021.xlsx">Girlguiding Hertfordshire Expenses Claim Form 2021</a></h5>
-
-##### [Girlguiding Hertfordshire Online Photograph Consent Form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwZf5T0i4octErRCYrHkhHVhUNEtGRkdCNTAzSDlJV1ZJNTZLUU9ES1EwQy4u){:target="_blank"}{:rel="noopener"}
-
-This photo consent form is to be used when submitting photographs for County publicity and when sending Share articles.
 
 <h5><a href="/wp-content/uploads/2021/05/Girlguiding-Hertfordshire-Letterhead.doc">Girlguiding Hertfordshire Letterhead</a></h5>
 <p>This letterhead is fully editable and may be opened in Microsoft Word or other word processing software.</p>
@@ -60,31 +38,58 @@ This photo consent form is to be used when submitting photographs for County pub
 <h5><a href="/wp-content/uploads/2021/07/Girlguiding-Hertfordshire-Leadership-Qualification-Form.docx">Girlguiding Hertfordshire &#8211; Leadership Qualification Form</a></h5>
 <h5><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJUM0xHWVBTV1A0WkIzMzRDRzQ5VjNISUgxRy4u" target="_blank" rel="noreferrer noopener">Girlguiding Hertfordshire Declaration of Interest Form <i class="fa fa-external-link"></i></a></h5>
 <p>This is to identify any areas where there may be competing interests and should be completed annually by all Trustees, Sub-Committee Members and paid staff.</p>
-##### [Trustee Confirmation of Eligibility Form  <i class="fa fa-external-link"></i>](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJUNzBCSEQyM0Y0NEs2WkpLN0M2M08yUkpZRS4u){:target="_blank"}{:rel="noopener"}</h5>
-<p>This form is used by Girlguiding Hertfordshire to enable individuals who hold, or are applying for, a trustee position, to declare that they are not disqualified from holding that position.</p>
+
+##### [Trustee Confirmation of Eligibility Form  <i class="fa fa-external-link"></i>](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJUNzBCSEQyM0Y0NEs2WkpLN0M2M08yUkpZRS4u){:target="_blank"}{:rel="noopener"}
+
+This form is used by Girlguiding Hertfordshire to enable individuals who hold, or are applying for, a trustee position, to declare that they are not disqualified from holding that position.
 
 ##### [County Store Inventory](/assets/docs/2022/cottered-county-store-inventory.pdf)
 
 Hertfordshire County has many items available to borrow from the County Store. For a list of items and details of how to book click on the County Store Inventory above.
 
-<h2>Reports &amp; Information</h2>
-<h5><a href="/wp-content/uploads/2021/07/Financial-Statements-ye-31.12.20.pdf">Girlguiding Hertfordshire Charity Commission Report 2020</a></h5>
-<h5><a href="/wp-content/uploads/2021/05/Charity-Commission-Report-2019.pdf">Girlguiding Hertfordshire Charity Commission Report 2019</a></h5>
-<h5><a href="/wp-content/uploads/2021/05/Charity-Commission-Report-2018.pdf">Girlguiding Hertfordshire Charity Commission Report 2018</a></h5>
-<h5><a href="/wp-content/uploads/2021/05/County-Trefoil-Guild-Information.pdf">Girlguiding Hertfordshire Trefoil Guild Information</a></h5>
-<p>Information on the different Trefoil Guild groups within the County and how to join.  The Trefoil Guild website can be found here: <a href="https://www.trefoilguild.co.uk/" target="_blank" rel="noopener">https://www.trefoilguild.co.uk/</a></p>
-<hr />
-<h2>Going Away With Scheme</h2>
-<ul>
-<li><strong><a href="/wp-content/uploads/2016/03/AdviceforCompletingandCheckingRENForms.pdf" target="_blank" rel="noopener noreferrer">Advice for Completing and Checking REN Forms</a></strong></li>
-<li><strong><a href="/wp-content/uploads/2016/03/CommissionersAdvicetoLeaders.pdf" target="_blank" rel="noopener noreferrer">Advice to Commissioners for Leaders Requiring Assessment</a></strong></li>
-<li><strong><a href="/wp-content/uploads/2016/03/Going-Away-With-Assessment-Request-Form.pdf" target="_blank" rel="noopener">Going Away With Assessment Request Form</a></strong></li>
-<li><strong><a href="/wp-content/uploads/2017/05/The-Senior-Section-Permit-Assessment-Request-Form.pdf" target="_blank" rel="noopener">The Senior Section Permit Assessment Request Form</a></strong></li>
-<li><a href="/wp-content/uploads/2017/05/Guide-Camp-Permit-Assessment-Request-Form.pdf" target="_blank" rel="noopener"><strong>Guide Camp Permit Assessment Request Form</strong></a></li>
-</ul>
-<hr />
-<h2>Useful Links</h2>
-<p><strong><a href="/great-patrol-hunt/" target="_blank" rel="noopener noreferrer">Great Patrol Hunt</a></strong><br />
-<strong><a href="http://www.girlguiding-anglia.org.uk/" target="_blank" rel="noopener noreferrer">Girlguiding Anglia</a></strong><br />
-<strong><a href="https://www.girlguiding.org.uk/" target="_blank" rel="noopener noreferrer">Girlguiding</a><br />
-<a href="https://www.stalbansgangshow.com" target="_blank" rel="noopener">St Albans &amp; District Scout &amp; Guide Gang Show </a></strong></p>
+___
+
+## Membership Systems Updates
+
+- [2022](/membership-system-updates/)
+- [2021](/membership-system-updates/2021/)
+- [2020](/membership-system-updates/2020/)
+- [2019](/membership-system-updates/2019/)
+- [2018](/membership-system-updates/2018/)
+
+<h3>External First Aid Courses</h3>
+<p>Before submitting an external First Aid course certificate please complete the Girlguiding <a href="https://learning.girlguiding.org.uk/login/index.php" target="_blank" rel="noopener">1st Response e-learning</a> and check that it has been recorded on GO.</p>
+<p>Your external course must have been delivered face to face, lasting at least 6 hours.  It must have included both child and adult CPR and covered all the clauses in the Girlguiding 1st Response syllabus.  If there are clauses which were not covered, you may be able to discuss these with a Girlguiding trainer.  Please speak to your commissioner if you need to arrange this.</p>
+<p>Please email a copy of your external course certificate to the <a href="mailto:countysec@girlguidinghertfordshire.org.uk" target="_blank" rel="noopener">county office</a> along with a copy of the Girlguiding <a href="/wp-content/uploads/2021/05/1st-response-syllabus-Nov-2020.pdf">1st Response Syllabus</a> signed and dated by yourself, to confirm that all requirements have been fulfilled.</p>
+___
+
+## Reports &amp; Information
+
+### Girlguiding Hertfordshire Charity Commission Reports
+
+- [2020](/wp-content/uploads/2021/07/Financial-Statements-ye-31.12.20.pdf "Girlguiding Hertfordshire Charity Commission Report 2020")
+- [2019](/wp-content/uploads/2021/05/Charity-Commission-Report-2019.pdf "Girlguiding Hertfordshire Charity Commission Report 2019")
+- [2018](/wp-content/uploads/2021/05/Charity-Commission-Report-2018.pdf "Girlguiding Hertfordshire Charity Commission Report 2018")
+
+### Girlguiding Hertfordshire Trefoil Guild
+
+- [Information on the different Trefoil Guild groups within the County and how to join <i class="fa fa-download"></i>](/wp-content/uploads/2021/05/County-Trefoil-Guild-Information.pdf)
+- The Trefoil Guild website can be found here: [www.trefoilguild.co.uk](https://www.trefoilguild.co.uk/){:target="_blank"}{:rel="noopener"}
+
+___
+
+## Going Away With Scheme
+
+- [Advice for Completing and Checking REN Forms](/wp-content/uploads/2016/03/AdviceforCompletingandCheckingRENForms.pdf){:target="_blank"}{:rel="noopener noreferrer"}
+- [Advice to Commissioners for Leaders Requiring Assessment](/wp-content/uploads/2016/03/CommissionersAdvicetoLeaders.pdf){:target="_blank"}{:rel="noopener noreferrer"}
+- [Going Away With Assessment Request Form](/wp-content/uploads/2016/03/Going-Away-With-Assessment-Request-Form.pdf){:target="_blank"}{:rel="noopener"}
+- [The Senior Section Permit Assessment Request Form](/wp-content/uploads/2017/05/The-Senior-Section-Permit-Assessment-Request-Form.pdf){:target="_blank"}{:rel="noopener"}
+- [Guide Camp Permit Assessment Request Form](/wp-content/uploads/2017/05/Guide-Camp-Permit-Assessment-Request-Form.pdf){:target="_blank"}{:rel="noopener"}
+
+___
+
+## Useful Links
+
+- [Girlguiding Anglia](https://www.girlguiding-anglia.org.uk/){:target="_blank"}{:rel="noopener noreferrer"}
+- [Girlguiding](https://www.girlguiding.org.uk/){:target="_blank"}{:rel="noopener noreferrer"}
+- [St Albans &amp; District Scout &amp; Guide Gang Show](https://www.stalbansgangshow.com){:target="_blank"}{:rel="noopener"}

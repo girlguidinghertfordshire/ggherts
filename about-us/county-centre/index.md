@@ -6,15 +6,16 @@ toc: about-us
 location_map: true
 advertId: get-involved
 showMap: true
-description: 'The Hertfordshire Guide Centre is located in the village of Cottered in North Herts, and is suitable for meetings, trainings, sleepovers and camps.'
+description: The Hertfordshire Guide Centre is located in the village of Cottered in North
+  Herts, and is suitable for meetings, trainings, sleepovers and camps.
 author:
   login: GGH-Admin1
   email: share@girlguidinghertfordshire.org.uk
   display_name: GGH-Admin1
-  first_name: ''
-  last_name: ''
+  first_name: ""
+  last_name: ""
 permalink: /about-us/county-centre/
-lastmod: '2022-03-09T13:18:13.242Z'
+lastmod: 2022-03-13T19:07:47.977Z
 ---
 <div class="single-slider">
   <div class="item"><img src="/wp-content/uploads/2016/03/750x500-750x427.jpg" alt="GTA V"></div>
@@ -32,6 +33,23 @@ If a visit to the site is required, please contact the [HGC Bookings Secretary][
 **Address:** Hertfordshire Guide Centre, Cottered, Buntingford, Hertfordshire, SG9 9QP<br />
 **Email:** [HGCBookings@girlguidinghertfordshire.org.uk][1]<br />
 **Website:** [www.hertsguidecentre.co.uk][2]{:target="_blank"}{:rel="noopener"}
+
+## <img loading="lazy" class="alignleft wp-image-3945" style="margin-right: 10px;" src="/wp-content/uploads/2020/12/200-Club-Logo-150x150.jpg" alt="" width="115" height="115" srcset="/wp-content/uploads/2020/12/200-Club-Logo-150x150.jpg 150w, /wp-content/uploads/2020/12/200-Club-Logo.jpg 184w" sizes="(max-width: 115px) 100vw, 115px" />Hertfordshire Guide Centre 200 Club
+
+For Girlguiding Hertfordshire members and friends.
+
+All proceeds from the 200 club go towards the upkeep of the Girlguiding Hertfordshire County Centre, Cottered, so why not show your support.
+
+A one off payment of £15* gives you the opportunity to join the monthly prize draw, worth £50, along with a super draw in December. This prize pot will be dependant upon how many subscriptions are sold.
+
+If you would like to join the 200 Club please complete the online application form and download and read the terms and conditions via the buttons below.
+
+[Online Application Form <i class="fa fa-external-link"></i>](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwZf5T0i4octErRCYrHkhHVhUMjhJOTFER1lCQ0k1S0ZVWURCRklVRUo0QS4u){:class="btn-gg"}{:target="_blank"}{:rel="noopener"} [Terms and Conditions <i class="fa fa-download"></i>](/assets/docs/2022/200_club_t_cs.docx){:class="btn-gg"}{:target="_blank"}{:rel="noopener"}
+
+To view the names of the current year's winners please visit the Hertfordshire Guide Centre website's [200 Club Results <i class="fa fa-external-link"></i>](https://www.hertsguidecentre.co.uk/200-club.html)
+
+{:.small}
+\* Those persons joining throughout the year may pay a pro rata payment for the remaining part of the year.
 
 [1]: mailto:hgcbookings@girlguidinghertfordshire.org.uk
 [2]: https://www.hertsguidecentre.co.uk
