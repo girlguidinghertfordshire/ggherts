@@ -1,6 +1,6 @@
 ---
 title: Hertfordshire County Show 2022
-date: 2022-03-10T10:00:20.973Z
+date: 2022-03-15T16:25:00.973Z
 image: /assets/images/2022/03/herts-county-show.webp
 categories:
   - Announcements
@@ -10,7 +10,7 @@ author:
   display_name: The County Office
   first_name: ""
   last_name: ""
-lastmod: 2022-03-10T10:20:26.006Z
+lastmod: 2022-03-15T16:25:56.946Z
 ---
 
 Hertfordshire County Show will return to the county showground in Redbourn on **28th and 29th May 2022**
