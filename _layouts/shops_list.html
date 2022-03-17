@@ -47,7 +47,7 @@ layout: default
           {% assign marker = '/wp-content/uploads/2016/03/marker-blue.png' %}
       {% endcase %}
         {% capture sl %}
-        [{{s.shop.latlng }},"{{ s.shop.mapaddress | strip_newlines }}","{{ marker }}","<div>{{ s.shop.type | join: ' & '}}: <br/><span>{{ s.shop.location | strip_newlines }}<br /></span>{% if s.shop.contact_email %}<a href='mailto:{{ s.shop.contact_email }}'><i class='fa fa-at'></i> {{ s.shop.contact_email}}</a>{% endif %}{% if s.shop.contact_number %}<a href='callto:{{ s.shop.contact_number }}'><i class='fa fa-phone'></i> {{ s.shop.contact_number }}</a>{% endif %}</div>"],
+        [{{s.shop.latlng }},"{{ s.shop.mapaddress | strip_newlines }}","{{ marker }}","<div>{{ s.shop.type | join: ' & '}}: <br/><span>{{ s.shop.location | strip_newlines }}<br /></span>{% if s.shop.contact_email %}<a href='mailto:{{ s.shop.contact_email }}'><i class='fa fa-at' aria-hidden="true"></i> {{ s.shop.contact_email}}</a>{% endif %}{% if s.shop.contact_number %}<a href='callto:{{ s.shop.contact_number }}'><i class='fa fa-phone' aria-hidden="true"></i> {{ s.shop.contact_number }}</a>{% endif %}</div>"],
         {% endcapture %}
         {% assign l = l | append: sl %}
         {% endunless %}
@@ -87,13 +87,13 @@ layout: default
                     <div class="row shop_rows">
                     {% for shop in shops %}
                         
-                            {% capture preview %}<div>{{ shop.shop.type | join: ' & '}}: <br/><span>{{ shop.shop.location | strip_newlines }}<br /></span>{% if shop.shop.contact_email %}<a href='mailto:{{ shop.shop.contact_email }}'><i class='fa fa-at'></i> {{ shop.shop.contact_email}}</a>{% endif %}{% if shop.shop.contact_number %}<a href='callto:{{ shop.shop.contact_number }}'><i class='fa fa-phone'></i> {{ shop.shop.contact_number }}</a>{% endif %}</div>{% endcapture %}
+                            {% capture preview %}<div>{{ shop.shop.type | join: ' & '}}: <br/><span>{{ shop.shop.location | strip_newlines }}<br /></span>{% if shop.shop.contact_email %}<a href='mailto:{{ shop.shop.contact_email }}'><i class='fa fa-at' aria-hidden="true"></i> {{ shop.shop.contact_email}}</a>{% endif %}{% if shop.shop.contact_number %}<a href='callto:{{ shop.shop.contact_number }}'><i class='fa fa-phone' aria-hidden="true"></i> {{ shop.shop.contact_number }}</a>{% endif %}</div>{% endcapture %}
                             <div class="col-sm-6 business-block" data-latlng="{{ shop.shop.latlng }}" data-mapaddress="{{ shop.shop.mapaddress }}" data-marker="{{ marker }}" data-preview="{{ preview | escape }}" data-division="{{shop.shop.division }}" data-county="{{ shop.shop.county }}" data-type="{{ type }}">
                             <h3><a class="" href="{{ shop.url }}">{{ shop.title }}</a></h3>
                             {{ shop.shop.location | markdownify }}
-                            {% if shop.shop.contact_name %}<span class="contact-name"><i class="fa fa-user"></i> {{ shop.shop.contact_name }}</span>{% endif %}
-                            {% if shop.shop.contact_email %}<a href="mailto:{{shop.shop.contact_email}}"><i class="fa fa-at"></i> {{ shop.shop.contact_email }}</a>{% endif %}
-                            {% if shop.shop.contact_number %}<a href="callto:{{ shop.shop.contact_number }}"><i class="fa fa-phone"></i> {{ shop.shop.contact_number }}</a>{% endif %}
+                            {% if shop.shop.contact_name %}<span class="contact-name"><i class="fa fa-user" aria-hidden="true"></i> {{ shop.shop.contact_name }}</span>{% endif %}
+                            {% if shop.shop.contact_email %}<a href="mailto:{{shop.shop.contact_email}}"><i class="fa fa-at" aria-hidden="true"></i> {{ shop.shop.contact_email }}</a>{% endif %}
+                            {% if shop.shop.contact_number %}<a href="callto:{{ shop.shop.contact_number }}"><i class="fa fa-phone" aria-hidden="true"></i> {{ shop.shop.contact_number }}</a>{% endif %}
                             <a class="btn btn-pink night-btn" href="{{ shop.url }}"><span>More details</span></a>
                             </div>
                        

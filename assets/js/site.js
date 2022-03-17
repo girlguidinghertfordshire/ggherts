@@ -1,17 +1,19 @@
+// @ts-check
+/// <reference types="jquery" />
 // Width in pixels for each breakpoint
-var breakpoint = { xs:0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400};
+const breakpoint = { xs:0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400};
 // Mobile menu
 (function ($) {
-    var closeChildMenu = function (li) {
-        $(li).removeClass("open");
-        $(li).find("ul li:first").remove();
-    };
-    var closeAllChildMenus = function (parent) {
-        if (typeof parent === "undefined")
-            parent = $(".gg-menu");
-        $(".open", parent).each(function () { closeChildMenu(this); });
-    };
-    var slidingMenu = function (openMenu) {
+    function closeChildMenu (/** @type {JQuery<HTMLElement>} */ $li) {
+        $li.removeClass("open");
+        $li.find("ul li:first").remove();
+    }
+    function closeAllChildMenus (/** @type {JQuery.PlainObject<any>} */ $ul) {
+        if (typeof $ul === "undefined")
+            $ul = $(".gg-menu ul:first");
+        $(".open", $ul).each(function () { closeChildMenu($(this)); });
+    }
+    function slidingMenu (/** @type {boolean} */ openMenu) {
         $("#showmenu").toggleClass("active");
         if (openMenu) {
             $(".gg-sliding-frame").addClass("open").animate({ left: "-250px" }, 500);
@@ -19,7 +21,7 @@ var breakpoint = { xs:0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400};
             $(".gg-sliding-frame").removeClass("open").animate({ left: "0" }, 500);
         }
     }
-    var initialisePage = function () {
+    function initialisePage () {
         if (window.innerWidth < breakpoint.lg) {
             if ($(".gg-menu").attr("style")!==''){
                 $(".gg-menu").attr("style","");
@@ -43,15 +45,15 @@ var breakpoint = { xs:0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400};
             $(".gg-menu .has-children>a").on("click", function (event) {
                 event.preventDefault();
                 event.stopImmediatePropagation();
-                var li = $(this).parent();
-                if ($(li).hasClass("open")) {
-                    closeChildMenu(li);
+                const $li = $(this).parent();
+                if ($li.hasClass("open")) {
+                    closeChildMenu($li);
                 } else {
                     closeAllChildMenus($(this).closest("ul"));
-                    $(li).addClass("open");
-                    var $a=$(this);
-                    var firstLi = "<li><a href=\"" + $a.prop("href") + "\">" + $a.text() + "</a></li>";
-                    $(li).find("ul:first").prepend(firstLi);
+                    $li.addClass("open");
+                    const $a=$(this);
+                    const firstLi = "<li><a href=\"" + $a.prop("href") + "\">" + $a.text() + "</a></li>";
+                    $li.find("ul:first").prepend(firstLi);
                 }
             });        
         }else {
@@ -62,8 +64,8 @@ var breakpoint = { xs:0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400};
             $(".gg-menu-fixed").css("height","auto");
             $(".gg-menu").css("right",$(document).width() - ($(".gg-search-form").position().left + $(".gg-search-form").width()));
         }
-    };
-    $(document).ready(function () {
+    }
+    $.when($.ready).then(function(){
         initialisePage();
     });
     $(window).on("resize", function () {
@@ -74,18 +76,18 @@ var breakpoint = { xs:0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400};
 })(jQuery);
 // Lazy loader for footer content
 (function ($, w, d) {
-    var tweetList = d.querySelectorAll(".tweet-list")[0];
-    var hgcmap = d.getElementById("hgcmap");
-    var social = d.querySelectorAll(".social-media")[0];
-    var isTwitterLoaded = false, isMapLoaded = false, isSocialLoaded = false;
+    const tweetList = d.querySelectorAll(".tweet-list")[0];
+    const hgcmap = d.getElementById("hgcmap");
+    const social = d.querySelectorAll(".social-media")[0];
+    let isTwitterLoaded = false, isMapLoaded = false, isSocialLoaded = false;
     function lazyLoad() {
-        var viewportHeight = w.innerHeight || d.documentElement.clientHeight;
-        var tPos = tweetList.getBoundingClientRect().top;
-        var mPos = hgcmap.getBoundingClientRect().top;
-        var sPos = social.getBoundingClientRect().top;
+        const viewportHeight = w.innerHeight || d.documentElement.clientHeight;
+        const tPos = tweetList.getBoundingClientRect().top;
+        const mPos = hgcmap.getBoundingClientRect().top;
+        const sPos = social.getBoundingClientRect().top;
         if (!isSocialLoaded && sPos - viewportHeight < 100) {
             isSocialLoaded = true;
-            var script = document.createElement('script');
+            const script = document.createElement('script');
             script.setAttribute('src', '//w.sharethis.com/button/buttons.js');
             script.setAttribute('type', 'text/javascript');
             document.getElementsByTagName('head')[0].appendChild(script);
@@ -107,7 +109,7 @@ var breakpoint = { xs:0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400};
 })(jQuery, window, document);
 // Filter for Events/Training pages
 (function ($) {
-    var showBlock = function ($block, $filters, dataName) {
+    function showBlock (/** @type {JQuery<HTMLElement>} */ $block, /** @type {JQuery<HTMLElement>} */ $filters, /** @type {string} */ dataName) {
         if (typeof ($block) === "undefined" || $block == null) {
             console.error("$block cannot be null");
             return true;
@@ -115,24 +117,24 @@ var breakpoint = { xs:0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400};
         if ($filters.length == 0) {
             return true;
         }
-        var categories = $block.data(dataName);
+        const categories = $block.data(dataName);
         if (typeof (categories) === "undefined" || categories == null) {
             console.warn("No data attribute: " + dataName);
             return true;
         }
-        var showBlock = false;
+        let canShowBlock = false;
         $filters.each(function () {
             if (categories.indexOf("|" + $(this).val() + "|") >= 0) {
-                showBlock = true;
+                canShowBlock = true;
             }
         });
-        return showBlock;
+        return canShowBlock;
     }
-    var filterPosts = function () {
+    function filterPosts () {
         $(".eventshop-list .col").hide();
-        var $type = $(".division.type input:checked");
-        var $age = $(".division.age input:checked");
-        var $location = $(".division.location input:checked");
+        const $type = $(".division.type input:checked");
+        const $age = $(".division.age input:checked");
+        const $location = $(".division.location input:checked");
         $(".eventshop-list .col").each(function () {
             if (showBlock($(this), $type, "type") && showBlock($(this), $age, "age-group") && showBlock($(this), $location, "location")) {
                 $(this).show();
@@ -140,7 +142,7 @@ var breakpoint = { xs:0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400};
         });
         $(".js-selected-filters").text($(".eventshop-list .col").filter(":visible").length + " events - "+ $(".division input:checked").length +" filters");
     }
-    var initialiseFilters = function(){
+    function initialiseFilters (){
         if (window.innerWidth < breakpoint.md){
             $(".js-selected-filters").text($(".eventshop-list .col").length + " events - no filters");
             $(".filter-result h4").on("click",function(){
@@ -151,7 +153,7 @@ var breakpoint = { xs:0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400};
             });
         }
     }
-    $(document).ready(function () {
+    $.when($.ready).then(function(){
         initialiseFilters();
         $(".division input").on("change", function () {
             console.log(this);
@@ -162,8 +164,8 @@ var breakpoint = { xs:0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400};
 })(jQuery);
 // Add in-page links for long pages
 (function ($) {    
-    var pages = ["challenge-badges","resources"]; //classes added to main-content section used to filter which pages this runs on
-    var page = pages.find(pageClass => $(".main-content").hasClass(pageClass));
+    const pages = ["challenge-badges","resources"]; //classes added to main-content section used to filter which pages this runs on
+    const page = pages.find(pageClass => $(".main-content").hasClass(pageClass));
     if (typeof(page)==="undefined" || page==null){
         return;
     }

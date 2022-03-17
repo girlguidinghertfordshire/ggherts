@@ -27,7 +27,7 @@
         &::after {
             content: "\f105";
             display: inline-block;
-            font-family: FontAwesome;
+            font-family: FontAwesome, sans-serif;
             padding-left: 5px;
             vertical-align: middle;
             margin-top: -1px;

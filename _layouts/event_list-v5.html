@@ -80,11 +80,11 @@ layout: default-v5
                                             {% endfor %}
                                         </div>
                                         <h2 class="card-title"><a href="{{ event.url }}">{{ event.title }}</a></h2>
-                                        <date class="card-text">{{ event.event.start_date | date: "%d %b %Y" }}
+                                        <time class="card-text">{{ event.event.start_date | date: "%d %b %Y" }}
                                             {% if event.event.end_date != '' and event.event.start_date !=
                                             event.event.end_date %}
                                             - {{ event.event.end_date | date: "%d %b %Y" }}
-                                            {% endif %}</date>
+                                            {% endif %}</time>
                                         <div class="card-text">
                                             <div class="row">
                                                 <div class="col-sm-6 col-md-12 col-lg-6">

@@ -1,4 +1,5 @@
 function initialize() {
+    const google = window.google || {};
     var map = new google.maps.Map(document.getElementById('map'),{
         scrollwheel: false,
     });

@@ -46,10 +46,10 @@ layout: page
     <h2>Contact details</h2>
     {{ page.shop.location | markdownify }}
    {% if page.shop.contact_email %}
-    <a href="mailto: {{ page.shop.contact_email }}"><i class="fa fa-at"></i> {{ page.shop.contact_email }}</a>
+    <a href="mailto: {{ page.shop.contact_email }}"><i class="fa fa-at" aria-hidden="true"></i> {{ page.shop.contact_email }}</a>
     {% endif %}
     {% if page.shop.contact_number %}
-    <a href="callto:{{ page.shop.contact_number }}"><i class="fa fa-phone"></i> {{ page.shop.contact_number }}</a>
+    <a href="callto:{{ page.shop.contact_number }}"><i class="fa fa-phone" aria-hidden="true"></i> {{ page.shop.contact_number }}</a>
     {% endif %}
     </div>
     <div class="map-comments">

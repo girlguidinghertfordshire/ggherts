@@ -9,3 +9,5 @@
 _config.development.yml
 jekyll-dev.bat
 .frontmatter/content/mediaDb.json
+/.scannerwork
+sonar-project.properties
