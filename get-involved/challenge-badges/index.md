@@ -10,7 +10,7 @@ author:
   first_name: Andrew
   last_name: Settle
 permalink: /get-involved/challenge-badges/
-lastmod: 2022-03-11T10:30:55.884Z
+lastmod: 2022-03-17T19:32:27.635Z
 ---
 ## Book Challenge Badge
 
@@ -55,23 +55,13 @@ These badges have been designed by 1st Baldock Brownies and are part of their fu
   </div>
 </div>
 
-## Racism Awareness Challenge Badge
-{: #racismawareness .mb-3}
-
-![Racism Awareness Challenge Badge](/wp-content/uploads/2020/08/Racism_Awareness_Challenge-291x300.jpg){: .pull-left}{:width="155"}{:height="160"}{:style="margin:10px"}{:loading="lazy"}
-This Challenge has been created and designed by Eleanor Teather as part of the work towards her Queen's Guide Award. The badge is suitable for all sections and its aim is to raise awareness about racism and inspire members to become an ally.
-
-For more information and an badge order form:
-
-[Download the Racism Awareness Challenge Pack <i class="fa fa-download"></i>](/wp-content/uploads/2021/05/Racism-Awareness-Challenge-pack.pdf){: .btn.btn-primary}
-
 <div class="clearfix"></div>
 
 ## Marathon Challenge Badge
 {: #marathon}
 
 {:.text-center}
-![](/assets/images/2022/03/marathon-challenge-badges.webp){:width="550"}{:loading="lazy"}
+![Marathon Challenge Badge](/assets/images/2022/03/marathon-challenge-badges.webp){:width="550"}{:loading="lazy"}
 
 The Walking Team Marathon Badge Challenge will continue into 2022, to allow us to celebrate and be inspired by the Winter Olympics & Winter Para Olympics.  Anyone can participate, member or non-member, so families can go out and exercise together and everyone can have fun earning the badge.
 
