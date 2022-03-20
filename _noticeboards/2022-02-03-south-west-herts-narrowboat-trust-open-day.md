@@ -1,15 +1,16 @@
 ---
 title: South West Herts Narrowboat Trust Open Day
-date: '2022-02-03T22:23:47.008Z'
+date: 2022-02-03T22:23:47.008Z
 image: /assets/images/2022/02/narrowboat.jpg
+published: false
 categories:
-    - Notice
+  - Notice
 tags: []
 author:
-    display_name: The County Office
-    first_name: null
-    last_name: null
-lastmod: '2022-02-03T22:31:16.378Z'
+  display_name: The County Office
+  first_name: null
+  last_name: null
+lastmod: 2022-03-20T10:32:20.739Z
 ---
 
 Following the success of previous open days, South West Herts Narrowboat Trust are opening their gates once again on Saturday 5 March for anyone interested in having a go at narrowboating.    
