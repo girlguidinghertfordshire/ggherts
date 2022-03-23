@@ -75,6 +75,12 @@
         font-size: 14px;
     }
 }
+.gg-btn-200 {
+    width:200px;
+    &::after{
+        width: 198px;
+    }
+}
 .gg-btn-pink-o {
     span {
         color: $gg-dark-pink;
