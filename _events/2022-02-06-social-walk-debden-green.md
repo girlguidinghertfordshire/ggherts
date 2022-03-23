@@ -1,29 +1,30 @@
 ---
-title: 'Social Walk from Debden Green, nr Saffron Walden'
-date: '2021-12-01T21:48:23.190Z'
+title: Social Walk from Debden Green, nr Saffron Walden
+date: 2021-12-01T21:48:23.190Z
+published: false
 event:
-    start_date: '2022-02-06'
-    end_date: ''
-    address: 'Debden Green, nr Saffron Walden'
-    contact_name: null
-    contact_email: walking@girlguidinghertfordshire.org.uk
-    contact_number: ''
-    book_now_link: ''
-    image: /assets/images/2021/08/social-walk1.jpg
-    type:
-        - Social
-    age-group:
-        - Adults
-        - Young Leaders
-        - Rangers
-    location:
-        - Hertfordshire
+  start_date: 2022-02-06
+  end_date: ""
+  address: Debden Green, nr Saffron Walden
+  contact_name: null
+  contact_email: walking@girlguidinghertfordshire.org.uk
+  contact_number: ""
+  book_now_link: ""
+  image: /assets/images/2021/08/social-walk1.jpg
+  type:
+    - Social
+  age-group:
+    - Adults
+    - Young Leaders
+    - Rangers
+  location:
+    - Hertfordshire
 author:
-    email: null
-    display_name: null
-    first_name: null
-    last_name: null
-lastmod: '2021-12-06T22:13:39.561Z'
+  email: null
+  display_name: The County Office
+  first_name: null
+  last_name: null
+lastmod: 2022-03-23T08:35:25.400Z
 ---
 
  Adults, Young Leaders & Rangers are welcome to join the Walking Team on a social walk from Debden Green, near Saffron Walden, starting at 9am on Sunday 6th February until approximately 1.15pm. Bring a hot drink and several snacks!

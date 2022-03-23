@@ -11,7 +11,7 @@ event:
   book_now_link: ""
   image: /assets/images/2022/01/golf-ball.jpg
   type:
-    - Activity Day
+    - Activity
   age-group:
     - Guides
     - Rangers
@@ -23,12 +23,12 @@ author:
   display_name: The County Office
   first_name: null
   last_name: null
-lastmod: 2022-03-13T20:06:07.227Z
+lastmod: 2022-03-23T08:41:33.401Z
 ---
 
 Girlguiding Hertfordshire are delighted to be able to host this event in association with Porters Park Golf Club, Radlett.
 
-The golf professionals will be introducing 30 girls to the amazing sport of golf by way of various activities throughout the day. 
+The golf professionals will be introducing 30 girls to the amazing sport of golf by way of various activities throughout the day.
 
 **Applications must be received by Sat, 07 May.**
 

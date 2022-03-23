@@ -1,24 +1,24 @@
 ---
 title: Great Patrol Hunt 2022 Round 2
-date: '2022-01-08T13:16:01.346Z'
+date: 2022-01-08T13:16:01.346Z
 event:
-  start_date: '2022-03-26'
-  end_date: ''
+  start_date: 2022-03-26
+  end_date: ""
   address: Hertfordshire
   contact_name: Jean Banks
   contact_email: gghertsoaa@gmail.com
-  contact_number: ''
-  book_now_link: ''
+  contact_number: ""
+  book_now_link: ""
   image: /assets/images/2022/02/greatpatrolhunt.jpg
-  type: Activity Day
+  type: Activity
   age-group:
     - Guides
   location:
-    - 'Hertfordshire, St Albans'
+    - Hertfordshire, St Albans
 author:
   display_name: Rachel Kemp
 permalink: /event/great-patrol-hunt-2022-round-2/
-lastmod: '2022-02-01T20:21:54.070Z'
+lastmod: 2022-03-23T08:31:24.296Z
 ---
 The Great Patrol Hunt 2022 Round 2 is taking place on Saturday 26th March 2022 at St Albans.
 

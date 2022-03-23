@@ -18,10 +18,10 @@ event:
     - Young Leaders
   location:
     - Peak District
-lastmod: 2022-03-17T19:30:43.260Z
+lastmod: 2022-03-23T08:41:33.398Z
 ---
 
-Rangers & Young Leaders are invited to have a fun hillwalking weekend in the Peak District & to improve their map reading and navigation skills, either for their own personal adventures, for DofE, or to enable them to participate in Peak Assault, an orienteering competition run by Hertfordshire Scouts in remote terrain. 
+Rangers & Young Leaders are invited to have a fun hillwalking weekend in the Peak District & to improve their map reading and navigation skills, either for their own personal adventures, for DofE, or to enable them to participate in Peak Assault, an orienteering competition run by Hertfordshire Scouts in remote terrain.
 
 This weekend is taking place from **6pm on Friday, 8 July until 8.30pm on Sunday, 10 July 2022.**
 

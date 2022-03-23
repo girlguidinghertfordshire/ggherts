@@ -26,7 +26,7 @@ event:
     - Hertfordshire, South East
 author:
   display_name: The County Office
-lastmod: 2022-03-10T09:06:27.056Z
+lastmod: 2022-03-23T08:37:51.652Z
 ---
 To celebrate the Queen's Platinum Jubilee Girlguiding are lighting 70 fires across the UK and Girlguiding Hertfordshire have been selected to host an event on Thursday 2 June in the south of the county.
 
