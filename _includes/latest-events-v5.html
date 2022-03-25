@@ -1,0 +1,37 @@
+<section class="latest-events">
+    <div class="container">
+        <h2>Latest Events</h2>
+        <div class="event-list">
+            {% assign events = site.events | sort: 'date' | reverse %}
+            {% assign today = 'now' | date: '%s' | plus: 0 %}
+            {% assign count = 0 %}
+            {% for event in events %}
+            {% if count >= 4 %}
+            {% break %}
+            {% endif %}
+            {% assign startDate = event.event.start_date | date: '%s' | plus: 0 %}
+            {% if startDate> today %}
+            {% assign count = count | plus:1 %}
+            <a href="{{ event.url }}">
+                <div class="event-block">
+                    <div class="event-content">
+                        <figure style="background-image:url('{{ event.event.image }}');">
+                            <img src="{{ event.event.image }}" alt="Event" />
+                        </figure>
+                        <div class="event-detail">
+                            <h3>{{ event.title }}</h3>
+                            <time>{{ event.event.start_date | date: "%d %b %Y" }}
+                                {% if event.event.end_date != '' and event.event.start_date != event.event.end_date %}
+                                - {{ event.event.end_date | date: "%d %b %Y" }}
+                                {% endif %}</time>
+                        </div>
+                        <div class="event-pattern"></div>
+                    </div>
+                </div>
+            </a>
+            {% endif %}
+            {% endfor %}
+        </div>
+        <a href="/events/" class="d-block btn btn-outline-primary">View all events</a>
+    </div>
+</section>

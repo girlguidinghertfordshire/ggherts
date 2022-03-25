@@ -8,6 +8,18 @@
         border-color: $gg-pink-border-hover;
     }
 }
+.btn-outline-primary {
+    color: $gg-pink;
+    border-color: $gg-pink;
+    &:active,&:hover {
+        color: #fff;
+        background-color: $gg-pink;
+        border-color: $gg-pink;
+    }
+    &:focus {
+        box-shadow: 0 0 0 0.25rem rgba(196, 0, 99, 0.5);
+    }
+}
 .btn-secondary {
     color: #fff;
     background-color: $gg-dark-blue;
@@ -22,6 +34,7 @@
     width: 130px;
     font-size: 14px;
     padding-top: 7px;
+    margin-bottom: 25px;
     span {
         color: white;
         &::after {
@@ -77,8 +90,16 @@
 }
 .gg-btn-200 {
     width:200px;
+    height: 48px;
+    &::before{
+        height: 44px;
+    }
     &::after{
         width: 198px;
+        height: 40%;
+        top: 37px;
+        -webkit-transform: skew(-2deg,14deg);
+        transform: skew(-2deg,14deg);
     }
 }
 .gg-btn-pink-o {

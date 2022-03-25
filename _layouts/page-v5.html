@@ -68,11 +68,11 @@ layout: default-v5
     {% for inc in page.includes %}
         {% case inc %}
         {% when "Events" %}
-    {% include latest-events.html %}
+    {% include latest-events-v5.html %}
         {% when "News" %}
-    {% include latest-news.html %}
+    {% include latest-news-v5.html %}
         {% when "Noticeboard" %}
-    {% include noticeboard-footer.html %}
+    {% include noticeboard-footer-v5.html %}
         {% else %}
         <!-- Unknown include: {{ inc }}-->
         {% endcase %}
