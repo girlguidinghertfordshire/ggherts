@@ -2,11 +2,11 @@
 layout: page-v5
 title: Resources
 toc: about-us
-lastmod: 2022-03-13T19:36:40.485Z
+lastmod: 2022-03-28T09:37:06.914Z
 ---
 ## Forms &amp; Stationery
 
-### Girlguiding Hertfordshire Online Photograph Consent Form
+### Girlguiding Hertfordshire Photograph Consent Forms
 {:#photoconsent}
 
 A photo consent form should be used when submitting photographs for county publicity and when sending Share articles.  
@@ -29,7 +29,7 @@ Where photos feature groups of girls, this form should be completed by leaders c
 
 ##### [Girlguiding Hertfordshire Grant Application Form <i class="fa fa-external-link"></i>](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwRrqs7bdo19CnIwI_9Lov51UMEs3SDFBNk1XVUE1NERQTEVQT0lES1VVVy4u){:target="_blank"}{:rel="noopener"}
 
-<h5><a href="/wp-content/uploads/2021/05/Girlguiding-Hertfordshire-Expenses-Claim-Form-2021.xlsx">Girlguiding Hertfordshire Expenses Claim Form 2021</a></h5>
+<h5><a href="/wp-content/uploads/2021/05/Girlguiding-Hertfordshire-Expenses-Claim-Form-2021.xlsx">Girlguiding Hertfordshire Expenses Claim Form</a></h5>
 
 <h5><a href="/wp-content/uploads/2021/05/Girlguiding-Hertfordshire-Letterhead.doc">Girlguiding Hertfordshire Letterhead</a></h5>
 <p>This letterhead is fully editable and may be opened in Microsoft Word or other word processing software.</p>

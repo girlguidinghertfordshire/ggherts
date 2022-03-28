@@ -1,17 +1,14 @@
 ---
 title: Junior Bake Off - Applications Now Open
-date: '2022-02-09T20:45:19.904Z'
+date: 2022-02-09T20:45:19.904Z
+published: false
 image: /assets/images/2022/02/bake_off.jpg
 categories:
-    - Notice
-    - Fundraising
-    - Badges
+  - Notice
+  - Fundraising
+  - Badges
 tags: []
-author:
-    display_name: null
-    first_name: null
-    last_name: null
-lastmod: '2022-02-09T20:53:35.595Z'
+lastmod: 2022-03-28T09:54:25.939Z
 ---
 
 ![](/assets/images/2022/02/love-productions.jpeg){:class="pull-right"}{:style="padding:10px;"}
