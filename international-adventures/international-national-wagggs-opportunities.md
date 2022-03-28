@@ -11,7 +11,7 @@ author:
   first_name: ""
   last_name: ""
 permalink: /international-adventures/international-national-wagggs-opportunities/
-lastmod: 2022-03-28T09:13:52.186Z
+lastmod: 2022-03-28T13:38:15.485Z
 ---
 ## National Opportunities
 
@@ -21,4 +21,4 @@ Girlguiding offers a number of national opportunities, please see their website 
 
 ## WAGGGS Opportunities
 
-Each of the World Centres is staffed by a small international team of volunteers and paid employees. Volunteering opportunities are available to members over 18 for periods ranging from a couple of weeks up to a year. Volunteering opportunities are advertised on the WAGGGS website, more Information can be found here: <a href="https://www.wagggs.org/en/our-world/world-centres/" target="_blank" rel="noopener">https://www.wagggs.org/en/our-world/world-centres/</a></p>
+Each of the World Centres is staffed by a small international team of volunteers and paid employees. Volunteering opportunities are available to members over 18 for periods ranging from a couple of weeks up to a year. Volunteering opportunities are advertised on the WAGGGS website, more Information can be found here: <a href="https://www.wagggs.org/en/our-world/world-centres/" target="_blank" rel="noopener">https://www.wagggs.org/en/our-world/world-centres/</a>

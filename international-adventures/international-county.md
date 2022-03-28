@@ -6,7 +6,7 @@ toc: county-teams
 banner_image: /wp-content/uploads/2018/06/International_banner.jpg
 author:
   display_name: the County Office
-lastmod: 2022-03-28T08:52:21.187Z
+lastmod: 2022-03-28T13:37:40.550Z
 ---
 {% assign today = 'now' | date: '%s' | plus: 0 %}
 {% assign maxdate = '2022-04-01' | date: '%s' | plus: 0 %}
@@ -20,7 +20,7 @@ lastmod: 2022-03-28T08:52:21.187Z
 
 Guide and Ranger members aged 14-18 who want to travel the world with Girlguiding should be encouraged to attend the County International Opportunities Day, held each year in the autumn term.  The International Leadership Team have a day of activities and team challenges to allow them to get to know everyone. After successful completion, the team offer places on County trips for the next year and offer a small number of girls the opportunity to attend Anglia region selection. In recent years County trips have visited Ireland, The Gambia, Mexico, USA, India and the World Scout Jamboree.
 
-If you have members who are interested in international opportunities then watch for the International Opportunities Day information in the monthly mailout and on the [events section.](/events/)</a>
+If you have members who are interested in international opportunities then watch for the International Opportunities Day information in the monthly mailout and on the [events section.](/events/)
 
 ## Leaders needed to Lead/assist with International opportunities in 2021
 
