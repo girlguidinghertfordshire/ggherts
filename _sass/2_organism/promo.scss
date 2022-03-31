@@ -1,0 +1,20 @@
+// Styles for promo blocks
+.promo-block {
+    background: #4cbac5;
+    padding: 0 0 30px;
+    margin-bottom: 48px;
+    border-radius: 5px;
+}
+.promo-description {
+    margin: 0;
+    padding: 10px 20px 0;
+    display: inline-block;
+    text-align: center;
+    color: #fff;
+    h3 {
+        font-size: 16px;
+        font-weight: 700;
+        color: #fff;
+        margin-bottom: 15px;
+    }
+}

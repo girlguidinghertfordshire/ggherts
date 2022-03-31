@@ -2,7 +2,7 @@
 layout: page-v5
 title: Resources
 toc: about-us
-lastmod: 2022-03-28T09:37:06.914Z
+lastmod: 2022-03-31T11:19:13.497Z
 ---
 ## Forms &amp; Stationery
 
@@ -57,10 +57,14 @@ ___
 - [2019](/membership-system-updates/2019/)
 - [2018](/membership-system-updates/2018/)
 
-<h3>External First Aid Courses</h3>
-<p>Before submitting an external First Aid course certificate please complete the Girlguiding <a href="https://learning.girlguiding.org.uk/login/index.php" target="_blank" rel="noopener">1st Response e-learning</a> and check that it has been recorded on GO.</p>
-<p>Your external course must have been delivered face to face, lasting at least 6 hours.  It must have included both child and adult CPR and covered all the clauses in the Girlguiding 1st Response syllabus.  If there are clauses which were not covered, you may be able to discuss these with a Girlguiding trainer.  Please speak to your commissioner if you need to arrange this.</p>
-<p>Please email a copy of your external course certificate to the <a href="mailto:countysec@girlguidinghertfordshire.org.uk" target="_blank" rel="noopener">county office</a> along with a copy of the Girlguiding <a href="/wp-content/uploads/2021/05/1st-response-syllabus-Nov-2020.pdf">1st Response Syllabus</a> signed and dated by yourself, to confirm that all requirements have been fulfilled.</p>
+### Access to GO and Learning Platform
+
+[Instructions on how to set up access to GO and the Learning Platform](/go/)
+
+### External First Aid Courses
+
+[Latest information on external first aid courses](/news/external-first-aid-courses/)
+
 ___
 
 ## Reports &amp; Information

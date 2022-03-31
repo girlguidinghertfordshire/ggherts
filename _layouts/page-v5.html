@@ -38,14 +38,13 @@ layout: default-v5
                         {% for childItem in item.items %}<li {% if item.url==page.url %} class="current_page_item"{% endif %}><a href="{{ childItem.url}}"{%if childItem.url==page.url %} aria-current="page"{% endif %}>{{ childItem.title }}</a></li>{% endfor %} </ul>{% endif %}</li>
                     {% endfor %}
                     </ul>
-                </nav>
                 
-                {% if page.advertId != '' %}
+                    {% if page.advertId != '' %}
                     {% for advert in site.adverts %}
                         {% if advert.advertId == page.advertId %}
                             <a href="{{ advert.advert_url }}">
                                 <div class="promo-block">
-                                    <div class="add-description">
+                                    <div class="promo-description">
                                         <h3>{{ advert.advert_title }}</h3>
                                         <p>{{ advert.advert_description }}</p>
                                     </div>
@@ -55,6 +54,8 @@ layout: default-v5
                         {% endif %}
                     {% endfor %}
                 {% endif %}
+                </nav>
+                
             </div>
         </div>
     </div>

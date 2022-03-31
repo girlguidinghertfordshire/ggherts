@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-v5
 title: Vacancies
 date: 2019-10-17T10:38:11.000Z
 toc: get-involved
@@ -8,37 +8,55 @@ author:
   login: GGH-Admin1
   email: share@girlguidinghertfordshire.org.uk
   display_name: GGH-Admin1
-  first_name: ''
-  last_name: ''
+  first_name: ""
+  last_name: ""
 permalink: /get-involved/vacancies/
-lastmod: '2022-01-25T21:13:04.907Z'
+lastmod: 2022-03-31T11:50:52.443Z
 ---
-<h2>Current Volunteer Vacancies</h2>
+## Current Volunteer Vacancies
+
 We have a fantastic team of volunteers who look to the County Team for guidance, support and vision. As part of this County Team structure we are looking for new advisers to help the County to move forward and be the best that we can be.  All members of the team need to fully embrace the programme and spread passion and enthusiasm for guiding.
 
+### Camp helpers needed
+
+The Residential Team are looking for additional adult helpers to ensure this event is a success.
+
+The Guides will learn basic traditional camping skills whilst working towards their stage 3 and 4 Skills builder Camp badges and the Guiding History Interest badge.
+
+If you would like to be part of this fun filled event please contact <residential@girlguidinghertfordshire.org.uk>
+
 ### Growth & Retention Working Team
-![](/assets/images/2022/01/growth-retention-vacancy_sm.jpg){:class="pull-right"}{:width="280"}{:height="200"}{:style="padding:15px"}
+
+![](/assets/images/2022/01/growth-retention-vacancy_sm.jpg){:.pull-right.m-3}{:width="280"}{:height="200"}
 The Growth & Retention Team are looking for new enthusiastic and keen people to make a difference.
 
 We would like to have members from a range of volunteer roles as well as members from different areas of the county and are looking for people who are enthusiastic and would like to make a difference to the future of Girlguiding Hertfordshire.
 
-[Role Description <i class="fa fa-download"></i>](/wp-content/uploads/2021/05/Growth-and-Retention-Team-Role-Desc.pdf){:class="btn-gg"}
+[Role Description](/wp-content/uploads/2021/05/Growth-and-Retention-Team-Role-Desc.pdf){:.download-link.btn.btn-primary}
 
 For more information or to get involved contact Sally Settle, Assistant County Commissioner - Members: <sallyACC@girlguidinghertfordshire.org.uk>
 
 ### Want to help your Guiding community?
-![](/assets/images/2021/12/activity_day_volunteers_250.jpg){:class="pull-left"}{:width="280"}{:height="207"}{:style="padding:15px"}
+
+![](/assets/images/2021/12/activity_day_volunteers_250.jpg){:.pull-left.m-3}{:width="280"}{:height="207"}
+
 Are you free to help make our County Activity Day, taking place on Saturday, 23 April 2022 from 9.30am - 4.30pm, a success for the Rainbows, Brownies and Guides who will be attending?
 
 Volunteers aged 16+ and members of the Trefoil Guild are sought to help with set up and take down, manning bases, running activities, and undertaking administrative duties in the lead up to the event.
 
 If you are interested in any of the above roles or would like to assist the team with planning, please contact <Outdoor@girlguidinghertfordshire.org.uk> to express your interest and availability.
 
+<div class="clearfix"></div>
+
 ### Challenge Badge Team
-![](/assets/images/2021/11/challenge-team.png){:class="pull-right"}{:width="250"}{:height="210"}
+
+![](/assets/images/2021/11/challenge-team.png){:.pull-right.m-3}{:width="250"}{:height="210"}
+
 We are looking for people to join our County Challenge Badge planning team.  The theme for next year is Grow Guiding.  If you would like to be part of the team, please email [events@girlguidinghertfordshire.org.uk](mailto:events@girlguidinghertfordshire.org.uk)
 <div class="clearfix"></div>
+
 ### Jubilee Team
+
 <p class="clearfix">
 <img src="/assets/images/2021/10/jubilee-vacancy.png" alt="" class="pull-left" style="padding:15px"/>
 We are looking for enthusiastic people to form a 70th Jubilee team. Open to all (including Queen's Guides and LiT) with no experience needed. To help with this unique opportunity please email: <a href="mailto:events@girlguidinghertfordshire.org.uk">events@girlguidinghertfordshire.org.uk</a></p>
@@ -63,7 +81,7 @@ We are looking for a volunteer or team of volunteers to continue with Lone Guidi
  	<li>organising activities</li>
  	<li>regular communication with members</li>
  	<li>unit administration on GO</li>
- 	<li>finances of the unit&lt;</li>
+ 	<li>finances of the unit</li>
  	<li>recruitment</li>
 </ul>
 Full role description will follow.
