@@ -17,6 +17,9 @@ about-us:
     url: /about-us/divisions/
   - title: Resources and Links
     url: /about-us/resources/
+    items:
+      - title: Accessing Learning Platform
+        url: /go/
   - title: Membership System Updates
     url: /membership-system-updates/
   - title: Wellbeing Resources
@@ -114,9 +117,11 @@ term:
   title: Term of Use
   url: /term-of-use/
 membership:
-  title: Membership System Updates (2021)
+  title: Membership System Updates
   url: /membership-system-updates/
   items:
+  - title: 2021
+    url: /membership-system-updates/2021/
   - title: 2020
     url: /membership-system-updates/2020/
   - title: 2019

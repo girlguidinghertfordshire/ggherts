@@ -1,0 +1,68 @@
+---
+layout: default-v5
+---
+{% assign year = page.year | plus:0 %}
+{% include banner.html %}
+<div class="main-content {{ page.title | slugify }}">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <nav aria-label="breadcrumb">
+                    <ul class="breadcrumb">
+                        <li class="breadcrumb-item">
+                            <a href="/">Home</a>
+                        </li>
+                        {% assign menu = site.data.navigation[page.toc] %}
+                        {% if menu.url != page.url %}
+                        <li class="breadcrumb-item"><a class="bread-link" href="{{menu.url}}">{{menu.title}}</a></li>
+                        {% endif %}
+                        <li class="breadcrumb-item active" aria-current="page">
+                            {{ page.title }}
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+        <h1 id="updates{{ year }}">Membership System Updates {{ year }}</h1>
+        {% assign updates = site.membership_updates | where:"year",year | reverse %}
+        <div class="row">
+            <div class="col-md-8 col-xxl-10 order-md-2 content js-updates">
+                {% for update in updates %}
+                <section id="{{ update.title | slugify }}">
+                    <h2>{{ update.title }}</h2>
+                    {{ update.content }}
+                </section>
+                {% endfor %}
+                {{ content }}
+                <hr>
+                <nav aria-label="membership updates for other years">
+                    <ul class="pagination justify-content-center">
+                        {% assign currentYear = "today" | date: "%Y" | plus: 0 %}
+                        {% if year < currentYear %} {% if year < currentYear-1 %} {% assign link=year | plus: 1 %} {%
+                            endif %} <li class="page-item"><a class="page-link"
+                                href="/membership-system-updates/{{ link }}"><span aria-hidden="true">&laquo;</span>{{ year | plus: 1 }} updates</a></li>
+                            {% endif %}
+                            {% if year > 2018 %}
+                            <li class="page-item"><a class="page-link"
+                                    href="/membership-system-updates/{{ year | minus: 1 }}">{{ year | minus: 1 }} updates <span aria-hidden="true">&raquo;</span></a>
+                            </li>
+                            {% endif %}
+                    </ul>
+                </nav>
+            </div>
+            <div class="col-md-4 col-lg-3 col-xxl-2">
+                {% if updates.size>0 %}
+                <nav class="gg-left-menu scrollspy" aria-label="Site navigation">
+                    <h2><a href="#updates{{year}}">Updates</a></h2>
+                    <ul class="nav flex-column">
+                        {% for update in updates %}
+                        <li class="nav-item"><a href="#{{ update.title | slugify }}" class="nav-link">{{ update.title
+                                }}</a></li>
+                        {% endfor %}
+                    </ul>
+                </nav>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>

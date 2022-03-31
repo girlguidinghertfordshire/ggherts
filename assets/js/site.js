@@ -1,19 +1,19 @@
 // @ts-check
 /// <reference types="jquery" />
 // Width in pixels for each breakpoint
-const breakpoint = { xs:0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400};
+const breakpoint = { xs: 0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400 };
 // Mobile menu
 (function ($) {
-    function closeChildMenu (/** @type {JQuery<HTMLElement>} */ $li) {
+    function closeChildMenu(/** @type {JQuery<HTMLElement>} */ $li) {
         $li.removeClass("open");
         $li.find("ul li:first").remove();
     }
-    function closeAllChildMenus (/** @type {JQuery.PlainObject<any>} */ $ul) {
+    function closeAllChildMenus(/** @type {JQuery.PlainObject<any>} */ $ul) {
         if (typeof $ul === "undefined")
             $ul = $(".gg-menu ul:first");
         $(".open", $ul).each(function () { closeChildMenu($(this)); });
     }
-    function slidingMenu (/** @type {boolean} */ openMenu) {
+    function slidingMenu(/** @type {boolean} */ openMenu) {
         $("#showmenu").toggleClass("active");
         if (openMenu) {
             $(".gg-sliding-frame").addClass("open").animate({ left: "-250px" }, 500);
@@ -21,10 +21,10 @@ const breakpoint = { xs:0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400};
             $(".gg-sliding-frame").removeClass("open").animate({ left: "0" }, 500);
         }
     }
-    function initialisePage () {
+    function initialisePage() {
         if (window.innerWidth < breakpoint.lg) {
-            if ($(".gg-menu").attr("style")!==''){
-                $(".gg-menu").attr("style","");
+            if ($(".gg-menu").attr("style") !== '') {
+                $(".gg-menu").attr("style", "");
             }
             $(".gg-sliding-frame,.main-content").css("min-height", document.documentElement.clientHeight);
             $(".gg-menu-fixed").css("height", document.documentElement.clientHeight);
@@ -51,28 +51,28 @@ const breakpoint = { xs:0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400};
                 } else {
                     closeAllChildMenus($(this).closest("ul"));
                     $li.addClass("open");
-                    const $a=$(this);
+                    const $a = $(this);
                     const firstLi = "<li><a href=\"" + $a.prop("href") + "\">" + $a.text() + "</a></li>";
                     $li.find("ul:first").prepend(firstLi);
                 }
-            });        
-        }else {
-            if ($(".gg-sliding-frame").attr("style")!==''){
-                $(".gg-sliding-frame").attr("style","");
+            });
+        } else {
+            if ($(".gg-sliding-frame").attr("style") !== '') {
+                $(".gg-sliding-frame").attr("style", "");
             }
-            $(".gg-sliding-frame,.main-content").css("min-height","auto");
-            $(".gg-menu-fixed").css("height","auto");
-            $(".gg-menu").css("right",$(document).width() - ($(".gg-search-form").position().left + $(".gg-search-form").width()));
+            $(".gg-sliding-frame,.main-content").css("min-height", "auto");
+            $(".gg-menu-fixed").css("height", "auto");
+            $(".gg-menu").css("right", $(document).width() - ($(".gg-search-form").position().left + $(".gg-search-form").width()));
         }
     }
-    $.when($.ready).then(function(){
+    $.when($.ready).then(function () {
         initialisePage();
     });
     $(window).on("resize", function () {
         $("#showmenu").off("click");
         initialisePage();
     });
-// eslint-disable-next-line no-undef
+    // eslint-disable-next-line no-undef
 })(jQuery);
 // Lazy loader for footer content
 (function ($, w, d) {
@@ -105,11 +105,11 @@ const breakpoint = { xs:0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400};
     $(w).on("scroll resize", function () {
         lazyLoad();
     });
-// eslint-disable-next-line no-undef
+    // eslint-disable-next-line no-undef
 })(jQuery, window, document);
 // Filter for Events/Training pages
 (function ($) {
-    function showBlock (/** @type {JQuery<HTMLElement>} */ $block, /** @type {JQuery<HTMLElement>} */ $filters, /** @type {string} */ dataName) {
+    function showBlock(/** @type {JQuery<HTMLElement>} */ $block, /** @type {JQuery<HTMLElement>} */ $filters, /** @type {string} */ dataName) {
         if (typeof ($block) === "undefined" || $block == null) {
             console.error("$block cannot be null");
             return true;
@@ -130,7 +130,7 @@ const breakpoint = { xs:0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400};
         });
         return canShowBlock;
     }
-    function filterPosts () {
+    function filterPosts() {
         $(".eventshop-list .col").hide();
         const $type = $(".division.type input:checked");
         const $age = $(".division.age input:checked");
@@ -140,36 +140,65 @@ const breakpoint = { xs:0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400};
                 $(this).show();
             }
         });
-        $(".js-selected-filters").text($(".eventshop-list .col").filter(":visible").length + " events - "+ $(".division input:checked").length +" filters");
+        $(".js-selected-filters").text($(".eventshop-list .col").filter(":visible").length + " events - " + $(".division input:checked").length + " filters");
     }
-    function initialiseFilters (){
-        if (window.innerWidth < breakpoint.md){
+    function initialiseFilters() {
+        if (window.innerWidth < breakpoint.md) {
             $(".js-selected-filters").text($(".eventshop-list .col").length + " events - no filters");
-            $(".filter-result h4").on("click",function(){
+            $(".filter-result h4").on("click", function () {
                 $(".filter-options").toggle();
             });
-            $("#filterClose").on("click",function(){
+            $("#filterClose").on("click", function () {
                 $(".filter-options").hide();
             });
         }
     }
-    $.when($.ready).then(function(){
+    $.when($.ready).then(function () {
         initialiseFilters();
         $(".division input").on("change", function () {
             console.log(this);
             filterPosts();
         });
     });
-// eslint-disable-next-line no-undef
+    // eslint-disable-next-line no-undef
 })(jQuery);
 // Add in-page links for long pages
-(function ($) {    
-    const pages = ["challenge-badges","resources"]; //classes added to main-content section used to filter which pages this runs on
+(function ($) {
+    const pages = ["challenge-badges", "resources"]; //classes added to main-content section used to filter which pages this runs on
     const page = pages.find(pageClass => $(".main-content").hasClass(pageClass));
-    if (typeof(page)==="undefined" || page==null){
+    if (typeof (page) === "undefined" || page == null) {
         return;
     }
     var $ul = $(`.${page} .gg-left-menu .nav-link.active`).parent().append("<ul/>");
-    $(`.${page} .content h2`).each(function(){$ul.find("ul").append(`<li><a href="#${this.id}">${$(this).text()}</a></li>`)});
-// eslint-disable-next-line no-undef
+    $(`.${page} .content h2`).each(function () { $ul.find("ul").append(`<li><a href="#${this.id}">${$(this).text()}</a></li>`) });
+    // eslint-disable-next-line no-undef
+})(jQuery);
+// Add in-page links for membership system pages
+(function ($) {
+    $.when($.ready).then(function () {
+        const pages = ["membership-system-updates"]; //classes added to main-content section used to filter which pages this runs on
+        const page = pages.find(pageClass => $(".main-content").hasClass(pageClass));
+        if (typeof (page) === "undefined" || page == null) {
+            return;
+        }
+        var menu = ".gg-left-menu";
+        // @ts-ignore
+        $("body").scrollspy({ target: menu, offset: 20 });
+        $(".js-updates > section").each(function () {
+            var $h3s = $(this).find("h3");
+            var $section = $(this);
+            if ($h3s.length > 0) {
+                var id = this.id;
+                var $menuLi = $(`${menu} a[href='#${id}']`).parent();
+                $menuLi.append("<ul/>");
+                $section.find("h2:first").after("<ul/>");
+                var $menu = $menuLi.find("ul");
+                $h3s.each(function () {
+                    $menu.append("<li><a href='#" + this.id + "'>" + $(this).text() + "</a></li>");
+                    $section.find("h2+ul").append("<li><a href='#" + this.id + "'>" + $(this).text() + "</a></li>");
+                })
+            }
+        });
+    });
+    // eslint-disable-next-line no-undef
 })(jQuery);

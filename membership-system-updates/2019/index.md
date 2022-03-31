@@ -1,14 +1,16 @@
 ---
-layout: page_full
+layout: membership-system-v5
 title: 2019 Membership System Updates
 date: 2016-11-29 10:28:52.000000000 +00:00
 toc: membership
+year: 2019
 author:
   login: rachelkempis
   email: rachelkempis@hotmail.com
   display_name: Rachel Kemp
   first_name: Rachel
   last_name: Kemp
+lastmod: 2022-03-31T11:13:19.049Z
 ---
 <h4><strong>October 2019</strong></h4>
 <u>GO – October shutdown</u>
@@ -255,9 +257,3 @@ The letter should be sent to the commissioner responsible for recruitment of the
 As the letter may contain personal information, you should follow data protection procedures when storing, sharing or sending it. The letter itself doesn’t need to be added to GO. As the recruiting commissioner, once you’ve confirmed that you’re satisfied that the young member is suitable - and their volunteer role can be added to GO- you should destroy the letter.
 
 Full details can be found on this page: <a href="https://www.girlguiding.org.uk/making-guiding-happen/policies/girlguiding-policies/recruitment-and-vetting-policy/recruitment-procedures/" target="_blank" rel="noopener">https://www.girlguiding.org.uk/making-guiding-happen/policies/girlguiding-policies/recruitment-and-vetting-policy/recruitment-procedures/</a>
-
-<hr>
-<div class="posts-navigation">
-	<a class="prev-post" href="../2020/">2020 updates</a>
-	<a  class="next-post" href="../2018/">2018 updates</a>
-</div>

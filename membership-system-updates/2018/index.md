@@ -1,14 +1,16 @@
 ---
-layout: page_full
+layout: membership-system-v5
 title: 2018 Membership System Updates
 date: 2016-11-29 10:28:52.000000000 +00:00
 toc: membership
+year: 2018
 author:
   login: rachelkempis
   email: rachelkempis@hotmail.com
   display_name: Rachel Kemp
   first_name: Rachel
   last_name: Kemp
+lastmod: 2022-03-31T11:13:04.330Z
 ---
 <h4><strong>December 2018 Systems Update</strong></h4>
 <strong><em>The following information is relevant to all volunteers and units</em></strong><strong><em>.</em></strong>
@@ -993,7 +995,3 @@ Girlguiding Headquarters have also created a list of some key tasks that they wo
 - <a href="https://www.dropbox.com/s/icbkakuuixfbsqh/GO_Commissioners.pdf?dl=0" target="_blank" rel="noopener">Key tasks for Commissioners</a>
 
 - <a href="https://www.dropbox.com/s/22mfr0xr3nkgmu0/GO_FAQs.pdf?dl=0" target="_blank" rel="noopener">GO FAQs</a>
-<hr>
-<div class="posts-navigation">
-	<a class="prev-post" href="../2019/">2019 updates</a>
-</div>

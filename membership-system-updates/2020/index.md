@@ -1,14 +1,16 @@
 ---
-layout: page_full
+layout: membership-system-v5
 title: 2020 Membership System Updates
 date: 2016-11-29 10:28:52.000000000 +00:00
 toc: membership
+year: 2020
 author:
   login: rachelkempis
   email: rachelkempis@hotmail.com
   display_name: Rachel Kemp
   first_name: Rachel
   last_name: Kemp
+lastmod: 2022-03-31T11:13:40.393Z
 ---
 <h4>December 2020</h4>
 Long Service Awards awarded October 2020
@@ -430,8 +432,3 @@ Please check Active Pending roles in your unit/district/division. The main reaso
 </li>
 </ul>
 Please use the <a href="mailto:membership@girlguidinghertfordshire.org.uk" target="_blank" rel="noopener">membership@girlguidinghertfordshire.org.uk</a> email address for all Membership Systems queries.
-<hr>
-<div class="posts-navigation">
-	<a class="prev-post" href="../">2021 updates</a>
-	<a  class="next-post" href="../2019/">2019 updates</a>
-</div>

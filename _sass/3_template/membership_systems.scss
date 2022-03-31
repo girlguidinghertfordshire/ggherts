@@ -1,0 +1,5 @@
+// Styles for the membership system updates pages
+.scrollspy {
+    li>a + ul {display: none;}
+    li>a.active + ul {display: block;}
+}
