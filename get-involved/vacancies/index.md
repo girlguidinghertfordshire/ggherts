@@ -11,7 +11,7 @@ author:
   first_name: ""
   last_name: ""
 permalink: /get-involved/vacancies/
-lastmod: 2022-03-31T11:50:52.443Z
+lastmod: 2022-03-31T19:36:05.974Z
 ---
 ## Current Volunteer Vacancies
 
@@ -19,15 +19,20 @@ We have a fantastic team of volunteers who look to the County Team for guidance,
 
 ### Camp helpers needed
 
-The Residential Team are looking for additional adult helpers to ensure this event is a success.
+![](/assets/images/2022/03/skill_builder_helper.jpg){:.pull-left.m-3}{:width="280"}{:height="280"}
+
+The Residential Team are looking for additional adult helpers to ensure the [Campers Skills Builder Camp Weekend](/event/county-camper-skills-builder-camp-weekend/) is a success.
 
 The Guides will learn basic traditional camping skills whilst working towards their stage 3 and 4 Skills builder Camp badges and the Guiding History Interest badge.
 
 If you would like to be part of this fun filled event please contact <residential@girlguidinghertfordshire.org.uk>
 
+<div class="clearfix"></div>
+
 ### Growth & Retention Working Team
 
 ![](/assets/images/2022/01/growth-retention-vacancy_sm.jpg){:.pull-right.m-3}{:width="280"}{:height="200"}
+
 The Growth & Retention Team are looking for new enthusiastic and keen people to make a difference.
 
 We would like to have members from a range of volunteer roles as well as members from different areas of the county and are looking for people who are enthusiastic and would like to make a difference to the future of Girlguiding Hertfordshire.
@@ -35,6 +40,8 @@ We would like to have members from a range of volunteer roles as well as members
 [Role Description](/wp-content/uploads/2021/05/Growth-and-Retention-Team-Role-Desc.pdf){:.download-link.btn.btn-primary}
 
 For more information or to get involved contact Sally Settle, Assistant County Commissioner - Members: <sallyACC@girlguidinghertfordshire.org.uk>
+
+<div class="clearfix"></div>
 
 ### Want to help your Guiding community?
 
