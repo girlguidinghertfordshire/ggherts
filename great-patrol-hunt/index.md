@@ -10,7 +10,7 @@ author:
   display_name: the County Office
   first_name: ""
   last_name: ""
-lastmod: 2022-03-31T20:14:39.549Z
+lastmod: 2022-04-01T06:59:42.402Z
 ---
 {:.lead}
 With the Great Patrol Hunt girls have the best experiences
@@ -23,9 +23,9 @@ It began in 1968, Hertfordshire Scout Patrols competed annually in various ways,
 
 ## Our Events
 
-- Round 1, 2021/22  |  Saturday 16 October 2021  |  Borehamwood **\*\*Completed\*\***
-- Round 2, 2022</a> | Saturday 26 March 2022 | St Albans **\*\*Completed\*\***
-- [Round 3, 2022</a> | Friday-Sunday 24-26 June 2022](/event/great-patrol-hunt-2022-round-3/)
+- Round 1, 2021/22  \|  Saturday 16 October 2021  \|  Borehamwood **\*\*Completed\*\***
+- Round 2, 2022 \| Saturday 26 March 2022 \| St Albans **\*\*Completed\*\***
+- [Round 3, 2022 \| Friday-Sunday 24-26 June 2022](/event/great-patrol-hunt-2022-round-3/)
 
 ### Round 1
 
