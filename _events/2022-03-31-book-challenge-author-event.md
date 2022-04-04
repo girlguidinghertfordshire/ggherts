@@ -24,13 +24,13 @@ event:
     - Virtual
 author:
   display_name: The County Office
-lastmod: 2022-03-31T19:56:27.270Z
+lastmod: 2022-04-01T09:05:43.552Z
 ---
 This free virtual meet the author event is taking place via **Zoom** on **Thursday 26 May** from **6.15-7.15pm.**  
 
 **Sarah Hagger-Holt,** author of *Nothing Ever Happens Here* and *Proud of Me*, will give you the inside track on being an author and top tips.  There will also be a Q&A session and a prize draw.
 
-The event is aimed at Brownies, Guides, Rangers, Young Leaders, Adults (including Leaders, Inspire and Trefoil). who are working towards their Book Challenge badge. 
+The event is aimed at Brownies, Guides, Rangers, Young Leaders, Adults (including Leaders, Inspire and Trefoil) who are working towards their Book Challenge badge.
 
 Attending this event completes one activity within Section b - Authors section of the Challenge badge.  
 
