@@ -24,9 +24,9 @@ event:
     - Virtual
 author:
   display_name: The County Office
-lastmod: 2022-04-01T09:05:43.552Z
+lastmod: 2022-04-06T20:58:29.358Z
 ---
-This free virtual meet the author event is taking place via **Zoom** on **Thursday 26 May** from **6.15-7.15pm.**  
+This free virtual meet the author event is taking place via **Zoom** on **Thursday 26 May** from **7.00-8.00pm.**  
 
 **Sarah Hagger-Holt,** author of *Nothing Ever Happens Here* and *Proud of Me*, will give you the inside track on being an author and top tips.  There will also be a Q&A session and a prize draw.
 

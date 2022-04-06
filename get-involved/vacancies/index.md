@@ -11,7 +11,7 @@ author:
   first_name: ""
   last_name: ""
 permalink: /get-involved/vacancies/
-lastmod: 2022-03-31T19:36:05.974Z
+lastmod: 2022-04-06T21:37:48.329Z
 ---
 ## Current Volunteer Vacancies
 
@@ -20,6 +20,8 @@ We have a fantastic team of volunteers who look to the County Team for guidance,
 ### Camp helpers needed
 
 ![](/assets/images/2022/03/skill_builder_helper.jpg){:.pull-left.m-3}{:width="280"}{:height="280"}
+
+<div class="clearfix d-sm-none"></div>
 
 The Residential Team are looking for additional adult helpers to ensure the [Campers Skills Builder Camp Weekend](/event/county-camper-skills-builder-camp-weekend/) is a success.
 
@@ -31,7 +33,9 @@ If you would like to be part of this fun filled event please contact <residentia
 
 ### Growth & Retention Working Team
 
-![](/assets/images/2022/01/growth-retention-vacancy_sm.jpg){:.pull-right.m-3}{:width="280"}{:height="200"}
+![](/assets/images/2022/01/growth-retention-vacancy_sm.jpg){:.pull-right}{:width="280"}{:height="200"}
+
+<div class="clearfix d-sm-none"></div>
 
 The Growth & Retention Team are looking for new enthusiastic and keen people to make a difference.
 
@@ -46,6 +50,8 @@ For more information or to get involved contact Sally Settle, Assistant County C
 ### Want to help your Guiding community?
 
 ![](/assets/images/2021/12/activity_day_volunteers_250.jpg){:.pull-left.m-3}{:width="280"}{:height="207"}
+
+<div class="clearfix d-sm-none"></div>
 
 Are you free to help make our County Activity Day, taking place on Saturday, 23 April 2022 from 9.30am - 4.30pm, a success for the Rainbows, Brownies and Guides who will be attending?
 
