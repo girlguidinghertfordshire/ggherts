@@ -3,10 +3,10 @@ layout: page-v5
 title: County Opportunities
 date: 2018-06-07T19:45:10.000Z
 toc: county-teams
-banner_image: /wp-content/uploads/2018/06/International_banner.jpg
+banner_image: /assets/images/2022/04/International_banner.jpg
 author:
   display_name: the County Office
-lastmod: 2022-03-28T13:37:40.550Z
+lastmod: 2022-04-07T08:59:02.347Z
 ---
 {% assign today = 'now' | date: '%s' | plus: 0 %}
 {% assign maxdate = '2022-04-01' | date: '%s' | plus: 0 %}

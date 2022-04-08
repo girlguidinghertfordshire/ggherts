@@ -20,7 +20,7 @@ event:
     - Scotland
 author:
   display_name: The County Office
-lastmod: 2022-04-06T21:41:02.120Z
+lastmod: 2022-04-07T08:48:18.389Z
 ---
 
 Social walking weekend for adults from Friday 26 - Wednesday 31 August 2022 in the Scottish mountains near Crainlarich.
@@ -35,4 +35,4 @@ Email <walking@girlguiding-anglia.org.uk> for more information and a booking for
 
 Please note spaces are limited.
 
-[Flyer for Walk <i class="fa fa-download"></i>](/assets/docs/2022/social-walking-scotland-august-2022v2.docx){:class="btn-gg"}
+[Flyer for Walk](/assets/docs/2022/social-walking-scotland-august-2022v2.docx){:.btn.btn-primary.download-link}

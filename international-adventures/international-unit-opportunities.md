@@ -3,14 +3,14 @@ layout: page-v5
 title: Unit Opportunities
 date: 2018-06-07 20:45:10.000000000 +01:00
 toc: county-teams
-banner_image: /wp-content/uploads/2018/06/International_banner.jpg
+banner_image: /assets/images/2022/04/International_banner.jpg
 author:
   login: GGH-CMS
   email: countysec@girlguidinghertfordshire.org.uk
   display_name: the County Office
   first_name: ""
   last_name: ""
-lastmod: 2022-03-28T09:34:38.226Z
+lastmod: 2022-04-07T08:59:40.178Z
 ---
 {% include slider.html slider="international-unit" %}
 

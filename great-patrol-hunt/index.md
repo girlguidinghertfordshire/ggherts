@@ -3,14 +3,14 @@ layout: page_full-v5
 title: Great Patrol Hunt
 date: 2021-08-18T21:08:03.000Z
 toc: events
-banner_image: /wp-content/uploads/2018/07/GPH_Collage.jpg
+banner_image: /assets/images/2022/04/GPH_Collage.jpg
 author:
   login: GGH-CMS
   email: countysec@girlguidinghertfordshire.org.uk
   display_name: the County Office
   first_name: ""
   last_name: ""
-lastmod: 2022-04-01T06:59:42.402Z
+lastmod: 2022-04-07T09:10:11.570Z
 ---
 {:.lead}
 With the Great Patrol Hunt girls have the best experiences

@@ -3,13 +3,14 @@ layout: page-v5
 title: Billboard
 date: 2021-09-07T19:51:13.187Z
 toc: news
-lastmod: 2022-03-11T10:06:33.315Z
+lastmod: 2022-04-08T20:53:09.534Z
 ---
 
 _Billboard_ is sent to all Girlguiding Hertforshire Members who have set their communication preferences on _GO_ to subscribe to marketing.
 
 Recent editions:
 
+- [April 2022 <i class="fa fa-external-link"></i>](https://mailchi.mp/68a62c9920e7/april-2022-billboard-13450640){:target="_blank"}{:rel="noreferrer noopener"}
 - [March 2022 <i class="fa fa-external-link"></i>](https://mailchi.mp/29e184bd9d33/march-2022-billboard-13447924){:target="_blank"}{:rel="noreferrer noopener"}
 - [February 2022 <i class="fa fa-external-link"></i>](https://mailchi.mp/1c4050de964e/feb-2022-billboard-6537356){:target="_blank"}{:rel="noreferrer noopener"}
 - [January 2022 <i class="fa fa-external-link"></i>](https://mailchi.mp/5f7bc6af2310/jan-2022-billboard-6534420){:target="_blank"}{:rel="noreferrer noopener"}

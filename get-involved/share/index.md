@@ -15,7 +15,7 @@ author:
   first_name: ""
   last_name: ""
 permalink: /get-involved/share/
-lastmod: 2022-03-13T20:03:31.499Z
+lastmod: 2022-04-07T09:07:20.965Z
 ---
 <div class="row">
 <div class="col-sm-6">
@@ -57,7 +57,9 @@ It is packed with stories and photos of what everyone has been doing, from cake 
 <div class="col-xs-12">
 <h4><a style="word-break: unset;" href="/wp-content/uploads/2020/04/Share-43_Spring20_8pp.pdf" target="_blank" rel="noopener">Share 44, Autumn Edition 2020</a></h4>
 </div>
-<div class="col-sm-6"><a href="/wp-content/uploads/2020/11/Share44_Autumn20.pdf" target="_blank" rel="noopener"><img class="ambdes" title="View Share Autunm Edition 2020" src="/wp-content/uploads/2020/11/GGH-Share44-Autunm44.jpg" /></a></div>
+<div class="col-sm-6" markdown="1">
+[![View Share Autunm Edition 2020](/assets/images/2022/04/GGH-Share44-Autunm44-165x138.jpg)](/wp-content/uploads/2020/11/Share44_Autumn20.pdf){:target="_blank"}{:rel="noopener"}
+</div>
 <div class="col-sm-6"><a class="btn btn-pink" href="/wp-content/uploads/2020/11/Share44_Autumn20.pdf" target="_blank" rel="noopener"><span style="color: #c40063!important; font-size: 20px!important;">View</span></a></div>
 </div>
 </div>
