@@ -15,7 +15,7 @@ author:
   first_name: ""
   last_name: ""
 permalink: /get-involved/share/
-lastmod: 2022-04-07T09:07:20.965Z
+lastmod: 2022-04-10T21:40:43.327Z
 ---
 <div class="row">
 <div class="col-sm-6">
@@ -81,6 +81,8 @@ Keeping up with technology and communication trends; doing our part in protectin
 There are many ideas, and it is likely that you will see Share coming to you in different formats and, as a result, on a more regular basis. This will enable you to digest the news and act on the exciting opportunities when they are relevant. We will continue to consult members and gather feedback. Please send any ideas you may have to <share@girlguidinghertfordshire.org.uk>
 
 ### Submit your story
+
+The deadline for submission of articles for Share 49, Summer edition 2022, is **Friday 10 June.**
 
 To submit your story [send us an email](mailto:share@girlguidinghertfordshire.org.uk). We would love to hear your stories about what you and your unit, district and division or Trefoil Guild have been up during Spring.
 
