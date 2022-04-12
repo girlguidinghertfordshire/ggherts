@@ -20,7 +20,7 @@
     crossorigin="anonymous" referrerpolicy="no-referrer" />
   <link rel='stylesheet' id='font-awesome-style-css' href='/wp-content/themes/girl-guiding/css/font-awesome.min.css'
     type='text/css' media='all' />
-  <link rel="stylesheet" href="/css/site.css?v=2.5" />
+  <link rel="stylesheet" href="/css/site.css?v=2.6" />
 </head>
 <body>
   {% include google-body.html %}
@@ -156,7 +156,9 @@
     crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <script src="/assets/js/site.js?v=2.1"></script>
   <script async src="https://js.sitesearch360.com/plugin/bundle/1899.js"></script>
-  
+  {% if page.useMasonry %}
+  <script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha384-GNFwBvfVxBkLMJpYMOABq3c+d3KnQxudP/mGPkzpZSTYykLBNsZEnG2D9G/X/+7D" crossorigin="anonymous" async></script>
+  {% endif %}
 </body>
 
 </html>

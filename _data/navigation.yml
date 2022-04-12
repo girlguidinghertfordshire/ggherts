@@ -88,6 +88,8 @@ events:
     url: /events/calendar/
   - title: Great Patrol Hunt
     url: /great-patrol-hunt/
+  - title: Platinum Jubilee
+    url: /jubilee/
 training:
   title: Training
   url: /training/
@@ -128,3 +130,19 @@ membership:
     url: /membership-system-updates/2019/
   - title: 2018
     url: /membership-system-updates/2018/
+jubilee:
+    title: Platinum Jubilee
+    url: /jubilee/
+    items:
+    - title: Jubilee Lunch
+      url: /jubilee/lunch/
+    - title: Platinum Party
+      url: /jubilee/platinum-party/
+    - title: The Derby
+      url: /jubilee/derby/
+    - title: Beacons
+      url: /jubilee/beacons/
+    - title: Birthday Parade
+      url: /jubilee/parade/
+    - title: Thanksgiving for the Queen
+      url: /jubilee/thanksgiving/
