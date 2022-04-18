@@ -1,0 +1,67 @@
+---
+layout: default-v5
+---
+
+{% include banner.html %}
+<div class="main-content {{ page.title | slugify }}">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <nav aria-label="breadcrumb">
+                    <ul class="breadcrumb">
+                        <li class="breadcrumb-item">
+                            <a href="/">Home</a>
+                        </li>
+                        {% assign menu = site.data.navigation[page.toc] %}
+                        {% if menu.url != page.url %}
+                        <li class="breadcrumb-item"><a class="bread-link" href="{{menu.url}}">{{menu.title}}</a></li>
+                        {% endif %}
+                        <li class="breadcrumb-item active" aria-current="page">
+                            {{ page.title }}
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12 order-2 content">
+                <h1>{{ page.title }}</h1>
+                {{ content }}
+            </div>
+            <div class="col-12">
+                <nav aria-label="Platinum Jubilee navigation" class="gg-jubilee-nav gg-left-menu">
+                    <h2><a href="{{ menu.url }}">{{ menu.title }}</a></h2>
+                    <ul class="pagination">
+                        {% for item in menu.items %}
+                        {% assign linkClass="page-item" %}{% if item.url==page.url %}{% assign linkClass="page-item
+                        active"%}{% endif %}
+                        <li class="{{ linkClass }}"><a href="{{ item.url}}" class="page-link" {%if item.url==page.url %}
+                                aria-current="page" {% endif %}><span class="d-md-none">{{ item.short_title
+                                    }}</span><span class="d-none d-md-inline">{{ item.title }}</span></a></li>
+                        {% endfor %}
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+    {% if page.layout=="county_team"%}
+    {% include countyteam.html %}
+    {% include noticeboard-footer.html %}
+    {% endif %}
+    {% if page.showMap %}
+    {% include countycentre.html %}
+    {% endif %}
+    {% for inc in page.includes %}
+    {% case inc %}
+    {% when "Events" %}
+    {% include latest-events-v5.html %}
+    {% when "News" %}
+    {% include latest-news-v5.html %}
+    {% when "Noticeboard" %}
+    {% include noticeboard-footer-v5.html %}
+    {% else %}
+    <!-- Unknown include: {{ inc }}-->
+    {% endcase %}
+    {% endfor %}
+</div>
