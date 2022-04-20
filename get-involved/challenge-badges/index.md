@@ -10,7 +10,7 @@ author:
   first_name: Andrew
   last_name: Settle
 permalink: /get-involved/challenge-badges/
-lastmod: 2022-03-17T19:32:27.635Z
+lastmod: 2022-04-20T19:46:22.928Z
 ---
 ## Book Challenge Badge
 
@@ -43,9 +43,6 @@ These badges have been designed by 1st Baldock Brownies and are part of their fu
 <div class="row g-0 row-cols-2 row-cols-lg-4 justify-content-center">
   <div class="col col-sm-5 col-xxl-2">
   {% include baldock-badge-card.html title="Eggstraordinary Easter" src="/assets/images/2022/03/easter_v2.webp" alt="2022 Eggstraordinary Easter Challenge Badge" download="/assets/docs/2022/eggstraordinary_easter_challenge_badge_v2.pdf" name="2022 Eggstraordinary Easter Challenge" %}
-  </div>
-  <div class="col col-sm-5 col-xxl-2">
-  {% include baldock-badge-card.html title="Snow is falling" src="/assets/images/2021/11/SnowFalling-180.jpg" alt="Snow is falling challenge badge" download="/assets/docs/challenge-badge-snow-is-falling.pdf" name="Snow is Falling Challenge"%}  
   </div>
    <div class="col col-sm-5 col-xxl-2">
    {% include baldock-badge-card.html title="Flower Power" src="/assets/images/2022/03/Flower-Power-Badge.webp" alt="Flower Power Challenge Badge" name="Flower Power Challenge" download="/assets/docs/challenge-badge-flower-power-pack.pdf" %}
@@ -98,6 +95,9 @@ This badge has been created to support the work of the Raise charity and continu
   </div>
   <div class="col col-sm-5 col-xxl-2">
   {% include baldock-badge-card.html title="Tiger Tiger Challenge Badge" src="/assets/images/2022/03/tiger_tiger_badge_white.webp" alt="Tiger Tiger Challenge Badge" %}
+  </div>
+  <div class="col col-sm-5 col-xxl-2">
+  {% include baldock-badge-card.html title="Snow is falling" src="/assets/images/2021/11/SnowFalling-180.jpg" alt="Snow is falling challenge badge" %}  
   </div>
 </div>
 
