@@ -10,7 +10,7 @@ author:
   first_name: Andrew
   last_name: Settle
 permalink: /get-involved/challenge-badges/
-lastmod: 2022-04-20T19:46:22.928Z
+lastmod: 2022-04-24T06:53:16.880Z
 ---
 ## Book Challenge Badge
 
@@ -97,7 +97,7 @@ This badge has been created to support the work of the Raise charity and continu
   {% include baldock-badge-card.html title="Tiger Tiger Challenge Badge" src="/assets/images/2022/03/tiger_tiger_badge_white.webp" alt="Tiger Tiger Challenge Badge" %}
   </div>
   <div class="col col-sm-5 col-xxl-2">
-  {% include baldock-badge-card.html title="Snow is falling" src="/assets/images/2021/11/SnowFalling-180.jpg" alt="Snow is falling challenge badge" %}  
+  {% include baldock-badge-card.html title="Snow is falling Challenge Badge" src="/assets/images/2021/11/SnowFalling-180.jpg" alt="Snow is falling challenge badge" %}  
   </div>
 </div>
 

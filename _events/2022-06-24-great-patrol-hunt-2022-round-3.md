@@ -18,8 +18,12 @@ event:
 author:
   display_name: Rachel Kemp
 permalink: /event/great-patrol-hunt-2022-round-3/
-lastmod: 2022-03-23T08:33:41.181Z
+lastmod: 2022-04-24T07:31:20.920Z
 ---
-<p>The Great Patrol Hunt 2022 Round 3 is taking place Friday-Sunday 24-26 June 2022 at Wymondley Wood, Letchworth.</p>
-<p>Further information will be added in due course.</p>
-<p>To find out more about the Great Patrol Hunt, visit <a href="/great-patrol-hunt/" target="_blank" rel="noopener noreferrer">our page</a>.</p>
+The Great Patrol Hunt 2022 Round 3 is taking place Friday-Sunday 24-26 June 2022 at Wymondley Wood, Letchworth.
+
+Further information will be added in due course.
+
+To find out more about the Great Patrol Hunt, visit [our page](/great-patrol-hunt/).
+
+To participate in Round 3, a patrol and at least 2 members must have competed in one of the previous rounds.
