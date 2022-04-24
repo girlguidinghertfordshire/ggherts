@@ -1,0 +1,77 @@
+---
+layout: default-v5
+---
+
+{% include banner.html %}
+<div class="main-content {{ page.title | slugify }}">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <nav aria-label="breadcrumb">
+                    <ul class="breadcrumb">
+                        <li class="breadcrumb-item">
+                            <a href="/">Home</a>
+                        </li>
+                        {% assign menu = site.data.navigation[page.toc] %}
+                        {% if menu.url != page.url %}
+                        <li class="breadcrumb-item"><a class="bread-link" href="{{menu.url}}">{{menu.title}}</a></li>
+                        {% endif %}
+                        <li class="breadcrumb-item active" aria-current="page">
+                            {{ page.title }}
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12 order-2 content">
+                <h1>{{ page.title }}</h1>
+                {{ content }}
+            </div>
+            <div class="col-12">
+                {% include jubilee-navigation.html %}
+            </div>
+        </div>
+    </div>
+    {% if page.layout=="county_team"%}
+    {% include countyteam.html %}
+    {% include noticeboard-footer.html %}
+    {% endif %}
+    {% if page.showMap %}
+    {% include countycentre.html %}
+    {% endif %}
+    {% for inc in page.includes %}
+    {% case inc %}
+    {% when "Events" %}
+    {% include latest-events-v5.html %}
+    {% when "News" %}
+    {% include latest-news-v5.html %}
+    {% when "Noticeboard" %}
+    {% include noticeboard-footer-v5.html %}
+    {% else %}
+    <!-- Unknown include: {{ inc }}-->
+    {% endcase %}
+    {% endfor %}
+</div>
+<div class="modal fade" id="getInvolved" tabindex="-1" aria-labelledby="getInvolvedLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="getInvolvedLabel">Get involved</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Share what you've built and done with us!</p>
+            <p>On social media:</p>
+            <ul>
+                <li><a href="https://www.facebook.com/GirlguidingHertfordshire/"><i class="fa fa-facebook" aria-hidden="true"></i> Facebook</a></li>
+                <li><a href="https://twitter.com/gguidingherts"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a></li>
+            </ul>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+</div>

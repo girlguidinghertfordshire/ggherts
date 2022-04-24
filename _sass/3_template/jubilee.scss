@@ -1,0 +1,53 @@
+// Styles for the Platinum Jubilee templates
+.gg-jubilee-nav .page-item {
+    .page-link {
+        font-size: 0.7rem;
+        padding: 0.375rem 0.5rem;
+        color: $gg-pink;
+    }
+    &.active .page-link {
+        background-color: $gg-pink;
+        border-color: $gg-pink;
+        color: white;
+    }
+}
+#videos {
+    &.nav-tabs .nav-link {
+        font-size: 0.7rem;
+        padding: 0.4rem;
+        color: $gg-pink;
+        border-color: $gg-light-pink;
+        border-bottom-color: white;
+        &.active {
+            background-color: $gg-light-pink;
+            border-color: $gg-pink;
+            border-bottom-color: $gg-light-pink;
+        }
+    }
+} 
+@media (min-width: $grid-md-min) {
+    .gg-jubilee-nav .page-item .page-link {
+        font-size: 0.9rem;
+    }
+    #videos {
+        &.nav-tabs .nav-link {
+            font-size: 0.9rem;
+        }
+    }
+}
+@media (min-width: $grid-lg-min) {
+    .gg-jubilee-nav .page-item .page-link {
+        font-size: 0.9rem;
+        padding: 0.375rem 0.75rem;
+    }  
+    #videos {
+        &.nav-tabs .nav-link {
+            font-size: 1rem;
+        }
+    }  
+}
+@media (min-width: $grid-xl-min) {
+    .gg-jubilee-nav .page-item .page-link {
+        font-size: 1rem;
+    }
+}

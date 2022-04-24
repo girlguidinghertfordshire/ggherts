@@ -16,12 +16,12 @@ $gg-blue-link: #337ab7;
 $gg-light-blue: #83abd8;
 
 // pinks
-$gg-pink-border: #f3cce0;
 $gg-pink: #c40063;
-$gg-light-pink: #cf3e83;
+$gg-light-pink: #f3cce0;
 $gg-dark-pink: #cb1f76;
 $gg-pink-hover: shade-color($gg-pink, 15%);
 $gg-pink-border-hover: shade-color($gg-pink, 20%);
+$gg-pink-border: $gg-light-pink;
 
 // Grays
 $gg-gray: #d8d7d7;
@@ -31,4 +31,26 @@ $gg-dark-gray: #3a3535;
 //
 .gg-blue-bg {
     background-color: #{$gg-dark-blue}b3;    
+}
+
+.border-primary {
+  border-color: $gg-pink !important;
+}
+.border-secondary {
+  border-color: $gg-blue !important;
+}
+.bg-primary {
+  background-color: $gg-pink !important;
+}
+.bg-secondary {
+  background-color: $gg-blue !important;
+}
+.bg-light-pink {
+  background-color: $gg-light-pink !important;
+}
+.bg-light-blue {
+  background-color: $gg-light-blue !important;
+}
+.border-thick {
+  border-width: 3px;
 }
