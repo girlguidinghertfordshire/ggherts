@@ -10,14 +10,14 @@ author:
   display_name: the County Office
   first_name: ""
   last_name: ""
-lastmod: 2022-04-07T08:59:27.131Z
+lastmod: 2022-04-24T07:18:50.839Z
 ---
 
 <div class="alert alert-info" markdown="1">
 
-## 2023 Region European Train Trip
+## 2023 Region European Train Trip - Applications now closed
 
-Leader applications for this trip are now open. Download the application form and submit your completed form to <international@girlguiding-anglia.org.uk>{:.alert-link} by **Friday 15 April**
+Leader applications for this trip are now open. Download the application form and submit your completed form to <international@girlguiding-anglia.org.uk>{:.alert-link}
 
 [Application form](/assets/docs/2022/euro-train-2023-leader-application.docx){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
 </div>
