@@ -2,7 +2,7 @@
 layout: page-v5
 title: Platinum Jubilee Celebrations Pack
 toc: jubilee
-lastmod: 2022-04-11T21:05:25.667Z
+lastmod: 2022-04-24T07:58:03.584Z
 ---
 We have put together this pack to help us celebrate Her Majesty Queen Elizabeth II’s 70 years on the throne. The themes are based around the events that the Queen will be taking part in over the Jubilee weekend.
 
@@ -14,3 +14,7 @@ Thanks to the team of volunteers who have helped to create the pack.
 
 Jenny Maskrey  
 County Commissioner
+
+{% include jubilee-navigation.html %}
+
+[Download the Queen's Jubilee Celebration pack](/assets/docs/2022/queens-jubilee-celebrations-pack.pdf){:class="btn btn-lg btn-primary download-link d-block"}
