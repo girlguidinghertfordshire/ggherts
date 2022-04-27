@@ -12,8 +12,8 @@ event:
   image: /assets/images/2022/04/walking_social_training.webp
   type:
     - Residential
-    - Training
     - Social
+    - Walking Scheme
   age-group:
     - Rangers
     - Young Leaders
@@ -25,7 +25,7 @@ event:
     - Peak District
 author:
   display_name: The County Office
-lastmod: 2022-04-20T19:33:28.216Z
+lastmod: 2022-04-27T20:04:17.810Z
 ---
 {::comment}This page is not shown on the site - users are redirected to the events page - update that article{:/comment}
 ## SAVE THE DATE

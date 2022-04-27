@@ -1,17 +1,18 @@
 ---
 title: Platinum Jubilee Badge Competition
-date: '2022-02-06T20:37:43.094Z'
+date: 2022-02-06T20:37:43.094Z
 image: /assets/images/2022/02/queens_platinum_jubilee.webp
+published: false
 categories:
-    - Announcements
-    - Badges
+  - Announcements
+  - Badges
 tags: []
 author:
-    email: null
-    display_name: The County Office
-    first_name: ''
-    last_name: ''
-lastmod: '2022-02-17T11:43:09.885Z'
+  email: null
+  display_name: The County Office
+  first_name: ""
+  last_name: ""
+lastmod: 2022-04-27T19:36:22.604Z
 ---
 <p class="lead">We need your help! Enter our badge competition in celebration of the Queen's Platinum Jubilee!</p>
 

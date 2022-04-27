@@ -1,6 +1,6 @@
 ---
-title: International Day - SAVE THE DATE
-date: 2021-11-29T20:37:02.307Z
+title: International Day
+date: 2022-04-27T20:19:04.086Z
 event:
   start_date: 2022-10-23
   end_date: ""
@@ -24,11 +24,14 @@ author:
   display_name: The County Office
   first_name: null
   last_name: null
-lastmod: 2022-03-23T08:41:33.395Z
+lastmod: 2022-04-27T20:20:01.579Z
 ---
+Come and join us on Sunday 23 October 2022 (10am – 4pm) for an exciting day exploring the five WAGGGS regions and take part in activities including drumming, Bollywood dancing, chocolate, crafts and much more in St Albans.
 
-This event will be taking place on 23rd October 2022 in St. Albans.
+This event is open to Rainbows, Brownies, Guides, Rangers and Young Leaders from Hertfordshire. Please note that Rainbows, Brownies and Guides MUST been accompanied by a Leader (at the appropriate ratio).
 
-Open to all sections.
+Cost: £25 per head by BACS with any profits going towards the Hertfordshire Guide Centre Improvement Fund.
 
-Further details and booking form to follow.
+[Application form](/assets/docs/2022/interday-application-form-22.docx){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [Information & Consent Form](/assets/docs/2022/interday-i-c-form-22.docx){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
+
+Application and payment must be received before closing date of Friday 30 September 2022.
