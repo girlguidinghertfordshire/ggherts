@@ -25,12 +25,12 @@ event:
     - Essex
 author:
   display_name: The County Office
-lastmod: 2022-04-28T21:49:49.864Z
+lastmod: 2022-04-28T22:01:32.455Z
 ---
 The Water Safety training module will take place on Saturday evening of 16 July as part of the [Girlguiding Walking Scheme Level 1 course](/training/girlguiding-walking-scheme/).
 
-This session is also open to those undertaking Levels 2 and 3 of the Walking Scheme and can be attend as a standalone session.
+This session is also open to others undertaking Levels 1, 2 or 3 of the Walking Scheme and can be attended as a standalone session.
 
-Cost: £5 if only attending the Water Safety Session (or £35 pp as part of the Level 1 course)
+Cost: £5 pp if only attending the Water Safety Session (or £35 pp as part of the Level 1 course)
 
 Contact: <walking@girlguiding-anglia.org.uk>
