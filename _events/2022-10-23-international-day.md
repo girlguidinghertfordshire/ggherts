@@ -24,11 +24,11 @@ author:
   display_name: The County Office
   first_name: null
   last_name: null
-lastmod: 2022-04-27T20:20:01.579Z
+lastmod: 2022-04-28T21:30:29.263Z
 ---
 Come and join us on Sunday 23 October 2022 (10am – 4pm) for an exciting day exploring the five WAGGGS regions and take part in activities including drumming, Bollywood dancing, chocolate, crafts and much more in St Albans.
 
-This event is open to Rainbows, Brownies, Guides, Rangers and Young Leaders from Hertfordshire. Please note that Rainbows, Brownies and Guides MUST been accompanied by a Leader (at the appropriate ratio).
+This event is open to Rainbows, Brownies, Guides, Rangers and Young Leaders from Hertfordshire. Please note that Rainbows, Brownies and Guides MUST be accompanied by a Leader (at the appropriate ratio).
 
 Cost: £25 per head by BACS with any profits going towards the Hertfordshire Guide Centre Improvement Fund.
 

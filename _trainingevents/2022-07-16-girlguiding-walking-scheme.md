@@ -12,6 +12,7 @@ event:
   image: /assets/images/2022/04/walking_scheme.webp
   type:
     - Residential
+    - Training
     - Walking Scheme
   age-group:
     - Rangers
@@ -24,10 +25,8 @@ event:
     - Essex
 author:
   display_name: The County Office
-lastmod: 2022-04-27T20:04:10.858Z
+lastmod: 2022-04-28T21:42:39.247Z
 ---
-## Including The Water Safety Training Module (for all Levels)
-
 Do you want to take your young members on outings and walks in the countryside but want to feel more confident?
 
 Taking place on Saturday 16 - Sunday 17 July at Black Notley in Braintree, Essex for adults and members over 16 years of age.
@@ -35,6 +34,8 @@ Taking place on Saturday 16 - Sunday 17 July at Black Notley in Braintree, Essex
 This course comprises of both local walks (approximately 5km covered on each day), as well as indoor and outdoor theory sessions. Both days must be attended for Walking Scheme Level 1. 
 
 Basic optional overnight accommodation available. If required, please advise when booking.
+
+## Water Safety Training
 
 The Water Safety training module will take place on Saturday evening as part of this course. This session is also open to those undertaking Levels 2 and 3 of the Walking Scheme and can be attend as a standalone session.
 

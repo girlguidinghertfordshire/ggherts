@@ -1,5 +1,6 @@
 ---
 title: Platinum Jubilee Badge Competition
+published: false
 date: 2022-02-06T20:37:43.094Z
 image: /assets/images/2022/02/queens_platinum_jubilee.webp
 published: false

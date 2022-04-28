@@ -1,29 +1,30 @@
 ---
 title: 1st Response Course
-date: '2022-02-09T20:39:22.305Z'
+date: 2022-02-09T20:39:22.305Z
+published: false
 event:
-    start_date: '2022-03-07'
-    end_date: '2022-03-14'
-    address: 'Radlett, Central Hertfordshire'
-    contact_name: null
-    contact_email: null
-    contact_number: ''
-    book_now_link: null
-    image: /assets/images/2021/12/1st_response_badge360.jpg
-    type:
-        - 1st Response
-        - Training
-    age-group:
-        - Leaders
-        - Adults
-    location:
-        - 'Hertfordshire, Central'
+  start_date: 2022-03-07
+  end_date: 2022-03-14
+  address: Radlett, Central Hertfordshire
+  contact_name: null
+  contact_email: null
+  contact_number: ""
+  book_now_link: null
+  image: /assets/images/2021/12/1st_response_badge360.jpg
+  type:
+    - 1st Response
+    - Training
+  age-group:
+    - Leaders
+    - Adults
+  location:
+    - Hertfordshire, Central
 author:
-    email: null
-    display_name: null
-    first_name: null
-    last_name: null
-lastmod: '2022-03-09T13:12:58.717Z'
+  ? email
+  ? display_name
+  ? first_name
+  ? last_name
+lastmod: 2022-04-28T21:44:51.619Z
 ---
 
 **This course is now CANCELLED**

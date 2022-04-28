@@ -1,26 +1,27 @@
 ---
 title: 1st Response Course (over 2 sessions)
-date: '2022-01-01T09:45:52.715Z'
+date: 2022-01-01T09:45:52.715Z
+published: false
 event:
-    start_date: '2022-01-31'
-    end_date: '2022-02-07'
-    address: Zoom/Radlett
-    contact_name: null
-    contact_email: null
-    contact_number: ''
-    book_now_link: 'https://www.eventbrite.co.uk/e/girlguiding-hertfordshire-full-1st-response-course-over-2-sessions-tickets-235328051537'
-    image: /assets/images/2021/12/1st_response_badge360.jpg
-    type:
-        - 1st Response
-        - Training
-    age-group:
-        - Leaders
-    location:
-        - 'Hertfordshire, Central'
-        - Virtual
+  start_date: 2022-01-31
+  end_date: 2022-02-07
+  address: Zoom/Radlett
+  contact_name: null
+  contact_email: null
+  contact_number: ""
+  book_now_link: https://www.eventbrite.co.uk/e/girlguiding-hertfordshire-full-1st-response-course-over-2-sessions-tickets-235328051537
+  image: /assets/images/2021/12/1st_response_badge360.jpg
+  type:
+    - 1st Response
+    - Training
+  age-group:
+    - Leaders
+  location:
+    - Hertfordshire, Central
+    - Virtual
 author:
-    display_name: The County Office
-lastmod: '2022-01-27T20:35:00.909Z'
+  display_name: The County Office
+lastmod: 2022-04-28T21:44:51.613Z
 permalink: /events/2022/01/1st-response-course/
 ---
 

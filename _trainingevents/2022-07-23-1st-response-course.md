@@ -12,6 +12,7 @@ event:
   image: /assets/images/2021/12/1st_response_badge360.jpg
   type:
     - 1st Response
+    - Training
   age-group:
     - Rangers
     - Young Leaders
@@ -21,7 +22,7 @@ event:
     - Trefoil
   location:
     - Hertfordshire, West
-lastmod: 2022-04-27T20:04:28.370Z
+lastmod: 2022-04-28T21:43:40.670Z
 permalink: /event/1st-response-course-23-jul-22
 ---
 This 1st Response course open to all guiding personnel is taking place on **Saturday 23 July** in Hemel Hempstead from **10am - 4pm.**

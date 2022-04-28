@@ -12,11 +12,12 @@ event:
   image: /assets/images/2021/12/1st_response_badge360.jpg
   type:
     - 1st Response
+    - Training
   age-group:
     - Leaders
   location:
     - Hertfordshire, Central
-lastmod: 2022-04-24T07:28:41.331Z
+lastmod: 2022-04-28T21:43:58.334Z
 permalink: /event/1st-response-course-08-jun-2022
 ---
 1st Response course for leaders and leaders in training, taking place over 2 sessions, in Radlett, Hertfordshire.

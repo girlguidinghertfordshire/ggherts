@@ -1,31 +1,32 @@
 ---
 title: 16 Hour Outdoor First Aid Course
-date: '2021-11-29T22:32:14.296Z'
+date: 2021-11-29T22:32:14.296Z
+published: false
 event:
-    start_date: '2022-03-05'
-    end_date: '2022-03-06'
-    address: 'Little Gaddesden, Hertfordshire'
-    contact_name: null
-    contact_email: walking@girlguidinghertfordshire.co.uk
-    contact_number: ''
-    book_now_link: ''
-    image: /assets/images/2021/11/outdoor_first_aid360.jpg
-    type:
-        - First Aid
-        - Training
-    age-group:
-        - Rangers
-        - Leaders
-        - Adults
-        - Trefoil
-    location:
-        - 'Hertfordshire, West'
+  start_date: 2022-03-05
+  end_date: 2022-03-06
+  address: Little Gaddesden, Hertfordshire
+  contact_name: null
+  contact_email: walking@girlguidinghertfordshire.co.uk
+  contact_number: ""
+  book_now_link: ""
+  image: /assets/images/2021/11/outdoor_first_aid360.jpg
+  type:
+    - First Aid
+    - Training
+  age-group:
+    - Rangers
+    - Leaders
+    - Adults
+    - Trefoil
+  location:
+    - Hertfordshire, West
 author:
-    email: null
-    display_name: null
-    first_name: null
-    last_name: null
-lastmod: '2022-02-22T21:16:52.210Z'
+  ? email
+  ? display_name
+  ? first_name
+  ? last_name
+lastmod: 2022-04-28T21:44:51.617Z
 ---
 
 **This event is now FULLY BOOKED**
