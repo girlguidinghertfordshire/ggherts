@@ -2,7 +2,7 @@
 layout: page-v5
 title: Resources
 toc: about-us
-lastmod: 2022-04-24T06:56:43.374Z
+lastmod: 2022-05-03T21:48:14.728Z
 ---
 ## Forms &amp; Stationery
 
@@ -23,11 +23,11 @@ This form should be completed by adults submitting their own consent or by paren
 
 Where photos feature groups of girls, this form should be completed by leaders confirming all girls featured have already provided their full photo consent.
 
-[<span class="sr-only">Group Consent </span>Online Form <i class="fa fa-external-link"></i>](https://forms.office.com/Pages/DesignPage.aspx#FormId=3yob_CzTykeMNWNnWM6OwZf5T0i4octErRCYrHkhHVhUQU5SMVhVSURFVko3UjlFQ1ZSV0dQQUFRRy4u){:target="_blank"}{:rel="noopener"}{:.btn.btn-primary} [<span class="sr-only">Group Consent </span>Word form <i class="fa fa-file-word-o"></i>](/assets/docs/2022/group_photo_permission_form.docx){:target="_blank"}{:rel="noopener"}{:.btn.btn-primary}
+[<span class="sr-only">Group Consent </span>Online Form <i class="fa fa-external-link"></i>](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwZf5T0i4octErRCYrHkhHVhUQU5SMVhVSURFVko3UjlFQ1ZSV0dQQUFRRy4u){:target="_blank"}{:rel="noopener"}{:.btn.btn-primary} [<span class="sr-only">Group Consent </span>Word form <i class="fa fa-file-word-o"></i>](/assets/docs/2022/group_photo_permission_form.docx){:target="_blank"}{:rel="noopener"}{:.btn.btn-primary}
 
 ### Other forms
 
-##### [Girlguiding Hertfordshire Grant Application Form <i class="fa fa-external-link"></i>](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwZf5T0i4octErRCYrHkhHVhUQU5SMVhVSURFVko3UjlFQ1ZSV0dQQUFRRy4u){:target="_blank"}{:rel="noopener"}
+##### [Girlguiding Hertfordshire Grant Application Form <i class="fa fa-external-link"></i>](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwRrqs7bdo19CnIwI_9Lov51UMEs3SDFBNk1XVUE1NERQTEVQT0lES1VVVy4u){:target="_blank"}{:rel="noopener"}
 
 <h5><a href="/wp-content/uploads/2021/05/Girlguiding-Hertfordshire-Expenses-Claim-Form-2021.xlsx">Girlguiding Hertfordshire Expenses Claim Form</a></h5>
 
