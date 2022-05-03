@@ -2,7 +2,7 @@
 layout: page-v5
 title: Setting up access to GO and the Learning Platform
 toc: about-us
-lastmod: 2022-03-31T09:57:54.035Z
+lastmod: 2022-05-03T12:09:05.933Z
 ---
 {:.lead}
 To set up a learning platform account, you will first need to have registered an account on GO
@@ -10,7 +10,7 @@ using the email address on your GO record.
 
 GO and the Learning Platform are two separate systems, but they do ‘talk’ to each other. The username will always be the same on the two systems but you should set a different password for each. Please be aware that if you change the password on one system it will not change on the other.
 
-[Download instructions as PDF](/assets/docs/2022/learning-platform-access.pdf){:.download-link.btn.btn-primary}{:rel="noopener"}{:target="_blank"}
+[Download instructions as PDF](/assets/docs/2022/learning-platform-access-may2022-update.pdf){:.download-link.btn.btn-primary}{:rel="noopener"}{:target="_blank"}
 
 ## Creating an account on GO
 
@@ -54,3 +54,15 @@ Click on the reset link in your email and input a new password.
 You will then be able to access the platform and complete your ‘A Safe Space’ or any other e-learnings and webinars you are interested in. Any e-learnings you complete will take 24 - 48 hours to synchronize over to your GO account.
 
 If you have any trouble accessing the platform, completing the e-learning or your course has not registered on GO, please email <membershipsystems@girlguiding.org.uk> and they should be able to help.
+
+## Troubleshooting receiving invitation emails
+
+If you are not receiving the invitation email check your spam/Junk folder. Make girlguiding.org.uk a trusted domain in your email client and try again.
+
+### Setting Girlguiding as trusted domain in Outlook web
+
+To set a domain active in Outlook on the web (refer to your email supplier for other clients), go to Settings/ View all Outlook settings/Email/Junk email and add under the Safe senders and domains.
+
+![Outlook on the web settings](/assets/images/2022/04/outlook-web-junk-mail-settings.webp)
+
+If that doesn't work, contact membershipsystems@girlguiding.org.uk or for a speedier resolution phone them on 0800 999 2016 or 02078 346 242. Phone would obviously be best, as any email reply may disappear into the ether along with the others!

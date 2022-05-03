@@ -9,9 +9,8 @@ event:
   contact_email: null
   contact_number: ""
   book_now_link: ""
-  image: /assets/images/2022/04/walking_scheme.webp
+  image: /assets/images/2022/04/water_safety.webp
   type:
-    - Residential
     - Walking Scheme
     - Training
   age-group:
@@ -25,7 +24,7 @@ event:
     - Essex
 author:
   display_name: The County Office
-lastmod: 2022-04-28T22:01:32.455Z
+lastmod: 2022-05-03T11:54:42.478Z
 ---
 The Water Safety training module will take place on Saturday evening of 16 July as part of the [Girlguiding Walking Scheme Level 1 course](/training/girlguiding-walking-scheme/).
 
