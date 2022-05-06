@@ -11,8 +11,8 @@ shop:
     Hertfordshire,  
     HP2 6HG
   division: West
-  contact_name: Lynne Kirby
-  contact_email: lynnekirby1@googlemail.com
+  contact_name: null
+  contact_email: jlbaldry@yahoo.co.uk
   contact_number: 01442 252659
   latlng: 51.8061133,-0.4791729999999461
   type:
@@ -24,7 +24,7 @@ author:
   display_name: Rachel Kemp
   first_name: Rachel
   last_name: Kemp
-lastmod: 2022-05-06T11:44:25.658Z
+lastmod: 2022-05-06T11:59:24.207Z
 ---
 Set in picturesque countryside 5 miles from Hemel Hempstead.
 
