@@ -55,6 +55,7 @@ defaults:
     values:
       layout: "shops_nights"
       toc: "about-us"
+      location_map: true
       county: "Hertfordshire"
 email:
   base_url: "https://email.girlguidinghertfordshire.org.uk/api/"
