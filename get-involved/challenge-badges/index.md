@@ -10,7 +10,7 @@ author:
   first_name: Andrew
   last_name: Settle
 permalink: /get-involved/challenge-badges/
-lastmod: 2022-04-24T06:53:16.880Z
+lastmod: 2022-05-13T20:45:57.975Z
 ---
 ## Book Challenge Badge
 
@@ -41,9 +41,6 @@ Once learnt new skills can also be passed on to parents and beyond.
 These badges have been designed by 1st Baldock Brownies and are part of their fundraising efforts for the Girlguiding Great Wall of China Trek via Discover Adventure. This event in now due to take place in October 2022 having been postponed from 2020.
 
 <div class="row g-0 row-cols-2 row-cols-lg-4 justify-content-center">
-  <div class="col col-sm-5 col-xxl-2">
-  {% include baldock-badge-card.html title="Eggstraordinary Easter" src="/assets/images/2022/03/easter_v2.webp" alt="2022 Eggstraordinary Easter Challenge Badge" download="/assets/docs/2022/eggstraordinary_easter_challenge_badge_v2.pdf" name="2022 Eggstraordinary Easter Challenge" %}
-  </div>
    <div class="col col-sm-5 col-xxl-2">
    {% include baldock-badge-card.html title="Flower Power" src="/assets/images/2022/03/Flower-Power-Badge.webp" alt="Flower Power Challenge Badge" name="Flower Power Challenge" download="/assets/docs/challenge-badge-flower-power-pack.pdf" %}
   </div>
@@ -88,16 +85,19 @@ This badge has been created to support the work of the Raise charity and continu
 
 <div class="row g-0 row-cols-2 row-cols-lg-4 justify-content-center">
   <div class="col col-sm-5 col-xxl-2">
-  {% include baldock-badge-card.html title="Gambia Challenge Badge" src="/assets/images/2022/03/Gambia-Badge-small.webp" alt="Gambia Challenge Badge" %}
-  </div>
-  <div class="col col-sm-5 col-xxl-2">
-  {% include baldock-badge-card.html title="Uganda Friendship Challenge Badge" src="/wp-content/uploads/2017/11/Uganda-Friendship-2018-CP-150x150.png" alt="Uganda Friendship Challenge Badge" %}
+  {% include baldock-badge-card.html title="Eggstraordinary Easter" src="/assets/images/2022/03/easter_v2.webp" alt="2022 Eggstraordinary Easter Challenge Badge" %}
   </div>
   <div class="col col-sm-5 col-xxl-2">
   {% include baldock-badge-card.html title="Tiger Tiger Challenge Badge" src="/assets/images/2022/03/tiger_tiger_badge_white.webp" alt="Tiger Tiger Challenge Badge" %}
   </div>
   <div class="col col-sm-5 col-xxl-2">
   {% include baldock-badge-card.html title="Snow is falling Challenge Badge" src="/assets/images/2021/11/SnowFalling-180.jpg" alt="Snow is falling challenge badge" %}  
+  </div>
+  <div class="col col-sm-5 col-xxl-2">
+  {% include baldock-badge-card.html title="Gambia Challenge Badge" src="/assets/images/2022/03/Gambia-Badge-small.webp" alt="Gambia Challenge Badge" %}
+  </div>
+  <div class="col col-sm-5 col-xxl-2">
+  {% include baldock-badge-card.html title="Uganda Friendship Challenge Badge" src="/wp-content/uploads/2017/11/Uganda-Friendship-2018-CP-150x150.png" alt="Uganda Friendship Challenge Badge" %}
   </div>
 </div>
 
