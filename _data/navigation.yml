@@ -1,98 +1,123 @@
 main:
   items:
-  - id: about-us
+  - id: information-for-parents
   - id: get-involved
-  - id: county-teams
-  - id: events
-  - id: training
+  - id: making-guiding-happen
   - id: news
-  - id: contact
-about-us:
-  title: About Us
-  url: /about-us/
+  - id: about-us
+what-we-do:
+  title: What we do
+  url: /what-we-do/
+information-for-parents:
+  title: Information for Parents
+  url: /information/
   items:
-  - title: Mission Statement
-    url: /about-us/mission-statement/
-  - title: Divisions
-    url: /about-us/divisions/
-  - title: Resources and Links
-    url: /about-us/resources/
-    items:
-      - title: Accessing Learning Platform
-        url: /go/
-  - title: Membership System Updates
-    url: /membership-system-updates/
-  - title: Wellbeing Resources
-    url: /about-us/wellbeing-resources-and-links/
-  - title: County Centre
-    url: /about-us/county-centre/
-  - title: Shops & Depots
-    url: /about-us/shops-depots/
-  - title: Nights Away
-    url: /about-us/nights-away/
-  - title: County Archives
-    url: /about-us/county-archives/
+    - title: Rainbows (4-7)
+      url: /information/rainbows/
+    - title: Brownies (7-10)
+      url: /information/brownies/
+    - title: Guides (10-14)
+      url: /information/guides/
+    - title: Rangers (14-18)
+      url: /information/rangers/
+    - title: Girlguiding Inspire (18-30)
+      url: /information/inspire/
+    - title: Costs and uniform
+      url: /information/costs/
+      items:
+        - title: How much it costs
+          url: /information/costs/how-much/
+        - title: Uniform information
+          url: /information/uniform/
+    - title: Stay informed
+      url: /information/billboard/
+    - title: Shops & Depots
+      url: /about-us/shops-depots/
 get-involved:
   title: Get Involved
   url: /get-involved/
   items:
-  - title: Challenge Badges
-    url: /get-involved/challenge-badges/
-  - title: Virtual Ideas and Activities
-    url: /get-involved/activities/
-  - title: Vacancies
-    url: /get-involved/vacancies/
-  - title: Share With Us
-    url: /get-involved/share/
-  - title: Thanks, Awards and Recognition
-    url: /get-involved/thanks/
-county-teams:
-  title: County Teams
-  url: /county-teams/
+    - title: Become a volunteer
+      url: /get-involved/volunteer/
+    - title: Vacancies
+      url: /get-involved/vacancies/
+    - title: Find your nearest unit
+      url: /get-involved/find-unit/
+making-guiding-happen:
+  title: Making Guiding Happen
+  url: /making-guiding-happen/
   items:
-  - title: Your County Team
-    url: /about-us/county-team/
-  - title: Youth Opportunities
-    url: /youth-opportunities/
-  - title: International Adventures
-    url: /international-adventures/
+    - title: Events
+      url: /events/
+      items:
+      - title: County Calendar
+        url: /events/calendar/
+      - title: Great Patrol Hunt
+        url: /great-patrol-hunt/
+    - title: Platinum Jubilee
+      url: /jubilee/
+    - title: Training
+      url: /training/
+    - title: Challenge Badges
+      url: /get-involved/challenge-badges/
+    - title: Virtual Ideas and Activities
+      url: /get-involved/activities/
+    - title: County Teams
+      url: /county-teams/
+      items:
+      - title: Your County Team
+        url: /about-us/county-team/
+      - title: Youth Opportunities
+        url: /youth-opportunities/
+      - title: International Adventures
+        url: /international-adventures/
+        items:
+        - title: Unit Opportunities
+          url: /international-adventures/international-unit-opportunities/
+        - title: County Opportunities
+          url: /international-adventures/international-county/
+        - title: Region Opportunities
+          url: /international-adventures/international-region-opportunities/
+        - title: National & WAGGGS Opportunities
+          url: /international-adventures/international-national-wagggs-opportunities/
+      - title: Outdoor Activities
+        url: /county-teams/outdoor/
+        items:
+        - title: Paddlesports
+          url: /county-teams/outdoor/paddlesports/
+        - title: Walks around Hertfordshire
+          url: /county-teams/outdoor/walks/
+        - title: How to find local routes
+          url: /county-teams/outdoor/walks/local-routes/
+        - title: Outdoors useful apps
+          url: /county-teams/outdoor/useful-apps/
+        - title: Social Walking
+          url: /county-teams/outdoor/social-walking/
+        - title: Outdoor training
+          url: /county-teams/outdoor/training/
+    - title: Forms and Resources
+      url: /about-us/resources/
+      items:
+        - title: Accessing Learning Platform
+          url: /go/
+    - title: Membership System Updates
+      url: /membership-system-updates/
+    - title: Wellbeing Resources
+      url: /about-us/wellbeing-resources-and-links/
+    - title: Accommodation and Campsites
+      url: /about-us/nights-away/
+    - title: County Centre
+      url: /about-us/county-centre/
+about-us:
+    title: About Us
+    url: /about-us/
     items:
-    - title: Unit Opportunities
-      url: /international-adventures/international-unit-opportunities/
-    - title: County Opportunities
-      url: /international-adventures/international-county/
-    - title: Region Opportunities
-      url: /international-adventures/international-region-opportunities/
-    - title: National & WAGGGS Opportunities
-      url: /international-adventures/international-national-wagggs-opportunities/
-  - title: Outdoor Activities
-    url: /county-teams/outdoor/
-    items:
-    - title: Paddlesports
-      url: /county-teams/outdoor/paddlesports/
-    - title: Walks around Hertfordshire
-      url: /county-teams/outdoor/walks/
-    - title: How to find local routes
-      url: /county-teams/outdoor/walks/local-routes/
-    - title: Outdoors useful apps
-      url: /county-teams/outdoor/useful-apps/
-    - title: Social Walking
-      url: /county-teams/outdoor/social-walking/
-    - title: Outdoor training
-      url: /county-teams/outdoor/training/
-events:
-  title: Events
-  url: /events/
-  items:
-  - title: County Calendar
-    url: /events/calendar/
-  - title: Great Patrol Hunt
-    url: /great-patrol-hunt/
-  - title: Platinum Jubilee
-    url: /jubilee/
-training:
-  title: Training
-  url: /training/
+    - title: Mission Statement
+      url: /about-us/mission-statement/
+    - title: Divisions
+      url: /about-us/divisions/
+    - title: County Archives
+      url: /about-us/county-archives/
 news:
   title: News
   url: /news/
@@ -103,6 +128,10 @@ news:
     url: /news/essential-news/
   - title: Billboard
     url: /news/billboard/
+  - title: Share With Us
+    url: /get-involved/share/
+  - title: Thanks, Awards and Recognition
+    url: /get-involved/thanks/
 contact:
   title: Contact Us
   url: /contact-us/
