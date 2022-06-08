@@ -1,0 +1,34 @@
+---
+title: County Outdoor Activity Day
+date: 2022-06-07T20:42:11.121Z
+image: /assets/images/2022/06/outdoor-activity-day.webp
+categories:
+  - Announcements
+tags: []
+description: We need your help to run a County Outdoor Activity Day in September at
+  Tolmer's Scount Camp
+author:
+  email: null
+  display_name: The County Office
+  first_name: ""
+  last_name: ""
+lastmod: 2022-06-08T06:51:05.657Z
+excerpt_separator: <!--more-->
+---
+{:.lead}
+We need your help to run a County Outdoor Activity Day in September at Tolmer's Scout Camp.
+<!--more-->
+## Help required
+
+We are hoping to run the County Outdoor Activity Day on **Sunday 25 September** at **[Tolmer's Scout Camp, Cuffley](/shops-nights/tolmers-scout-camp-site/)** but in order to do so we need your help!
+
+If you would like sign up to help out on the day, please do so via the button below **by Thursday 30 June**. (No special skills are required!)
+
+[Offer of help](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwZf5T0i4octErRCYrHkhHVhUOUJFSzdZR0swVUdMQkM3UllEM1NSMjJaNi4u){:target="_blank"}{:rel="noopener"}{:.btn-gg}
+
+## Attending the event
+
+In addition, if you are unable to help but would instead like to register an interest in attending with your girls, please do so here:
+
+[Register your interest](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwZf5T0i4octErRCYrHkhHVhUQkpUNlcxVUVTQjhCQ08wUUk3OEpSOU1DWC4u){:target="_blank"}{:rel="noopener"}{:.btn-gg}
+
