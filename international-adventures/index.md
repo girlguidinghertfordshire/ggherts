@@ -12,24 +12,28 @@ author:
   display_name: the County Office
   first_name: ""
   last_name: ""
-lastmod: 2022-04-07T08:58:55.483Z
+lastmod: 2022-06-15T19:42:13.312Z
 ---
 Welcome to the Girlguiding Hertfordshire International Adventures. 
 
 The International Leadership Team are here to support you plan an amazing adventure.
 
-As part of the largest worldwide organisation for girls and young women, with 10 million members in 150 countries, international activities are a big part of the fun, friendship, challenge and adventure that Girlguiding has to offer.
+As part of WAGGGS (World Association of Girl Guides and Girl Scouts), the largest worldwide organisation for girls and young women, with 10 million members in 150 countries, international activities are a big part of the fun, friendship, challenge and adventure that Girlguiding has to offer.
 
 Whether it’s taking part in a day visit to an International camp or halfway round the globe at a World Centre, there are so many ways that International Girlguiding can be a part of both your own and your unit’s experiences. You don’t even have to leave your unit meeting!
 
-As International Advisers it is our role to bring international guiding to Hertfordshire. We have a successful programme of county trips, support leaders taking their units abroad and advertise new international resources. Keep an eye out in ‘Share’ or the monthly mail-out for international news or read more below.
+As International Advisers it is our role to bring international guiding to Hertfordshire. We have a successful programme of county trips, support leaders taking their units abroad and advertise new international resources. Keep an eye out for articles in the county [Share magazines](/get-involved/share/) or the monthly [Billboard newsletters](/news/billboard/) for international news or use the [How to get involved links](#how-to-get-involved) and read more about the opportunities available.
 
 *Lorraine England & Karen Dance*  
 County International Advisers
 
-## International REN Form
+## International Permission to Plan/REN Form
 
-The International REN Form can be found on the Girlguiding website.  If you are planning an international adventure, or need some advice on international travel or resources within Girlguiding, then please do get in touch via <international@girlguidinghertfordshire.org.uk>.
+The International Permission to plan and REN Form should be completed via [GO](https://go.girlguiding.org.uk/SignIn){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"} and authorised via region. The trip leader should contact region to advise the REN is awaiting authorisation.
+
+If you planning an international adventure please make sure you have the appropriate level events administrator role. 
+
+If you require advice on international travel or resources within Girlguiding, please do get in touch via <international@girlguidinghertfordshire.org.uk>.
 
 ## How to get involved
 

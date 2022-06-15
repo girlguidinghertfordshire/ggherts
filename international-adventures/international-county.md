@@ -6,7 +6,7 @@ toc: county-teams
 banner_image: /assets/images/2022/04/International_banner.jpg
 author:
   display_name: the County Office
-lastmod: 2022-04-07T08:59:02.347Z
+lastmod: 2022-06-15T19:50:35.055Z
 ---
 {% assign today = 'now' | date: '%s' | plus: 0 %}
 {% assign maxdate = '2022-04-01' | date: '%s' | plus: 0 %}
@@ -20,8 +20,18 @@ lastmod: 2022-04-07T08:59:02.347Z
 
 Guide and Ranger members aged 14-18 who want to travel the world with Girlguiding should be encouraged to attend the County International Opportunities Day, held each year in the autumn term.  The International Leadership Team have a day of activities and team challenges to allow them to get to know everyone. After successful completion, the team offer places on County trips for the next year and offer a small number of girls the opportunity to attend Anglia region selection. In recent years County trips have visited Ireland, The Gambia, Mexico, USA, India and the World Scout Jamboree.
 
-If you have members who are interested in international opportunities then watch for the International Opportunities Day information in the monthly mailout and on the [events section.](/events/)
+<div class="alert alert-info" markdown="1">
+## International Day - Applications Open
 
-## Leaders needed to Lead/assist with International opportunities in 2021
+This event is taking place on **Sunday 23 October 2022** in **St Albans** and is open to all sections.  Rainbows, Brownies and Guides must be accompanied by a leader (at the appropriate ratio).
 
-The international team are looking for a number of Leaders aged over 18 from any section to take groups of girls to International events both in this country and overseas in 2021.  If you would like to apply or for more information then please email <international@girlguidinghertfordshire.org.uk> with details of your experience and whether you would be interested in an overseas trip or in taking a County group to a UK Jamboree.
+You can find out more about what the day entails and download the application form from the county website's [Events page.](/event/international-day/)
+
+Applications and payments should be received before **Friday 30 September 2022.**
+</div>
+
+## Leaders interested in leading/assisting with International opportunities in 2024
+
+Are you a leader aged over 18 (from any section) and interested in taking groups of girls to international events either in this country or overseas in **2024**?  If so, you should attend the next county INTOPS event in 2023.  Please keep an eye on the county website's [Events page](/events/) where details of this event will be advertised.
+
+If you have any queries please contact the International team via <international@girlguidinghertfordshire.org.uk>
