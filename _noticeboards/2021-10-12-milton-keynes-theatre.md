@@ -7,11 +7,11 @@ categories:
 tags: []
 author:
   display_name: The County Office
-lastmod: 2022-05-13T20:55:01.821Z
+lastmod: 2022-06-15T20:24:44.335Z
 ---
 Milton Keynes Theatre has lots of fabulous shows coming up, many of which offer group discounts.
 
-- [Overview of shows <i class="fa fa-download"></i>](/assets/docs/2022/mk-theatre-show-information.pdf)
+- [Overview of shows <i class="fa fa-download"></i>](/assets/docs/2022/mktheatre-show-overview-2022-06.docx)
 
 Groups of 10+ will benefit from an extended pay by date and no transaction fees. There should be one leader per group of 10 and uniforms must be worn.
 
