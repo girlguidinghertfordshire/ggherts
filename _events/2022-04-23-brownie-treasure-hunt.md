@@ -1,6 +1,7 @@
 ---
 title: Brownie Treasure Hunt
 date: 2021-12-01T20:20:21.687Z
+published: false
 event:
   start_date: 2022-04-23
   end_date: ""
@@ -16,7 +17,7 @@ event:
     - Brownies
   location:
     - Hertfordshire, South West
-lastmod: 2022-03-23T08:41:33.405Z
+lastmod: 2022-06-22T22:01:25.482Z
 ---
 This treasure hunt for Brownies is taking place on Saturday, 23 April 2022 at Chandlers Cross, Hertfordshire, from 10am – 4pm.
 

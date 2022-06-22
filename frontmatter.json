@@ -19,5 +19,6 @@
       "title": "News",
       "path": "c:/Users/andre/OneDrive/repos/GitHub/ggherts/_posts"
     }
-  ]
+  ],
+  "frontMatter.templates.enabled": true
 }

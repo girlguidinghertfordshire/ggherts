@@ -1,6 +1,7 @@
 ---
 title: International Opportunities (INTOPS) Selection Days
 date: 2022-01-13T22:27:58.386Z
+published: false
 event:
   start_date: 2022-04-02
   end_date: 2022-04-03
@@ -21,7 +22,7 @@ event:
     - Hertfordshire
 author:
   display_name: The County Office
-lastmod: 2022-03-23T08:41:33.407Z
+lastmod: 2022-06-22T22:01:25.485Z
 ---
 For leaders, Guides, Rangers and Young Leaders (who will be aged between 12 and 18 by 26 July 2023), who would like to be considered for an international trip or join a Girlguiding Hertfordshire group going to an event in the UK in 2023 our INTOPS selection days will be taking place on **Saturday 2 and Sunday 3 April 2022 from 9.30am - 5.30pm both days. _YOU ONLY NEED TO ATTEND ONE OF THE DAYS._**
 

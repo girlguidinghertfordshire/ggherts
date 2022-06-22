@@ -1,6 +1,7 @@
 ---
 title: Rainbow Sensory Safari
 date: 2021-12-01T20:39:12.359Z
+published: false
 event:
   start_date: 2022-04-23
   end_date: ""
@@ -21,7 +22,7 @@ author:
   display_name: The County Office
   first_name: null
   last_name: null
-lastmod: 2022-03-24T09:19:35.905Z
+lastmod: 2022-06-22T22:01:25.475Z
 ---
 
 This Sensory Safari for Rainbows is taking place on Saturday, 23 April 2022 at Chandlers Cross, Hertfordshire from 10am – 4pm.

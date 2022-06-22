@@ -1,27 +1,28 @@
 ---
 title: Introduction to the Hills (ITTH)
-date: '2021-11-01T20:44:59.233Z'
+date: 2021-11-01T20:44:59.233Z
+published: false
 event:
-    start_date: '2022-04-29'
-    end_date: '2022-05-02'
-    address: Derbyshire
-    contact_name: null
-    contact_email: itthherts@gmail.com
-    contact_number: ''
-    book_now_link: ''
-    image: /assets/images/2021/11/ITTH.jpg
-    type:
-        - Residential
-    age-group:
-        - Guides
-    location:
-        - Peak District
+  start_date: 2022-04-29
+  end_date: 2022-05-02
+  address: Derbyshire
+  contact_name: null
+  contact_email: itthherts@gmail.com
+  contact_number: ""
+  book_now_link: ""
+  image: /assets/images/2021/11/ITTH.jpg
+  type:
+    - Residential
+  age-group:
+    - Guides
+  location:
+    - Peak District
 author:
-    email: null
-    display_name: null
-    first_name: null
-    last_name: null
-lastmod: '2022-01-27T20:16:54.836Z'
+  ? email
+  ? display_name
+  ? first_name
+  ? last_name
+lastmod: 2022-06-22T22:01:25.472Z
 ---
 **This event is now FULLY BOOKED**
 

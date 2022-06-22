@@ -1,6 +1,7 @@
 ---
 title: Book Challenge Author Event
 date: 2022-03-31T19:39:00.437Z
+published: false
 event:
   start_date: 2022-05-26
   end_date: ""
@@ -24,7 +25,7 @@ event:
     - Virtual
 author:
   display_name: The County Office
-lastmod: 2022-04-06T20:58:29.358Z
+lastmod: 2022-06-22T22:01:25.489Z
 ---
 This free virtual meet the author event is taking place via **Zoom** on **Thursday 26 May** from **7.00-8.00pm.**  
 

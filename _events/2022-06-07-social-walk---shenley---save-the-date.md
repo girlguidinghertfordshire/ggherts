@@ -1,6 +1,7 @@
 ---
 title: Social Walk - Shenley - Save the date
 date: 2022-06-07T20:29:33.240Z
+published: false
 event:
   start_date: 2022-10-22
   end_date: ""
@@ -23,7 +24,7 @@ event:
     - Hertfordshire, Central
 author:
   display_name: The County Office
-lastmod: 2022-06-07T20:35:30.626Z
+lastmod: 2022-06-22T22:01:25.458Z
 ---
 Save the date for this morning social walk, taking place on Saturday 22 October from Shenley.  
 More details to follow soon.

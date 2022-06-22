@@ -1,6 +1,7 @@
 ---
 title: Guide Treasure Hunt
 date: 2021-12-01T20:39:12.359Z
+published: false
 event:
   start_date: 2022-04-23
   end_date: ""
@@ -16,7 +17,7 @@ event:
     - Guides
   location:
     - Hertfordshire, South West
-lastmod: 2022-03-23T08:39:56.572Z
+lastmod: 2022-06-22T22:01:25.479Z
 ---
 This treasure hunt for Guides is taking place on Saturday, 23 April 2022 at Chandlers Cross, Hertfordshire, from 10am – 4pm.
 

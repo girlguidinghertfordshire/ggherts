@@ -1,6 +1,7 @@
 ---
 title: County Camper Skills Builder Camp Weekend
 date: 2022-03-31T11:27:02.579Z
+published: false
 event:
   start_date: 2022-06-17
   end_date: 2022-06-19
@@ -17,7 +18,7 @@ event:
   location:
     - Hertfordshire, St Albans
 
-lastmod: 2022-03-31T11:35:08.853Z
+lastmod: 2022-06-22T22:01:25.449Z
 ---
 This Skills Builder Camp Weekend taking place on **Friday 17 - Sunday 19 June** in Colney Heath, is open to all Guides to attend **without** their leaders.
 

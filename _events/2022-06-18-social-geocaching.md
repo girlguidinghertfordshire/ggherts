@@ -1,6 +1,7 @@
 ---
 title: Social Geocaching
 date: 2022-01-25T19:43:35.251Z
+published: false
 event:
   start_date: 2022-06-19
   end_date: ""
@@ -23,7 +24,7 @@ author:
   display_name: The County Office
   first_name: null
   last_name: null
-lastmod: 2022-04-24T06:54:50.171Z
+lastmod: 2022-06-22T22:01:25.440Z
 ---
 
 An afternoon of social geocaching in central Hertfordshire for Young Leaders, Rangers and adults.  Training and advice available.  Please say if you would like training when booking.

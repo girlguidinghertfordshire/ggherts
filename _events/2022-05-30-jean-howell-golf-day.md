@@ -1,6 +1,7 @@
 ---
 title: Jean Howell Golf Day
 date: 2022-01-25T20:32:48.572Z
+published: false
 event:
   start_date: 2022-05-30
   end_date: ""
@@ -23,7 +24,7 @@ author:
   display_name: The County Office
   first_name: null
   last_name: null
-lastmod: 2022-05-13T20:47:59.534Z
+lastmod: 2022-06-22T22:01:25.462Z
 ---
 
 Girlguiding Hertfordshire are delighted to be able to host this event in association with Porters Park Golf Club, Radlett.

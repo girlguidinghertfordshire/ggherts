@@ -1,6 +1,7 @@
 ---
 title: Social Walking Weekend, Shropshire hills
 date: 2021-12-02T20:35:29.694Z
+published: false
 event:
   start_date: 2022-06-10
   end_date: 2022-06-12
@@ -18,7 +19,7 @@ event:
     - Rangers
   location:
     - Shropshire
-lastmod: 2022-04-24T07:16:25.016Z
+lastmod: 2022-06-22T22:01:25.453Z
 ---
 
 Adult and Ranger social walking weekend in the gentle Shropshire Hills for those new to hillwalking up to Level 2 of the walking scheme. You choose; walk miles for Logbook walks or have a relaxing weekend in beautiful surroundings.
