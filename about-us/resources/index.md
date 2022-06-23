@@ -2,7 +2,7 @@
 layout: page-v5
 title: Resources
 toc: about-us
-lastmod: 2022-05-21T09:45:47.013Z
+lastmod: 2022-06-23T21:27:48.670Z
 ---
 ## Forms &amp; Stationery
 
@@ -88,7 +88,7 @@ ___
 
 ### Girlguiding Hertfordshire Trefoil Guild
 
-- [Information on the different Trefoil Guild groups within the County and how to join <i class="fa fa-download"></i>](/wp-content/uploads/2021/05/County-Trefoil-Guild-Information.pdf)
+- [Information on the different Trefoil Guild groups within the County](/county-teams/trefoil/)
 - The Trefoil Guild website can be found here: [www.trefoilguild.co.uk](https://www.trefoilguild.co.uk/){:target="_blank"}{:rel="noopener"}
 
 ___

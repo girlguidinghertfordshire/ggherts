@@ -80,6 +80,13 @@ county-teams:
       url: /county-teams/outdoor/social-walking/
     - title: Outdoor training
       url: /county-teams/outdoor/training/
+  - title: Trefoil Guild
+    url: /county-teams/trefoil
+    items:
+    - title: Guilds
+      url: /county-teams/trefoil/guilds/
+    - title: Activities & Challenges
+      url: /county-teams/trefoil/activities/
 events:
   title: Events
   url: /events/
