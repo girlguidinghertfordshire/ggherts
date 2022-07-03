@@ -10,7 +10,7 @@ author:
   display_name: the County Office
   first_name: ""
   last_name: ""
-lastmod: 2022-04-07T09:10:11.570Z
+lastmod: 2022-07-03T20:58:43.961Z
 ---
 {:.lead}
 With the Great Patrol Hunt girls have the best experiences
@@ -25,7 +25,7 @@ It began in 1968, Hertfordshire Scout Patrols competed annually in various ways,
 
 - Round 1, 2021/22  \|  Saturday 16 October 2021  \|  Borehamwood **\*\*Completed\*\***
 - Round 2, 2022 \| Saturday 26 March 2022 \| St Albans **\*\*Completed\*\***
-- [Round 3, 2022 \| Friday-Sunday 24-26 June 2022](/event/great-patrol-hunt-2022-round-3/)
+- Round 3, 2022 \| Friday-Sunday 24-26 June 2022 **\*\*Completed\*\***
 
 ### Round 1
 
@@ -41,7 +41,20 @@ Round 2 of the Great Patrol Hunt was completed on Saturday 26 March 2022; downlo
 
 ### Round 3
 
-Round 3 takes place on Friday 24 - Sunday 26 June. Please see the events page for [further information.](/event/great-patrol-hunt-2022-round-3/)
+Round 3 was completed over Friday 24 - Sunday 26 June.  Congratulations to **Anonymii for 11th Hitchin Guides** on their overall win.  Download the results and overall standings for 2021/22.
+
+[Round 3 results and overall positions for 2021/2022](/assets/docs/2022/great-patrol-hunt-round3-results.pdf){:.download-link.btn.btn-primary}{:rel="noopener"}{:target="_blank"}
+
+## Coming soon
+
+Have you enjoyed taking part in this year's Great Patrol Hunt or fancy joining in the fun?
+
+After yet another successful GPH the dates for next year's round of events have now been set, so save the dates:
+
+- [2022/23 - Round 1: Saturday 15 October 2022](/event/gph-round-1/)
+- [2023 - Round 2: Saturday 11 March 2023](/event/gph-round-2/)
+- [2023 - Round 3: Friday 30 June - Sunday 2 July 2023](/event/gph-round-3/)
+More details to follow soon.
 
 ## About the Competition
 
