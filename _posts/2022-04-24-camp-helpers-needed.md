@@ -1,6 +1,7 @@
 ---
 title: Camp helpers needed
 date: 2022-04-24T07:00:05.734Z
+published: false
 image: /assets/images/2022/04/camp_skills_weekend_news.webp
 categories:
   - Announcements
@@ -11,7 +12,7 @@ author:
   display_name: The County Office
   first_name: ""
   last_name: ""
-lastmod: 2022-04-24T07:09:13.519Z
+lastmod: 2022-07-03T19:48:01.289Z
 ---
 The Residential Team are looking for additional adult helpers to ensure the [Campers Skills Builder Camp Weekend](/event/county-camper-skills-builder-camp-weekend/) is a success.
 

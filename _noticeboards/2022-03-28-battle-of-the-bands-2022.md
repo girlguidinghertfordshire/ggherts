@@ -1,13 +1,14 @@
 ---
 title: Battle of the Bands 2022
 date: 2022-03-28T09:47:36.369Z
+published: false
 image: /assets/images/2022/03/b_o_b.jpg
 categories:
   - Notice
 tags: []
 author:
   display_name: The County Office
-lastmod: 2022-03-28T09:51:55.528Z
+lastmod: 2022-07-03T19:52:19.491Z
 ---
 This year's Summer Arts in Buntingford Event takes place from 17 - 19 June 2022 and includes a battle of the bands competition.  
 
