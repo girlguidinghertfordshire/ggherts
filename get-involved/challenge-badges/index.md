@@ -10,7 +10,7 @@ author:
   first_name: Andrew
   last_name: Settle
 permalink: /get-involved/challenge-badges/
-lastmod: 2022-05-13T20:45:57.975Z
+lastmod: 2022-07-04T19:41:07.329Z
 ---
 ## Book Challenge Badge
 
@@ -38,9 +38,12 @@ Once learnt new skills can also be passed on to parents and beyond.
 ## 1st Baldock Brownies Fundraising Challenge Badges
 {:#baldock}
 
-These badges have been designed by 1st Baldock Brownies and are part of their fundraising efforts for the Girlguiding Great Wall of China Trek via Discover Adventure. This event in now due to take place in October 2022 having been postponed from 2020.
+These badges have been designed by 1st Baldock Brownies and are part of their fundraising efforts for the Girlguiding Inca Trail Trek via Discover Adventure. The event is taking place in October 2022 (having been changed from a Great Wall of China trek which was due to take place 2020)
 
 <div class="row g-0 row-cols-2 row-cols-lg-4 justify-content-center">
+   <div class="col col-sm-5 col-xxl-2">
+   {% include baldock-badge-card.html title="Forest Bathing" src="/assets/images/2022/07/forest-bathing-challenge-badge.webp" alt="Forest Bathing Challenge Badge" name="Forest Bathing Challenge" download="/assets/docs/2022/challenge-badge-forest-bathing-pack.pdf" %}
+  </div>
    <div class="col col-sm-5 col-xxl-2">
    {% include baldock-badge-card.html title="Flower Power" src="/assets/images/2022/03/Flower-Power-Badge.webp" alt="Flower Power Challenge Badge" name="Flower Power Challenge" download="/assets/docs/challenge-badge-flower-power-pack.pdf" %}
   </div>
