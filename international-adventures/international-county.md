@@ -6,7 +6,7 @@ toc: county-teams
 banner_image: /assets/images/2022/04/International_banner.jpg
 author:
   display_name: the County Office
-lastmod: 2022-06-15T19:50:35.055Z
+lastmod: 2022-07-05T20:05:09.767Z
 ---
 {% assign today = 'now' | date: '%s' | plus: 0 %}
 {% assign maxdate = '2022-04-01' | date: '%s' | plus: 0 %}
@@ -19,6 +19,16 @@ lastmod: 2022-06-15T19:50:35.055Z
 ## For young members
 
 Guide and Ranger members aged 14-18 who want to travel the world with Girlguiding should be encouraged to attend the County International Opportunities Day, held each year in the autumn term.  The International Leadership Team have a day of activities and team challenges to allow them to get to know everyone. After successful completion, the team offer places on County trips for the next year and offer a small number of girls the opportunity to attend Anglia region selection. In recent years County trips have visited Ireland, The Gambia, Mexico, USA, India and the World Scout Jamboree.
+
+<div class="alert alert-info" markdown="1">
+## International Selection Day for county 2023 Lorne Trip - Applications Open
+
+This event is taking place on **Saturday, 17 September 2022** in **Hemel Hempstead** and is open to those **aged between 12-14 on 26 July 2023.**
+
+[More information and application forms](/event/international-selection-day/){:.btn.btn-primary}
+
+Applications, Information and Consent Forms and references must be received by **Friday, 9 September.**
+</div>
 
 <div class="alert alert-info" markdown="1">
 ## International Day - Applications Open
