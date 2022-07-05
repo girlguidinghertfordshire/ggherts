@@ -9,22 +9,25 @@ event:
   contact_email: Ruth.Bint@girlguiding.org.uk
   contact_number: ""
   book_now_link: ""
-  image: /assets/images/2022/04/walking_scheme.webp
+  image: /assets/images/2021/08/social-walk2.jpg
   type:
     - Residential
     - Social
   age-group:
     - Adults
+    - Inspire
+    - Leaders
+    - Trefoil
   location:
     - Scotland
 author:
   display_name: The County Office
-lastmod: 2022-07-04T20:35:49.676Z
+lastmod: 2022-07-05T19:25:25.095Z
 ---
-To take place during the week commencing 17 Oct - **exact dates TBC**
+For adults, taking place during the week commencing 17 Oct - exact dates TBC.
 
-Level 3 Walking Scheme, Hill & Moorland, Mountain Leader Training & Assessment in Scottish Highlands.
+This social walking event is running alongside the [Level 3 Walking Scheme training and assessment.](/training/girlguiding-walking-scheme-level-3/)
 
-Adult social walkers also very welcome.
+Organised and run by the National Walking Team.  
 
-Apply immediately for the course, as the deadline is very soon. Organised & run by the National Walking Team – contact Ruth Bint our new National Walking Adviser on <Ruth.Bint@girlguiding.org.uk>
+For more information and to book a place, please contact Ruth Bint our National Walking Adviser via <Ruth.Bint@guiding.org.uk>.
