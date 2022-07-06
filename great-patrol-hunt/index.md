@@ -10,7 +10,7 @@ author:
   display_name: the County Office
   first_name: ""
   last_name: ""
-lastmod: 2022-07-03T20:58:43.961Z
+lastmod: 2022-07-06T18:42:26.236Z
 ---
 {:.lead}
 With the Great Patrol Hunt girls have the best experiences
@@ -55,6 +55,8 @@ After yet another successful GPH the dates for next year's round of events have 
 - [2023 - Round 2: Saturday 11 March 2023](/event/gph-round-2/)
 - [2023 - Round 3: Friday 30 June - Sunday 2 July 2023](/event/gph-round-3/)
 More details to follow soon.
+
+[![Camp Caterers Required for GPH 2023](/assets/images/2022/07/gph-catering-ad.webp)](/news/camp-caterers-gph/)
 
 ## About the Competition
 
