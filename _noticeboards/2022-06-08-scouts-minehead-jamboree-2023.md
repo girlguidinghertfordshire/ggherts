@@ -1,13 +1,14 @@
 ---
 title: Scouts Minehead Jamboree 2023
 date: 2022-06-08T20:11:05.284Z
+published: false
 image: /assets/images/2022/06/minehead-jamboree.webp
 categories:
   - Notice
 tags: []
 author:
   display_name: The County Office
-lastmod: 2022-06-08T20:21:36.890Z
+lastmod: 2022-07-08T20:45:48.331Z
 ---
 Scouts are Taking Over Butlin's for their 2023 Minehead Jamboree and they are inviting Girlguiding too!
 
