@@ -10,7 +10,7 @@ author:
   display_name: the County Office
   first_name: ""
   last_name: ""
-lastmod: 2022-07-06T18:42:26.236Z
+lastmod: 2022-07-13T20:41:49.203Z
 ---
 {:.lead}
 With the Great Patrol Hunt girls have the best experiences
@@ -45,18 +45,19 @@ Round 3 was completed over Friday 24 - Sunday 26 June.  Congratulations to **Ano
 
 [Round 3 results and overall positions for 2021/2022](/assets/docs/2022/great-patrol-hunt-round3-results.pdf){:.download-link.btn.btn-primary}{:rel="noopener"}{:target="_blank"}
 
-## Coming soon
+## 2022/23 GPH coming soon
 
 Have you enjoyed taking part in this year's Great Patrol Hunt or fancy joining in the fun?
 
-After yet another successful GPH the dates for next year's round of events have now been set, so save the dates:
+After yet another successful GPH the dates for the **2022/23** round of events have now been set, so save the dates:
 
-- [2022/23 - Round 1: Saturday 15 October 2022](/event/gph-round-1/)
-- [2023 - Round 2: Saturday 11 March 2023](/event/gph-round-2/)
-- [2023 - Round 3: Friday 30 June - Sunday 2 July 2023](/event/gph-round-3/)
+- [Round 1: Saturday 15 October 2022](/event/gph-round-1/)
+- [Round 2: Saturday 11 March 2023](/event/gph-round-2/)
+- [Round 3: Friday 30 June - Sunday 2 July 2023](/event/gph-round-3/)
+
 More details to follow soon.
 
-[![Camp Caterers Required for GPH 2023](/assets/images/2022/07/gph-catering-ad.webp)](/news/camp-caterers-gph/)
+[![Camp Caterers Required for GPH 2023](/assets/images/2022/07/gph-catering-ad-320.webp)](/news/camp-caterers-gph/){:.img-fluid}
 
 ## About the Competition
 

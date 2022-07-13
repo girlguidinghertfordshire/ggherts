@@ -8,7 +8,7 @@ event:
   contact_name: null
   contact_email: walking@girlguiding-anglia.org.uk
   contact_number: ""
-  book_now_link: ""
+  book_now_link: https://www.eventbrite.co.uk/e/social-training-and-assessed-walking-weekend-tickets-360305251707?dm_i=440O,1CFV8,5WEL9G,67XK9,1
   image: /assets/images/2022/04/walking_scheme.webp
   type:
     - Residential
@@ -23,7 +23,7 @@ event:
     - Peak District
 author:
   display_name: The County Office
-lastmod: 2022-07-05T19:20:03.266Z
+lastmod: 2022-07-13T20:34:34.799Z
 ---
 There will be opportunities for formal training which follows the level 2 walking scheme for those new to hill walking, and logbook walks for those working on or renewing their Level 2 walking qualification. These walkers will practice navigation, and other skills, with experienced hill walkers on hand to assist if required.
 

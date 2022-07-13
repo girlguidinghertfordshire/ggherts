@@ -11,11 +11,15 @@ shop:
   division: North
   contact_name: Jo Clinch
   contact_email: girlguidinghitchinshop@gmail.com
-  contact_number: '07736351045'
-  latlng: "51.9561171,-0.2716811999999891"
+  contact_number: "07736351045"
+  latlng: 51.9561171,-0.2716811999999891
   type:
     - Shop
-author:
+author: null
+lastmod: 2022-07-13T20:30:16.384Z
 ---
-<p>Mondays during term time 6.00-8.00pm<br />
-Also open around one Saturday a term – contact Jo Clinch for details</p>
+Mondays during term time 6.00-8.00pm
+
+Also open around one Saturday a term – contact Jo Clinch for details
+
+- [Shop website](https://hitchinguideshop.wixsite.com/shop){:.external-link}{:rel="noopener"}{:target="_blank"}
