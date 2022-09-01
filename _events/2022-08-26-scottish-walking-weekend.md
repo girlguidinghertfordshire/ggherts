@@ -1,6 +1,7 @@
 ---
 title: Scottish Walking Weekend, Scottish Highlands
 date: 2022-01-01T09:34:19.300Z
+published: false
 event:
   start_date: 2022-08-26
   end_date: 2022-08-31
@@ -20,7 +21,7 @@ event:
     - Scotland
 author:
   display_name: The County Office
-lastmod: 2022-04-07T08:48:18.389Z
+lastmod: 2022-09-01T20:19:27.741Z
 ---
 
 Social walking weekend for adults from Friday 26 - Wednesday 31 August 2022 in the Scottish mountains near Crainlarich.

@@ -1,6 +1,7 @@
 ---
 title: 1st Response Course
 date: 2022-04-24T07:24:03.416Z
+published: false
 event:
   start_date: 2022-06-08
   end_date: 2022-06-15
@@ -17,7 +18,7 @@ event:
     - Leaders
   location:
     - Hertfordshire, Central
-lastmod: 2022-04-28T21:43:58.334Z
+lastmod: 2022-09-01T20:24:26.318Z
 permalink: /event/1st-response-course-08-jun-2022
 ---
 1st Response course for leaders and leaders in training, taking place over 2 sessions, in Radlett, Hertfordshire.

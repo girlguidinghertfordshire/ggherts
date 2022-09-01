@@ -1,6 +1,7 @@
 ---
 title: Girlguiding Walking Scheme Level 1
 date: 2022-04-27T19:55:54.207Z
+published: false
 event:
   start_date: 2022-07-16
   end_date: 2022-07-17
@@ -25,7 +26,7 @@ event:
     - Essex
 author:
   display_name: The County Office
-lastmod: 2022-04-28T21:42:39.247Z
+lastmod: 2022-09-01T20:24:26.324Z
 ---
 Do you want to take your young members on outings and walks in the countryside but want to feel more confident?
 

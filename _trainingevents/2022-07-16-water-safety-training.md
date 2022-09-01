@@ -1,6 +1,7 @@
 ---
 title: Water Safety Training Module
 date: 2022-04-27T19:55:54.207Z
+published: false
 event:
   start_date: 2022-07-16
   end_date: ""
@@ -24,7 +25,7 @@ event:
     - Essex
 author:
   display_name: The County Office
-lastmod: 2022-05-03T11:54:42.478Z
+lastmod: 2022-09-01T20:24:26.328Z
 ---
 The Water Safety training module will take place on Saturday evening of 16 July as part of the [Girlguiding Walking Scheme Level 1 course](/training/girlguiding-walking-scheme/).
 

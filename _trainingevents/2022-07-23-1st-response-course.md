@@ -1,6 +1,7 @@
 ---
 title: 1st Response Course
 date: 2022-03-31T11:20:50.954Z
+published: false
 event:
   start_date: 2022-07-23
   end_date: ""
@@ -22,7 +23,7 @@ event:
     - Trefoil
   location:
     - Hertfordshire, West
-lastmod: 2022-04-28T21:43:40.670Z
+lastmod: 2022-09-01T20:24:26.333Z
 permalink: /event/1st-response-course-23-jul-22
 ---
 This 1st Response course open to all guiding personnel is taking place on **Saturday 23 July** in Hemel Hempstead from **10am - 4pm.**
