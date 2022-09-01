@@ -2,7 +2,7 @@
 layout: page-v5
 title: Resources
 toc: about-us
-lastmod: 2022-06-23T21:27:48.670Z
+lastmod: 2022-09-01T19:35:10.039Z
 ---
 ## Forms &amp; Stationery
 
@@ -28,6 +28,10 @@ Where photos feature groups of girls, this form should be completed by leaders c
 ### Other forms
 
 ##### [Girlguiding Hertfordshire Grant Application Form <i class="fa fa-external-link"></i>](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwRrqs7bdo19CnIwI_9Lov51UMEs3SDFBNk1XVUE1NERQTEVQT0lES1VVVy4u){:target="_blank"}{:rel="noopener"}
+
+##### [Girlguiding Hertfordshire Property Loan / Grant Application Form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJUNElSTjJIRFA3SE1KSFJVVzUwUElMRlRHTy4u){:.external-link}{:target="_blank"}{:rel="noopener"}
+
+This form is for county grant/loan applications for works/projects on properties leased/owned by Girlguiding Hertfordshire units/districts/divisions
 
 <h5><a href="/wp-content/uploads/2021/05/Girlguiding-Hertfordshire-Expenses-Claim-Form-2021.xlsx">Girlguiding Hertfordshire Expenses Claim Form</a></h5>
 
