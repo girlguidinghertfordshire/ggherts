@@ -2,7 +2,7 @@
 title: 1st Response Course
 date: 2022-09-01T19:37:14.707Z
 event:
-  start_date: 2022-12-05
+  start_date: 2022-12-03
   end_date: ""
   address: Hemel Hempstead
   contact_name: Lynne Kirby
@@ -24,7 +24,7 @@ event:
     - Hertfordshire, West
 author:
   display_name: The County Office
-lastmod: 2022-09-01T19:41:49.540Z
+lastmod: 2022-09-02T19:53:05.437Z
 ---
 This 1st Response course is open to all guiding personnel and is taking place on Saturday 3rd December in Hemel Hempstead from 10am - 4pm.
 

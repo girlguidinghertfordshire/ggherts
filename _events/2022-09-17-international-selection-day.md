@@ -1,7 +1,6 @@
 ---
 title: International Selection Day
 date: 2022-07-05T19:45:59.615Z
-published: false
 event:
   start_date: 2022-09-17
   end_date: ""
@@ -19,7 +18,7 @@ event:
     - Hertfordshire, West
 author:
   display_name: The County Office
-lastmod: 2022-09-01T20:20:06.374Z
+lastmod: 2022-09-02T19:58:18.159Z
 ---
 The International team have some space available on the county trip to **Lorne in 2023.** We are holding a selection day to fill these spaces on **Saturday, 17 September 2022, 10.00am to 2.00pm,** in **Hemel Hempstead.**
 

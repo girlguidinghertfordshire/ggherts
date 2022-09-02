@@ -13,7 +13,7 @@ author:
   display_name: The County Office
   first_name: ""
   last_name: ""
-lastmod: 2022-03-20T10:23:52.402Z
+lastmod: 2022-09-02T19:55:00.716Z
 ---
 {:.lead}
 Everyone needs to have the correct level of [_A Safe Space_ training][1] for their role.
@@ -53,5 +53,5 @@ How the renewals process works is explained in depth on the [Girlguiding UK, A S
 [1]: https://www.girlguiding.org.uk/making-guiding-happen/learning-and-development/a-safe-space-training/
 [2]: https://www.girlguiding.org.uk/making-guiding-happen/learning-and-development/how-to-use-the-learning-platform/
 [3]: https://learning.girlguiding.org.uk/
-[4]: https://www.girlguiding-anglia.org.uk/level-3-safe-space-training-live-online-delivery
+[4]: https://www.girlguiding-anglia.org.uk/events/safe-space-level-3
 [5]: https://www.girlguiding.org.uk/making-guiding-happen/commissioners/your-responsibilities/a-safe-space-compliance/

@@ -1,7 +1,6 @@
 ---
 title: Social Walk, Radlett
 date: 2022-07-04T20:16:53.548Z
-published: false
 event:
   start_date: 2022-10-22
   end_date: ""
@@ -23,7 +22,7 @@ event:
     - Hertfordshire, Central
 author:
   display_name: The County Office
-lastmod: 2022-09-01T20:20:13.112Z
+lastmod: 2022-09-02T19:57:48.795Z
 ---
 10am start.
 

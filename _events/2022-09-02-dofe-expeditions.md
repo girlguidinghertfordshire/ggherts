@@ -1,7 +1,6 @@
 ---
 title: Bronze and Silver DofE Expeditions
 date: 2022-07-04T19:51:35.597Z
-published: false
 event:
   start_date: 2022-09-02
   end_date: 2022-09-04
@@ -24,7 +23,7 @@ event:
     - Chiltern Hills
 author:
   display_name: The County Office
-lastmod: 2022-09-01T20:20:25.230Z
+lastmod: 2022-09-02T19:57:00.428Z
 ---
 For those aged 14 - 24.
 

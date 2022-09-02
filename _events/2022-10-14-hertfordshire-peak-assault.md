@@ -1,7 +1,6 @@
 ---
 title: Peak Assault
 date: 2022-07-04T19:57:04.447Z
-published: false
 event:
   start_date: 2022-10-14
   end_date: 2022-10-16
@@ -24,7 +23,7 @@ event:
     - UK
 author:
   display_name: The County Office
-lastmod: 2022-09-01T20:20:18.982Z
+lastmod: 2022-09-02T19:57:30.869Z
 ---
 Calling all Rangers, Young Leaders, Inspire members and other adult members.
 

@@ -1,7 +1,6 @@
 ---
 title: Anglia Heads West - Mountain Walking Weekend
 date: 2022-07-20T20:10:28.101Z
-published: false
 event:
   start_date: 2023-05-31
   end_date: 2023-06-04
@@ -22,7 +21,7 @@ event:
     - Wales
 author:
   display_name: The County Office
-lastmod: 2022-09-01T20:19:46.704Z
+lastmod: 2022-09-02T19:58:44.723Z
 ---
 A mountainous walking weekend in Snowdonia, for adults.
 
