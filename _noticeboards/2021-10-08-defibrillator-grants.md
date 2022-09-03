@@ -1,6 +1,6 @@
 ---
 title: Defibrillator Grants
-date: 2021-10-08T13:12:35.777Z
+date: 2022-09-03
 image: /assets/images/2021/10/lndnhrts.jpg
 categories:
   - Notice
@@ -9,17 +9,16 @@ author:
   display_name: The County Office
   first_name: null
   last_name: null
-lastmod: 2022-07-20T20:08:03.322Z
+lastmod: 2022-09-03T09:39:53.867Z
 ---
+The tragic effects of the Covid 19 Pandemic have highlighted the fact that Cardiac Arrest does not discriminate and affects anyone, at any time, of any age!
 
-Recent tragic cardiac arrest events involving persons at the peak of their fitness goes to show that cardiac arrest can happen to literally anyone, anytime, anywhere!
- 
-If you go into cardiac arrest, without a defibrillator, you have a 7% chance of survival.  If a defibrillator is on the patient within the first 3-5 minutes, the chances of survival is over 70%.
+Cardiac Arrest kills over 60,000 people, of all ages, in the UK each year.  If a heart defibrillator is used within 3-5 minutes of a cardiac arrest, the chances of survival increases from 6% to a huge 74%.
 
-London Hearts have launched an initiative to assist in obtaining this life-saving equipment. We are currently able to offer a minimum £200 grant towards the cost of every Defibrillator we supply to Girlguiding across England.  
+We currently have a £300 grant available towards the cost in order to assist you in acquiring a defibrillator.  With every Defibrillator we supply, we provide free online CPR/defibrillator awareness training.
 
-With every Defibrillator we supply we provide free online training.
-
-Equipment is available now and can be with you in a matter of days.
+Equipment is available now.
 
 In order to proceed in obtaining a Defibrillator simply complete the short online application to receive a quote: [londonhearts.org/apply-for-a-defib](https://londonhearts.org/apply-for-a-defib)
+
+If you have any queries please contact <tia@londonhearts.org> or telephone [020 7043 2493](tel:02070432493).

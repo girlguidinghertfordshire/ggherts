@@ -10,7 +10,7 @@ author:
   display_name: the County Office
   first_name: ""
   last_name: ""
-lastmod: 2022-07-20T19:45:50.229Z
+lastmod: 2022-09-03T10:01:02.547Z
 ---
 {:.lead}
 With the Great Patrol Hunt girls have the best experiences
@@ -23,39 +23,9 @@ It began in 1968, Hertfordshire Scout Patrols competed annually in various ways,
 
 ## Our Events
 
-- Round 1, 2021/22  \|  Saturday 16 October 2021  \|  Borehamwood **\*\*Completed\*\***
-- Round 2, 2022 \| Saturday 26 March 2022 \| St Albans **\*\*Completed\*\***
-- Round 3, 2022 \| Friday-Sunday 24-26 June 2022 **\*\*Completed\*\***
-
-### Round 1
-
-Round 1 of the Great Patrol Hunt was completed on Saturday 16 October 2021; download the results.
-
-[Download round 1 results (PDF)](/assets/docs/2021-22-GPH-Round-1-Results.pdf){:.download-link.btn.btn-primary}{:rel="noopener"}{:target="_blank"}
-
-### Round 2
-
-Round 2 of the Great Patrol Hunt was completed on Saturday 26 March 2022; download the results.
-
-[Download round 2 results and overall standings (PDF)](/assets/docs/2022/great-patrol-hunt-round2-results.pdf){:.download-link.btn.btn-primary}{:rel="noopener"}{:target="_blank"}
-
-### Round 3
-
-Round 3 was completed over Friday 24 - Sunday 26 June.  Congratulations to **Anonymii for 11th Hitchin Guides** on their overall win.  Download the results and overall standings for 2021/22.
-
-[Round 3 results and overall positions for 2021/2022](/assets/docs/2022/great-patrol-hunt-round3-results.pdf){:.download-link.btn.btn-primary}{:rel="noopener"}{:target="_blank"}
-
-## 2022/23 GPH coming soon
-
-Have you enjoyed taking part in this year's Great Patrol Hunt or fancy joining in the fun?
-
-After yet another successful GPH the dates for the **2022/23** round of events have now been set, so save the dates:
-
-- [Round 1: Saturday 15 October 2022](/event/gph-round-1/)
+- [Round 1: Saturday 15 October 2022 \| Borehamwood](/event/gph-round-1/) - **entry now open**
 - [Round 2: Saturday 11 March 2023](/event/gph-round-2/)
 - [Round 3: Friday 30 June - Sunday 2 July 2023](/event/gph-round-3/)
-
-More details to follow soon.
 
 [![Camp Caterers Required for GPH 2023](/assets/images/2022/07/gph-catering-ad-320.webp)](/news/camp-caterers-gph/){:.img-fluid}
 
@@ -74,3 +44,18 @@ Unit leaders are not required to accompany Patrols to this event, which is run b
 - Patrols **must consist of 4-6 Guides** and should not include more than 10 different patrol members throughout the three rounds.
 - To participate in Round 3, a patrol and at least 2 members must have competed in one of the previous rounds.
 - If you are unable to make a full Patrol in Rounds 1 &amp; 2,  then  join the &#8216;GPH Mavericks&#8217;, a patrol made of Guides from different units.
+
+## 2021/22 Event
+
+### Round 1
+
+Round 1 of the Great Patrol Hunt was completed on Saturday 16 October 2021: [Download round 1 results (PDF)](/assets/docs/2021-22-GPH-Round-1-Results.pdf){:.download-link}{:rel="noopener"}{:target="_blank"}
+
+### Round 2
+
+Round 2 of the Great Patrol Hunt was completed on Saturday 26 March 2022: [Download round 2 results and overall standings (PDF)](/assets/docs/2022/great-patrol-hunt-round2-results.pdf){:.download-link}{:rel="noopener"}{:target="_blank"}
+
+### Round 3
+
+Round 3 was completed over Friday 24 - Sunday 26 June.  Congratulations to **Anonymii for 11th Hitchin Guides** on their overall win.  
+[Round 3 results and overall positions for 2021/2022](/assets/docs/2022/great-patrol-hunt-round3-results.pdf){:.download-link}{:rel="noopener"}{:target="_blank"}
