@@ -22,8 +22,8 @@ event:
     - Hertfordshire, Central
 author:
   display_name: The County Office
-lastmod: 2022-09-02T19:57:48.795Z
+lastmod: 2022-09-05T19:21:15.196Z
 ---
-10am start.
+10am start lasting approximately 2 1/2 hours.
 
-To book, email walking@girlguidinghertfordshire.org.uk 
+To book, email <walking@girlguidinghertfordshire.org.uk>

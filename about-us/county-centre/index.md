@@ -15,24 +15,18 @@ author:
   first_name: ""
   last_name: ""
 permalink: /about-us/county-centre/
-lastmod: 2022-04-07T09:27:36.531Z
+lastmod: 2022-09-05T20:02:04.237Z
 ---
 ![Hertfordshire Guide Centre Campsite](/assets/images/2022/04/hgc_campsite.jpg)
 
 {:.lead}
-The Hertfordshire Guide Centre is located in the village of Cottered in North Herts. Owned by Girlguiding Hertfordshire, it is suitable for meetings, trainings, sleepovers and camps.
-  
-Hertfordshire Guide Centre campsite is now closed for the winter period but the indoor accommodation remains open for bookings.  We will continue to follow the Girlguiding restrictions to remain Covid responsible.
+The Hertfordshire Guide Centre, owned by Girlguiding Hertfordshire, is situated in the lovely village of Cottered in North Hertfordshire.
 
-**Girlguiding Hertfordshire Members:** A special offer on new indoor bookings is available to our members for any event held up to and including 31 August 2022.  Please read the [HGC Indoor Booking Offer][4]{:target="_blank"}{:rel="noopener"} information sheet for more details.
+Offering indoor accommodation, a campsite, pond and campfire, it is suitable for meetings, trainings, sleepovers, camps, pond dipping sessions and camp fire circles.  
 
-For more details, availability and booking forms, please complete the [Contact Us][3] form.
-  
-If a visit to the site is required, please contact the [HGC Bookings Secretary][1] to arrange a date and time.
-  
-**Address:** Hertfordshire Guide Centre, Cottered, Buntingford, Hertfordshire, SG9 9QP<br />
-**Email:** [HGCBookings@girlguidinghertfordshire.org.uk][1]<br />
-**Website:** [www.hertsguidecentre.co.uk][2]{:target="_blank"}{:rel="noopener"}
+More details about the facilities and the hire charges can be found on it's dedicated website: [www.hertsguidecentre.co.uk](www.hertsguidecentre.co.uk){:target="_blank"}{:.external-link}{:rel="noreferrer noopener"}
+
+For availability, booking forms or to arrange a site visit, please contact the HGC Bookings Secretary via <HGCBookings@girlguidinghertfordshire.org.uk>
 
 ## <img loading="lazy" class="alignleft wp-image-3945" style="margin-right: 10px;" src="/wp-content/uploads/2020/12/200-Club-Logo-150x150.jpg" alt="" width="115" height="115" srcset="/wp-content/uploads/2020/12/200-Club-Logo-150x150.jpg 150w, /wp-content/uploads/2020/12/200-Club-Logo.jpg 184w" sizes="(max-width: 115px) 100vw, 115px" />Hertfordshire Guide Centre 200 Club
 
@@ -46,7 +40,7 @@ If you would like to join the 200 Club please complete the online application fo
 
 [Online Application Form <i class="fa fa-external-link"></i>](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwZf5T0i4octErRCYrHkhHVhUMjhJOTFER1lCQ0k1S0ZVWURCRklVRUo0QS4u){:class="btn-gg"}{:target="_blank"}{:rel="noopener"} [Terms and Conditions <i class="fa fa-download"></i>](/assets/docs/2022/200_club_t_cs.docx){:class="btn-gg"}{:target="_blank"}{:rel="noopener"}
 
-To view the names of the current year's winners please visit the Hertfordshire Guide Centre website's [200 Club Results <i class="fa fa-external-link"></i>](https://www.hertsguidecentre.co.uk/200-club.html)
+To view the names of the current year's winners please visit the Hertfordshire Guide Centre website's [200 Club Results <i class="fa fa-external-link"></i>](https://www.hertsguidecentre.co.uk/200-club.html){:target="_blank"}{:.external-link}{:rel="noreferrer noopener"}
 
 {:.small}
 \* Those persons joining throughout the year may pay a pro rata payment for the remaining part of the year.

@@ -22,9 +22,9 @@ event:
     - Scotland
 author:
   display_name: The County Office
-lastmod: 2022-07-05T19:25:25.095Z
+lastmod: 2022-09-05T19:29:28.593Z
 ---
-For adults, taking place during the week commencing 17 Oct - exact dates TBC.
+For adults, taking place during the week of Monday 17 Oct - Saturday 22 October.
 
 This social walking event is running alongside the [Level 3 Walking Scheme training and assessment.](/training/girlguiding-walking-scheme-level-3/)
 

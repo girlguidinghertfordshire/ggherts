@@ -21,9 +21,9 @@ event:
     - Wales
 author:
   display_name: The County Office
-lastmod: 2022-09-02T19:58:44.723Z
+lastmod: 2022-09-05T19:16:21.370Z
 ---
-A mountainous walking weekend in Snowdonia, for adults.
+A mountainous walking weekend in Snowdonia, for adult members and friends.
 
 Cost : £50-£75 (depending on numbers) for bunkhouse accommodation.
 

@@ -23,11 +23,9 @@ event:
     - Scotland
 author:
   display_name: The County Office
-lastmod: 2022-07-05T19:27:20.963Z
+lastmod: 2022-09-05T19:29:08.888Z
 ---
-To take place during the week commencing 17 Oct - **exact dates TBC**
-
-Level 3 Walking Scheme, Hill & Moorland, Mountain Leader Training & Assessment in Scottish Highlands.
+Level 3 Walking Scheme, Hill & Moorland, Mountain Leader Training & Assessment in Scottish Highlands, taking place during the week of Monday 17 - Saturday 22 October.
 
 Adult social walkers also very welcome. For more information on this element please see the details on the [Social Walking event](/event/social-walking-scottish-highlands/)
 

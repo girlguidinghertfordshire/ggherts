@@ -23,7 +23,7 @@ event:
     - UK
 author:
   display_name: The County Office
-lastmod: 2022-09-02T19:57:30.869Z
+lastmod: 2022-09-05T19:18:56.998Z
 ---
 Calling all Rangers, Young Leaders, Inspire members and other adult members.
 
@@ -36,3 +36,5 @@ This event is organised by Hertfordshire Scouts. For more information and to reg
 Support crew can be provided at the event and much advice & help given. Email <walking@girlguidinghertfordshire.org.uk> to discuss further.
 
 Registration now open. Formal entry opening in September 2022.
+
+We would love Ranger (and adult) teams to enter the competition, but they MUST have had some prior remote terrain experience eg having attended Mountain Experience or done Gold DofE in an upland area. Please get in touch to discuss your girls’ abilities before registering officially.
