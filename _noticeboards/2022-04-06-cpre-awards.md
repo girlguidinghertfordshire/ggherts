@@ -2,12 +2,13 @@
 title: CPRE Hertfordshire Awards - Young Person
 date: 2022-04-06T21:13:56.760Z
 image: /assets/images/2022/04/cpre_logo.webp
+published: false
 categories:
   - Notice
 tags: []
 author:
   display_name: The County Office
-lastmod: 2022-04-06T21:25:31.207Z
+lastmod: 2022-09-06T20:24:33.505Z
 ---
 {:.lead}
 Nominations for the 2022 CPRE Hertfordshire Awards are now open.

@@ -2,6 +2,7 @@
 title: County Outdoor Activity Day
 date: 2022-06-07T20:42:11.121Z
 image: /assets/images/2022/06/outdoor-activity-day.webp
+published: false
 categories:
   - Announcements
 tags: []
@@ -11,7 +12,7 @@ author:
   display_name: The County Office
   first_name: ""
   last_name: ""
-lastmod: 2022-07-08T20:48:50.480Z
+lastmod: 2022-09-06T20:26:36.969Z
 excerpt_separator: <!--more-->
 ---
 {:.lead}

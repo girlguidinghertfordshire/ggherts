@@ -10,7 +10,7 @@ author:
   first_name: Andrew
   last_name: Settle
 permalink: /get-involved/challenge-badges/
-lastmod: 2022-07-04T19:41:07.329Z
+lastmod: 2022-09-06T20:22:39.924Z
 ---
 ## Book Challenge Badge
 
@@ -41,65 +41,57 @@ Once learnt new skills can also be passed on to parents and beyond.
 These badges have been designed by 1st Baldock Brownies and are part of their fundraising efforts for the Girlguiding Inca Trail Trek via Discover Adventure. The event is taking place in October 2022 (having been changed from a Great Wall of China trek which was due to take place 2020)
 
 <div class="row g-0 row-cols-2 row-cols-lg-4 justify-content-center">
-   <div class="col col-sm-5 col-xxl-2">
+   <div class="col">
    {% include baldock-badge-card.html title="Forest Bathing" src="/assets/images/2022/07/forest-bathing-challenge-badge.webp" alt="Forest Bathing Challenge Badge" name="Forest Bathing Challenge" download="/assets/docs/2022/challenge-badge-forest-bathing-pack.pdf" %}
   </div>
-   <div class="col col-sm-5 col-xxl-2">
+   <div class="col">
    {% include baldock-badge-card.html title="Flower Power" src="/assets/images/2022/03/Flower-Power-Badge.webp" alt="Flower Power Challenge Badge" name="Flower Power Challenge" download="/assets/docs/challenge-badge-flower-power-pack.pdf" %}
   </div>
-  <div class="col col-sm-5 col-xxl-2">
+  <div class="col">
   {% include baldock-badge-card.html title="Let the Sun Shine" src="/assets/images/2022/03/let-the-sun-shine-badge.webp" alt="Let the Sun Shine Challenge Badge" name="Let the Sun Shine Challenge" download="/wp-content/uploads/2021/04/Let-The-Sun-Shine-Challenge-Badge.pdf" %}
   </div>
 </div>
 
 <div class="clearfix"></div>
 
-## Marathon Challenge Badge
-{: #marathon}
+## External Charity Challenge Badges
 
-{:.text-center}
-![Marathon Challenge Badge](/assets/images/2022/03/marathon-challenge-badges.webp){:width="550"}{:loading="lazy"}
+### Essex & Herts Air Ambulance Challenge Badge
 
-The Walking Team Marathon Badge Challenge will continue into 2022, to allow us to celebrate and be inspired by the Winter Olympics & Winter Para Olympics.  Anyone can participate, member or non-member, so families can go out and exercise together and everyone can have fun earning the badge.
+Essex & Herts Air Ambulance (EHAAT) is a charity, not part of the NHS and therefore relies on the public to keep it operational.  By completing this Challenge badge you will be helping to raise awareness of the Charity and the vital funds that allow it to continue it's life-saving work.
 
-The Challenge is to walk, use a wheelchair, or run a marathon - that’s 42km - which even at 2-3km a day is quickly achievable. The reward for your efforts is a lovely bright badge in the Olympic colours. For those who can do more, there’s a different coloured badge for each marathon you complete  (up to 5 in total), to make up the Olympic rings.
+The Challenge Badge is packed with ideas and activities for a range of ages and encourages you to take part in a variety of activities – whether that’s gaining a valuable life skills such as learning CPR, how to make an emergency call, researching helicopters, or visiting an Essex & Herts Air Ambulance base – with the final stage being a fundraiser for the Charity.
 
-To help you keep a record of your progress, you might like to use one of the following:
+The Challenge is divided into four sections:  Essex & Herts Air Ambulance (EHAAT), Helicopters, Air, and Fundraising. You can decide whether your group completes the pack collectively or individually and all they need to do is to complete at least one challenge from each section in order to earn a badge.
 
-[Colour-in footpath <i class="fa fa-download"></i>](/wp-content/uploads/2021/03/Marathon-Challenge-Colour-in-Footpath-v2.pdf){:.btn.btn-primary} [Walking logbook <i class="fa fa-download"></i>](/wp-content/uploads/2021/03/Marathon-Challenge-Log-Book-v2.pdf){:.btn.btn-primary} [Order challenge badges <i class="fa fa-external-link"></i>](http://bit.ly/hertswalkingchallenge){:.btn.btn-primary}
+Badges cost £1.50 each, purchased in packs.
 
-To make your daily walks more fun, follow the <a href="https://www.facebook.com/hertsguideswalkingteam" target="_blank" rel="noopener">Herts Guides Walking Team Facebook page</a> where different activity ideas are posted regularly
+EHAAT can offer a tour at either of our Airbases in North Weald and Earls Colne, where you may get to see the helicopter and meet our crew! Alternatively, one of our Charity representatives can come and talk about your local Air Ambulance’s life-saving work.
 
-<div class="clearfix"></div>
-
-## Raise West Hertfordshire NHS Trust Charity Badge
-
-![](/wp-content/uploads/2021/04/Raise-Challenge-Badge.png){:class="pull-right"}{:width="187}{:height="182"}{:style="margin:10px;"}{:loading="lazy"}
-
-Raise is the official fundraising charity of West Herts Hospitals NHS trust, and supports the communities that surround Hemel Hempstead, St Albans City and Watford General Hospitals.
-
-This badge has been created to support the work of the Raise charity and continues to be available to complete and purchase in 2022.
-
-[Download <span class="visually-hidden">Raise</span> Pack and order form <i class="fa fa-download"></i>](/wp-content/uploads/2021/06/Raise-Challenge-badge.pdf){: .btn.btn-primary}
-
-<div class="clearfix"></div>
+[More information and request your Challenge Pack](https://www.ehaat.org/fundraise/challengebadge){:target="_blank"}{:.btn.btn-primary.external-link}{:rel="noreferrer noopener"}
 
 ## Previous Challenge Badges - Stock Still Available
 
 <div class="row g-0 row-cols-2 row-cols-lg-4 justify-content-center">
-  <div class="col col-sm-5 col-xxl-2">
+  <div class="col">
+  {% include baldock-badge-card.html title="Marathon Challenge Badge" src="/assets/images/2022/09/marathon-challenge-badge.webp" alt="Marathon Challenge Badge" %}
+  </div>
+  <div class="col">
+  {% include baldock-badge-card.html title="Raise West Hertfordshire NHS Trust Charity Badge" src="/wp-content/uploads/2021/04/Raise-Challenge-Badge.png" alt="Raise West Hertfordshire NHS Trust Charity Badge" %}
+  </div>
+  <div class="col">
   {% include baldock-badge-card.html title="Eggstraordinary Easter" src="/assets/images/2022/03/easter_v2.webp" alt="2022 Eggstraordinary Easter Challenge Badge" %}
   </div>
-  <div class="col col-sm-5 col-xxl-2">
+  <div class="col">
   {% include baldock-badge-card.html title="Tiger Tiger Challenge Badge" src="/assets/images/2022/03/tiger_tiger_badge_white.webp" alt="Tiger Tiger Challenge Badge" %}
   </div>
-  <div class="col col-sm-5 col-xxl-2">
+  <div class="col">
   {% include baldock-badge-card.html title="Snow is falling Challenge Badge" src="/assets/images/2021/11/SnowFalling-180.jpg" alt="Snow is falling challenge badge" %}  
   </div>
-  <div class="col col-sm-5 col-xxl-2">
+  <div class="col">
   {% include baldock-badge-card.html title="Gambia Challenge Badge" src="/assets/images/2022/03/Gambia-Badge-small.webp" alt="Gambia Challenge Badge" %}
   </div>
-  <div class="col col-sm-5 col-xxl-2">
+  <div class="col">
   {% include baldock-badge-card.html title="Uganda Friendship Challenge Badge" src="/wp-content/uploads/2017/11/Uganda-Friendship-2018-CP-150x150.png" alt="Uganda Friendship Challenge Badge" %}
   </div>
 </div>
