@@ -15,7 +15,7 @@ author:
   first_name: ""
   last_name: ""
 permalink: /about-us/county-centre/
-lastmod: 2022-09-05T20:02:04.237Z
+lastmod: 2022-09-07T20:48:28.022Z
 ---
 ![Hertfordshire Guide Centre Campsite](/assets/images/2022/04/hgc_campsite.jpg)
 
@@ -24,7 +24,7 @@ The Hertfordshire Guide Centre, owned by Girlguiding Hertfordshire, is situated 
 
 Offering indoor accommodation, a campsite, pond and campfire, it is suitable for meetings, trainings, sleepovers, camps, pond dipping sessions and camp fire circles.  
 
-More details about the facilities and the hire charges can be found on it's dedicated website: [www.hertsguidecentre.co.uk](www.hertsguidecentre.co.uk){:target="_blank"}{:.external-link}{:rel="noreferrer noopener"}
+More details about the facilities and the hire charges can be found on it's dedicated website: [www.hertsguidecentre.co.uk](http://www.hertsguidecentre.co.uk){:target="_blank"}{:.external-link}{:rel="noreferrer noopener"}
 
 For availability, booking forms or to arrange a site visit, please contact the HGC Bookings Secretary via <HGCBookings@girlguidinghertfordshire.org.uk>
 

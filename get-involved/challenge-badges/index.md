@@ -10,7 +10,7 @@ author:
   first_name: Andrew
   last_name: Settle
 permalink: /get-involved/challenge-badges/
-lastmod: 2022-09-06T20:22:39.924Z
+lastmod: 2022-09-07T21:19:54.920Z
 ---
 ## Book Challenge Badge
 
@@ -56,9 +56,10 @@ These badges have been designed by 1st Baldock Brownies and are part of their fu
 
 ## External Charity Challenge Badges
 
+{:.mt-4}
 ### Essex & Herts Air Ambulance Challenge Badge
 
-Essex & Herts Air Ambulance (EHAAT) is a charity, not part of the NHS and therefore relies on the public to keep it operational.  By completing this Challenge badge you will be helping to raise awareness of the Charity and the vital funds that allow it to continue it's life-saving work.
+![Essex & Herts Air Ambulance Challenge Badge design](/assets/images/2022/09/essex-herts-air-ambulance-challenge.webp){:.pull-right.m-2}Essex & Herts Air Ambulance (EHAAT) is a charity, not part of the NHS and therefore relies on the public to keep it operational.  By completing this Challenge badge you will be helping to raise awareness of the Charity and the vital funds that allow it to continue it's life-saving work.
 
 The Challenge Badge is packed with ideas and activities for a range of ages and encourages you to take part in a variety of activities – whether that’s gaining a valuable life skills such as learning CPR, how to make an emergency call, researching helicopters, or visiting an Essex & Herts Air Ambulance base – with the final stage being a fundraiser for the Charity.
 
