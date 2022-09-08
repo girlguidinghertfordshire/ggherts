@@ -11,16 +11,39 @@ description: |
         margin-right: 0;
         margin-left: 0;
     }
+
     .row-no-gutters [class*=col-] {
-    padding-right: 0;
-    padding-left: 0;
-}
-.equal-height figure {
-    height: 240px;
-}
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .equal-height figure {
+        height: 240px;
+    }
+
+    .announcement {
+        background-color: black;
+        color: white;
+        padding: 5rem 2rem;
+        text-align: center;
+        font-size: 2.5rem;
+        margin: 1.5rem 0;
+    }
+
+    .announcement p {
+        line-height: 1.3;
+    }
+
+    @media (min-width: 768px) {
+        .announcement {
+            font-size: 3rem;
+            padding: 7rem 2rem;
+            margin: 1rem 0 2em;
+        }
+    }
+    
 </style>
-<div class="container-fluid"
-    style="background-color: black; color:white; padding: 9rem 2rem; text-align: center; font-size: 4rem; margin:2em 0;">
+<div class="container-fluid announcement">
     <div class="row">
         <div class="col-xs-12">
             <p style="line-height: 1.3;">It is with profound sadness that we at Girlguiding have learned today of the
@@ -32,7 +55,7 @@ description: |
 
 <div class="container-fluid" style="margin-top: 2em;">
     <div class="row row-no-gutters equal-height">
-        <div class="col-md-3">
+        <div class="col-sm-6 col-md-3">
             <figure class="double-height"
                 style="background-image:url(wp-content/uploads/2016/02/IMG_6008-e1505211613668.jpg);">
                 <img alt="" src="wp-content/uploads/2016/02/IMG_6008-e1505211613668.jpg">
@@ -48,7 +71,7 @@ description: |
                 </div>
             </figure>
         </div>
-        <div class="col-md-3">
+        <div class="col-sm-6 col-md-3">
             <figure style="background-image:url(wp-content/uploads/2019/01/IMG_9552.jpg);">
                 <img alt="" src="wp-content/uploads/2019/01/IMG_9552.jpg">
                 <div class="image-block ">
@@ -63,7 +86,7 @@ description: |
                 </div>
             </figure>
         </div>
-        <div class="col-md-3">
+        <div class="col-sm-6 col-md-3">
             <figure style="background-image:url(wp-content/uploads/2019/01/S39_1c__6__04Sept18_opt.jpg);">
                 <img alt="" src="wp-content/uploads/2019/01/S39_1c__6__04Sept18_opt.jpg">
                 <div class="image-block">
@@ -78,7 +101,7 @@ description: |
                 </div>
             </figure>
         </div>
-        <div class="col-md-3">
+        <div class="col-sm-6 col-md-3">
             <figure style="background-image:url(wp-content/uploads/2019/01/IMG_0279.jpg);">
                 <img alt="" src="wp-content/uploads/2019/01/IMG_0279.jpg">
                 <div class="image-block ">
@@ -91,7 +114,7 @@ description: |
                 </div>
             </figure>
         </div>
-<!--
+        <!--
         <div class="col-md-3">
             <figure class="cust-fig"
                 style="background-image:url(wp-content/uploads/2019/09/Orchid-e1574376912865.jpeg);">
