@@ -3,8 +3,13 @@ layout: page-v5
 title: Trefoil Guild
 date: 2022-06-23T20:40:59.883Z
 toc: county-teams
-lastmod: 2022-06-23T21:19:55.797Z
+lastmod: 2022-09-08T20:09:39.694Z
 ---
+<div class="alert bg-black text-white">
+<p>A statement from Trefoil Guild National Chair Eileen Martin and the Trefoil Guild Board of Trustees on the death of Her Majesty the Queen can be found at:</p>
+<p class="text-center"><a href="https://www.trefoilguild.co.uk/statement" class="text-white" rel="noopener" target="_blank">Statement from Trefoil Trustees | Trefoil Guild</a></p>
+</div>
+
 {:.pull-right.m-3}
 ![Trefoil Guild Logo](/assets/images/core/trefoil-logo.webp)
 
