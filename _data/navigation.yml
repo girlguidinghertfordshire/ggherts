@@ -95,8 +95,6 @@ events:
     url: /events/calendar/
   - title: Great Patrol Hunt
     url: /great-patrol-hunt/
-  - title: Platinum Jubilee
-    url: /jubilee/
 training:
   title: Training
   url: /training/
