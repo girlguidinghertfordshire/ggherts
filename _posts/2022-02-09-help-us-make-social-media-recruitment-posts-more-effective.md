@@ -1,23 +1,55 @@
 ---
 title: Help us make social media recruitment posts more effective
-date: '2022-02-09T20:17:39.574Z'
+date: 2022-09-10T20:17:39.574Z
 image: /assets/images/2022/02/work-together.webp
 categories:
-    - Announcements
-    - Badges
+  - Announcements
+  - Badges
 tags: []
 author:
-    email: null
-    display_name: The County Office
-    first_name: ''
-    last_name: ''
-lastmod: '2022-02-22T22:45:28.938Z'
+  email: null
+  display_name: The County Office
+  first_name: ""
+  last_name: ""
+lastmod: 2022-09-10T14:33:13.750Z
 ---
+Let's work together to enable recruitment campaigns to reach as many people as possible.
 
-Working together - we are making a REAL difference to how many people actually see our recruitment posts across social media. Here’s how you can help make the campaign even MORE effective in your own district! Just three simple steps...
+You may be surprised who will [volunteer](https://www.girlguiding.org.uk/get-involved/become-a-volunteer/){:target="blank"}{:rel="noopener noreferrer"} - if you don't ask, you won't know!
 
-1. Encourage all your leaders, young leaders and parents to follow the [Girlguiding Hertfordshire Facebook][1]{:target="_blank"}{:rel="noopener"} page  where we are sharing 2 to 3 recruitment posts per week
-2. Share these posts to your local community Facebook groups, parent WhatsApp groups and to friends and colleagues. Talk about why you love guiding!
-3. Ask all leaders, young leaders and parents to like and comment on these posts – this will give a positive impression about guiding locally, and more importantly it will mean the post actually reaches more people!
+Below are some handy hints as to how you can make a HUGE difference to the success of our current recruitment campaign:-
+
+## FACEBOOK
+
+Share our recruitment posts into your local community Facebook groups, and ALSO encourage leaders and parents to like and comment on these posts so they will be actually seen by more people overall.
+
+A coordinated approach between 2 or 3 leaders in your district will work best. We tried this during the last campaign and it proved successful! It may help if the post is focused on  a [Meet the Leader](/news/meet-the-leader-posts/) post featuring one of your own local leaders.
+
+Try the following three things to make that difference:
+
+1. Find two leaders who are active on Facebook, who will be willing to share 2 or 3 posts per week into your local Facebook groups and to alert other leaders
+2. Find one or more of your leaders to take part in our [Meet the Leader](/news/meet-the-leader-posts/) posts. This will make a huge difference as people engage on social media with people they know!
+3. Discuss your plan of action - decide who is responsible for posting into which local group(s) to prevent repetition
+
+### How to share a Facebook post
+
+1. Click 'share' under the post, choose 'share to a group' then choose the FB group you wish to share it into
+2. Add a little positive comment to localise the post (optional but helpful)
+3. Click 'post'.
+
+**At the point the post is actually shared into the FB group - the URL in the bar at the top of your screen (on a computer) will have a unique number. Copy the whole URL before you leave the page and share it with all the other leaders in your district, letting them know the post is live and asking them to like and comment on it. Simply clicking on this link will take them straight to the post - so it will only take them a minute or so!
+
+Did you know your posts will be seen by many more people if 'liked' and commented on?
+
+## WHATSAPP
+
+Are your district leaders all connected on a WhatsApp group? If not, setting one up can make communicating to everyone that you have added a recruitment post much easier.
+
+Ask leaders to try sharing some of the more suitable posts into their unit WhatsApp groups too - get some parent power behind you! This will multiply the numbers engaging with the post. Again remember to include the URL. It might even encourage parents to consider [volunteering][2]{:target="blank"}{:rel="noopener noreferrer"} themselves.
+
+You can find more details on how to take part in our Meet the Leader campaign here: <https://www.girlguidinghertfordshire.org.uk/news/meet-the-leader-posts/>
+
+Please contact <PR@girlguidinghertfordshire.org.uk> should you have any questions.
 
 [1]: https://www.facebook.com/GirlguidingHertfordshire
+[2]: https://www.girlguiding.org.uk/get-involved/become-a-volunteer/

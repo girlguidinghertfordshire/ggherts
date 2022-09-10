@@ -3,7 +3,7 @@ title: Girlguiding Walking Scheme Level 3
 date: 2022-07-04T20:08:50.353Z
 event:
   start_date: 2022-10-17
-  end_date: ""
+  end_date: 2022-10-22
   address: Scotland
   contact_name: Ruth Bint
   contact_email: Ruth.Bint@girlguiding.org.uk
@@ -23,7 +23,7 @@ event:
     - Scotland
 author:
   display_name: The County Office
-lastmod: 2022-09-05T19:29:08.888Z
+lastmod: 2022-09-10T14:43:08.224Z
 ---
 Level 3 Walking Scheme, Hill & Moorland, Mountain Leader Training & Assessment in Scottish Highlands, taking place during the week of Monday 17 - Saturday 22 October.
 

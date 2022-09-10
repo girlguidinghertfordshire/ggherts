@@ -3,7 +3,7 @@ layout: page-v5
 title: Billboard
 date: 2021-09-07T19:51:13.187Z
 toc: news
-lastmod: 2022-07-08T20:44:35.174Z
+lastmod: 2022-09-10T14:44:40.454Z
 ---
 
 _Billboard_ is sent to all Girlguiding Hertforshire Members who have set their communication preferences on _GO_ to subscribe to marketing.
@@ -24,7 +24,6 @@ Recent editions:
 
 ## Deadline dates for submission
 
-- September: 31 August 2022
 - October: 30 September 2022
 - November: 31 October 2022
 - December: 30 November 2022

@@ -9,7 +9,7 @@ event:
   contact_email: lynnekirby1@googlemail.com
   contact_number: ""
   book_now_link: ""
-  image: /assets/images/2022/09/first-response.webp
+  image: /assets/images/2022/09/1st-response.webp
   type:
     - 1st Response
     - Training
@@ -24,7 +24,7 @@ event:
     - Hertfordshire, West
 author:
   display_name: The County Office
-lastmod: 2022-09-02T19:53:05.437Z
+lastmod: 2022-09-10T14:41:30.678Z
 ---
 This 1st Response course is open to all guiding personnel and is taking place on Saturday 3rd December in Hemel Hempstead from 10am - 4pm.
 
