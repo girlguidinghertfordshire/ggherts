@@ -1,0 +1,26 @@
+.line {
+    background-color: #4e88c7;
+    border-radius: 40px 80px 0 40px;
+    height: 10px;
+    left: 0;
+    position: relative;
+    top: 0;
+    width: 98%;
+    margin-bottom: 25px;
+    &:before {
+        background-color: #4e88c7;
+        border-radius: 20px 40px 0 30px;
+        content: "";
+        height: 8px;
+        position: absolute;
+        right: -1px;
+        top: 3px;
+        -webkit-transform: skew(10deg,1deg);
+        transform: skew(10deg,1deg);
+        width: 80%;
+    }
+}
+.team-line {
+    margin-bottom: 30px;
+    margin-top: 66px;
+}

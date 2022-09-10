@@ -48,7 +48,7 @@ defaults:
       type: "members"
     values:
       layout: "county_team"
-      toc: "about-us"
+      toc: "county-teams"
   - scope:
       path: ""
       type: "shops_nights"

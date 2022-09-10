@@ -125,6 +125,20 @@
         }
     }
 }
+a:hover {
+    .gg-btn-pink-o {
+        span {
+            color: white;
+            &::after {
+                color: white;
+            }
+        }
+        &::before,&::after {
+            background-color: $gg-pink;
+            border-color: darken($gg-dark-pink,15%);
+        }
+    }
+}
 .gg-btn-blue {
     span {
         color: white;
