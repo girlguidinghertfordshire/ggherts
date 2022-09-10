@@ -25,13 +25,13 @@
             {% if site.members[i].url==page.url %}
             {% continue %}
             {% endif %}
-            <div class="col">
+            <div class="col col-md-4">
                 <div class="position-relative">
                 {% assign thumbnail="/wp-content/uploads/2016/05/GGH-Logo1-360x243.jpg" %}
                 {% if site.members[i].thumbnail %}
                 {% assign thumbnail=site.members[i].thumbnail %}
                 {% endif %}
-                <div class="person-image"><img src="{{ thumbnail }}" alt="person" class="rounded"></div>
+                <div class="person-image"><img src="{{ thumbnail }}" alt="person" class="rounded img-fluid"></div>
                 <h3 class="mt-2">{{site.members[i].title }}</h3>
                 <span class="h6 text-muted">{{site.members[i].job_title }}</span>
                 <p class="mt-2">{{site.members[i].person_intro }}</p>
