@@ -1,0 +1,314 @@
+class Order {
+    customer = new Customer();
+    girls = [];
+    items = [
+        { "award": "bronze", "type": "certificate", "description": "Bronze Award - Certificate", "price": 0.7, "quantity": 0 },
+        { "award": "bronze", "type": "woven", "description": "Bronze Award - Woven", "price": 1.1, "quantity": 0 },
+        { "award": "bronze", "type": "metal", "description": "Bronze Award - Metal", "price": 2.15, "quantity": 0 },
+        { "award": "silver", "type": "certificate", "description": "Silver Award - Certificate", "price": 0.7, "quantity": 0 },
+        { "award": "silver", "type": "woven", "description": "Silver Award - Woven", "price": 1.1, "quantity": 0 },
+        { "award": "silver", "type": "metal", "description": "Silver Award - Metal", "price": 2.15, "quantity": 0 },
+        { "award": "gold", "type": "certificate", "description": "Gold Award - Certificate", "price": 0.7, "quantity": 0 },
+        { "award": "gold", "type": "woven", "description": "Gold Award - Woven", "price": 1.1, "quantity": 0 },
+        { "award": "gold", "type": "metal", "description": "Gold Award - Metal", "price": 2.15, "quantity": 0 }
+    ];
+    deliveryOption = "Posted";
+    deliveryAddress;
+    orderTotal = 0;
+
+    girlRow() {
+        const counter = this.girls.length - 1;
+        return `<div class="row mb-3">
+        <div class="col-1 align-self-end">${counter + 1}.</div>
+        <div class="col">
+            <label for="girlsName${counter}" class="form-label">Name:</label>
+            <input type="text" class="form-control" minlength="3" maxlength="50" id="girlsName${counter}"
+                name="girls_name_${counter}" required />
+            <div class="invalid-feedback">Girls name is required</div>
+        </div>
+        <div class="col">
+            <label for="girlsNumber${counter}" class="form-label">Membership number:</label>
+            <input type="tel" class="form-control" pattern="[0-9]{5,10}" minlength="5" maxlength="10" id="girlsNumber${counter}"
+                name="girls_number_${counter}" required />
+            <div class="invalid-feedback">Membership number is required</div>
+        </div>
+        <div class="col">
+            <label for="girlsUnit${counter}" class="form-label">Unit:</label>
+            <input type="text" class="form-control" minlength="3" id="girlsUnit${counter}" name="girls_number_${counter}" required />
+            <div class="invalid-feedback">Unit name is required</div>
+        </div>
+        <div class="col">
+            <label for="girlsAward${counter}" class="form-label">Award:</label>
+            <select id="girlsAward${counter}" class="form-select js-award">
+                <option value="bronze">Bronze</option>
+                <option value="silver">Silver</option>
+                <option value="gold">Gold</option>
+            </select>
+        </div>
+        <div class="col align-self-end">
+            <div class="form-check">
+                <label for="girlsComplete${counter}" class="form-check-label">Has completed?</label>
+                <input type="checkbox" class="form-check-input" id="girlsComplete${counter}" value="yes" />
+            </div>
+        </div>
+    </div>`;
+    }
+
+    orderDetails(awards) {
+        let order = "";
+        this.orderTotal = 0;
+        for (const item of this.items) {
+            if (awards[item.award] == 0) {
+                continue;
+            }
+            order += this.itemRow(item.description, item.award + "." + item.type, item.price, item.quantity);
+            this.orderTotal += item.price * item.quantity;
+        }
+        return order;
+    }
+    itemRow(description, id, price, quantity) {
+        return `
+        <tr>
+            <th scope="row">${description}</th>
+            <td class="text-right">${price.toLocaleString('en-GB', { style: 'currency', currency: 'GBP', minimumFractionDigits: 2 })}</td>
+            <td><input type="number" id="${id}" value="${quantity}" class="form-control pull-right text-right" min="0" style="width:5em" /></td>
+            <td class="text-right">${(price * quantity).toLocaleString('en-GB', { style: 'currency', currency: 'GBP', minimumFractionDigits: 2 })}</td>
+        </tr>`
+    }
+    save() {
+        localStorage.setItem("awards", JSON.stringify(this));
+    }
+
+    get girlCount() {
+        return this.girls.length;
+    }
+    get hasIncompleteAwards() {
+        for (const girl of this.girls) {
+            if (!girl.isComplete) {
+                return true;
+            }
+        }
+        return false;
+    }
+    get deliveryMethod() { return this.deliveryOption; }
+    set deliveryMethod(value) {
+        switch (value) {
+            case "Posted":
+            case "Badge Secretary":
+            case "West Herts Depot":
+                this.deliveryOption = value;
+                break;
+            default:
+                throw new Error("Invalid delivery method");
+        }
+    }
+    get Address() { return this.deliveryAddress; }
+    set Address(value) { this.deliveryAddress = value; }
+    addGirl() {
+        this.girls.push(new Girl());
+    }
+    updateCustomer(name, email) {
+        this.customer.Name = name;
+        this.customer.Email = email;
+        this.save();
+    }
+    updateGirls(id, value) {
+        id = id.replace("girls", "");
+        const row = id.substring(id.length - 1);
+        const field = id.replace(row, "");
+        console.log(`Field: ${field}, row: ${row}: ${value}`)
+        this.girls[row][field] = value;
+        console.log(this.girls);
+        this.save();
+    }
+    resetItems(awards) {
+        this.updateItems(awards, true);
+    }
+    updateItems(awards, clearWoven) {
+        for (const sku of this.items) {
+            if (sku.type !== 'woven') {
+                sku.quantity = awards[sku.award];
+            } else {
+                sku.quantity = clearWoven ? 0 : sku.quantity;
+            }
+        }
+        console.log(this.items);
+    }
+    updateQuantity(id, value) {
+        console.log(`${id} - ${value}`);
+        const item = id.split(".");
+        const sku = this.items.find(i => i.award == item[0] && i.type == item[1]);
+        sku.quantity = value;
+        this.save();
+    }
+    constructor() {
+        this.girls.push(new Girl());
+        this.save();
+    }
+}
+
+class Customer {
+    name = "";
+    email = "";
+    get Name() {
+        return this.name;
+    }
+    set Name(value) {
+        this.name = value;
+    }
+    get Email() {
+        return this.email;
+    }
+    set Email(value) {
+        this.email = value;
+    }
+}
+
+class Girl {
+    name = "";
+    membershipNumber = 0;
+    isComplete = false;
+    awardLevel = "Bronze"
+    unit = "";
+
+    /**
+     * @param {string} value
+     */
+    set Name(value) {
+        this.name = value;
+    }
+    /**
+     * @param {number} value
+     */
+    set Number(value) {
+        this.membershipNumber = value;
+    }
+    /**
+     * @param {string} value
+     */
+    set Unit(value) {
+        this.unit = value;
+    }
+    /**
+     * @param {string} value
+     */
+    set Award(value) {
+        this.awardLevel = value;
+    }
+    /**
+     * @param {boolean} value
+     */
+    set Complete(value) {
+        this.isComplete = value;
+    }
+    constructor(name, membershipNumber, isComplete, awardLevel, unit) {
+        this.name = name;
+        this.membershipNumber = membershipNumber;
+        this.isComplete = isComplete;
+        this.awardLevel = awardLevel;
+        this.unit = unit;
+    }
+}
+
+
+(function ($) {
+    'use strict'
+
+    // Fetch all the forms we want to apply custom Bootstrap validation styles to
+    const forms = document.querySelectorAll('.needs-validation')
+    const order = new Order();
+    const $recipients = $("#awardRecipients");
+    $recipients.append(order.girlRow());
+    $("#customer").on("change", function () {
+        console.log(`changes...${$("#order_name").val()} - ${$("#order_email").val()}`);
+        order.updateCustomer($("#order_name").val(), $("#order_email").val());
+    });
+    function isValid(fieldName) {
+        const field = document.getElementById(fieldName);
+        return field.checkValidity();
+    }
+    function girlsAwards() {
+        let awardCount = { bronze: 0, silver: 0, gold: 0 };
+        $(".js-award").each(function () {
+            awardCount[$(this).val()]++;
+        });
+        return awardCount;
+    }
+    function updateOrders(awardCount) {
+        $("#orderItems tr").remove();
+        $("#orderItems").append(order.orderDetails(awardCount));
+        $("#orderTotal").text(order.orderTotal.toLocaleString('en-GB', { style: 'currency', currency: 'GBP', minimumFractionDigits: 2 }));
+    }
+    $recipients.on("change", function (event) {
+        const value = event.target.id.indexOf("Complete") > -1 ? $(event.target).prop("checked") : $(event.target).val();
+        order.updateGirls(event.target.id, value);
+        const lastRow = order.girlCount - 1;
+        $("#incompleteNote").addClass("d-none");
+        $("#goldAward").addClass("d-none");
+        if (isValid(`girlsName${lastRow}`) && isValid(`girlsNumber${lastRow}`) && isValid(`girlsUnit${lastRow}`)) {
+            $("#addGirl").prop("disabled", false);
+            $("#sendOrder").prop("disabled",false);
+            const awards = girlsAwards();
+            if (event.target.id.indexOf("Award") > -1) {
+                order.resetItems(awards);
+            }
+            $(".js-no-girls").hide();
+            $(".js-has-girls").removeClass("d-none");
+            console.log(`Gold awards ${awards.gold}`);
+            if (awards.gold > 0) {
+                $("#goldAward").removeClass("d-none");
+            }
+            console.log(`Incomplete awards? ${order.hasIncompleteAwards}`);
+            if (order.hasIncompleteAwards) {
+                $("#incompleteNote").removeClass("d-none");
+            }
+            $("#orderDetails table").removeClass("d-none");
+            order.updateItems(awards);
+            updateOrders(awards);
+        }
+    });
+    const $orderDetails = $("#orderDetails");
+    $orderDetails.on("change", function (event) {
+        order.updateQuantity(event.target.id, $(event.target).val());
+        updateOrders(girlsAwards());
+    });
+    $("#deliveryDetails .form-check input").on("change", function (event) {
+        console.log(event.target.id);
+        const deliveryMethod = $(this).val();
+        order.deliveryMethod = deliveryMethod;
+        switch (order.deliveryMethod){
+            case "Posted":
+                $("#postalAddress").prop("required",true);
+                $(".js-collection").addClass("d-none");
+                $(".js-posted").removeClass("d-none");
+                break;
+            case "Badge Secretary":
+            case "West Herts Depot":                
+                $("#postalAddress").prop("required",false);
+                $(".js-collection").removeClass("d-none");
+                $(".js-posted").addClass("d-none");
+                break;
+            default:
+                throw new Error("Invalid operation");
+        }
+    });
+    $("#addGirl").on("click", function () {
+        order.addGirl();
+        $recipients.append(order.girlRow());
+        $("#addGirl").prop("disabled", true);
+        $("#sendOrder").prop("disabled",true);
+    });
+    // Loop over them and prevent submission
+    Array.prototype.slice.call(forms)
+        .forEach(function (form) {
+            form.addEventListener('submit', function (event) {
+                if (!form.checkValidity()) {
+                    event.preventDefault()
+                    event.stopPropagation()
+                }
+
+                form.classList.add('was-validated')
+            }, false)
+        })
+    // eslint-disable-next-line no-undef
+})(jQuery)

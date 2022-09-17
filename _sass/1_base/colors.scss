@@ -12,6 +12,10 @@
 // blues
 $gg-blue: #4e88c7;
 $gg-dark-blue: #0072bc;
+$gg-dark-blue-hover: shade-color($gg-dark-blue, 15%);
+$gg-dark-blue-border-hover: shade-color($gg-dark-blue, 20%);
+$gg-dark-blue-active: shade-color($gg-dark-blue, 20%);
+$gg-dark-blue-border-active: shade-color($gg-dark-blue, 25%);
 $gg-blue-link: #337ab7;
 $gg-light-blue: #83abd8;
 
@@ -21,6 +25,8 @@ $gg-light-pink: #f3cce0;
 $gg-dark-pink: #cb1f76;
 $gg-pink-hover: shade-color($gg-pink, 15%);
 $gg-pink-border-hover: shade-color($gg-pink, 20%);
+$gg-pink-active: shade-color($gg-pink, 20%);
+$gg-pink-border-active: shade-color($gg-pink, 25%);
 $gg-pink-border: $gg-light-pink;
 
 // Grays

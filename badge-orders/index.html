@@ -1,0 +1,125 @@
+---
+layout: page_full-v5
+title: Bronze, Silver & Gold Awards - Order Form
+date: 2021-08-18T21:08:03.000Z
+toc: awards
+author:
+display_name: the County Office
+lastmod: 2022-07-20T19:45:50.229Z
+---
+<style>
+    .text-right {
+        text-align: right;
+    }
+
+    #awardRecipients .row:not(:first-child) .form-label {
+        position: absolute;
+        left: -2000px;
+    }
+</style>
+<p class="lead">Order badges for Bronze, Silver and Gold Awards</p>
+<form novalidate class="needs-validation">
+    <div class="row">
+        <div class="col-8" id="customer">
+            <h2>Your details</h2>
+            <div class="mb-3">
+                <label for="order_name" class="form-label">Name:</label>
+                <input type="text" class="form-control" required minlength="3" maxlength="50" id="order_name"
+                    name="order_name" />
+                <div class="invalid-feedback">You must provide your name.</div>
+            </div>
+            <div class="mb-3">
+                <label for="order_email" class="form-label">Email:</label>
+                <input type="email" class="form-control" required id="order_email" name="order_email" />
+                <div class="invalid-feedback">
+                    Please provide a valid email address.
+                </div>
+            </div>
+        </div>
+    </div>
+    <h2>Award recipients</h2>
+    <div id="awardRecipients">
+
+    </div>
+    <div class="mb-3"><input type="button" class="btn btn-secondary" id="addGirl" value="Add another recipient"
+            disabled /></div>
+    <div class="mb-3 d-none" id="incompleteNote"><strong>NOTE:</strong> You have ordered badges for girls who have not
+        yet
+        completed their award. If they don't complete, you must notify <a
+            href="mailto:badges@girlguidinghertfordshire.org.uk">badges@girlguidinghertfordshire.org.uk</a> of both the
+        girl who did not complete and who it is subsequently awarded to, so that county records can be kept up to date!
+    </div>
+    <div class="mb-3 d-none" id="goldAward"><strong>Gold awards:</strong> Anyone who has earned their Gold Award has the
+        opportunity for their name (first name only) to be published in the county&lsquo;s Share magazine. Names
+        aren&lsquo;t automatically added following a badge order being placed as it can take time before they are
+        awarded and we don&lsquo;t want to publish names before this has happened. There are also some awards that do
+        not get completed and are subsequently awarded to someone else. Therefore, once you have awarded a Gold, please
+        advise the Badge Secretary so their name can be included in the following edition of Share.</div>
+    <h2>Order</h2>
+    <div id="orderDetails">
+        <p class="js-no-girls">Please add an award recipient first.</p>
+        <p class="js-has-girls d-none">It is recommended that a metal and certificate is awarded at minimum with woven
+            being optional - this has been selected for you below. <em>Please add all recipients above before amending
+                other badge quantities.</em></p>
+        <table class="table table-striped d-none" aria-label="Badges and certificates to be ordered">
+            <thead>
+                <tr>
+                    <th scope="col">Items</th>
+                    <th scope="col" class="text-right">Price each</th>
+                    <th scope="col" class="text-right">Quantity</th>
+                    <th scope="col" class="text-right">Subtotal</th>
+                </tr>
+            </thead>
+            <tfoot>
+                <tr>
+                    <th scope="row" colspan="3">ORDER TOTAL (excl any postage costs)</th>
+                    <td class="text-right" id="orderTotal">£0.00</td>
+                </tr>
+            </tfoot>
+            <tbody id="orderItems">
+            </tbody>
+        </table>
+    </div>
+    <h2>Delivery</h2>
+    <div id="deliveryDetails">
+        <p class="js-no-girls">Please add an award recipient first.</p>
+        <div class="js-has-girls d-none">
+            <div class="mb-3">
+                <p>Please select how you would like to receive the items:</p>
+                <div class="form-check">
+                    <input type="radio" class="form-check-input" name="delivery" id="deliveryOption3" value="Posted"
+                        required checked />
+                    <label for="deliveryOption3" class="form-check-label">Posted to you</label>
+                </div>
+                <div class="form-check">
+                    <input type="radio" class="form-check-input" name="delivery" id="deliveryOption1"
+                        value="Badge Secretary" required />
+                    <label for="deliveryOption1" class="form-check-label">Collect from Badge Secretary</label>
+                </div>
+                <div class="form-check">
+                    <input type="radio" class="form-check-input" name="delivery" id="deliveryOption2"
+                        value="West Herts Depot" required />
+                    <label for="deliveryOption2" class="form-check-label">Collect from West Herts Depot</label>
+                </div>
+            </div>
+            <div class="js-collection d-none mb-3">
+                Thank you. The Badge Secretary will contact you to arrange a suitable date and time for collection.
+            </div>
+            <div class="js-posted" class="mb-3">
+                <div class="mb-3">
+                    <label for="postalAddress" class="form-label"><strong>Full address for postage</strong> (including
+                        postcode)</label>
+                    <textarea class="form-control" id="postalAddress" rows="3" required></textarea>
+                </div>
+                <p>Thank you. You will be contacted by The Badge Secretary with payment details, postage options and the
+                    final order total including postage. Payment must be made before the items are dispatched. Packages
+                    are sent out weekly on Thursdays.</p>
+            </div>
+        </div>
+    </div>
+    <div id="orderSubmit">
+        <div class="mb-3">
+            <input type="submit" class="btn btn-primary btn-lg" id="sendOrder" value="Request badges" disabled />
+        </div>
+    </div>
+</form>

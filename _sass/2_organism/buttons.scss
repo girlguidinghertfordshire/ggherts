@@ -3,9 +3,20 @@
     color: #fff;
     background-color: $gg-pink;
     border-color: $gg-pink;
-    &:hover{
+    &:hover, &:focus{
         background-color: $gg-pink-hover;
         border-color: $gg-pink-border-hover;
+    }
+    &:focus, &:active:focus {
+        box-shadow: 0 0 0 0.25rem rgba(196, 0, 99, 0.5);
+    }
+    &:disabled {
+        background-color: $gg-pink;
+        border-color: $gg-pink;
+    }
+    &:active {
+        background-color: $gg-pink-active;
+        border-color: $gg-pink-border-active;
     }
 }
 .btn-outline-primary {
@@ -16,7 +27,7 @@
         background-color: $gg-pink;
         border-color: $gg-pink;
     }
-    &:focus {
+    &:focus, &:active:focus {
         box-shadow: 0 0 0 0.25rem rgba(196, 0, 99, 0.5);
     }
 }
@@ -24,6 +35,22 @@
     color: #fff;
     background-color: $gg-dark-blue;
     border-color: $gg-dark-blue;
+    
+    &:hover, &:focus{
+        background-color: $gg-dark-blue-hover;
+        border-color: $gg-dark-blue-border-hover;
+    }
+    &:focus, &:active:focus {
+        box-shadow: 0 0 0 0.25rem rgba(0,114,188, 0.5);
+    }
+    &:disabled {
+        background-color: $gg-dark-blue;
+        border-color: $gg-dark-blue;
+    }
+    &:active {
+        background-color: $gg-dark-blue-active;
+        border-color: $gg-dark-blue-border-active;
+    }
 }
 // shaped buttons
 .gg-btn {
