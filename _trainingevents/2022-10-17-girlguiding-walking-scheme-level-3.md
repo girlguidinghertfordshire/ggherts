@@ -12,7 +12,7 @@ event:
   image: /assets/images/2022/04/walking_scheme.webp
   type:
     - Residential
-    - Walking Scheme
+    - Walking
     - Training
   age-group:
     - Adults
@@ -23,7 +23,7 @@ event:
     - Scotland
 author:
   display_name: The County Office
-lastmod: 2022-09-10T14:43:08.224Z
+lastmod: 2022-09-18T15:31:31.805Z
 ---
 Level 3 Walking Scheme, Hill & Moorland, Mountain Leader Training & Assessment in Scottish Highlands, taking place during the week of Monday 17 - Saturday 22 October.
 

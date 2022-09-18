@@ -2,7 +2,7 @@
 title: "Gift Aid: What is it and Registering"
 date: 2022-09-01T19:44:47.385Z
 event:
-  start_date: 2022-09-19
+  start_date: 2022-10-03
   end_date: ""
   address: null
   contact_name: null
@@ -21,13 +21,15 @@ event:
     - Virtual
 author:
   display_name: The County Office
-lastmod: 2022-09-01T20:06:10.030Z
+lastmod: 2022-09-18T14:48:51.580Z
 ---
-This virtual session for Girlguiding Hertfordshire members only is taking place on Monday 19 September from 7:30 - 8:30pm, and will cover the background to gift aid, what paperwork leaders will need from members and how to register with HMRC.
+This training was originally due to take place on Monday 19 September, but following the announcement that the Queen's funeral will take place on this date, the decision has been made to postpone the training to Monday 3 October instead.
+
+This virtual session for Girlguiding Hertfordshire members only will run from 7:30 - 8:30pm, and will cover the background to gift aid, what paperwork leaders will need from members and how to register with HMRC.
 
 The Zoom log in details will be sent to those booked on to the training by the trainer after the booking deadline date.
 
-**Booking deadine:** Tuesday, 13 September
+**Booking deadine:** Monday, 26 September
 
 **Cost:** Free
 

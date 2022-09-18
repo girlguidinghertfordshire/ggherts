@@ -1,7 +1,7 @@
 ---
 title: A Safe Space Training
 date: 2022-03-17T16:54:43.620Z
-image: /assets/images/2022/03/asafespace.webp
+image: /assets/images/2022/09/a_safe_space.webp
 categories:
   - Announcements
   - Badges
@@ -13,7 +13,7 @@ author:
   display_name: The County Office
   first_name: ""
   last_name: ""
-lastmod: 2022-09-02T19:55:00.716Z
+lastmod: 2022-09-18T14:54:29.866Z
 ---
 {:.lead}
 Everyone needs to have the correct level of [_A Safe Space_ training][1] for their role.
