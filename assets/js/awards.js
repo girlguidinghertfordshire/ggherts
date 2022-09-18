@@ -20,24 +20,26 @@ class Order {
         const counter = this.girls.length - 1;
         return `<div class="row mb-3">
         <div class="col-1 align-self-end">${counter + 1}.</div>
-        <div class="col">
+        <div class="col-7 col-md-4 col-lg">
             <label for="girlsName${counter}" class="form-label">Name:</label>
             <input type="text" class="form-control" minlength="3" maxlength="50" id="girlsName${counter}"
                 name="girls_name_${counter}" required />
             <div class="invalid-feedback">Girls name is required</div>
         </div>
-        <div class="col">
-            <label for="girlsNumber${counter}" class="form-label">Membership number:</label>
+        <div class="col-4 col-md-2">
+            <label for="girlsNumber${counter}" class="form-label">Memb<span class="d-none d-xxl-inline">ership</span> number:</label>
             <input type="tel" class="form-control" pattern="[0-9]{5,10}" minlength="5" maxlength="10" id="girlsNumber${counter}"
                 name="girls_number_${counter}" required />
             <div class="invalid-feedback">Membership number is required</div>
         </div>
-        <div class="col">
+        <div class="col-1 d-md-none"></div>
+        <div class="col-11 col-md-5 col-lg">
             <label for="girlsUnit${counter}" class="form-label">Unit:</label>
             <input type="text" class="form-control" minlength="3" id="girlsUnit${counter}" name="girls_number_${counter}" required />
             <div class="invalid-feedback">Unit name is required</div>
         </div>
-        <div class="col">
+        <div class="col-1 d-lg-none"></div>
+        <div class="col-4 col-lg-2">
             <label for="girlsAward${counter}" class="form-label">Award:</label>
             <select id="girlsAward${counter}" class="form-select js-award">
                 <option value="bronze">Bronze</option>
@@ -45,9 +47,9 @@ class Order {
                 <option value="gold">Gold</option>
             </select>
         </div>
-        <div class="col align-self-end">
+        <div class="col-7 col-lg-2 align-self-end">
             <div class="form-check">
-                <label for="girlsComplete${counter}" class="form-check-label">Has completed?</label>
+                <label for="girlsComplete${counter}" class="form-check-label">Has completed<span class="d-lg-none"> award</span>?</label>
                 <input type="checkbox" class="form-check-input" id="girlsComplete${counter}" value="yes" />
             </div>
         </div>
@@ -70,9 +72,9 @@ class Order {
         return `
         <tr>
             <th scope="row">${description}</th>
-            <td class="text-right">${price.toLocaleString('en-GB', { style: 'currency', currency: 'GBP', minimumFractionDigits: 2 })}</td>
-            <td><input type="number" id="${id}" value="${quantity}" class="form-control pull-right text-right" min="0" style="width:5em" /></td>
-            <td class="text-right">${(price * quantity).toLocaleString('en-GB', { style: 'currency', currency: 'GBP', minimumFractionDigits: 2 })}</td>
+            <td class="text-end">${price.toLocaleString('en-GB', { style: 'currency', currency: 'GBP', minimumFractionDigits: 2 })}</td>
+            <td><input type="number" id="${id}" value="${quantity}" class="form-control pull-right text-end" min="0" style="width:5em" /></td>
+            <td class="text-end">${(price * quantity).toLocaleString('en-GB', { style: 'currency', currency: 'GBP', minimumFractionDigits: 2 })}</td>
         </tr>`
     }
     save() {

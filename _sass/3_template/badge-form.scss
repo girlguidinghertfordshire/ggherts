@@ -1,0 +1,17 @@
+/* styles specific to the badge form page */
+@media (max-width: $grid-xxl-min) {
+    #awardRecipients {
+        .form-label {
+            margin-bottom: 0.1rem;
+            font-weight: bold;
+            font-size: 0.8rem;
+        }
+    }
+}
+@media (min-width: $grid-lg-min){
+    
+    #awardRecipients .row:not(:first-child) .form-label {
+        position: absolute;
+        left: -2000px;
+    }
+}
