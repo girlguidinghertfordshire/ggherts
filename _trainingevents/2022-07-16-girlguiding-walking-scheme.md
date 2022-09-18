@@ -14,7 +14,7 @@ event:
   type:
     - Residential
     - Training
-    - Walking Scheme
+    - Walking
   age-group:
     - Rangers
     - Young Leaders
@@ -26,7 +26,7 @@ event:
     - Essex
 author:
   display_name: The County Office
-lastmod: 2022-09-01T20:24:26.324Z
+lastmod: 2022-09-18T15:31:20.029Z
 ---
 Do you want to take your young members on outings and walks in the countryside but want to feel more confident?
 

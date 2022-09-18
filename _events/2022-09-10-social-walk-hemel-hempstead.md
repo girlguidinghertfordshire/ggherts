@@ -1,6 +1,7 @@
 ---
 title: Social Walk - Hemel Hempstead
 date: 2022-06-07T20:06:44.862Z
+published: false
 event:
   start_date: 2022-09-10
   end_date: ""
@@ -23,7 +24,7 @@ event:
     - Hertfordshire, West
 author:
   display_name: The County Office
-lastmod: 2022-06-07T20:35:25.018Z
+lastmod: 2022-09-18T15:05:41.419Z
 ---
 Country walk around Hemel Hempstead on Saturday 10 September from 2pm, lasting approximately 2 hours. Tea at the Gaddesdon Row Guide Centre is included.
 
