@@ -27,7 +27,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "post"
+      layout: "post-v5"
+      advertId: "get-involved"
   - scope:
       path: ""
       type: "events"
