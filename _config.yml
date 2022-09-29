@@ -44,6 +44,7 @@ defaults:
       type: "noticeboards"
     values:
       layout: "noticeboard"
+      image_filter: true
   - scope:
       path: ""
       type: "members"

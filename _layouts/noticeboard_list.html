@@ -15,7 +15,8 @@ layout: default
         {% for notice in noticeboards %}
     <div class="col-sm-6">
     <div class="noticeboard-list" data-category="|{{notice.categories | join: '|' }}|">
-    <a class="" href="{{ notice.url }}">
+    <a class="" href="{{ notice.url }}" style="text-align: center;">
+    {% if notice.image_filter %}
     <svg viewBox="0 0 343 166" preserveAspectRatio="xMinYMin none">
     <defs>
     <path fill="none" id="thePath1" d="M54.038,1c85.923,0,171.85,0,257.772,0c18.471,1.308,28.173,11.384,29.182,30.155
@@ -28,6 +29,9 @@ layout: default
     </clipPath>
     <image clip-path="url(#cloudClip1)" width="343" height="166" xlink:href="{{ notice.image }}"></image>
     </svg>
+    {% else %}
+    <img src="{{ notice.image }}" class="img-fluid" alt="{{ notice.title }}" style="max-height: 166px;"/>
+    {% endif %}
     </a>
     <h2><a class="" href="{{ notice.url}}">{{ notice.title }}</a></h2>
     <p>{{ notice.excerpt | strip_html | normalize_whitespace | truncatewords: 30 | escape }}</p>
