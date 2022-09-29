@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: page-v5
 title: Outdoor activities
-date: '2021-11-21T12:10:26.889Z'
+date: 2021-11-21T12:10:26.889Z
 toc: county-teams
-lastmod: '2021-12-28T08:53:45.607Z'
+lastmod: 2022-09-29T21:12:37.291Z
 ---
 
 ![](/assets/images/2021/11/outdoors1.jpg){:style="float:left; width:50%; height:100%; object-fit:cover"}![](/assets/images/2021/11/outdoors2.jpg){:style="float:left; width:50%; height:100%; object-fit:cover"}  

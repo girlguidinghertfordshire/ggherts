@@ -1,5 +1,5 @@
 ---
-layout: page_full
+layout: page_full-v5
 title: Term of Use
 date: 2016-03-16 09:43:01.000000000 +00:00
 toc: term
@@ -11,6 +11,7 @@ author:
   display_name: Rachel Kemp
   first_name: Rachel
   last_name: Kemp
+lastmod: 2022-09-29T21:22:54.563Z
 ---
 
 Girlguiding Hertfordshire and its affiliates provide access to the Girlguiding Hertfordshire web site (the "web site") to you subject to the conditions set out on this page. Please read these conditions carefully before using the web site. By using the web site, you signify your agreement to be bound by these conditions.

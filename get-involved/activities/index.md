@@ -1,18 +1,19 @@
 ---
-layout: page
+layout: page-v5
 title: Virtual Ideas and Activities
 date: 2020-03-24 11:44:24.000000000 +00:00
 toc: get-involved
 advertId: get-involved
-description: For ideas and activities for you and your daughter to do
-    together at home we have created a list together with links to great websites.
+description: For ideas and activities for you and your daughter to do together at home we
+  have created a list together with links to great websites.
 author:
   login: rachelkempis
   email: rachelkempis@hotmail.com
   display_name: Rachel Kemp
   first_name: Rachel
   last_name: Kemp
-permalink: "/get-involved/activities/"
+permalink: /get-involved/activities/
+lastmod: 2022-09-29T21:20:49.525Z
 ---
 <p>We would love to share your ideas and success stories on this Activities page to inspire others so please email <a href="mailto:virtualideas@girlguidinghertfordshire.org.uk" target="_blank" rel="noopener">virtualideas@girlguidinghertfordshire.org.uk</a> with details of what went well online.</p>
 <p><strong>On this page:</strong></p>

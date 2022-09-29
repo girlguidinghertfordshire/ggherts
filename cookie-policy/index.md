@@ -1,5 +1,5 @@
 ---
-layout: page_full
+layout: page_full-v5
 title: Cookie Policy
 date: 2016-03-16 09:44:31.000000000 +00:00
 toc: cookie
@@ -11,6 +11,7 @@ author:
   display_name: Rachel Kemp
   first_name: Rachel
   last_name: Kemp
+lastmod: 2022-09-29T21:10:02.140Z
 ---
 Our website uses cookies to enhance your browsing experience. A cookie is a small text file of data stored by our website within your browser. These cookies allow us to distinguish you from other users of our website, which helps us to provide you with a good experience when you browse our website and also allows us to improve our site.
 
