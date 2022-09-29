@@ -8,7 +8,7 @@ categories:
 tags: []
 author:
   display_name: The County Office
-lastmod: 2022-09-29T19:15:19.285Z
+lastmod: 2022-09-29T20:29:51.663Z
 ---
 Applications for the 2023 NSGSO and NSGCB course are now open.  
 
@@ -26,4 +26,4 @@ For more details about the course, entry requirements, cost and to apply, please
 
 Successful applications will be contacted before 31 December 2022.
 
-[NSGSO/NSGCB flyer](/assets/docs/2022/NSGSO_NSGCB_Flier_2023.pdf){:.download-link}{:target="_blank"}{:rel="noreferrer noopener"}
+[NSGSO/NSGCB flyer](/assets/docs/2022/NSGSO_NSGCB_Flier_2023.pdf){:.download-link.btn.btn-primary}{:target="_blank"}{:rel="noreferrer noopener"}

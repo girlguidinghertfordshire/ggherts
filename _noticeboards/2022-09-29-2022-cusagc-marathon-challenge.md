@@ -8,7 +8,7 @@ categories:
 tags: []
 author:
   display_name: The County Office
-lastmod: 2022-09-29T19:15:05.124Z
+lastmod: 2022-09-29T20:29:07.212Z
 ---
 This year's CUSAGC Marathon Challenge is taking place on Saturday 26 November, in the Steeple Morden area.
 
@@ -29,7 +29,7 @@ Entry fee: £17 per person (includes a cooked meal at the end of the challenge a
 
 If you would like to take part, please return a completed entry form, contained within the Entry Pack, with payment by Saturday 5 November.
 
-[Entry pack](/assets/docs/2022/cusagc-marathon-entry-pack-2022.docx){:.download-link}{:target="_blank"}{:rel="noreferrer noopener"}
+[Entry pack](/assets/docs/2022/cusagc-marathon-entry-pack-2022.docx){:.download-link.btn.btn-primary}{:target="_blank"}{:rel="noreferrer noopener"}
 
 Confirmation and final details will be sent out soon after entries close.
 
