@@ -7,9 +7,9 @@ categories:
 tags: []
 author:
   display_name: The County Office
-lastmod: 2022-09-29T20:28:27.604Z
+lastmod: 2022-10-03T20:09:06.834Z
 ---
-Road Awareness (RAFT) sessions for taught in a fun, interactive and memorable way by a qualified Teacher, previously employed by a London borough as a Senior Road Safety specialist.
+Road Awareness (RAFT) sessions taught in a fun, interactive and memorable way by a qualified Teacher, previously employed by a London borough as a Senior Road Safety specialist.
 
 Depending on the age of the children (ages 2 - teenagers) different activities are set up for them to rotate around and learn more about Road Awareness and Safety.  
 
