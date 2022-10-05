@@ -3,7 +3,7 @@
 // Width in pixels for each breakpoint
 const breakpoint = { xs: 0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400 };
 // Mobile menu
-(function ($) {
+(function (/** @type {JQueryStatic} */ $) {
     function closeChildMenu(/** @type {JQuery<HTMLElement>} */ $li) {
         $li.removeClass("open");
         $li.find("ul li:first").remove();
@@ -185,18 +185,18 @@ const breakpoint = { xs: 0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400 };
         if (typeof (page) === "undefined" || page == null) {
             return;
         }
-        var menu = ".gg-left-menu";
+        const menu = ".gg-left-menu";
         // @ts-ignore
         $("body").scrollspy({ target: menu, offset: 20 });
         $(".js-updates > section").each(function () {
-            var $h3s = $(this).find("h3");
-            var $section = $(this);
+            const $h3s = $(this).find("h3");
+            const $section = $(this);
             if ($h3s.length > 0) {
-                var id = this.id;
-                var $menuLi = $(`${menu} a[href='#${id}']`).parent();
+                const id = this.id;
+                const $menuLi = $(`${menu} a[href='#${id}']`).parent();
                 $menuLi.append("<ul/>");
                 $section.find("h2:first").after("<ul/>");
-                var $menu = $menuLi.find("ul");
+                const $menu = $menuLi.find("ul");
                 $h3s.each(function () {
                     $menu.append("<li><a href='#" + this.id + "'>" + $(this).text() + "</a></li>");
                     $section.find("h2+ul").append("<li><a href='#" + this.id + "'>" + $(this).text() + "</a></li>");
