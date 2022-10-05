@@ -43,7 +43,7 @@ defaults:
       path: ""
       type: "noticeboards"
     values:
-      layout: "noticeboard-v5"
+      layout: "post-v5"
       image_filter: true
   - scope:
       path: ""
