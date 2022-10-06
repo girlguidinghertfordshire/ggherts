@@ -32,4 +32,4 @@ Indoor accommodation provided.
 
 **Cost:** £70
 
-To register interest please contact <walking@girlguidinghertfordshire.org.uk>
+Please contact <walking@girlguidinghertfordshire.org.uk> with any questions, or to apply.
