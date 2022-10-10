@@ -1,15 +1,16 @@
 ---
 layout: page-v5
 title: Billboard
+banner_image: /assets/images/2022/10/billboard-banner.webp
 date: 2021-09-07T19:51:13.187Z
 toc: news
 lastmod: 2022-09-29T18:25:08.816Z
 ---
-
 _Billboard_ is sent to all Girlguiding Hertforshire Members who have set their communication preferences on _GO_ to subscribe to marketing.
 
 ## Recent editions
 
+- [October 2022](https://mailchi.mp/6e3588d46675/oct-2022-billboard-13511564){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [September 2022](https://mailchi.mp/d76fe1dec005/sept-2022-billboard-13506144){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - August 2022 - no edition
 - [July 2022](https://mailchi.mp/6407b730a1e6/july-2022-billboard-13503552){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
