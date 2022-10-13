@@ -131,20 +131,20 @@ const breakpoint = { xs: 0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400 };
         return canShowBlock;
     }
     function filterPosts() {
-        $(".eventshop-list .col").hide();
+        $(".filter-list .col").hide();
         const $type = $(".division.type input:checked");
         const $age = $(".division.age input:checked");
         const $location = $(".division.location input:checked");
-        $(".eventshop-list .col").each(function () {
+        $(".filter-list .col").each(function () {
             if (showBlock($(this), $type, "type") && showBlock($(this), $age, "age-group") && showBlock($(this), $location, "location")) {
                 $(this).show();
             }
         });
-        $(".js-selected-filters").text($(".eventshop-list .col").filter(":visible").length + " events - " + $(".division input:checked").length + " filters");
+        $(".js-selected-filters").text($(".filter-list .col").filter(":visible").length + " events - " + $(".division input:checked").length + " filters");
     }
     function initialiseFilters() {
         if (window.innerWidth < breakpoint.md) {
-            $(".js-selected-filters").text($(".eventshop-list .col").length + " events - no filters");
+            $(".js-selected-filters").text($(".filter-list .col").length + " events - no filters");
             $(".filter-result h4").on("click", function () {
                 $(".filter-options").toggle();
             });
@@ -158,6 +158,8 @@ const breakpoint = { xs: 0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400 };
         $(".division input").on("change", function () {
             console.log(this);
             filterPosts();
+            const event=new CustomEvent("filterChanged",{bubbles:true, detail:{text:""}});
+            this.dispatchEvent(event);
         });
     });
     // eslint-disable-next-line no-undef

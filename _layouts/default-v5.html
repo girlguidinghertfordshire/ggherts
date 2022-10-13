@@ -23,8 +23,12 @@
   <link rel="stylesheet" href="/css/site.css?v=2.13" />
   {% if page.location_map or page.division_map %}
 <link rel='dns-prefetch' href='https://maps.googleapis.com/' />
+{% if jekyll.environment == "production" %}
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyC8lZG8HH0rs3iZ03uCiDdokKQAWE-Aj04' id='maps-js' defer></script>
+{% else %}
 <script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?v=3.exp&key={{site.maps.apikey}}' id='maps-js' defer></script>
-    {% if page.division_map %}
+{% endif %}
+{% if page.division_map %}
 <script type='text/javascript' src='/wp-content/themes/girl-guiding/js/geoxml3.js' id='geoxml3-js'></script>
 <script type='text/javascript' src='/wp-content/themes/girl-guiding/js/ProjectedOverlay.js' id='ProjectedOverlay-js'></script>
     {% else %}
@@ -155,20 +159,31 @@
       </div>
     </div>
   </div>
-
-
-
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"
     integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ=="
     crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/js/bootstrap.bundle.min.js"
     integrity="sha512-pax4MlgXjHEPfCwcJLQhigY7+N8rt6bVvWLFyUMuxShv170X53TRzGPmPkZmGBhk+jikR8WBM4yl7A9WMHHqvg=="
     crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-  <script src="/assets/js/site.js?v=2.3"></script>
+  <script src="/assets/js/site.js?v=2.4"></script>
   <script async src="https://js.sitesearch360.com/plugin/bundle/1899.js"></script>
   {% if page.useMasonry %}
   <script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha384-GNFwBvfVxBkLMJpYMOABq3c+d3KnQxudP/mGPkzpZSTYykLBNsZEnG2D9G/X/+7D" crossorigin="anonymous" async></script>
   {% endif %}
+  {% if page.location_map %}  
+  <script type="text/javascript">
+    const filter=document.querySelectorAll(".filter-options")[0];
+    filter.addEventListener("filterChanged", function(){
+        var locationData=[];
+        $(".filter-list .col").not(":hidden").each(function(){
+            var location=LocationMap.location($(this).data("latlng"),$(this).data("mapaddress"),$(this).data("marker"),$(this).data("preview"));
+            locationData.push(location);
+        });
+        console.log(locationData);
+        const reloadMap=new LocationMap(locationData);
+    });
+</script>
+{% endif %}
 </body>
 
 </html>
