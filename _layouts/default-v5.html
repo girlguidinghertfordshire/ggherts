@@ -179,7 +179,6 @@
             var location=LocationMap.location($(this).data("latlng"),$(this).data("mapaddress"),$(this).data("marker"),$(this).data("preview"));
             locationData.push(location);
         });
-        console.log(locationData);
         const reloadMap=new LocationMap(locationData);
     });
 </script>

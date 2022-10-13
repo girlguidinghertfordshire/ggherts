@@ -140,11 +140,11 @@ const breakpoint = { xs: 0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400 };
                 $(this).show();
             }
         });
-        $(".js-selected-filters").text($(".filter-list .col").filter(":visible").length + " events - " + $(".division input:checked").length + " filters");
+        $(".js-selected-filters").text(`${$(".filter-list .col").filter(":visible").length} ${$(".filter-list").data("type")} - ${$(".division input:checked").length } filters`);
     }
     function initialiseFilters() {
         if (window.innerWidth < breakpoint.md) {
-            $(".js-selected-filters").text($(".filter-list .col").length + " events - no filters");
+            $(".js-selected-filters").text(`${$(".filter-list .col").length} ${$(".filter-list").data("type")} - no filters`);
             $(".filter-result h4").on("click", function () {
                 $(".filter-options").toggle();
             });
@@ -156,7 +156,6 @@ const breakpoint = { xs: 0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400 };
     $.when($.ready).then(function () {
         initialiseFilters();
         $(".division input").on("change", function () {
-            console.log(this);
             filterPosts();
             const event=new CustomEvent("filterChanged",{bubbles:true, detail:{text:""}});
             this.dispatchEvent(event);

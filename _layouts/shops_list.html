@@ -71,7 +71,7 @@ layout: default-v5
                 
                 <h2 class="mt-3" style="color:{{ color }}"><span><img src="{{ marker }}" alt="marker" /></span>{{ title
                     }}</h2>
-                <div class="row shop_rows row-cols-md-2 row-cols-xxl-3 g-2 filter-list">
+                <div class="row shop_rows row-cols-md-2 row-cols-xxl-3 g-2 filter-list" data-type="sites">
                     {% for shop in shops %}
                     {% capture preview %}<div>{{ shop.shop.type | join: ' & '}}: <br /><span>{{ shop.shop.location |
                             strip_newlines }}<br /></span>{% if shop.shop.contact_email %}<a
@@ -103,7 +103,7 @@ layout: default-v5
                 </div>
                 {% endfor %}
             </div>
-            <div class="col-md-4 col-xxl-3">
+            <div class="col-md-4 col-xxl-3 mt-3 mt-md-0">
                 <div class="filter-result">
                     <div class="filter-summary">
                         <h4>Filter results</h4>
@@ -191,3 +191,4 @@ layout: default-v5
             </div>
         </div>
     </div>
+</div>

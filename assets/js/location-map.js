@@ -32,7 +32,6 @@ class LocationMap {
         const infowindow = new this.google.maps.InfoWindow();
         const map=this.map;
         for (const location of locationData) {
-            console.log(location);
             const latlng = new this.google.maps.LatLng(location.lat, location.lng);
             this.bounds.extend(latlng);
             const marker = new this.google.maps.Marker({
