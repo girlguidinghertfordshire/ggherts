@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: page-v5
 title: Competitions
-date: '2021-11-21T12:10:26.889Z'
+date: 2021-11-21T12:10:26.889Z
 toc: county-teams
-lastmod: '2021-11-21T15:43:25.420Z'
+lastmod: 2022-09-29T21:13:08.034Z
 ---
 
 Hertfordshire have a history of Competitions for Guides.

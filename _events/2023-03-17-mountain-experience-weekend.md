@@ -25,7 +25,7 @@ event:
     - Peak District
 author:
   display_name: The County Office
-lastmod: 2022-09-10T13:43:28.337Z
+lastmod: 2022-10-06T20:29:26.136Z
 ---
 Mountain Experience is a fun walking/navigation weekend primarily for **Rangers** (adults also welcome) to improve upon personal skills whilst meeting likeminded individuals.  
 
@@ -33,4 +33,4 @@ Indoor accommodation available.
 
 **Cost:** £70
 
-To register interest please contact <walking@girlguidinghertfordshire.org.uk>
+Please contact <walking@girlguidinghertfordshire.org.uk> with any questions, or to apply.

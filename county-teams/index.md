@@ -1,11 +1,12 @@
 ---
-layout: page_full
+layout: page_full-v5
 title: County Teams
 date: 2016-03-04T11:03:44.000Z
 toc: county-teams
 advertId: get-involved
-description: County Teams provide support to all girls and leaders in making guiding happen in Hertfordshire.
-lastmod: '2021-12-28T08:52:58.222Z'
+description: County Teams provide support to all girls and leaders in making guiding happen
+  in Hertfordshire.
+lastmod: 2022-09-29T21:11:42.778Z
 ---
 The County Team is here to support local guiding, as well as providing trainings, events, and much more.
 

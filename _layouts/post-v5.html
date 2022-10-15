@@ -1,6 +1,12 @@
 ---
 layout: default-v5
 ---
+{% assign url="/news/" %}
+{% assign title="News" %}
+{% if page.collection == "noticeboards" %}
+{% assign url="/noticeboard/" %}
+{% assign title="Noticeboard" %}
+{% endif %}
 {% include banner.html %}
 <div class="main-content {{ page.title | slugify }}">
     <div class="container">
@@ -11,7 +17,7 @@ layout: default-v5
                         <li class="breadcrumb-item">
                             <a href="/">Home</a>
                         </li>
-                        <li class="breadcrumb-item"><a class="bread-link" href="/news/">News</a></li>
+                        <li class="breadcrumb-item"><a class="bread-link" href="{{ url }}">{{ title }}</a></li>
                         <li class="breadcrumb-item active" aria-current="page">
                             {{ page.title }}
                         </li>
@@ -37,7 +43,7 @@ layout: default-v5
                         {% endif %}
                         </div>
                         <div class="col-md-2 text-center">
-                        <a href="/news/" class=" text-decoration-none"><span>All news</span></a>
+                        <a href="{{ url }}" class=" text-decoration-none"><span>{{ title }}</span></a>
                         </div>
                         <div class="col-md-5">
                             {% if page.next.url %}
@@ -83,4 +89,6 @@ layout: default-v5
 
     </div>
 </div>
+{% if page.collection == "posts" %}
 {% include latest-events-v5.html %}
+{% endif %}

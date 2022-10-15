@@ -14,7 +14,7 @@ author:
   last_name: ""
 lastmod: 2022-06-15T19:42:13.312Z
 ---
-Welcome to the Girlguiding Hertfordshire International Adventures. 
+Welcome to the Girlguiding Hertfordshire International Adventures.
 
 The International Leadership Team are here to support you plan an amazing adventure.
 

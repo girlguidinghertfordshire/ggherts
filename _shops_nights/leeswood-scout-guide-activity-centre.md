@@ -18,7 +18,7 @@ shop:
     - Indoor Accommodation
 lastmod: 2022-06-05T20:37:05.541Z
 ---
-## Indoor accommodation
+### Indoor accommodation
 
 There are two holiday houses:
 
@@ -27,11 +27,11 @@ There are two holiday houses:
 
 All accommodation is in bunks and both houses have a large hall, indoor toilets and kitchen.
 
-## Campsite
+### Campsite
 
 The campsite accommodates 200+ campers on several campsites, in clearings on woodland site
 
-## Facilities
+### Facilities
 
 - Water on site
 - Firewood on site
@@ -39,7 +39,7 @@ The campsite accommodates 200+ campers on several campsites, in clearings on woo
 - Shelter
 - Toilets & showers.
 
-## Activities
+### Activities
 
 - Assault course
 - The Fort (Under 10s)

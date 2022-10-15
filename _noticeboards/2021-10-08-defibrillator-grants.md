@@ -2,6 +2,7 @@
 title: Defibrillator Grants
 date: 2022-09-03
 image: /assets/images/2021/10/lndnhrts.jpg
+image_filter: false
 categories:
   - Notice
 tags: []
@@ -9,7 +10,7 @@ author:
   display_name: The County Office
   first_name: null
   last_name: null
-lastmod: 2022-09-03T09:39:53.867Z
+lastmod: 2022-09-29T18:49:48.238Z
 ---
 The tragic effects of the Covid 19 Pandemic have highlighted the fact that Cardiac Arrest does not discriminate and affects anyone, at any time, of any age!
 

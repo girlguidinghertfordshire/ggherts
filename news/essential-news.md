@@ -1,16 +1,17 @@
 ---
 layout: page-v5
 title: Essential News
+banner_image: /assets/images/2022/10/essential-news-banner.webp
 date: 2021-09-07T19:51:13.187Z
 toc: news
 lastmod: 2022-09-05T19:23:47.621Z
 ---
-
 _Essential News_ is sent to all **Girlguiding Hertfordshire** members by email on the first Monday of each month (subject to Bank Holidays). Please check your junk mail folders if you haven't received a copy.
 
 ## 2022
 
-- [September 2022](https://mailchi.mp/ec89a5e1d512/september-2022-essential-news-8989239){:target="_blank"}{:.external-link.lead}{:rel="noreferrer noopener"}
+- [October 2022](https://mailchi.mp/fa958ee957d9/october-2022-essential-news-9004423){:target="_blank"}{:.external-link.lead}{:rel="noreferrer noopener"}
+- [September 2022](https://mailchi.mp/ec89a5e1d512/september-2022-essential-news-8989239){:target="_blank"}{:.external-link}{:rel="noreferrer noopener"}
 - August 2022 (no newsletter)
 - [July 2022](https://mailchi.mp/f50de01f9a68/july-2022-essential-news-8869943){:target="_blank"}{:.external-link}{:rel="noreferrer noopener"}
 - [June 2022](https://mailchi.mp/f17447aa9729/june-2022-essential-news-8847787){:target="_blank"}{:.external-link}{:rel="noreferrer noopener"}

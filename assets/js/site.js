@@ -3,7 +3,7 @@
 // Width in pixels for each breakpoint
 const breakpoint = { xs: 0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400 };
 // Mobile menu
-(function ($) {
+(function (/** @type {JQueryStatic} */ $) {
     function closeChildMenu(/** @type {JQuery<HTMLElement>} */ $li) {
         $li.removeClass("open");
         $li.find("ul li:first").remove();
@@ -131,20 +131,20 @@ const breakpoint = { xs: 0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400 };
         return canShowBlock;
     }
     function filterPosts() {
-        $(".eventshop-list .col").hide();
+        $(".filter-list .col").hide();
         const $type = $(".division.type input:checked");
         const $age = $(".division.age input:checked");
         const $location = $(".division.location input:checked");
-        $(".eventshop-list .col").each(function () {
+        $(".filter-list .col").each(function () {
             if (showBlock($(this), $type, "type") && showBlock($(this), $age, "age-group") && showBlock($(this), $location, "location")) {
                 $(this).show();
             }
         });
-        $(".js-selected-filters").text($(".eventshop-list .col").filter(":visible").length + " events - " + $(".division input:checked").length + " filters");
+        $(".js-selected-filters").text(`${$(".filter-list .col").filter(":visible").length} ${$(".filter-list").data("type")} - ${$(".division input:checked").length } filters`);
     }
     function initialiseFilters() {
         if (window.innerWidth < breakpoint.md) {
-            $(".js-selected-filters").text($(".eventshop-list .col").length + " events - no filters");
+            $(".js-selected-filters").text(`${$(".filter-list .col").length} ${$(".filter-list").data("type")} - no filters`);
             $(".filter-result h4").on("click", function () {
                 $(".filter-options").toggle();
             });
@@ -156,8 +156,9 @@ const breakpoint = { xs: 0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400 };
     $.when($.ready).then(function () {
         initialiseFilters();
         $(".division input").on("change", function () {
-            console.log(this);
             filterPosts();
+            const event=new CustomEvent("filterChanged",{bubbles:true, detail:{text:""}});
+            this.dispatchEvent(event);
         });
     });
     // eslint-disable-next-line no-undef
@@ -185,18 +186,18 @@ const breakpoint = { xs: 0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400 };
         if (typeof (page) === "undefined" || page == null) {
             return;
         }
-        var menu = ".gg-left-menu";
+        const menu = ".gg-left-menu";
         // @ts-ignore
         $("body").scrollspy({ target: menu, offset: 20 });
         $(".js-updates > section").each(function () {
-            var $h3s = $(this).find("h3");
-            var $section = $(this);
+            const $h3s = $(this).find("h3");
+            const $section = $(this);
             if ($h3s.length > 0) {
-                var id = this.id;
-                var $menuLi = $(`${menu} a[href='#${id}']`).parent();
+                const id = this.id;
+                const $menuLi = $(`${menu} a[href='#${id}']`).parent();
                 $menuLi.append("<ul/>");
                 $section.find("h2:first").after("<ul/>");
-                var $menu = $menuLi.find("ul");
+                const $menu = $menuLi.find("ul");
                 $h3s.each(function () {
                     $menu.append("<li><a href='#" + this.id + "'>" + $(this).text() + "</a></li>");
                     $section.find("h2+ul").append("<li><a href='#" + this.id + "'>" + $(this).text() + "</a></li>");

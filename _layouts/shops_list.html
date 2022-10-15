@@ -1,230 +1,194 @@
 ---
-layout: default
+layout: default-v5
 ---
 {% include banner.html %}
 <div class="main-content">
-  <div class="container">
-      <div class="row">
-          <div class="col-sm-12">
-              <div class="breadcrumb">
-                  <ul>
-                      <li class="item-home">
-                          <a href="/" class="bread-home bread-link">Home</a>
-                      </li>
-                      {% assign menu = site.data.navigation[page.toc] %}
-                      {% if menu.url != page.url and menu %}
-                      <li class="item-parent"><a class="bread-parent" href="{{menu.url}}">{{menu.title}}</a></li>
-                      {% endif %}
-                      <li class="item-current active">
-                          {{ page.title }}
-                      </li>
-                  </ul>
-              </div>
-          </div>
-      </div>
-      {% assign l = "" %}
+    <div class="container">
+        {% include breadcrumbs.html %}
+        {% assign l = "" %}
         {% assign types='Shop,Campsite,Indoor Accommodation' | split: ',' %}
-    {% unless page.types == empty or page.types == '' %}
+        {% unless page.types == empty or page.types == '' %}
         {% assign types = page.types %}
-    {% endunless %}
-      {% for s in site.shops_nights %}
-      {% assign showShop = false %}
-      {% for t in s.shop.type %}
+        {% endunless %}
+        {% for s in site.shops_nights %}
+        {% assign showShop = false %}
+        {% for t in s.shop.type %}
         {% if types contains t %}
-            {% assign showShop = true %}
-            {% break %}
+        {% assign showShop = true %}
+        {% break %}
         {% endif %}
-      {% endfor %}
-      {% if showShop %}
-      {% unless s.shop.division == 'Other' %}
-      {% assign firstType = s.shop.type | first %}
-      {% case firstType %}
-          {% when 'Campsite' %}
-          {% assign marker = '/wp-content/uploads/2016/03/marker-pink.png' %}
-          {% when 'Indoor Accommodation' %}
-          {% assign marker = '/wp-content/uploads/2016/03/marker-orange.png' %}
-          {% else %}
-          {% assign marker = '/wp-content/uploads/2016/03/marker-blue.png' %}
-      {% endcase %}
+        {% endfor %}
+        {% if showShop %}
+        {% unless s.shop.division == 'Other' %}
+        {% assign firstType = s.shop.type | first %}
+        {% case firstType %}
+        {% when 'Campsite' %}
+        {% assign marker = '/wp-content/uploads/2016/03/marker-pink.png' %}
+        {% when 'Indoor Accommodation' %}
+        {% assign marker = '/wp-content/uploads/2016/03/marker-orange.png' %}
+        {% else %}
+        {% assign marker = '/wp-content/uploads/2016/03/marker-blue.png' %}
+        {% endcase %}
         {% capture sl %}
-        [{{s.shop.latlng }},"{{ s.shop.mapaddress | strip_newlines }}","{{ marker }}","<div>{{ s.shop.type | join: ' & '}}: <br/><span>{{ s.shop.location | strip_newlines }}<br /></span>{% if s.shop.contact_email %}<a href='mailto:{{ s.shop.contact_email }}'><i class='fa fa-at' aria-hidden='true'></i> {{ s.shop.contact_email}}</a>{% endif %}{% if s.shop.contact_number %}<a href='callto:{{ s.shop.contact_number }}'><i class='fa fa-phone' aria-hidden='true'></i> {{ s.shop.contact_number }}</a>{% endif %}</div>"],
+        LocationMap.location("{{s.shop.latlng}}", "{{ s.shop.mapaddress | strip_newlines }}", "{{ marker }}", "<div             class='gg-map-info'><strong>{{ s.shop.type | join: ' & '}}:</strong> <span>{{ s.shop.location |                 strip_newlines }}</span>{% if s.shop.contact_email %}<a href='mailto:{{ s.shop.contact_email }}'><i class='fa fa-at'></i> {{ s.shop.contact_email}}</a>{% endif %}{% if s.shop.contact_number %}<a href='tel:{{ s.shop.contact_number }}'><i class='fa fa-phone'></i> {{ s.shop.contact_number }}</a>{%
+            endif %}</div>"),
         {% endcapture %}
         {% assign l = l | append: sl %}
         {% endunless %}
         {% endif %}
         {% endfor %}
-      <script>
-				var LocationData = [{{ l }}];
-			</script>
-<section class="shop-center">
-              <h1>{{ page.title }}</h1>
+        <script>
+            (function () {
+                document.addEventListener("DOMContentLoaded", function () {
+                    const locationMap = new LocationMap([{{ l }}], true);
+            });
+        }) ()  
+        </script>
+        <section class="shop-center">
+            <h1>{{ page.title }}</h1>
 
-<div class="fluid-wrapper">
-<div id="map"></div>
-</div>
-</section>
-      <div class="row">
-          <div class="col-sm-8 col-md-offset-1 country-right pull-right">
-              <div class="row">
-                  {% for type in types %}
-                    {% assign shops = site.shops_nights | where: "shop.type", type %}
-                    {% case type %}
-                        {% when 'Campsite' %}
-                        {% assign title = 'Campsites' %}
-                        {% assign marker = '/wp-content/uploads/2016/03/marker-pink.png' %}
-                        {% assign color = '#ec008c' %}
-                        {% when 'Indoor Accommodation' %}
-                        {% assign title=type %}
-                        {% assign marker = '/wp-content/uploads/2016/03/marker-orange.png' %}
-                        {% assign color = '#f78e1e' %}
-                        {% else %}
-                        {% assign title = 'Shops and depots' %}
-                        {% assign marker = '/wp-content/uploads/2016/03/marker-blue.png' %}
-                        {% assign color = '#4e88c7' %}
-                    {% endcase %}
-                    <div class="col-sm-12 shops-block"><h2 class="title" style="color:{{ color }}"><span><img src="{{ marker }}" alt="marker" /></span>{{ title }}</h2></div>
-                <div class="col-sm-12">
-                    <div class="row shop_rows">
+            <div id="map" class="location-map"></div>
+
+        </section>
+        <div class="row">
+            <div class="col-md-8 col-xxl-9 order-last">
+                {% for type in types %}
+                {% assign shops = site.shops_nights | where: "shop.type", type %}
+                {% case type %}
+                {% when 'Campsite' %}
+                {% assign title = 'Campsites' %}
+                {% assign marker = '/wp-content/uploads/2016/03/marker-pink.png' %}
+                {% assign color = '#ec008c' %}
+                {% when 'Indoor Accommodation' %}
+                {% assign title=type %}
+                {% assign marker = '/wp-content/uploads/2016/03/marker-orange.png' %}
+                {% assign color = '#f78e1e' %}
+                {% else %}
+                {% assign title = 'Shops and depots' %}
+                {% assign marker = '/wp-content/uploads/2016/03/marker-blue.png' %}
+                {% assign color = '#4e88c7' %}
+                {% endcase %}
+                
+                <h2 class="mt-3" style="color:{{ color }}"><span><img src="{{ marker }}" alt="marker" /></span>{{ title
+                    }}</h2>
+                <div class="row shop_rows row-cols-md-2 row-cols-xxl-3 g-2 filter-list" data-type="sites">
                     {% for shop in shops %}
-                        
-                            {% capture preview %}<div>{{ shop.shop.type | join: ' & '}}: <br/><span>{{ shop.shop.location | strip_newlines }}<br /></span>{% if shop.shop.contact_email %}<a href='mailto:{{ shop.shop.contact_email }}'><i class='fa fa-at' aria-hidden="true"></i> {{ shop.shop.contact_email}}</a>{% endif %}{% if shop.shop.contact_number %}<a href='callto:{{ shop.shop.contact_number }}'><i class='fa fa-phone' aria-hidden="true"></i> {{ shop.shop.contact_number }}</a>{% endif %}</div>{% endcapture %}
-                            <div class="col-sm-6 business-block" data-latlng="{{ shop.shop.latlng }}" data-mapaddress="{{ shop.shop.mapaddress }}" data-marker="{{ marker }}" data-preview="{{ preview | escape }}" data-division="{{shop.shop.division }}" data-county="{{ shop.shop.county }}" data-type="{{ type }}">
-                            <h3><a class="" href="{{ shop.url }}">{{ shop.title }}</a></h3>
-                            {{ shop.shop.location | markdownify }}
-                            {% if shop.shop.contact_name %}<span class="contact-name"><i class="fa fa-user" aria-hidden="true"></i> {{ shop.shop.contact_name }}</span>{% endif %}
-                            {% if shop.shop.contact_email %}<a href="mailto:{{shop.shop.contact_email}}"><i class="fa fa-at" aria-hidden="true"></i> {{ shop.shop.contact_email }}</a>{% endif %}
-                            {% if shop.shop.contact_number %}<a href="callto:{{ shop.shop.contact_number }}"><i class="fa fa-phone" aria-hidden="true"></i> {{ shop.shop.contact_number }}</a>{% endif %}
-                            <a class="btn btn-pink night-btn" href="{{ shop.url }}"><span>More details</span></a>
+                    {% capture preview %}<div>{{ shop.shop.type | join: ' & '}}: <br /><span>{{ shop.shop.location |
+                            strip_newlines }}<br /></span>{% if shop.shop.contact_email %}<a
+                            href='mailto:{{ shop.shop.contact_email }}'><i class='fa fa-at' aria-hidden="true"></i> {{
+                            shop.shop.contact_email}}</a>{% endif %}{% if shop.shop.contact_number %}<a
+                            href='tel:{{ shop.shop.contact_number }}'><i class='fa fa-phone' aria-hidden="true"></i>
+                            {{ shop.shop.contact_number }}</a>{% endif %}</div>{% endcapture %}
+                        {% if shop.shop.county %}
+                        {% assign location = shop.shop.county %}
+                        {% else if shop.shop.division %}
+                        {% assign location = "Hertfordshire, " | append: shop.shop.division %}
+                        {% else %}
+                        {% assign location = "Hertfordshire" %}
+                        {% endif %}
+                    <div class="col business-block" data-latlng="{{ shop.shop.latlng }}"
+                        data-mapaddress="{{ shop.shop.mapaddress }}" data-marker="{{ marker }}"
+                        data-preview="{{ preview | escape }}" data-location="|{{ location }}|" data-type="|{{ type }}|">
+                        <div class="card h-100">
+                            <div class="card-body">
+                                <h3 class="card-title h5">{{ shop.title }}</h3>
+                                <p class="card-text">{{ shop.shop.location | markdownify }}</p>
                             </div>
-                       
-                    {% endfor %}              
+                            <div class="card-footer"><a class="btn btn-primary d-block stretched-link"
+                                    href="{{ shop.url }}">View<span class="visually-hidden"> {{
+                                        shop.title }}</span> {{ shop.shop.type | join: ' & ' | downcase }}</a></div>
+                        </div>
                     </div>
+                    {% endfor %}
                 </div>
-                  {% endfor %}  
-              </div>
-          </div>
-          <div class="col-sm-4 col-md-3 left-sidebar">
-            <div class="filter-result">
-                <h4>Filter results</h4>
+                {% endfor %}
+            </div>
+            <div class="col-md-4 col-xxl-3 mt-3 mt-md-0">
+                <div class="filter-result">
+                    <div class="filter-summary">
+                        <h4>Filter results</h4>
+                        <div class="d-md-none small js-selected-filters"></div>
+                    </div>
                     {% assign all_types= '' | split: '' %}
                     {% assign all_counties = '' | split: '' %}
                     {% assign all_locations = '' | split: '' %}
                     {% for shop in site.shops_nights %}
-                        {% assign showShop = false %}
-                        {% for t in shop.shop.type %}
-                        {% if types contains t %}
-                            {% assign showShop = true %}
-                            {% break %}
-                        {% endif %}
-                        {% endfor %}
-                        {% if showShop %}
-                            {% for t in shop.shop.type %}
-                                {% unless all_types contains t %}
-                                    {% assign tName = t | split: '_' %}
-                                    {% assign all_types = all_types | concat: tName %}
-                                {% endunless %}
-                            {% endfor %}
-                            {% if shop.shop.county != 'Hertfordshire' %}
-                                {% unless all_counties contains shop.shop.county %}
-                                    {% assign cName = shop.shop.county | split: '_' %}
-                                    {% assign all_counties = all_counties | concat: cName %}
-                                {% endunless %}
-                            {% endif %}
-                            {% unless shop.shop.division == 'Other' %}
-                                {% unless all_locations contains shop.shop.division %}
-                                    {% assign lName = shop.shop.division | split: '_' %}
-                                    {% assign all_locations = all_locations | concat: lName %}
-                                {% endunless %}
-                            {% endunless %}
-                        {% endif %}
+                    {% assign showShop = false %}
+                    {% for t in shop.shop.type %}
+                    {% if types contains t %}
+                    {% assign showShop = true %}
+                    {% break %}
+                    {% endif %}
                     {% endfor %}
-                {% if all_types.size > 1 %}
-                <h6>Type</h6>
-                <ul class="division type">
-                    {% for type in all_types %}
-                    <li><input type="checkbox" name="{{ type | slugify }}" id="division_filter_{{ type | slugify }}" value="{{ type }}" checked /><label for="division_filter_{{ type | slugify }}">{% include eventtypes.html type=type %}</label></li>
-                    {% endfor %}    
-                </ul>
-                {% endif %}
-                {% if all_locations.size > 0 or all_counties.size>0 %}
-                <h6>Location</h6>
-                <ul class="division location">
-                        <li><input type="checkbox" id="location-filter-hertfordshire" name="hertfordshire" checked value="Hertfordshire"/><label for="location-filter-hertfordshire">Hertfordshire</label>
-                    {% assign sortedLocations = all_locations | sort_natural %}
-                            <ul>
-                    {% for location in sortedLocations %}
-                    <li><input type="checkbox" id="location-filter-{{location | slugify }}" name="{{ location | slugify }}" value="{{ location }}" checked/><label for="location-filter-{{location | slugify }}">{{ location}} </label></li>
-                    {% endfor %}</ul>
-                        </li>
-                        {% if all_counties.size > 0 %}
-                        {% assign sortedLocations = all_counties | sort_natural %}
-                            <li><input type="checkbox" id="location-filter-other" name="other" value="Other"/><label for="location-filter-other">Other</label>
-                                <ul>
-                                {% for location in sortedLocations %}
-                                <li><input type="checkbox" id="location-filter-{{location | slugify }}" name="{{ location | slugify }}" value="{{ location }}"/><label for="location-filter-{{location | slugify }}">{{ location }} </label></li>
-                                {% endfor %}</ul></li>                            
-                        {% endif %}
-                    </ul>
-                {% endif %}
+                    {% if showShop %}
+                    {% for t in shop.shop.type %}
+                    {% unless all_types contains t %}
+                    {% assign tName = t | split: '_' %}
+                    {% assign all_types = all_types | concat: tName %}
+                    {% endunless %}
+                    {% endfor %}
+                    {% if shop.shop.county != 'Hertfordshire' %}
+                    {% unless all_counties contains shop.shop.county %}
+                    {% assign cName = shop.shop.county | split: '_' %}
+                    {% assign all_counties = all_counties | concat: cName %}
+                    {% endunless %}
+                    {% endif %}
+                    {% unless shop.shop.division == 'Other' %}
+                    {% unless all_locations contains shop.shop.division %}
+                    {% assign lName = shop.shop.division | split: '_' %}
+                    {% assign all_locations = all_locations | concat: lName %}
+                    {% endunless %}
+                    {% endunless %}
+                    {% endif %}
+                    {% endfor %}
+                    <div class="filter-options">
+                        <div class="row row-cols-2 row-cols-md-1">
+                            {% if all_types.size > 1 %}
+                            <div class="col">
+                                <h5>Type</h5>
+                                <ul class="division type">
+                                    {% for type in all_types %}
+                                    <li><input type="checkbox" name="{{ type | slugify }}"
+                                            id="division_filter_{{ type | slugify }}" value="{{ type }}"
+                                            /><label for="division_filter_{{ type | slugify }}">{%
+                                            include eventtypes.html type=type %}</label></li>
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                            {% endif %}
+                            {% if all_locations.size > 0 or all_counties.size>0 %}
+                            <div class="col">
+                                <h6>Location</h6>
+                                <ul class="division location">
+                                    <li><input type="checkbox" id="location-filter-hertfordshire" name="hertfordshire"
+                                            value="Hertfordshire" /><label
+                                            for="location-filter-hertfordshire">Hertfordshire</label>
+                                        {% assign sortedLocations = all_locations | sort_natural %}
+                                        <ul>
+                                            {% for location in sortedLocations %}
+                                            <li><input type="checkbox" id="location-filter-{{location | slugify }}"
+                                                    name="{{ location | slugify }}" value="Hertfordshire, {{ location }}"
+                                                     /><label for="location-filter-{{location | slugify }}">{{
+                                                    location}} </label></li>
+                                            {% endfor %}
+                                        </ul>
+                                    </li>
+                                    {% if all_counties.size > 0 %}
+                                    {% assign sortedLocations = all_counties | sort_natural %}
+                                    {% for location in sortedLocations %}
+                                    <li><input type="checkbox" id="location-filter-{{location | slugify }}"
+                                            name="{{ location | slugify }}" value="{{ location }}" /><label
+                                            for="location-filter-{{location | slugify }}">{{ location }} </label></li>
+                                    {% endfor %}
+                                    {% endif %}
+                                </ul>
+                            </div>
+                            {% endif %}
+                        </div>
+                    </div>
+
                 </div>
-          </div>
-      </div>
+            </div>
+        </div>
+    </div>
 </div>
-<script type="text/javascript">
-(function($){
-    var showBlock = function($block,$filters, dataName){
-                if (typeof($block)==="undefined" || $block==null){
-                    console.error("$block cannot be null");
-                    return true;
-                }
-                if ($filters.length==0){
-                    return true;
-                }
-                var categories=$block.data(dataName);
-                if (typeof(categories)==="undefined" || categories==null){
-                    console.warn("No data attribute: " + dataName);
-                    return true;
-                }
-                var showBlock=false;
-                $filters.each(function(index,obj){
-                    if (categories.indexOf($(this).val())>=0){
-                        showBlock=true;
-                    }
-                });
-                return showBlock;
-            }
-    var filterPosts = function(){
-        $(".business-block").hide();
-        var $type=$(".division.type input:checked");
-        var $location=$(".division.location input:checked");
-        $(".business-block").each(function(index,obj){
-            
-            if (showBlock($(this),$type,"type") && (showBlock($(this),$location,"division") || showBlock($(this),$location,"county"))){
-                $(this).show();
-            }
-        });
-    }
-    $(document).ready(function(){
-        $(".business-block[data-division='Other']").hide();
-        equalBlockHeight();
-         $(".division input").on("change",function(event){
-             console.log($(this).val());
-             if ($(this).val()==="Hertfordshire" || $(this).val()==="Other"){
-                 var checked=$(this).prop("checked");
-                 $(this).parent().find("li input").prop("checked",checked);
-             }
-             filterPosts();
-             equalBlockHeight();
-             LocationData=[];
-             $(".business-block").not(":hidden").each(function(){
-                 var latlng = $(this).data("latlng").split(',');
-                 var l=[latlng[0],latlng[1], $(this).data("mapaddress"), $(this).data("marker"),$(this).data("preview")];
-                 LocationData.push(l);
-             });
-             console.log(LocationData);
-             initialize();
-         });
-         
-        });
-})(jQuery);
-</script>
