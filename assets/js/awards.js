@@ -13,7 +13,7 @@ class Order {
         { "award": "gold", "type": "metal", "description": "Gold Award - Metal", "price": 2.15, "quantity": 0 }
     ]);
     orderItems;
-    deliveryOption = "Posted";
+    deliveryOption = "Posted1";
     deliveryAddress;
     orderTotal = 0;
 
@@ -127,7 +127,8 @@ class Order {
     get deliveryMethod() { return this.deliveryOption; }
     set deliveryMethod(value) {
         switch (value) {
-            case "Posted":
+            case "Posted1":
+            case "Posted2":
             case "Badge Secretary":
             case "West Herts Depot":
                 this.deliveryOption = value;
