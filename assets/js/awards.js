@@ -1,7 +1,7 @@
 class Order {
     customer = new Customer();
     girls = [];
-    items = [
+    items = JSON.stringify([
         { "award": "bronze", "type": "certificate", "description": "Bronze Award - Certificate", "price": 0.7, "quantity": 0 },
         { "award": "bronze", "type": "woven", "description": "Bronze Award - Woven", "price": 1.1, "quantity": 0 },
         { "award": "bronze", "type": "metal", "description": "Bronze Award - Metal", "price": 2.15, "quantity": 0 },
@@ -11,7 +11,8 @@ class Order {
         { "award": "gold", "type": "certificate", "description": "Gold Award - Certificate", "price": 0.7, "quantity": 0 },
         { "award": "gold", "type": "woven", "description": "Gold Award - Woven", "price": 1.1, "quantity": 0 },
         { "award": "gold", "type": "metal", "description": "Gold Award - Metal", "price": 2.15, "quantity": 0 }
-    ];
+    ]);
+    orderItems;
     deliveryOption = "Posted";
     deliveryAddress;
     orderTotal = 0;
@@ -39,7 +40,16 @@ class Order {
             <div class="invalid-feedback">Unit name is required</div>
         </div>
         <div class="col-1 d-lg-none"></div>
-        <div class="col-4 col-lg-2">
+        <div class="col-5 col-md-3 col-lg">
+            <label for="girlsSection${counter}" class="form-label">Section:</label>
+            <select id="girlsSection${counter}" class="form-select js-section">
+                <option value="rainbows">Rainbows</option>
+                <option value="brownies">Brownies</option>
+                <option value="guides">Guides</option>
+                <option value="rangers">Rangers</option>
+            </select>
+        </div>
+        <div class="col-4 col-md-3 col-lg">
             <label for="girlsAward${counter}" class="form-label">Award:</label>
             <select id="girlsAward${counter}" class="form-select js-award">
                 <option value="bronze">Bronze</option>
@@ -47,7 +57,9 @@ class Order {
                 <option value="gold">Gold</option>
             </select>
         </div>
-        <div class="col-7 col-lg-2 align-self-end">
+        <div class="col-2 d-md-none"></div>        
+        <div class="col-1 d-md-none"></div>
+        <div class="col-7 col-md-5 col-lg-2 align-self-end mt-3">
             <div class="form-check">
                 <label for="girlsComplete${counter}" class="form-check-label">Has completed<span class="d-lg-none"> award</span>?</label>
                 <input type="checkbox" class="form-check-input" id="girlsComplete${counter}" value="yes" />
@@ -56,17 +68,37 @@ class Order {
     </div>`;
     }
 
-    orderDetails(awards) {
+    orderDetails(sections) {
+        let orderTotal = 0;
         let order = "";
-        this.orderTotal = 0;
-        for (const item of this.items) {
-            if (awards[item.award] == 0) {
-                continue;
+        const orderItems = this.orderItems;
+        const sectionRow = this.sectionRow;
+        const itemRow = this.itemRow;
+        Object.keys(sections).forEach(function (section) {
+            const awards = sections[section];
+            console.log(awards);
+            const items = orderItems[section];
+            if (awards["bronze"] > 0 || awards["silver"] > 0 || awards["gold"] > 0) {
+                order += sectionRow(section);
             }
-            order += this.itemRow(item.description, item.award + "." + item.type, item.price, item.quantity);
-            this.orderTotal += item.price * item.quantity;
-        }
+            for (const item of items) {
+                if (awards[item.award] == 0) {
+                    continue;
+                }
+                console.log(item);
+                order += itemRow(item.description, item.award + "." + item.type, item.price, item.quantity);
+                orderTotal += item.price * item.quantity;
+            }
+        });
+        this.orderTotal = orderTotal;
         return order;
+    }
+    sectionRow(section) {
+        section = section[0].toUpperCase() + section.slice(1);
+        return `
+        <tr>
+            <th colspan="4" scope="colspan" class="bg-light-blue">${section}</th>
+        </tr>`;
     }
     itemRow(description, id, price, quantity) {
         return `
@@ -126,15 +158,21 @@ class Order {
     resetItems(awards) {
         this.updateItems(awards, true);
     }
-    updateItems(awards, clearWoven) {
-        for (const sku of this.items) {
-            if (sku.type !== 'woven') {
-                sku.quantity = awards[sku.award];
-            } else {
-                sku.quantity = clearWoven ? 0 : sku.quantity;
+    updateItems(sections, clearWoven) {
+        const orderItems = this.orderItems;
+        Object.keys(sections).forEach(function (section) {
+            const awards = sections[section];
+            const items = orderItems[section];
+            console.log(typeof (items));
+            for (const sku of items) {
+                if (sku.type !== 'woven') {
+                    sku.quantity = awards[sku.award];
+                } else {
+                    sku.quantity = clearWoven ? 0 : sku.quantity;
+                }
             }
-        }
-        console.log(this.items);
+        });
+        console.log(this.orderItems);
     }
     updateQuantity(id, value) {
         console.log(`${id} - ${value}`);
@@ -145,6 +183,12 @@ class Order {
     }
     constructor() {
         this.girls.push(new Girl());
+        this.orderItems = {
+            "rainbows": JSON.parse(this.items),
+            "brownies": JSON.parse(this.items),
+            "guides": JSON.parse(this.items),
+            "rangers": JSON.parse(this.items)
+        };
         this.save();
     }
 }
@@ -230,11 +274,17 @@ class Girl {
         return field.checkValidity();
     }
     function girlsAwards() {
-        let awardCount = { bronze: 0, silver: 0, gold: 0 };
+        const awardCount = { bronze: 0, silver: 0, gold: 0 };
+        const sections = {
+            "rainbows": Object.assign({}, awardCount),
+            "brownies": Object.assign({}, awardCount),
+            "guides": Object.assign({}, awardCount),
+            "rangers": Object.assign({}, awardCount)
+        };
         $(".js-award").each(function () {
-            awardCount[$(this).val()]++;
+            sections[$(this).closest(".row").find(".js-section").val()][$(this).val()]++;
         });
-        return awardCount;
+        return sections;
     }
     function updateOrders(awardCount) {
         $("#orderItems tr").remove();
@@ -249,17 +299,20 @@ class Girl {
         $("#goldAward").addClass("d-none");
         if (isValid(`girlsName${lastRow}`) && isValid(`girlsNumber${lastRow}`) && isValid(`girlsUnit${lastRow}`)) {
             $("#addGirl").prop("disabled", false);
-            $("#sendOrder").prop("disabled",false);
+            $("#sendOrder").prop("disabled", false);
             const awards = girlsAwards();
             if (event.target.id.indexOf("Award") > -1) {
                 order.resetItems(awards);
             }
             $(".js-no-girls").hide();
             $(".js-has-girls").removeClass("d-none");
-            console.log(`Gold awards ${awards.gold}`);
-            if (awards.gold > 0) {
-                $("#goldAward").removeClass("d-none");
-            }
+            Object.keys(awards).forEach(function (key) {
+                const section = awards[key];
+                console.log(`Gold awards ${section.gold}`);
+                if (section.gold > 0) {
+                    $("#goldAward").removeClass("d-none");
+                }
+            })
             console.log(`Incomplete awards? ${order.hasIncompleteAwards}`);
             if (order.hasIncompleteAwards) {
                 $("#incompleteNote").removeClass("d-none");
@@ -278,15 +331,15 @@ class Girl {
         console.log(event.target.id);
         const deliveryMethod = $(this).val();
         order.deliveryMethod = deliveryMethod;
-        switch (order.deliveryMethod){
+        switch (order.deliveryMethod) {
             case "Posted":
-                $("#postalAddress").prop("required",true);
+                $("#postalAddress").prop("required", true);
                 $(".js-collection").addClass("d-none");
                 $(".js-posted").removeClass("d-none");
                 break;
             case "Badge Secretary":
-            case "West Herts Depot":                
-                $("#postalAddress").prop("required",false);
+            case "West Herts Depot":
+                $("#postalAddress").prop("required", false);
                 $(".js-collection").removeClass("d-none");
                 $(".js-posted").addClass("d-none");
                 break;
@@ -298,7 +351,7 @@ class Girl {
         order.addGirl();
         $recipients.append(order.girlRow());
         $("#addGirl").prop("disabled", true);
-        $("#sendOrder").prop("disabled",true);
+        $("#sendOrder").prop("disabled", true);
     });
     // Loop over them and prevent submission
     Array.prototype.slice.call(forms)
