@@ -1,6 +1,7 @@
 ---
 title: International Day
 date: 2022-04-27T20:19:04.086Z
+published: false
 event:
   start_date: 2022-10-23
   end_date: ""
@@ -24,7 +25,7 @@ author:
   display_name: The County Office
   first_name: null
   last_name: null
-lastmod: 2022-04-28T21:30:29.263Z
+lastmod: 2022-10-27T18:57:59.221Z
 ---
 Come and join us on Sunday 23 October 2022 (10am – 4pm) for an exciting day exploring the five WAGGGS regions and take part in activities including drumming, Bollywood dancing, chocolate, crafts and much more in St Albans.
 

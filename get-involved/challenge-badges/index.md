@@ -47,25 +47,6 @@ Once learnt new skills can also be passed on to parents and beyond.
 
 <div class="clearfix"></div>
 
-## 1st Baldock Brownies Fundraising Challenge Badges
-{:#baldock}
-
-These badges have been designed by 1st Baldock Brownies and are part of their fundraising efforts for the Girlguiding Inca Trail Trek via Discover Adventure. The event is taking place in October 2022 (having been changed from a Great Wall of China trek which was due to take place 2020)
-
-<div class="row g-0 row-cols-2 row-cols-lg-4 justify-content-center">
-   <div class="col">
-   {% include baldock-badge-card.html title="Forest Bathing" src="/assets/images/2022/07/forest-bathing-challenge-badge.webp" alt="Forest Bathing Challenge Badge" name="Forest Bathing Challenge" download="/assets/docs/2022/challenge-badge-forest-bathing-pack.pdf" %}
-  </div>
-   <div class="col">
-   {% include baldock-badge-card.html title="Flower Power" src="/assets/images/2022/03/Flower-Power-Badge.webp" alt="Flower Power Challenge Badge" name="Flower Power Challenge" download="/assets/docs/challenge-badge-flower-power-pack.pdf" %}
-  </div>
-  <div class="col">
-  {% include baldock-badge-card.html title="Let the Sun Shine" src="/assets/images/2022/03/let-the-sun-shine-badge.webp" alt="Let the Sun Shine Challenge Badge" name="Let the Sun Shine Challenge" download="/wp-content/uploads/2021/04/Let-The-Sun-Shine-Challenge-Badge.pdf" %}
-  </div>
-</div>
-
-<div class="clearfix"></div>
-
 ## External Charity Challenge Badges
 
 {:.mt-4}
@@ -86,6 +67,12 @@ EHAAT can offer a tour at either of our Airbases in North Weald and Earls Colne,
 ## Previous Challenge Badges - Stock Still Available
 
 <div class="row g-0 row-cols-2 row-cols-lg-4 justify-content-center">
+<div class="col">
+   {% include baldock-badge-card.html title="Forest Bathing" src="/assets/images/2022/07/forest-bathing-challenge-badge.webp" alt="Forest Bathing Challenge Badge" %}
+  </div>
+  <div class="col">
+  {% include baldock-badge-card.html title="Let the Sun Shine" src="/assets/images/2022/03/let-the-sun-shine-badge.webp" alt="Let the Sun Shine Challenge Badge" %}
+  </div>
   <div class="col">
   {% include baldock-badge-card.html title="Marathon Challenge Badge" src="/assets/images/2022/09/marathon-challenge-badge.webp" alt="Marathon Challenge Badge" %}
   </div>

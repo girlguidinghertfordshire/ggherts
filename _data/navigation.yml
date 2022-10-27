@@ -68,8 +68,6 @@ county-teams:
   - title: Outdoor Activities
     url: /county-teams/outdoor/
     items:
-    - title: Paddlesports
-      url: /county-teams/outdoor/paddlesports/
     - title: Walks around Hertfordshire
       url: /county-teams/outdoor/walks/
     - title: How to find local routes
@@ -80,6 +78,8 @@ county-teams:
       url: /county-teams/outdoor/social-walking/
     - title: Outdoor training
       url: /county-teams/outdoor/training/
+    - title: Watersports
+      url: /county-teams/outdoor/watersports/
   - title: Trefoil Guild
     url: /county-teams/trefoil
     items:
