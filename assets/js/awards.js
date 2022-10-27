@@ -1,7 +1,7 @@
 class Order {
     customer = new Customer();
     girls = [];
-    items = JSON.stringify([
+    #items = JSON.stringify([
         { "award": "bronze", "type": "certificate", "description": "Bronze Award - Certificate", "price": 0.7, "quantity": 0 },
         { "award": "bronze", "type": "woven", "description": "Bronze Award - Woven", "price": 1.1, "quantity": 0 },
         { "award": "bronze", "type": "metal", "description": "Bronze Award - Metal", "price": 2.15, "quantity": 0 },
@@ -90,7 +90,7 @@ class Order {
                 orderTotal += item.price * item.quantity;
             }
         });
-        this.orderTotal = orderTotal;
+        this.orderTotal = orderTotal.round(2);
         return order;
     }
     sectionRow(section) {
@@ -185,10 +185,10 @@ class Order {
     constructor() {
         this.girls.push(new Girl());
         this.orderItems = {
-            "rainbows": JSON.parse(this.items),
-            "brownies": JSON.parse(this.items),
-            "guides": JSON.parse(this.items),
-            "rangers": JSON.parse(this.items)
+            "rainbows": JSON.parse(this.#items),
+            "brownies": JSON.parse(this.#items),
+            "guides": JSON.parse(this.#items),
+            "rangers": JSON.parse(this.#items)
         };
         this.save();
     }
