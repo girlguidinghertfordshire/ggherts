@@ -14,6 +14,7 @@ event:
     - Activity
     - Residential
     - Social
+    - DofE
   age-group:
     - Rangers
     - Young Leaders
@@ -25,12 +26,19 @@ event:
     - Peak District
 author:
   display_name: The County Office
-lastmod: 2022-10-06T20:29:26.136Z
+lastmod: 2022-10-30T12:40:25.280Z
 ---
 Mountain Experience is a fun walking/navigation weekend primarily for **Rangers** (adults also welcome) to improve upon personal skills whilst meeting likeminded individuals.  
 
 Indoor accommodation available.
 
-**Cost:** £70
+**Cost:** £70*
+
+[Find out more](/assets/docs/2022/mountain-experience-mar-2023.pdf){:.btn.btn-secondary.download-link}{:target="_blank"}{:rel="noopener noreferrer"}
 
 Please contact <walking@girlguidinghertfordshire.org.uk> with any questions, or to apply.
+
+{:.small}
+*Financial assistance may be available if needed
+
+[Book a place](https://forms.gle/YtMmzQZzqRocK4nN9){:.btn.btn-primary.d-block}
