@@ -20,6 +20,13 @@ about-us:
     items:
       - title: Accessing Learning Platform
         url: /go/
+      - title: Expenses
+        url: /about-us/resources/expenses/
+        items: 
+          - title: Commissioners and County Advisers
+            url: /about-us/resources/expenses/commissioners/
+          - title: County Trainers
+            url: /about-us/resources/expenses/trainers/
   - title: Membership System Updates
     url: /membership-system-updates/
   - title: Wellbeing Resources

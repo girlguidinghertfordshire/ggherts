@@ -33,7 +33,7 @@ Where photos feature groups of girls, this form should be completed by leaders c
 
 This form is for county grant/loan applications for works/projects on properties leased/owned by Girlguiding Hertfordshire units/districts/divisions
 
-<h5><a href="/wp-content/uploads/2021/05/Girlguiding-Hertfordshire-Expenses-Claim-Form-2021.xlsx">Girlguiding Hertfordshire Expenses Claim Form</a></h5>
+##### [Girlguiding Hertfordshire Expenses policy and claim form](/about-us/resources/expenses/)
 
 <h5><a href="/wp-content/uploads/2021/05/Girlguiding-Hertfordshire-Letterhead.doc">Girlguiding Hertfordshire Letterhead</a></h5>
 <p>This letterhead is fully editable and may be opened in Microsoft Word or other word processing software.</p>
