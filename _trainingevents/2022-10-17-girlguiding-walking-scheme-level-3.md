@@ -1,6 +1,7 @@
 ---
 title: Girlguiding Walking Scheme Level 3
 date: 2022-07-04T20:08:50.353Z
+published: false
 event:
   start_date: 2022-10-17
   end_date: 2022-10-22

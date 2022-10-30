@@ -2,12 +2,13 @@
 title: Kids in the Wild
 date: 2022-04-06T21:04:05.913Z
 image: /assets/images/2022/04/kids-in-the-wild-logo.webp
+published: false
 categories:
   - Notice
 tags: []
 author:
   display_name: The County Office
-lastmod: 2022-04-06T21:25:51.670Z
+lastmod: 2022-10-27T18:53:53.000Z
 ---
 Love Productions, the makers of *The Great British Bake Off* and *Junior Bake Off,* are making a brand new series for Channel 4, and are looking to find kids to take part in a once in-a-lifetime wild camping adventure this summer.
 

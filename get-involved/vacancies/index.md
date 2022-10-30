@@ -15,7 +15,25 @@ lastmod: 2022-04-24T07:01:49.097Z
 ---
 ## Current Volunteer Vacancies
 
-We have a fantastic team of volunteers who look to the County Team for guidance, support and vision. As part of this County Team structure we are looking for new advisers to help the County to move forward and be the best that we can be.  All members of the team need to fully embrace the programme and spread passion and enthusiasm for guiding.
+We have fantastic volunteers who look to the county team for guidance, support and vision. We are looking for new advisers and trainers to fully embrace the programme, spread passion and enthusiasm for guiding to help the county move forward.
+
+### Trainers
+
+![](/assets/images/2022/10/bat-vacancies.webp){:.pull-right}{:width="280"}
+
+<div class="clearfix d-sm-none"></div>
+
+We want to ensure that we can offer regular, high quality training opportunities to all our adult members in the county and region.
+
+Girlguiding Hertfordshire is therefore looking for new Trainers to join the Anglia Training Team.
+
+Visit the [‘Becoming a Trainer’](https://www.girlguiding.org.uk/making-guiding-happen/learning-and-development/helping-others-to-learn/becoming-a-trainer/){:.external-link}{:rel="noopener"}{:target="_blank"} section of the Girlguiding website to find out more about what is involved.
+
+Be that role model for other volunteers and help ensure excellence and consistency across our organisation.
+
+If you would like to apply please complete the application form and email it to Anglia region via <angliahq@girlguiding-anglia.org.uk>.
+
+[Trainer Application Form](/assets/docs/2022/becoming-a-trainer-application-form.docx){:.download-link.btn.btn-primary}{:rel="noopener"}{:target="_blank"}
 
 ### Growth & Retention Working Team
 

@@ -2,12 +2,13 @@
 title: Festival of the Girl
 date: 2022-09-29T19:59:25.644Z
 image: /assets/images/2022/09/festival_of_girl.webp
+published: false
 categories:
   - Notice
 tags: []
 author:
   display_name: The County Office
-lastmod: 2022-09-29T20:12:43.087Z
+lastmod: 2022-10-27T18:53:20.871Z
 ---
 This year's [Festival of The Girl](https://www.festivalofthegirl.com/){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"} is on Sunday 9th October at the Business Design Centre Islington, North London and we've got discounted tickets for all Girlguiding groups who can join us!
 

@@ -1,6 +1,7 @@
 ---
 title: Social Walking, Scottish Highlands
 date: 2022-07-04T20:08:50.353Z
+published: false
 event:
   start_date: 2022-10-17
   end_date: 2022-10-22
@@ -22,7 +23,7 @@ event:
     - Scotland
 author:
   display_name: The County Office
-lastmod: 2022-09-07T21:03:05.078Z
+lastmod: 2022-10-27T18:57:38.410Z
 ---
 For adults, taking place during the week of Monday 17 Oct - Saturday 22 October.
 

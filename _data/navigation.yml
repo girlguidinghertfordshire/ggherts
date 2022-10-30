@@ -20,6 +20,13 @@ about-us:
     items:
       - title: Accessing Learning Platform
         url: /go/
+      - title: Expenses
+        url: /about-us/resources/expenses/
+        items: 
+          - title: Commissioners and County Advisers
+            url: /about-us/resources/expenses/commissioners/
+          - title: County Trainers
+            url: /about-us/resources/expenses/trainers/
   - title: Membership System Updates
     url: /membership-system-updates/
   - title: Wellbeing Resources
@@ -54,6 +61,9 @@ county-teams:
     url: /about-us/county-team/
   - title: Youth Opportunities
     url: /youth-opportunities/
+    items:
+      - title: Duke of Edinburgh's Award
+        url: /youth-opportunities/dofe/
   - title: International Adventures
     url: /international-adventures/
     items:
@@ -68,8 +78,6 @@ county-teams:
   - title: Outdoor Activities
     url: /county-teams/outdoor/
     items:
-    - title: Paddlesports
-      url: /county-teams/outdoor/paddlesports/
     - title: Walks around Hertfordshire
       url: /county-teams/outdoor/walks/
     - title: How to find local routes
@@ -80,6 +88,8 @@ county-teams:
       url: /county-teams/outdoor/social-walking/
     - title: Outdoor training
       url: /county-teams/outdoor/training/
+    - title: Watersports
+      url: /county-teams/outdoor/watersports/
   - title: Trefoil Guild
     url: /county-teams/trefoil
     items:
