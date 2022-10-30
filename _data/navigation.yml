@@ -61,6 +61,9 @@ county-teams:
     url: /about-us/county-team/
   - title: Youth Opportunities
     url: /youth-opportunities/
+    items:
+      - title: Duke of Edinburgh's Award
+        url: /youth-opportunities/dofe/
   - title: International Adventures
     url: /international-adventures/
     items:
