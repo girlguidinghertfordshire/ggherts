@@ -2,20 +2,21 @@
 layout: page-v5
 title: Outdoors useful apps
 date: 2021-11-21T12:10:26.889Z
+banner_image: /assets/images/core/outdoor-banner.webp
 toc: county-teams
 lastmod: 2022-09-29T21:18:28.251Z
 ---
 
 ## Apps for Safety
 
-First things first, wherever you are whatever you are doing make, sure you and your units can locate exactly where you are.  Something that is crucial in an emergency.  Free apps which enable you to pinpoint your location for emergency services are:
+First things first, when out and about, it is crucial that you and your unit know exactly what your location is, in case of an emergency.  Free apps, which enable you to pinpoint your location are
 
 - **OS Locate:** <https://shop.ordnancesurvey.co.uk/apps/other-apps/os-locate/>{:target="_blank"}{:rel="noopener noreferrer"}
 - **What3Words:** <https://what3words.com/about>{:target="_blank"}{:rel="noopener noreferrer"}
 
 ## Apps for planning/recording routes
 
-There are also many apps which allow you to plan walking, cycling and running routes and also have a number of routes designed by its members.  Some are free, others require subscription fees to be paid.  Examples are: 
+There are many apps which allow you to plan walking, cycling and running routes and also have a number of routes designed by its members.  Some are free, others require subscription fees to be paid.  Examples are:
 
 - <https://komoot.com>{:target="_blank"}{:rel="noopener noreferrer"}
 - <https://osmaps.ordnancesurvey.co.uk>{:target="_blank"}{:rel="noopener noreferrer"}
@@ -36,10 +37,11 @@ Geocaching is and fun activity for units to take part in.  Popular apps are:
 ## Apps for identifying nature
 
 Want to know what birds you are hearing when out and about try: <https://birdnet.cornell.edu>{:target="_blank"}{:rel="noopener noreferrer"}
-
-![](/assets/images/2021/11/outdoor1.jpg) ![](/assets/images/2021/11/outdoor2-sm.jpg)
   
-Not sure what that was you just saw then try:
+Not sure what you just saw or heard? Then try:
 
+- <https://birdnet.cornell.edu>{:target="_blank"}{:rel="noopener noreferrer"}
 - <https://www.inaturalist.org/pages/seek_app>{:target="_blank"}{:rel="noopener noreferrer"}
 - <https://identify.plantnet.org>{:target="_blank"}{:rel="noopener noreferrer"}
+
+![](/assets/images/2021/11/outdoor1.jpg) ![](/assets/images/2021/11/outdoor2-sm.jpg)
