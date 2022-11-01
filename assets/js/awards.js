@@ -1,5 +1,6 @@
 class Order {
-    customer = new Customer();
+    email;
+    name;
     girls = [];
     #items = JSON.stringify([
         { "award": "bronze", "type": "certificate", "description": "Bronze Award - Certificate", "price": 0.7, "quantity": 0 },
@@ -20,7 +21,7 @@ class Order {
     girlRow() {
         const counter = this.girls.length - 1;
         return `<div class="row mb-3">
-        <div class="col-1 align-self-end">${counter + 1}.</div>
+        <div class="col-1 col-lg-auto align-self-end">${counter + 1}.</div>
         <div class="col-7 col-md-4 col-lg">
             <label for="girlsName${counter}" class="form-label">Name:</label>
             <input type="text" class="form-control" minlength="3" maxlength="50" id="girlsName${counter}"
@@ -40,7 +41,7 @@ class Order {
             <div class="invalid-feedback">Unit name is required</div>
         </div>
         <div class="col-1 d-lg-none"></div>
-        <div class="col-5 col-md-3 col-lg">
+        <div class="col-6 col-md-3 col-lg">
             <label for="girlsSection${counter}" class="form-label">Section:</label>
             <select id="girlsSection${counter}" class="form-select js-section">
                 <option value="rainbows">Rainbows</option>
@@ -49,22 +50,22 @@ class Order {
                 <option value="rangers">Rangers</option>
             </select>
         </div>
-        <div class="col-4 col-md-3 col-lg">
+        <div class="col-5 col-md-3 col-lg">
             <label for="girlsAward${counter}" class="form-label">Award:</label>
             <select id="girlsAward${counter}" class="form-select js-award">
                 <option value="bronze">Bronze</option>
                 <option value="silver">Silver</option>
                 <option value="gold">Gold</option>
             </select>
-        </div>
-        <div class="col-2 d-md-none"></div>        
+        </div>       
         <div class="col-1 d-md-none"></div>
-        <div class="col-7 col-md-5 col-lg-2 align-self-end mt-3">
+        <div class="col-6 col-md-3 col-lg-auto mt-3 mt-lg-0">
             <div class="form-check">
-                <label for="girlsComplete${counter}" class="form-check-label">Has completed<span class="d-lg-none"> award</span>?</label>
-                <input type="checkbox" class="form-check-input" id="girlsComplete${counter}" value="yes" />
+                <label for="girlsComplete${counter}" class="form-check-label">Award completed?</label>
+                <input type="checkbox" class="form-check-input mt-lg-2" id="girlsComplete${counter}" value="yes" />
             </div>
         </div>
+        <div class="col-auto align-self-end"><button type="button" class="btn btn-sm btn-outline-dark js-delete" id="girlsDelete${counter}" title="Remove recipient"><i class="fa fa-trash-o" aria-hidden="true"></i><span class="d-lg-none"> Remove</span</button>
     </div>`;
     }
 
@@ -90,7 +91,7 @@ class Order {
                 orderTotal += item.price * item.quantity;
             }
         });
-        this.orderTotal = orderTotal.round(2);
+        this.orderTotal = orderTotal.toFixed(2);
         return order;
     }
     sectionRow(section) {
@@ -138,13 +139,16 @@ class Order {
         }
     }
     get Address() { return this.deliveryAddress; }
-    set Address(value) { this.deliveryAddress = value; }
+    set Address(value) { 
+        this.deliveryAddress = value;
+        this.save();
+     }
     addGirl() {
         this.girls.push(new Girl());
     }
     updateCustomer(name, email) {
-        this.customer.Name = name;
-        this.customer.Email = email;
+        this.name = name;
+        this.email = email;
         this.save();
     }
     updateGirls(id, value) {
@@ -191,23 +195,6 @@ class Order {
             "rangers": JSON.parse(this.#items)
         };
         this.save();
-    }
-}
-
-class Customer {
-    name = "";
-    email = "";
-    get Name() {
-        return this.name;
-    }
-    set Name(value) {
-        this.name = value;
-    }
-    get Email() {
-        return this.email;
-    }
-    set Email(value) {
-        this.email = value;
     }
 }
 
@@ -347,6 +334,9 @@ class Girl {
             default:
                 throw new Error("Invalid operation");
         }
+    });
+    $("#postalAddress").on("change",function(){
+        order.Address=$(this).val();
     });
     $("#addGirl").on("click", function () {
         order.addGirl();
