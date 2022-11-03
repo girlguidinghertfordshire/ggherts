@@ -1,6 +1,6 @@
 ---
 layout: page-v5
-title: Walks around Hertfordshire
+title: Walks and Trails
 date: 2021-11-21T12:10:26.889Z
 banner_image: /assets/images/core/walking-banner.webp
 toc: county-teams

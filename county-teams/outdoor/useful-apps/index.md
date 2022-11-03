@@ -32,11 +32,8 @@ Geocaching is and fun activity for units to take part in.  Popular apps are:
 
 - <https://www.geocaching.com>{:target="_blank"}{:rel="noopener noreferrer"}
 - <http://www.cach.ly>{:target="_blank"}{:rel="noopener noreferrer"}
-- <http://www.c:geo.org>{:target="_blank"}{:rel="noopener noreferrer"}
 
 ## Apps for identifying nature
-
-Want to know what birds you are hearing when out and about try: <https://birdnet.cornell.edu>{:target="_blank"}{:rel="noopener noreferrer"}
   
 Not sure what you just saw or heard? Then try:
 
