@@ -24,7 +24,7 @@ Alternatively, **Anglia region** offer regular trips - see the [Anglia Events we
 
 ## Newsletter
 
-See what the Walking Team have been up to recently, and what they have planned for the future in the latest Walking Team newsletter:
+See what the Walking Team have been up to recently, and what they have planned for the future:
 
 ![](/assets/images/core/walking-team-ident.webp){:.w-75.d-lg-none.mb-3}
 ![](/assets/images/core/walking-team-ident.webp){:.float-lg-end.ms-3.mb-3.w-50.d-none.d-lg-inline}
