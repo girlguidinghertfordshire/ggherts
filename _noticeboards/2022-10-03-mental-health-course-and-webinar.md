@@ -2,13 +2,14 @@
 title: Mental Health course and webinar
 date: 2022-10-03T20:12:21.786Z
 image: /assets/images/2022/10/st_john_ambulance.webp
+published: false
 image_filter: false
 categories:
   - Notice
 tags: []
 author:
   display_name: The County Office
-lastmod: 2022-10-27T18:55:25.529Z
+lastmod: 2022-11-01T19:47:08.609Z
 ---
 With World Mental Health Day taking place on Monday 10 October, St John Ambulance are, this month, offering a free Introduction to Mental Health online course, which provides an introduction to the subject and looks at mental health in the workplace and more.
 

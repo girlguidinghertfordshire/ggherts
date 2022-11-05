@@ -35,6 +35,8 @@ Indoor accommodation provided.
 
 [Find out more](/assets/docs/2022/mountain-experience-mar-2023.pdf){:.btn.btn-secondary.download-link}{:target="_blank"}{:rel="noopener noreferrer"}
 
+**Closing date** for applications is **3rd December 2022**
+
 Please contact <walking@girlguidinghertfordshire.org.uk> with any questions, or to apply.
 
 {:.small}

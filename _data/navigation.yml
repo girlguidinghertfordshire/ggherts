@@ -78,16 +78,12 @@ county-teams:
   - title: Outdoor Activities
     url: /county-teams/outdoor/
     items:
-    - title: Walks around Hertfordshire
+    - title: Walking
+      url: /county-teams/outdoor/walking/
+    - title: Walks and Trails
       url: /county-teams/outdoor/walks/
-    - title: How to find local routes
-      url: /county-teams/outdoor/walks/local-routes/
     - title: Outdoors useful apps
       url: /county-teams/outdoor/useful-apps/
-    - title: Social Walking
-      url: /county-teams/outdoor/social-walking/
-    - title: Outdoor training
-      url: /county-teams/outdoor/training/
     - title: Watersports
       url: /county-teams/outdoor/watersports/
   - title: Trefoil Guild
