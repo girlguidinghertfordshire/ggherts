@@ -22,9 +22,12 @@ We are looking for an enthusiastic, friendly and organised person to join our co
 
 [Job Description](/assets/docs/2022/growth-and-retention-co-ordinator-job-description.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
 
+{:.clearfix}
 Please apply via <cc@girlguidinghertfordshire.org.uk>
 
 **Deadline for applications:** Friday 18 November 2022
+
+___
 
 ### Working Team
 
@@ -40,9 +43,24 @@ We would like to have members from a range of volunteer roles as well as members
 
 For more information or to get involved contact Sally Settle, Assistant County Commissioner - Members: <sallyACC@girlguidinghertfordshire.org.uk>
 
+___
+
 ## Current Volunteer Vacancies
 
 We have fantastic volunteers who look to the county team for guidance, support and vision. We are looking for new advisers and trainers to fully embrace the programme, spread passion and enthusiasm for guiding to help the county move forward.
+
+### County Residential Adviser
+
+![](/assets/images/2022/11/county-residential-adviser.webp){:.float-end.ms-4.mt-4}
+Could you support volunteers who would like to gain their Going Away licence, so they can offer girls exciting residential opportunities?
+
+We are looking for an enthusiastic volunteer, or two (sharing this role) to promote, encourage and be responsible for the County's camping and residential holidays.
+
+If this sounds like you, find out more about this exciting opportunity below or email <cc@girlguidinghertfordshire.org.uk> for further details or to apply.
+
+[Role Description](/assets/docs/2022/county-residential-adviser-role-description.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
+
+___
 
 ### Trainers
 
@@ -62,16 +80,18 @@ If you would like to apply please complete the application form and email it to 
 
 [Trainer Application Form](/assets/docs/2022/becoming-a-trainer-application-form.docx){:.download-link.btn.btn-primary}{:rel="noopener"}{:target="_blank"}
 
-
-
-<div class="clearfix"></div>
+___
 
 ### Inclusion Team
-<p class="clearfix">
-<img src="/assets/images/2021/09/inclusionteam.png" alt="" class="pull-right" style="padding:15px"/>
-Working with Lead Advisors at HQ, we are still looking for county volunteers to help give support to leaders in aspects of being fully inclusive.  Please get in touch if you would like to get involved. <a href="mailto:cc@girlguidinghertfordshire.org.uk">cc@girlguidinghertfordshire.org.uk</a></p>
+
+{:.clearfix}
+![](/assets/images/2021/09/inclusionteam.png){:.float-end.ms-4.mb-3}
+Working with Lead Advisors at HQ, we are still looking for county volunteers to help give support to leaders in aspects of being fully inclusive.  Please get in touch if you would like to get involved. <cc@girlguidinghertfordshire.org.uk>
+
+___ 
 
 ### Outdoor Team
+
 <p class="clearfix"><img src="/assets/images/2021/09/outdoor.png" alt="" style="float:left;padding:15px"/>
 Do you enjoy walking, water activities, archery, climbing or something else?  If you enjoy being outdoors, this could be the perfect team for you to join. Contact <a href="mailto:outdoors@girlguidinghertfordshire.org.uk">outdoors@girlguidinghertfordshire.org.uk</a></p>
 
