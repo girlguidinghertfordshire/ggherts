@@ -10,6 +10,7 @@ _Essential News_ is sent to all **Girlguiding Hertfordshire** members by email o
 
 ## 2022
 
+- [November 2022](https://mailchi.mp/de4c603fc70c/november-2022-essential-news-9761519){:target="_blank"}{:.external-link.lead}{:rel="noreferrer noopener"}
 - [October 2022](https://mailchi.mp/fa958ee957d9/october-2022-essential-news-9004423){:target="_blank"}{:.external-link.lead}{:rel="noreferrer noopener"}
 - [September 2022](https://mailchi.mp/ec89a5e1d512/september-2022-essential-news-8989239){:target="_blank"}{:.external-link}{:rel="noreferrer noopener"}
 - August 2022 (no newsletter)
