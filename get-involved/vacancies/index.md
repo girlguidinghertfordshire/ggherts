@@ -13,6 +13,33 @@ author:
 permalink: /get-involved/vacancies/
 lastmod: 2022-04-24T07:01:49.097Z
 ---
+## Growth & Retention
+
+### Growth & Retention Coordinator
+
+![](/assets/images/2022/11/g-r-coordinator.webp){:.float-end.ms-3.mb-3}{:width="280"}{:height="280"}
+We are looking for an enthusiastic, friendly and organised person to join our county team for 20 hours a week, term time only to enable growth in volunteer membership numbers within the county, support existing volunteers to develop into qualified leaders, ensure the recruitment process is smoother and quicker for all involved and a suitable placement is found.  You will also work with volunteers to ensure they are in the right role and assist with a change if required.
+
+[Job Description](/assets/docs/2022/growth-and-retention-co-ordinator-job-description.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
+
+Please apply via <cc@girlguidinghertfordshire.org.uk>
+
+**Deadline for applications:** Friday 18 November 2022
+
+### Working Team
+
+![](/assets/images/2022/01/growth-retention-vacancy_sm.jpg){:.pull-right}{:width="280"}{:height="200"}
+
+<div class="clearfix d-sm-none"></div>
+
+The Growth & Retention Team are looking for new enthusiastic and keen people to make a difference.
+
+We would like to have members from a range of volunteer roles as well as members from different areas of the county and are looking for people who are enthusiastic and would like to make a difference to the future of Girlguiding Hertfordshire.
+
+[Role Description](/wp-content/uploads/2021/05/Growth-and-Retention-Team-Role-Desc.pdf){:.download-link.btn.btn-primary}
+
+For more information or to get involved contact Sally Settle, Assistant County Commissioner - Members: <sallyACC@girlguidinghertfordshire.org.uk>
+
 ## Current Volunteer Vacancies
 
 We have fantastic volunteers who look to the county team for guidance, support and vision. We are looking for new advisers and trainers to fully embrace the programme, spread passion and enthusiasm for guiding to help the county move forward.
@@ -35,19 +62,7 @@ If you would like to apply please complete the application form and email it to 
 
 [Trainer Application Form](/assets/docs/2022/becoming-a-trainer-application-form.docx){:.download-link.btn.btn-primary}{:rel="noopener"}{:target="_blank"}
 
-### Growth & Retention Working Team
 
-![](/assets/images/2022/01/growth-retention-vacancy_sm.jpg){:.pull-right}{:width="280"}{:height="200"}
-
-<div class="clearfix d-sm-none"></div>
-
-The Growth & Retention Team are looking for new enthusiastic and keen people to make a difference.
-
-We would like to have members from a range of volunteer roles as well as members from different areas of the county and are looking for people who are enthusiastic and would like to make a difference to the future of Girlguiding Hertfordshire.
-
-[Role Description](/wp-content/uploads/2021/05/Growth-and-Retention-Team-Role-Desc.pdf){:.download-link.btn.btn-primary}
-
-For more information or to get involved contact Sally Settle, Assistant County Commissioner - Members: <sallyACC@girlguidinghertfordshire.org.uk>
 
 <div class="clearfix"></div>
 
