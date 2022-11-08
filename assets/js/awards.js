@@ -30,7 +30,7 @@ class Order {
         </div>
         <div class="col-4 col-md-2">
             <label for="girlsNumber${counter}" class="form-label">Memb<span class="d-none d-xxl-inline">ership</span> number:</label>
-            <input type="tel" class="form-control" pattern="[0-9]{5,10}" minlength="5" maxlength="10" id="girlsNumber${counter}"
+            <input type="tel" class="form-control" pattern="[0-9]{5,15}" minlength="5" maxlength="10" id="girlsNumber${counter}"
                 name="girls_number_${counter}" required />
             <div class="invalid-feedback">Membership number is required</div>
         </div>
@@ -65,7 +65,7 @@ class Order {
                 <input type="checkbox" class="form-check-input mt-lg-2" id="girlsComplete${counter}" value="yes" />
             </div>
         </div>
-        <div class="col-auto align-self-end"><button type="button" class="btn btn-sm btn-outline-dark js-delete" id="girlsDelete${counter}" title="Remove recipient"><i class="fa fa-trash-o" aria-hidden="true"></i><span class="d-lg-none"> Remove</span</button>
+        <div class="col-auto align-self-end d-none"><button type="button" class="btn btn-sm btn-outline-dark js-delete" id="girlsDelete${counter}" title="Remove recipient"><i class="fa fa-trash-o" aria-hidden="true"></i><span class="d-lg-none"> Remove</span</button>
     </div>`;
     }
 
