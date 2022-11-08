@@ -1,6 +1,7 @@
 ---
 title: Social Walking Weekend, Peak District
 date: 2022-04-20T19:22:36.297Z
+published: false
 event:
   start_date: 2022-11-04
   end_date: 2022-11-06
@@ -22,7 +23,7 @@ event:
     - Peak District
 author:
   display_name: The County Office
-lastmod: 2022-07-05T19:19:10.522Z
+lastmod: 2022-11-08T19:54:53.603Z
 ---
 Come along and enjoy a social walking weekend, for Adults (M or F aged 18+), in the Peak District from Friday 4 - Sunday 6 November.
 

@@ -1,6 +1,7 @@
 ---
 title: Girlguiding Walking Scheme Level 2
 date: 2022-04-20T19:22:36.297Z
+published: false
 event:
   start_date: 2022-11-04
   end_date: 2022-11-06
