@@ -1,0 +1,15 @@
+<div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+    <div class="col p-4 d-flex flex-column position-static">
+        <h3 class="mb-0" id="{{ include.title | slugify }}">{{ include.title }}</h3>
+        {% if include.deadline %}
+        <div class="mb-1 text-muted"><strong>Deadline for applications:</strong> {{include.deadline }}</div>
+        {% endif %}
+        <p class="card-text mb-auto">{{ include.description | markdownify }}</p>
+        {% if include.download and include.button-text %}
+        <a href="{{ include.download }}" class="btn btn-primary download-link">{{include.button-text }}<span class="visually-hidden"> for {{include.title}}</span></a>
+        {% endif %}
+    </div>
+    <div class="col-auto d-none d-lg-block">
+        <img src="{{ include.img}}" width="280" alt="" />
+    </div>
+</div>
