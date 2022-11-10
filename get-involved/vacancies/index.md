@@ -66,6 +66,6 @@ Working with Lead Advisors at HQ, we are still looking for county volunteers to 
 {% include vacancy.html title="Inclusion Team" description=description img="/assets/images/2021/09/inclusionteam.png" %}
 
 {% capture description %}
-Do you enjoy walking, water activities, archery, climbing or something else?  If you enjoy being outdoors, this could be the perfect team for you to join. Contact <outdoors@girlguidinghertfordshire.org.uk>
+Do you enjoy walking, water activities, archery, climbing or something else?  If you enjoy being outdoors, this could be the perfect team for you to join. Contact <cc@girlguidinghertfordshire.org.uk>
 {% endcapture %}
 {% include vacancy.html title="Outdoor Team" description=description img="/assets/images/2021/09/outdoor.png" %}
