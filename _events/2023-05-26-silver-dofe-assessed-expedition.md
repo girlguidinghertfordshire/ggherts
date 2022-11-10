@@ -25,11 +25,9 @@ event:
     - Peak District
 author:
   display_name: The County Office
-lastmod: 2022-11-09T23:03:04.093Z
+lastmod: 2022-11-10T19:24:02.493Z
 ---
 This weekend is aimed at anyone undertaking their **Silver Duke of Edinburgh's Award**.
-
-The structure of the weekend will be as follows: a short walk, camp, day walk, camp, day walk
 
 **Cost** – approx. £70\* plus food (\*will include travel up on Friday evening)
 
