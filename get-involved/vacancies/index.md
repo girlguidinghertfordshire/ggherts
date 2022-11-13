@@ -61,11 +61,6 @@ If you would like to apply please complete the application form and email it to 
 {% include vacancy.html title="Trainers" description=description button-text="Role Description" download="/assets/docs/2022/becoming-a-trainer-application-form.docx" img="/assets/images/2022/10/bat-vacancies.webp" %}
 
 {% capture description %}
-Working with Lead Advisors at HQ, we are still looking for county volunteers to help give support to leaders in aspects of being fully inclusive.  Please get in touch if you would like to get involved. <cc@girlguidinghertfordshire.org.uk>
-{% endcapture %}
-{% include vacancy.html title="Inclusion Team" description=description img="/assets/images/2021/09/inclusionteam.png" %}
-
-{% capture description %}
 Do you enjoy walking, water activities, archery, climbing or something else?  If you enjoy being outdoors, this could be the perfect team for you to join. Contact <cc@girlguidinghertfordshire.org.uk>
 {% endcapture %}
 {% include vacancy.html title="Outdoor Team" description=description img="/assets/images/2021/09/outdoor.png" %}
