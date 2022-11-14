@@ -10,10 +10,9 @@ _Billboard_ is sent to all Girlguiding Hertforshire Members who have set their c
 
 ## Recent editions
 
+- [November 2022](https://mailchi.mp/15eb6f2601f8/nov-2022-billboard-13513828){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [October 2022](https://mailchi.mp/6e3588d46675/oct-2022-billboard-13511564){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [September 2022](https://mailchi.mp/d76fe1dec005/sept-2022-billboard-13506144){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
-- August 2022 - no edition
-- [July 2022](https://mailchi.mp/6407b730a1e6/july-2022-billboard-13503552){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 
 [Older editions](#older-editions){:.small}
 
@@ -21,7 +20,6 @@ _Billboard_ is sent to all Girlguiding Hertforshire Members who have set their c
 
 ### 2022
 
-- November: 31 October 2022
 - December: 30 November 2022
 
 ### 2023
@@ -47,6 +45,8 @@ To feature in the Girlguiding Hertfordshire monthly newsletter, sent to all coun
 
 ## Older editions
 
+- August 2022 - no edition
+- [July 2022](https://mailchi.mp/6407b730a1e6/july-2022-billboard-13503552){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [June 2022](https://mailchi.mp/586f9b294f22/june-2022-billboard-13502192){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [May 2022](https://mailchi.mp/19c64a151e40/may-2022-billboard-13497112){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [April 2022](https://mailchi.mp/68a62c9920e7/april-2022-billboard-13450640){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}

@@ -1,6 +1,7 @@
 ---
 title: "Gift Aid: How to make a claim"
 date: 2022-09-01T19:44:47.385Z
+published: false
 event:
   start_date: 2022-11-07
   end_date: ""
