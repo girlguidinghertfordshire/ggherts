@@ -12,6 +12,19 @@ author:
 permalink: /get-involved/challenge-badges/
 lastmod: 2022-09-10T14:38:25.750Z
 ---
+## Girls Golf Challenge Badge
+
+![Badge for Girls Golf Challenge](/assets/images/2022/11/girls-golf.webp){:.ms-3.mb-3.float-end}
+Golf is a fun, friendly activity for everyone, whatever their ability.  
+
+Working with Hertfordshire Golf we have put together the Girls Golf Challenge badge to introduce golf to girls and young women across Hertfordshire county and beyond. 
+
+To earn your Golf Challenge badge you will need to complete activities from each of the five sections detailed within the Challenge pack.  There are a variety of activities and skill levels, which means members from all sections can take part.  
+
+Badges cost £1 each plus postage.  Download the Challenge badge pack to find out more about the requirements and activities.
+
+[Download Golf Challenge Pack](/assets/docs/2022/challenge-badge-girls-golf.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [Golf Badge Order Form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJURFY2T09OMjQ4Q0JCTlpCWUtQM1I5N0xYMC4u){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
+
 ## Gold for Georgia 2022 Challenge Badge
 
 ![Gold for Georgia 2022 Challenge Badge](/assets/images/2022/09/gold-georgia-2022-challenge-badge.webp){:.pull-right.mb-2.ms-2}
