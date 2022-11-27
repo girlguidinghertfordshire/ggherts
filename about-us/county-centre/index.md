@@ -24,9 +24,14 @@ The Hertfordshire Guide Centre, owned by Girlguiding Hertfordshire, is situated 
 
 Offering indoor accommodation, a campsite, pond and campfire, it is suitable for meetings, trainings, sleepovers, camps, pond dipping sessions and camp fire circles.  
 
-More details about the facilities and the hire charges can be found on it's dedicated website: [www.hertsguidecentre.co.uk](http://www.hertsguidecentre.co.uk){:target="_blank"}{:.external-link}{:rel="noreferrer noopener"}
+Please visit the [Hertfordshire Guide Centre's dedicated website](http://www.hertsguidecentre.co.uk){:target="_blank"}{:.external-link}{:rel="noreferrer noopener"}, where you can:
 
-For availability, booking forms or to arrange a site visit, please contact the HGC Bookings Secretary via <HGCBookings@girlguidinghertfordshire.org.uk>
+- Find out more about the facilities available
+- View the availability calendar
+- View current hire fees
+- Make booking requests.
+
+Contact the HGC Bookings Secretary via <HGCBookings@girlguidinghertfordshire.org.uk> with any queries, or submit them via the Guide Centre website's Contact Us page.
 
 ## <img loading="lazy" class="alignleft wp-image-3945" style="margin-right: 10px;" src="/wp-content/uploads/2020/12/200-Club-Logo-150x150.jpg" alt="" width="115" height="115" srcset="/wp-content/uploads/2020/12/200-Club-Logo-150x150.jpg 150w, /wp-content/uploads/2020/12/200-Club-Logo.jpg 184w" sizes="(max-width: 115px) 100vw, 115px" />Hertfordshire Guide Centre 200 Club
 
