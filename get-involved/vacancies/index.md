@@ -39,7 +39,7 @@ With so many exciting walking events offered throughout the year the team requir
 
 This newly created role is ideal for someone who loves the outdoors and has excellent organisation skills.  Find out more about what the role entails below and apply via <cc@girlguidinghertfordshire.org.uk>.   You can also find out more about the Walking team on their dedicated [Walking webpage.](/county-teams/outdoor/walking/)
 {% endcapture %}
-{% include vacancy.html title="County Walking Administrator" description=description button-text="Role Description" download="/assets/docs/2022/county-walking-team-administrator.pdf" img="/assets/images/2022/11/walking-administrator.webp" %}
+{% include vacancy.html title="County Walking Team Administrator" description=description button-text="Role Description" download="/assets/docs/2022/county-walking-team-administrator.pdf" img="/assets/images/2022/11/walking-administrator.webp" %}
 
 {% capture description %}
 Do you enjoy taking part in outdoor activities and events?  If so, you could share your passion and encourage others to join in and reap the mental and physical benefits.
@@ -57,7 +57,7 @@ This newly created role would suit someone with a love of the outdoors whilst po
 
 Why not take a look at the [Outdoor Activities webpage](/county-teams/outdoor/) to see what the team currently provides.  If this role is of interest, you can find out more below and apply via <cc@girlguidinghertfordshire.org.uk>.
 {% endcapture %}
-{% include vacancy.html title="Outdoor Team Administrator" description=description button-text="Role Description" download="/assets/docs/2022/outdoor-team-administrator-role-description.pdf" img="/assets/images/2022/11/county-outdoor-administrator.webp" %}
+{% include vacancy.html title="County Outdoor Team Administrator" description=description button-text="Role Description" download="/assets/docs/2022/outdoor-team-administrator-role-description.pdf" img="/assets/images/2022/11/county-outdoor-administrator.webp" %}
 
 {% capture description %}
 Could you support volunteers who would like to gain their Going Away licence, so they can offer girls exciting residential opportunities?
