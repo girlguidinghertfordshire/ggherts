@@ -1,6 +1,7 @@
 ---
 title: 2022 CUSAGC Marathon Challenge
 date: 2022-09-29T18:57:46.302Z
+published: false
 image: /assets/images/2022/09/cusagc.webp
 image_filter: false
 categories:
@@ -8,7 +9,7 @@ categories:
 tags: []
 author:
   display_name: The County Office
-lastmod: 2022-09-29T20:29:07.212Z
+lastmod: 2022-12-01T20:59:24.148Z
 ---
 This year's CUSAGC Marathon Challenge is taking place on Saturday 26 November, in the Steeple Morden area.
 
