@@ -28,10 +28,11 @@ See what the Walking Team have been up to recently, and what they have planned f
 
 ![](/assets/images/core/walking-team-ident.webp){:.w-75.d-lg-none.mb-3}
 ![](/assets/images/core/walking-team-ident.webp){:.float-lg-end.ms-3.mb-3.w-50.d-none.d-lg-inline}
-[September 2022 Newsletter](/assets/docs/2022/walking-team-sept-2022-newsletter.pdf){:.btn.btn-primary.download-link}
+[December 2022 Newsletter](/assets/docs/2022/walking-team-dec-2022-newsletter.pdf){:.btn.btn-primary.download-link}
 
 ### Previous editions
 
+- [September 2022 Newsletter](/assets/docs/2022/walking-team-sept-2022-newsletter.pdf){:.download-link}
 - [July 2022 Newsletter](/assets/docs/2022/walking-team-july-2022-newsletter.pdf){:.download-link}
 - [April 2022 Newsletter](/assets/docs/2022/walking-team-april-2022-newsletter.pdf){:.download-link}
 - [February 2022 Newsletter](/assets/docs/2022/walking-team-feb-2022-newsletter.docx){:.download-link}

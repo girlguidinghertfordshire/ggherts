@@ -1,6 +1,7 @@
 ---
 title: 1st Response Course
 date: 2022-09-01T19:37:14.707Z
+published: false
 event:
   start_date: 2022-12-03
   end_date: ""

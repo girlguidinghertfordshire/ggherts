@@ -102,9 +102,6 @@ EHAAT can offer a tour at either of our Airbases in North Weald and Earls Colne,
   {% include baldock-badge-card.html title="Snow is falling Challenge Badge" src="/assets/images/2021/11/SnowFalling-180.jpg" alt="Snow is falling challenge badge" %}  
   </div>
   <div class="col">
-  {% include baldock-badge-card.html title="Gambia Challenge Badge" src="/assets/images/2022/03/Gambia-Badge-small.webp" alt="Gambia Challenge Badge" %}
-  </div>
-  <div class="col">
   {% include baldock-badge-card.html title="Uganda Friendship Challenge Badge" src="/wp-content/uploads/2017/11/Uganda-Friendship-2018-CP-150x150.png" alt="Uganda Friendship Challenge Badge" %}
   </div>
 </div>
