@@ -12,6 +12,7 @@ event:
   image: /assets/images/2022/12/accounting-budgeting.webp
   type:
     - Training
+    - Finance
   age-group:
     - Leaders
     - Adults

@@ -8,7 +8,7 @@ event:
   contact_name: null
   contact_email: null
   contact_number: ""
-  book_now_link: ""
+  book_now_link: "https://www.eventbrite.co.uk/e/girlguiding-hertfordshire-full-1st-response-course-tickets-475888795197"
   image: /assets/images/2022/09/1st-response.webp
   type:
     - 1st Response
