@@ -79,31 +79,12 @@ EHAAT can offer a tour at either of our Airbases in North Weald and Earls Colne,
 
 ## Previous Challenge Badges - Stock Still Available
 
-<div class="row g-0 row-cols-2 row-cols-lg-4 justify-content-center">
-<div class="col">
-   {% include baldock-badge-card.html title="Forest Bathing" src="/assets/images/2022/07/forest-bathing-challenge-badge.webp" alt="Forest Bathing Challenge Badge" %}
-  </div>
-  <div class="col">
-  {% include baldock-badge-card.html title="Let the Sun Shine" src="/assets/images/2022/03/let-the-sun-shine-badge.webp" alt="Let the Sun Shine Challenge Badge" %}
-  </div>
-  <div class="col">
-  {% include baldock-badge-card.html title="Marathon Challenge Badge" src="/assets/images/2022/09/marathon-challenge-badge.webp" alt="Marathon Challenge Badge" %}
-  </div>
-  <div class="col">
-  {% include baldock-badge-card.html title="Raise West Hertfordshire NHS Trust Charity Badge" src="/wp-content/uploads/2021/04/Raise-Challenge-Badge.png" alt="Raise West Hertfordshire NHS Trust Charity Badge" %}
-  </div>
-  <div class="col">
-  {% include baldock-badge-card.html title="Eggstraordinary Easter" src="/assets/images/2022/03/easter_v2.webp" alt="2022 Eggstraordinary Easter Challenge Badge" %}
-  </div>
-  <div class="col">
-  {% include baldock-badge-card.html title="Tiger Tiger Challenge Badge" src="/assets/images/2022/03/tiger_tiger_badge_white.webp" alt="Tiger Tiger Challenge Badge" %}
-  </div>
-  <div class="col">
-  {% include baldock-badge-card.html title="Snow is falling Challenge Badge" src="/assets/images/2021/11/SnowFalling-180.jpg" alt="Snow is falling challenge badge" %}  
-  </div>
-  <div class="col">
-  {% include baldock-badge-card.html title="Uganda Friendship Challenge Badge" src="/wp-content/uploads/2017/11/Uganda-Friendship-2018-CP-150x150.png" alt="Uganda Friendship Challenge Badge" %}
-  </div>
-</div>
+- Forest Bathing Challenge Badge
+- Let the Sun Shine Challenge Badge
+- Marathon Challenge Badge
+- Raise West Hertfordshire NHS Trust Charity Badge
+- Tiger Tiger Challenge Badge
+- Snow is falling challenge badge
+- Uganda Friendship Challenge Badge
 
 If you are interested in any of these challenge badges please contact <countysec@girlguidinghertfordshire.org.uk> for further details.
