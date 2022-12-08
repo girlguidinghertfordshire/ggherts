@@ -17,7 +17,7 @@ lastmod: 2022-09-10T14:38:25.750Z
 ![Badge for Girls Golf Challenge](/assets/images/2022/11/girls-golf.webp){:.ms-3.mb-3.float-end}
 Golf is a fun, friendly activity for everyone, whatever their ability.  
 
-Working with Hertfordshire Golf we have put together the Girls Golf Challenge badge to introduce golf to girls and young women across Hertfordshire county and beyond. 
+Working with Hertfordshire Golf we have put together the Girls Golf Challenge badge to introduce golf to girls and young women across Hertfordshire county and beyond.
 
 To earn your Golf Challenge badge you will need to complete activities from each of the five sections detailed within the Challenge pack.  There are a variety of activities and skill levels, which means members from all sections can take part.  
 
@@ -32,7 +32,7 @@ The Girlguiding Overseas Linked with Development (GOLD) Team are excited to shar
 
 We hope you enjoy learning about WAGGGS and Georgia, including Girlguiding and Scouting within this beautiful country.
 
-[Download Georgia 2022 Challenge Pack](/assets/docs/2022/challenge-pack-georgia-2022.pdf){:.btn.btn-primary.download-link}{:target="blank"}{:rel="noopener noreferrer"}
+[Download <span class="visually-hidden">Georgia 2022</span> Challenge Pack and Order Form](/assets/docs/2022/challenge-pack-georgia-2022.pdf){:.btn.btn-primary.download-link}{:target="blank"}{:rel="noopener noreferrer"}
 
 ## Book Challenge Badge
 
@@ -48,11 +48,24 @@ Challenge Pack updated in August 2022
 
 <div class="clearfix"></div>
 
-## Lifesaver Challenge Badge
-{: #lifesaver}
+## Snow is Falling Challenge Badge
+
+![Snow is Falling Challenge Badge](/assets/images/2022/12/snow-falling.webp){: .pull-right}{:width="200"}{:height="191"}{:loading="lazy"}
+There are eight themed sections to this fun and seasonal badge, so whether it's snowy weather, snow science or winter arts & crafts you are after, to name but a few, this colour-coded, programme linked, badge is jam packed full of ideas to enjoy during the colder months.
+
+Badges cost £1.20 each plus postage.
+
+Download the Challenge pack to find out more about the requirements and activities.
+
+[Download <span class="visually-hidden">Snow is Falling</span> Challenge Pack and Order Form](/assets/docs/2022/challenge-badge-snow-is-falling-challenge-badge-v3.pdf){:.btn.btn-primary.download-link}{:target="blank"}{:rel="noopener noreferrer"}
+
+{:.small}
+Challenge Pack updated December 2022
+
+## Lifesaver Challenge Badge {#lifesaver}
 
 ![](/wp-content/uploads/2021/01/Lifesaver-badge.png){: .pull-right}{:width="187"}{:height="167"}{:loading="lazy"}
-This badge has been designed to encourage everyone to learn First Aid and to raise awareness of how essential the actions of those first at the scene are. 
+This badge has been designed to encourage everyone to learn First Aid and to raise awareness of how essential the actions of those first at the scene are.
 
 Once learnt new skills can also be passed on to parents and beyond.
 
@@ -80,11 +93,8 @@ EHAAT can offer a tour at either of our Airbases in North Weald and Earls Colne,
 ## Previous Challenge Badges - Stock Still Available
 
 - Forest Bathing Challenge Badge
-- Let the Sun Shine Challenge Badge
 - Marathon Challenge Badge
 - Raise West Hertfordshire NHS Trust Charity Badge
-- Tiger Tiger Challenge Badge
-- Snow is falling challenge badge
 - Uganda Friendship Challenge Badge
 
 If you are interested in any of these challenge badges please contact <countysec@girlguidinghertfordshire.org.uk> for further details.

@@ -18,10 +18,6 @@ _Billboard_ is sent to all Girlguiding Hertforshire Members who have set their c
 
 ## Deadline dates for submission
 
-### 2022
-
-- December: 30 November 2022
-
 ### 2023
 
 - January: 31 December 2022

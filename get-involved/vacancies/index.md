@@ -30,7 +30,7 @@ Do you have a passion for adventurous walking and walking related activities and
 
 We are looking for a new County Walking Adviser, if you think this could be you, please apply by emailing <cc@girlguidinghertfordshire.org.uk>. You can find out more about what the role entails below and why not have a look at our dedicated [Walking webpage.](/county-teams/outdoor/walking/)
 {% endcapture %}
-{% include vacancy.html title="County Walking Adviser" description=description button-text="Role Description" download="/assets/docs/2022/county_walking_adviser.pdf" img="/assets/images/2022/11/walking-adviser.webp" %}
+{% include vacancy.html title="County Walking Adviser" description=description button-text="Role Description" download="/assets/docs/2022/county_walking_adviser.pdf" img="/assets/images/2022/12/county-walking-adviser.webp" %}
 
 {% capture description %}
 Our Walking team are looking for a well organised individual to provide administrative support to the County Walking Adviser.
