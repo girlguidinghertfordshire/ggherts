@@ -29,13 +29,13 @@ lastmod: 2022-09-18T15:15:08.045Z
 ---
 This informal course helps Rangers, and adults alike, learn how to use maps, compasses and navigate for themselves. Whether this be in preparation for your Silver or Gold DofE, or just to learn new skills this weekend is designed to teach and inspire Rangers to do more hill & mountain walking.
 
-Indoor accommodation provided.
+Indoor accommodation, transport and all food provided.
 
 **Cost:** £70*
 
 [Find out more](/assets/docs/2022/mountain-experience-mar-2023.pdf){:.btn.btn-secondary.download-link}{:target="_blank"}{:rel="noopener noreferrer"}
 
-**Closing date** for applications is **3rd December 2022**
+**Closing date** for applications is **10th December 2022**
 
 Please contact <walking@girlguidinghertfordshire.org.uk> with any questions, or to apply.
 

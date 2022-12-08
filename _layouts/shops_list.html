@@ -30,7 +30,7 @@ layout: default-v5
         {% assign marker = '/wp-content/uploads/2016/03/marker-blue.png' %}
         {% endcase %}
         {% capture sl %}
-        LocationMap.location("{{s.shop.latlng}}", "{{ s.shop.mapaddress | strip_newlines }}", "{{ marker }}", "<div             class='gg-map-info'><strong>{{ s.shop.type | join: ' & '}}:</strong> <span>{{ s.shop.location |                 strip_newlines }}</span>{% if s.shop.contact_email %}<a href='mailto:{{ s.shop.contact_email }}'><i class='fa fa-at'></i> {{ s.shop.contact_email}}</a>{% endif %}{% if s.shop.contact_number %}<a href='tel:{{ s.shop.contact_number }}'><i class='fa fa-phone'></i> {{ s.shop.contact_number }}</a>{%
+        LocationMap.location("{{s.shop.latlng}}", "{{ s.shop.mapaddress | strip_newlines }}", "{{ marker }}", "<div class='gg-map-info'><strong>{{ s.shop.type | join: ' & '}}:</strong> <span>{{ s.shop.location |                 strip_newlines }}</span>{% if s.shop.contact_email %}<a href='mailto:{{ s.shop.contact_email }}'><i class='fa fa-at' aria-hidden="true"></i> {{ s.shop.contact_email}}</a>{% endif %}{% if s.shop.contact_number %}<a href='tel:{{ s.shop.contact_number }}'><i class='fa fa-phone' aria-hidden="true"></i> {{ s.shop.contact_number }}</a>{%
             endif %}</div>"),
         {% endcapture %}
         {% assign l = l | append: sl %}

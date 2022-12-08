@@ -32,7 +32,7 @@ The course is for members or non-members aged 16+.
 
 Much of the teaching and all scenarios will be outdoors 'on the hill' to simulate realistic incidents on steep ground, in woodland etc.  
 
-**Cost:** £130 with funding available for those taking outdoor qualifications.
+**Cost:** £142 with funding available for those taking outdoor qualifications.
 
 Accommodation is available.
 

@@ -11,7 +11,6 @@ lastmod: 2022-09-29T21:08:03.580Z
 
 As our mission refers to Girlguiding UK and Girlguiding Anglia mission statements, they can be seen below for reference.
 
-
 ### Girlguiding UK Mission Statement
 
 > _“Through fun, friendship, challenge and adventure we empower girls to find their voice, inspiring them to discover the best in themselves and to make a positive difference in their community.”_
@@ -58,8 +57,8 @@ Girlguiding has just released its Strategy for 2020 at the time of writing and f
 </div>
 
 <table>
-    <tr style="height:160px;">
-    <td><h4>View Girlguiding Hertfordshire's Mission Statement</h4></td><td><a class="btn btn-lg gg-btn gg-btn-200 gg-btn-pink-o" href="https://www.girlguidinghertfordshire.org.uk/wp-content/uploads/2020/10/Hertfordshire-County-Mission-Statement.pdf" target="_blank"><span>Click Here</span></a></td>
-    </tr><tr>
+<tr>
     <td><h4>View Girlguiding Hertfordshire's Achievements in Year One&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>Sept 2019-Aug 2020</h4></td><td> <a class="btn btn-lg gg-btn gg-btn-200 gg-btn-pink-o" href="https://www.girlguidinghertfordshire.org.uk/wp-content/uploads/2020/10/Hertfordshire-County-Plan-Year-One-PUBLIC.pdf" target="_blank" rel="noopener"><span>Click Here</span></a>
-
+    </td>
+    </tr>
+    </table>
