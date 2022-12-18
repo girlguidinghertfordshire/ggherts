@@ -1,6 +1,7 @@
 ---
 title: NSGSO & NSGCB Course 2023
 date: 2022-09-29T18:29:14.409Z
+published: false
 image: /assets/images/2022/09/nsgso-nsgcb-logo.webp
 image_filter: false
 categories:
@@ -8,7 +9,7 @@ categories:
 tags: []
 author:
   display_name: The County Office
-lastmod: 2022-09-29T20:29:51.663Z
+lastmod: 2022-12-18T07:44:52.919Z
 ---
 Applications for the 2023 NSGSO and NSGCB course are now open.  
 

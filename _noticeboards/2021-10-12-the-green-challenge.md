@@ -1,24 +1,23 @@
 ---
 title: The Green Challenge
-date: '2021-10-12T18:18:55.298Z'
+date: 2021-10-12T18:18:55.298Z
+published: false
 image: /assets/images/2021/10/together-tv-logo.jpg
 categories:
-    - Notice
+  - Notice
 tags: []
 author:
-    display_name: null
-    first_name: null
-    last_name: null
-lastmod: '2021-10-12T18:27:51.405Z'
+  display_name: The County Office
+lastmod: 2022-12-18T07:46:46.519Z
 ---
 
 <p class="lead">Get your free basil seeds in the post and join Together TV's 8 week Green Challenge!</p>
 
-Following the success of our Sunflower Challenge earlier this year, a national initiative to improve mental health and tackle social isolation, using gardening as a way to connect with local community groups, we are planning to launch a Green Challenge in early autumn that will encourage people to cook sustainable healthy recipes by growing their own herbs (basil). 
+Following the success of our Sunflower Challenge earlier this year, a national initiative to improve mental health and tackle social isolation, using gardening as a way to connect with local community groups, we are planning to launch a Green Challenge in early autumn that will encourage people to cook sustainable healthy recipes by growing their own herbs (basil).
 
-The initiative aims to promote new habits for home-grown food and sustainable living. 
- 
-We would love to have you on board for this charitable initiative to support socially isolated people, promote sustainable habits and showcase the great stories from amazing communities across the country. 
+The initiative aims to promote new habits for home-grown food and sustainable living.
+
+We would love to have you on board for this charitable initiative to support socially isolated people, promote sustainable habits and showcase the great stories from amazing communities across the country.
 
 If you are new to gardening and cooking, worry not!  Together TV will walk you step by step through top tips and exclusive videos with TV chef Rustie Lee for nurturing your basil seedlings and creating simple, tasty dishes.
 

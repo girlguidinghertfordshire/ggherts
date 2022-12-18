@@ -8,13 +8,12 @@ categories:
 tags: []
 author:
   display_name: The County Office
-lastmod: 2022-09-29T18:50:41.286Z
+lastmod: 2022-12-18T07:44:33.907Z
 ---
 Milton Keynes Theatre has lots of fabulous shows coming up, many of which offer group discounts.
 
 Please see overview of shows which provides more details on the upcoming shows:
 
-- Bugsy Malone -The Musical :  Tue 11 – Sat 15 Oct
 - Snow White and the Seven Dwarfs Panto : Sat 10 Dec 2022 – 8 Jan 2023
 - David Walliams - Demon Dentist : Thu 23 – Sun 26 Mar 2023
 
