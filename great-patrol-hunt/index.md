@@ -23,8 +23,6 @@ It began in 1968, Hertfordshire Scout Patrols competed annually in various ways,
 
 ## Our Events
 
-[![Camp Caterers Required for GPH 2023](/assets/images/2022/07/gph-catering-ad-320.webp)](/news/camp-caterers-gph/){:.img-fluid.pull-right.ms-3.mb-3}
-
 - Round 1: Saturday 15 October 2022 \| Borehamwood - **completed**
 - [Round 2: Saturday 11 March 2023 \| St Albans](/event/gph-round-2/) - closing date for entries **Saturday 18 February**
 - [Round 3: Friday 30 June - Sunday 2 July 2023](/event/gph-round-3/)
