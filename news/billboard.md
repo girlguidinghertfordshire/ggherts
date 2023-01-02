@@ -20,7 +20,6 @@ _Billboard_ is sent to all Girlguiding Hertforshire Members who have set their c
 
 ### 2023
 
-- January: 31 December 2022
 - February: 31 January 2023
 - March: 28 February 2023
 - April: 31 March 2023
