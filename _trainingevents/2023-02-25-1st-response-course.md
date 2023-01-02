@@ -23,7 +23,7 @@ author:
 lastmod: 2022-01-25T20:32:22.789Z
 permalink: /training/1st-response-course-feb-23
 ---
-This full 1st Response course takes place on Saturday 25 February 2023 in Hemel Hempstead from 10am - 4pm.  The course is open to all Guiding personnel.
+This 1st Response course takes place on Saturday 25 February 2023 in Hemel Hempstead from 10am - 4pm.  The course is open to all Guiding personnel.
 
 Contact Lynne Kirby to book: <lynnekirby1@googlemail.com>
 
