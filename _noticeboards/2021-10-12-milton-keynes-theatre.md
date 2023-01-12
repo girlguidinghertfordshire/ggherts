@@ -8,13 +8,12 @@ categories:
 tags: []
 author:
   display_name: The County Office
-lastmod: 2022-12-18T07:44:33.907Z
+lastmod: 2023-01-12T19:44:18.062Z
 ---
 Milton Keynes Theatre has lots of fabulous shows coming up, many of which offer group discounts.
 
-Please see overview of shows which provides more details on the upcoming shows:
+Please see overview of shows which provides more details on the upcoming show:
 
-- Snow White and the Seven Dwarfs Panto : Sat 10 Dec 2022 – 8 Jan 2023
 - David Walliams - Demon Dentist : Thu 23 – Sun 26 Mar 2023
 
 - [Overview of shows](/assets/docs/2022/mk-theature-uniform-groups-flyer-sep-22.pdf){:.download-link}{:target="_blank"}{:rel="noreferrer noopener"}
