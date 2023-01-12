@@ -8,9 +8,13 @@ lastmod: 2022-09-05T19:23:47.621Z
 ---
 _Essential News_ is sent to all **Girlguiding Hertfordshire** members by email on the first Monday of each month (subject to Bank Holidays). Please check your junk mail folders if you haven't received a copy.
 
-## 2022
+## 2023
 
-- [December 2022](https://mailchi.mp/1951b4f9db28/december-2022-essential-news-10111127){:target="_blank"}{:.external-link.lead}{:rel="noreferrer noopener"}
+- [January 2023](https://mailchi.mp/dda0669819dd/january-2023-essential-news-10122423){:target="_blank"}{:.external-link.lead}{:rel="noreferrer noopener"}
+
+## Older editions
+
+- [December 2022](https://mailchi.mp/1951b4f9db28/december-2022-essential-news-10111127){:target="_blank"}{:.external-link}{:rel="noreferrer noopener"}
 - [November 2022](https://mailchi.mp/de4c603fc70c/november-2022-essential-news-9761519){:target="_blank"}{:.external-link}{:rel="noreferrer noopener"}
 - [October 2022](https://mailchi.mp/fa958ee957d9/october-2022-essential-news-9004423){:target="_blank"}{:.external-link}{:rel="noreferrer noopener"}
 - [September 2022](https://mailchi.mp/ec89a5e1d512/september-2022-essential-news-8989239){:target="_blank"}{:.external-link}{:rel="noreferrer noopener"}
@@ -23,12 +27,4 @@ _Essential News_ is sent to all **Girlguiding Hertfordshire** members by email o
 - [February 2022](https://mailchi.mp/98abc6c499f0/feb-2022-essential-news-6118194){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [January 2022](https://mailchi.mp/a3aed69df64d/jan-2022-essential-news-5015594?e=3599adf2bf){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 
-## 2021
-
-- [December 2021](https://mailchi.mp/2c8ad8b2e52e/dec-2021-essential-news-5000438){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
-- [November 2021](https://mailchi.mp/65b0a7d996c4/nov-2021-essential-news-4986410){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
-- [October 2021](https://mailchi.mp/e1eb216f47fe/oct-2021-essential-news-4972418){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
-- [September 2021](https://mailchi.mp/47bc1115bc9e/sept-2021-essential-news){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
-- August 2021 (No newsletter)
-- [July 2021](https://mailchi.mp/2a701b398b86/july-2021-essential-news){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
-- [June 2021](https://mailchi.mp/be4b583e65bd/june-2021-essential-news){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
+Please contact the county office via <countysec@girlguidinghertfordshire.org.uk> to request 2021 and older newsletters.
