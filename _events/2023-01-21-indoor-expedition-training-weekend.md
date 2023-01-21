@@ -1,6 +1,7 @@
 ---
 title: Indoor Expedition Training Weekend
 date: 2022-11-09T22:18:20.315Z
+published: false
 event:
   start_date: 2023-01-21
   end_date: 2023-01-22
@@ -25,7 +26,7 @@ event:
     - Hertfordshire, St Albans
 author:
   display_name: The County Office
-lastmod: 2022-11-10T19:24:40.300Z
+lastmod: 2023-01-21T09:24:00.293Z
 ---
 This indoor expedition training weekend is for anyone who is planning to undertake a Practice or Assessed Duke of Edinburgh's Expedition with Girlguiding Hertfordshire during 2023.  
 
