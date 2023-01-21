@@ -2,11 +2,14 @@
 layout: page-v5
 title: Billboard
 banner_image: /assets/images/2022/10/billboard-banner.webp
+image: /assets/images/core/billboard.webp
+
 date: 2021-09-07T19:51:13.187Z
 toc: news
 lastmod: 2022-09-29T18:25:08.816Z
+description: Billboard is a monthly e-newsletter sent to all Girlguiding Hertfordshire members who "subscribe to marketing" within GO
 ---
-_Billboard_ is sent to all Girlguiding Hertforshire Members who have set their communication preferences on _GO_ to subscribe to marketing.
+_Billboard_ is a monthly e-newsletter sent to all Girlguiding Hertfordshire members who have set their communication preferences within **GO** to _"subscribe to marketing"._
 
 ## Recent editions
 
