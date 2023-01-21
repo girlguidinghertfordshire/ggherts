@@ -21,7 +21,7 @@ event:
     - Hertfordshire, East
 author:
   display_name: The County Office
-lastmod: 2023-01-21T10:45:20.102Z
+lastmod: 2023-01-21T10:47:30.542Z
 ---
 Would you or any of your girls like to be considered for an international trip or to join a Girlguiding Hertfordshire group going to an event in the UK?
 
@@ -33,7 +33,7 @@ Please fill in the Leaders Application Form and return it by **Friday 17 March 2
 
 [Leaders Application Form](/assets/docs/2023/INTOPS-Leaders-Application-Form-2023.docx){:.download-link.btn.btn-primary}{:rel="noopener"}{:target="_blank"}
 
-## GUIDES, RANGERS, YOUNG LEADERS (aged 12 – 17 on 26 July 2024)
+## Guides, Rangers, Young Leaders (aged 12 – 17 on 26 July 2024)
 
 Please complete and return the Young Members Application Form.  
 
