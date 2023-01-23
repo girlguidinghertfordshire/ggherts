@@ -1,3 +1,10 @@
+title: Girlguiding - Hertfordshire County
+url: https://www.girlguidinghertfordshire.org.uk
+twitter:
+  username: gguidingherts
+  card: summary
+logo: /assets/images/core/logo.png
+locale: en_GB
 collections:
     posts:
       permalink: /news/:title/

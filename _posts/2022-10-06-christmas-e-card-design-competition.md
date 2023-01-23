@@ -2,13 +2,14 @@
 title: Christmas e-card design competition
 date: 2022-10-06T19:41:04.567Z
 image: /assets/images/2022/10/christmas-e-card-competition.webp
+published: false
 categories:
   - Announcements
   - Competitions
 tags: []
 author:
   display_name: The County Office
-lastmod: 2022-10-06T19:48:27.457Z
+lastmod: 2023-01-12T19:50:27.734Z
 ---
 We&lsquo;re looking for Rainbows, Brownies, Guides, Rangers and Young Leaders to design a colourful festive image for this year&lsquo;s Christmas E-card.
 

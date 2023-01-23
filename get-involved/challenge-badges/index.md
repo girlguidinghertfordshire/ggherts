@@ -23,7 +23,7 @@ To earn your Golf Challenge badge you will need to complete activities from each
 
 Badges cost £1 each plus postage.  Download the Challenge badge pack to find out more about the requirements and activities.
 
-[Download Golf Challenge Pack](/assets/docs/2022/challenge-badge-girls-golf.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [Golf Badge Order Form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJURFY2T09OMjQ4Q0JCTlpCWUtQM1I5N0xYMC4u){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
+[Download <span class="visually-hidden">Golf </span>Challenge Pack](/assets/docs/2022/challenge-badge-girls-golf.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [<span class="visually-hidden">Golf </span>Badge Order Form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJURFY2T09OMjQ4Q0JCTlpCWUtQM1I5N0xYMC4u){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
 
 ## Gold for Georgia 2022 Challenge Badge
 
@@ -50,7 +50,7 @@ Challenge Pack updated in August 2022
 
 ## Snow is Falling Challenge Badge
 
-![Snow is Falling Challenge Badge](/assets/images/2022/12/snow-falling.webp){: .pull-right}{:width="200"}{:height="191"}{:loading="lazy"}
+![Snow is Falling Challenge Badge](/assets/images/2022/12/snow-is-falling.webp){: .pull-right}{:width="200"}{:height="191"}{:loading="lazy"}
 There are eight themed sections to this fun and seasonal badge, so whether it's snowy weather, snow science or winter arts & crafts you are after, to name but a few, this colour-coded, programme linked, badge is jam packed full of ideas to enjoy during the colder months.
 
 Badges cost £1.20 each plus postage.

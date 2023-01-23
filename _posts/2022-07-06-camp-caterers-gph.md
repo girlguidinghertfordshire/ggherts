@@ -2,6 +2,7 @@
 title: Camp Caterers Required for Great Patrol Hunt
 date: 2022-07-06T18:16:35.947Z
 image: /assets/images/2022/07/gph-catering.webp
+published: false
 categories:
   - Announcements
   - Badges
@@ -11,7 +12,7 @@ author:
   display_name: The County Office
   first_name: ""
   last_name: ""
-lastmod: 2022-07-06T18:40:31.452Z
+lastmod: 2022-12-20T19:35:19.009Z
 ---
 The Great Patrol Hunt team are looking for a caterer for next year's GPH Round 3 (and hopefully thereafter), providing catering for leaders from the Friday evening and then for the whole camp from Saturday breakfast to Sunday breakfast inclusive.  
 

@@ -27,7 +27,7 @@ author:
 lastmod: 2022-01-25T20:32:22.789Z
 permalink: /training/1st-response-course-mar-23/
 ---
-This full 1st Response course is taking place on Saturday 11 March from 10am - 4pm in Radlett.
+This 1st Response course is taking place on Saturday 11 March from 10am - 4pm in Radlett.
 
 It is for leaders, Leaders in Training and any one requiring the qualification.
 

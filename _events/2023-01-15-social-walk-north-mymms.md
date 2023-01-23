@@ -1,6 +1,7 @@
 ---
 title: Social Walk - North Mymms
 date: 2022-12-04T19:51:00.344Z
+published: false
 event:
   start_date: 2023-01-15
   end_date: ""
@@ -23,7 +24,7 @@ event:
     - Hertfordshire, Central
 author:
   display_name: The County Office
-lastmod: 2022-12-04T20:00:58.298Z
+lastmod: 2023-01-21T09:23:38.082Z
 ---
 This 'longer' social walk from **North Mymms** via Shenley tea rooms for lunch is taking place on Sunday 15 January.  Starting at 10am this 9 mile (just under 15km) walk will last approximately 4 hours, including the lunch stop.  
 

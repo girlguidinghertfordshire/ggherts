@@ -1,15 +1,16 @@
 ---
 title: National Citizen Service (NCS)
-date: '2022-01-25T20:18:57.482Z'
+date: 2022-01-25T20:18:57.482Z
+published: false
 image: /assets/images/2022/01/ncs-logo.png
 categories:
-    - Notice
+  - Notice
 tags: []
 author:
-    display_name: The County Office
-    first_name: null
-    last_name: null
-lastmod: '2022-01-25T20:29:23.868Z'
+  display_name: The County Office
+  first_name: null
+  last_name: null
+lastmod: 2022-12-18T07:45:13.177Z
 ---
 
 The National Citizen Service (NCS) is a Youth Programme open to 15 to 17 year-olds in England over Summer and Autumn. It helps build their skills for work and life, while taking on new challenges and meeting new friends. 

@@ -1,6 +1,6 @@
 ---
 title: Milton Keynes Theatre Shows
-date: 2022-09-29T18:43:43.018Z
+date: 2023-01-23T20:04:13.716Z
 image: /assets/images/2021/10/miltonkeynestheatre.jpg
 image_filter: false
 categories:
@@ -8,18 +8,20 @@ categories:
 tags: []
 author:
   display_name: The County Office
-lastmod: 2022-09-29T18:50:41.286Z
+lastmod: 2023-01-23T20:04:41.333Z
 ---
-Milton Keynes Theatre has lots of fabulous shows coming up, many of which offer group discounts.
+Milton Keynes Theatre have lots of fabulous shows coming up, many of which offer group discounts for uniformed groups like Girlguiding.
 
-Please see overview of shows which provides more details on the upcoming shows:
+Please see the below overview of shows which provides more details on upcoming shows including:
 
-- Bugsy Malone -The Musical :  Tue 11 – Sat 15 Oct
-- Snow White and the Seven Dwarfs Panto : Sat 10 Dec 2022 – 8 Jan 2023
 - David Walliams - Demon Dentist : Thu 23 – Sun 26 Mar 2023
 
 - [Overview of shows](/assets/docs/2022/mk-theature-uniform-groups-flyer-sep-22.pdf){:.download-link}{:target="_blank"}{:rel="noreferrer noopener"}
 
+Plus, you shall go to the ball next Christmas with this spectacular family pantomime, Cinderella, running from Sat 9 Dec 2023 - Sun 14 Jan 2024
+
+[Pantomime Flyer](/assets/docs/2023/mktheatre-cinderella-group-flyer.pdf){:.download-link}{:target="_blank"}{:rel="noopener"}
+
 Groups of 10+ will benefit from an extended pay by date and no transaction fees. There should be one leader per group of 10 and uniforms must be worn.
 
-Please contact the Group Bookings team via <groupsales@atgtickets.com> quoting UNIFORM GROUPS and provide the name of the group, the performance date and time and number of tickets required or call 020 7206 1174 (local rate call) who will be happy to confirm discounts and seating information..
+Please contact the Group Bookings team via <groupsales@atgtickets.com> quoting UNIFORM GROUPS and provide the name of the group, the performance date and time and number of tickets required or call 020 7206 1174 (local rate call) for further information or to discuss seating information etc.

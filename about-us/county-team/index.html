@@ -20,7 +20,9 @@ author:
   <h2><a class="" href="{{ member.url }}">{{ member.title }}</a></h2>
 <span>{{ member.job_title }}</span>
 <p>{{ member.person_intro }}</p>
+{% if member.content.size>1 %}
 <a class="btn btn-pink" href="{{ member.url }}"><span>Read more<span class="sr-only"> about {{ member.title }}</span></span></a>
+{% endif %}
 {% if member.email %}
 <a class="btn btn-pink" href="mailto:{{ member.email }}"><span>Email<span class="sr-only"> {{ member.title }}</span></span></a>
 {% endif %}
