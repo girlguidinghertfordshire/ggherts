@@ -21,7 +21,7 @@ event:
     - Hertfordshire, East
 author:
   display_name: The County Office
-lastmod: 2023-01-21T10:47:30.542Z
+lastmod: 2023-02-02T19:22:52.423Z
 ---
 Would you or any of your girls like to be considered for an international trip or to join a Girlguiding Hertfordshire group going to an event in the UK?
 
@@ -41,7 +41,7 @@ You will also need to ask you leader or commissioner to complete and submit a Re
 
 Applications and References must be returned by Friday 10 March 2023.
 
-[Young Members Application Form](/assets/docs/2023/INTOPS-Young-Members-Application-Form-2023.docx){:.download-link.btn.btn-primary}{:rel="noopener"}{:target="_blank"} [Reference Form](/assets/docs/2023/International-Reference-Form.docx){:.download-link.btn.btn-primary}{:rel="noopener"}{:target="_blank"}
+[Young Members Application Form](/assets/docs/2023/INTOPS-Young-Members-Application-Form-2023v1-1.docx){:.download-link.btn.btn-primary}{:rel="noopener"}{:target="_blank"} [Reference Form](/assets/docs/2023/International-Reference-Form.docx){:.download-link.btn.btn-primary}{:rel="noopener"}{:target="_blank"}
 
 If your application is accepted you will be contacted via email with further details and an invitation to attend on either the Saturday or Sunday (you can state a preference on the application form but this cannot be guaranteed).
 
