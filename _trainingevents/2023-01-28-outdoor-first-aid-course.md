@@ -1,6 +1,7 @@
 ---
 title: Outdoor First Aid Course
 date: 2022-09-18T15:23:53.655Z
+published: false
 event:
   start_date: 2023-01-28
   end_date: 2023-01-29
