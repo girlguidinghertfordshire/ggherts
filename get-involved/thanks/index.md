@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-v5
 title: 'Thanks, Awards and Recognition'
 date: 2017-06-09T09:58:20.000Z
 toc: get-involved
@@ -12,27 +12,39 @@ author:
   last_name: Kemp
 lastmod: '2022-02-01T21:04:25.588Z'
 ---
-<div class="lead">There are many ways to say thank you, and to acknowledge
-    all that is done within guiding, including <a href="#county">County</a>, <a href="#region">Region</a> and
-    <a href="#national">National</a> awards. </div>
-<h2 id="county">County Awards</h2>
-<img class="alignright wp-image-3060 " src="/wp-content/uploads/2019/05/p1140471_46955040804_o-300x225.jpg" alt="" width="252" height="189" />These recognise and reward the work that our volunteers do which is over and beyond their roles in Girlguiding Hertfordshire. Each nominee for a county award should be proposed and seconded by members of Girlguiding Hertfordshire and approved by the appropriate commissioner, who must not be either the proposer or seconder and not related to any party.
+{:.lead}
+There are many ways to say thank you, and to acknowledge
+all that is done within guiding, including [County](#county), [Region](#region) and
+[National](#national) awards.
 
-### The nomination process for 2021-2022 Awards is now CLOSED
-The Grand Garden party celebration event for our award recipients, their guests and VIPs will be held in June 2022. Invitations will be sent closer to the date.
+{:#county}
+## County Awards 
 
-Nominations for awards in 2022-2023 will open later in the year
+![County Awards presentations](/wp-content/uploads/2019/05/p1140471_46955040804_o-300x225.jpg){:.float-end.m-3}{:width="252"}{:height="189"}These recognise and reward the work that our volunteers do which is over and beyond their roles in Girlguiding Hertfordshire.
+
+{:.fs-5}
+**We now have an exciting new, online county award nomination process!**
+
+Do you know a member or volunteer in your district, division or county who is special, and you feel deserves recognition for what they do or have done for Guiding in Hertfordshire but been put off nominating them in the past by the complicated process?  Then you’ll be pleased to hear we have created a new, easy to use, online nomination process and girls and parents can now make nominations.  It is open to all and fully inclusive.
+
+Nominations for awards received by **Wednesday 31 May 2023**{:.fs-5} will be considered for this year's award ceremony. Nominations received after this date will be consider for next year.
+
+[Online Nomination Form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwRrqs7bdo19CnIwI_9Lov51UMDVOTzhWNlFHOUdXN0o5SzNMOE9NTVJWQy4u){:.btn.btn-primary}{:rel="noopener"}{:target="_blank"}
+
+The celebration event for our award recipients, their guests and VIPs will be held in September 2023.  Invitations will be sent closer to the date.
 
 ### Hertfordshire County Thanks Certificate
 
-This certificate can be awarded to an adult who has been nominated by a leader or their district, division, or county, and who is recognised by the proposers as having given excellent service to Girlguiding Hertfordshire. The nominee, who need not be a member of Guiding, should demonstrate their support for the principles of Girlguiding.
+This certificate can be awarded to an adult who is recognised by the proposers as having given excellent service to Girlguiding Hertfordshire. The nominee, who need not be a member of Guiding, should demonstrate their support for the principles of Girlguiding.
 
 ### Hertfordshire County Good Service Certificate
 
-This certificate is awarded to a leader, commissioner, or adviser who has been nominated by a leader or their district, division, or county, and who is recognised by the proposers as having given excellent service to Girlguiding Hertfordshire. It can be awarded to an adult member, and is not automatically awarded to adults completing a term of office. Whilst this award is not given to recognise service, it is anticipated that the majority of recipients will have been delivering great guiding experiences for a sustained period of time.
+This certificate is awarded to a leader, commissioner, or adviser who is recognised by the proposers as having given excellent service to Girlguiding Hertfordshire. It can be awarded to an adult member, and is not automatically awarded to adults completing a term of office. Whilst this award is not given to recognise service, it is anticipated that the majority of recipients will have been delivering great guiding experiences for a sustained period of time.
 
 ### Hertfordshire Good Guiding Badge
-<img class="wp-image-1866 alignleft" src="/wp-content/uploads/2017/06/Goodguidingbadge-300x155.jpg" alt="" width="223" height="115" />This badge is awarded in recognition of continually delivering exceptionally ‘good guiding’ experiences to members of Girlguiding Hertfordshire. The nominees should demonstrate their enthusiasm and ability in providing ongoing quality and challenging experiences to their unit, section, district, division or county in line with the Promise and Law and the 5 essentials.  This badge can be awarded to an adult member. Whilst this award is not given to recognise service, it is anticipated that the majority of recipients will have been delivering great guiding experiences for a sustained period of time.
+
+![Good Guiding Badge](/wp-content/uploads/2017/06/Goodguidingbadge-300x155.jpg){:width="223"}{:height="115"}{:.float-start.m-3}
+This badge is awarded in recognition of continually delivering exceptionally ‘good guiding’ experiences to members of Girlguiding Hertfordshire. The nominees should demonstrate their enthusiasm and ability in providing ongoing quality and challenging experiences to their unit, section, district, division or county in line with the Promise and Law and the 5 essentials.  This badge can be awarded to an adult member. Whilst this award is not given to recognise service, it is anticipated that the majority of recipients will have been delivering great guiding experiences for a sustained period of time.
 
 <h2 id="region">Girlguiding Anglia Awards</h2>
 For more information about Anglia Awards and details on how to make a nomination visit the <a href="https://www.girlguiding-anglia.org.uk/resource/thanks-and-recognition-overview" target="_blank" rel="noopener">Girlguiding Anglia website</a>
