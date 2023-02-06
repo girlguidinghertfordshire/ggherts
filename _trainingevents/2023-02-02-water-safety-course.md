@@ -9,7 +9,7 @@ event:
   contact_email: null
   contact_number: ""
   book_now_link: ""
-  image: "/assets/images/2023/01/water-safety-1.webp"
+  image: "/assets/images/2023/01/water-safety1.webp"
   type:
     - Water
     - Training
