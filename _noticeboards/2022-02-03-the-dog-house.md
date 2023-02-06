@@ -1,24 +1,25 @@
 ---
 title: The Dog House
-date: '2022-02-03T21:38:21.201Z'
-image: /assets/images/2022/02/doghouse.png
+date: 2023-02-06T20:10:57.667Z
+image: /assets/images/2023/02/dog-house1.webp
+image_filter: false
 categories:
-    - Notice
+  - Notice
 tags: []
 author:
-    display_name: The County Office
-    first_name: null
-    last_name: null
-lastmod: '2022-02-03T22:05:40.900Z'
+  display_name: The County Office
+  first_name: null
+  last_name: null
+lastmod: 2023-02-06T20:17:38.602Z
 ---
-The TV company, Five Mile Films, makers of Channels 4's The Dog House, are searching for individuals, friends, couples and families who could offer a rescue dog a loving home and share their story as part of the next series.  
+Another series of Channel 4's *The Dog House with Wood Green* will start production soon.
 
-The Dog House is set at the animal charity Wood Green in Cambridgeshire and the programme follows prospective owners as they are matched with a rescue dog, specially selected by the expert team of matchmakers at Wood Green. In previous series we have found there are many reasons that people might wish to bring a dog into their lives; loneliness, extra company for a child, to encourage exercise or to live in the moment more! We tell the story of both humans and dogs, as they prepare to meet each other for the first time.
+Once again, they'll be following the expert team of dog-matchers, meeting this year’s rescue dogs, and of course, getting to the know the amazing people who are looking to offer them a lifelong home.
 
-We’re casting our net far and wide to find potential dog rescuers! We want to hear from anyone who is seriously considering rescuing a dog and is up for talking to us about why they need a dog in their life. 
+Could you provide a loving home for a rescue dog? The Channel 4 series, The Dog House is looking for couples, individuals, friends and families who are seriously considering bringing a rescue dog into their lives and are willing to share their reasons for doing so.
 
-[![Channel 4's The Dog House](/assets/images/2022/02/dog-house-flyer.jpg)][1]{:target="_blank"}{:rel="noopener"}
+For details on how to apply please visit [The Dog House][1]{:.external-link}{:target="_blank"}{:rel="noopener"} webpage.
 
-For details on how to apply please visit [The Dog House webpage <i class="fa fa-external-link"></i>][1]{:target="_blank"}{:rel="noopener"}
+[![Channel 4's The Dog House](/assets/images/2023/02/dog-house.webp){:.img-fluid}][1]{:target="_blank"}{:rel="noopener"}
 
 [1]: https://www.channel4.com/4viewers/takepart/the-dog-house
