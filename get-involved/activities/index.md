@@ -23,7 +23,12 @@ lastmod: 2022-09-29T21:20:49.525Z
 <li><a href="#games">Games</a></li>
 <li><a href="#activities">Activities</a></li>
 </ul>
-<p><strong>See also:</strong> <a href="/get-involved/challenge-badges/">Challenge Badges</a></p>
+
+**See also:**
+
+- [Challenge Badges](/get-involved/challenge-badges/)
+- [Walking related games](/county-teams/outdoor/walking/)
+
 <p>Although some Girlguiding units are starting to meet face to face many units are continuing or beginning to meet virtually and we need to continue with alternative ways to communicate and keep in touch. Our County <a href="https://www.facebook.com/GirlguidingHertfordshire/" target="_blank" rel="noopener">Facebook page</a> is a resource for everyone linked to Guiding: parents (and their daughters) as well as leaders. We aim to provide information, ongoing news and activities on Facebook but will also add these activities for you and your daughter to do together at home on this page so please keep checking this page for updates on activities to do as well as <a href="https://www.girlguiding.org.uk/what-we-do/adventures-at-home/" target="_blank" rel="noopener">Girlguiding webpage for Adventures at Home</a>.</p>
 <h2 id="baking">Baking/Food</h2>
 <div><a class="btn-gg" href="/wp-content/uploads/2021/02/virtual-ideas-food-and-baking.pdf"><i class="fa fa-download"></i> Download all Baking/Food Ideas (PDF)</a></div>

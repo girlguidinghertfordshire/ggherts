@@ -40,8 +40,8 @@ See what the Walking Team have been up to recently, and what they have planned f
 - [December 2021 Newsletter](/assets/docs/walking-team-december-2021-newsletter.docx){:.download-link}
 - [November 2021 Newsletter](/assets/docs/walking-team-november-2021-newsletter.docx){:.download-link}
 
-## Activities for unit meetings
+## Walking related games
 
-For ideas for face to face, socially distant, walking related activities for unit meetings.  Please view the downloadable activity sheet the Walking Team have prepared.
+Download the walking team activity sheet; it is jam packed with fun ideas to do with your units.
 
-[F2F (Socially Distant) Walking Related Activities](/wp-content/uploads/2021/05/F2F-Socially-Distant-Walking-Related-Activities.pdf){:.btn.btn-primary.download-link}
+[Activity Sheet](/assets/docs/2023/walking-team-activity-sheet.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
