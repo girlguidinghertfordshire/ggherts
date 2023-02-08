@@ -17,4 +17,4 @@ shop:
     - Shop
 author:
 ---
-<p>Uniform, badges and resources can be ordered and collected by prior arrangement from 1 Glebe Court.</p>
+Adult and Young Leader uniform, badges and resources can be ordered and collected by prior arrangement.
