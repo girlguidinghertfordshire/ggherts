@@ -48,6 +48,17 @@ Challenge Pack updated in August 2022
 
 <div class="clearfix"></div>
 
+## Trefoil Guild 80th Anniversary Challenge
+
+![80th Anniversary Challenge Badge](/assets/images/2023/02/80th_badge.webp){:.float-end.ms-3.mb-3}
+*"From small acorns to giant oaks"*
+
+Running from 1st January until 31st December 2023 to commemorate the Trefoil Guild celebrating it's 80th Anniversary.
+
+Their Challenge pack is filled with ideas for ALL to complete
+
+[Download Challenge Pack](https://cdn.trefoilguild.co.uk/userfiles/files/National/Initiatives/80th%20anniversary/TG_80thAnniversary_challenge_pack.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [Record Sheet](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcdn.trefoilguild.co.uk%2Fuserfiles%2Ffiles%2FNational%2FInitiatives%2F80th%2520anniversary%2F80th_recordsheet.docx&wdOrigin=BROWSELINK){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [Order badges](https://www.girlguidingshop.co.uk/products/adults/trefoil-guild/trefoil-guild-80th-anniversary-challenge-woven-badge--7788/){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
+
 ## Snow is Falling Challenge Badge
 
 ![Snow is Falling Challenge Badge](/assets/images/2022/12/snow-is-falling.webp){: .pull-right}{:width="200"}{:height="191"}{:loading="lazy"}
