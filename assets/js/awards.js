@@ -87,7 +87,7 @@ class Order {
                     continue;
                 }
                 console.log(item);
-                order += itemRow(item.description, item.award + "." + item.type, item.price, item.quantity);
+                order += itemRow(item.description, `${section}.${item.award}.${item.type}`, item.price, item.quantity);
                 orderTotal += item.price * item.quantity;
             }
         });
@@ -182,7 +182,8 @@ class Order {
     updateQuantity(id, value) {
         console.log(`${id} - ${value}`);
         const item = id.split(".");
-        const sku = this.items.find(i => i.award == item[0] && i.type == item[1]);
+        var section=this.orderItems[item[0]];
+        const sku = section.find(i => i.award == item[1] && i.type == item[2]);
         sku.quantity = value;
         this.save();
     }
