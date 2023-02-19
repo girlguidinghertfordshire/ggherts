@@ -77,7 +77,6 @@ class Order {
         const itemRow = this.itemRow;
         Object.keys(sections).forEach(function (section) {
             const awards = sections[section];
-            console.log(awards);
             const items = orderItems[section];
             if (awards["bronze"] > 0 || awards["silver"] > 0 || awards["gold"] > 0) {
                 order += sectionRow(section);
@@ -86,7 +85,6 @@ class Order {
                 if (awards[item.award] == 0) {
                     continue;
                 }
-                console.log(item);
                 order += itemRow(item.description, `${section}.${item.award}.${item.type}`, item.price, item.quantity);
                 orderTotal += item.price * item.quantity;
             }
@@ -130,8 +128,10 @@ class Order {
         switch (value) {
             case "Posted1":
             case "Posted2":
-            case "Badge Secretary":
-            case "West Herts Depot":
+            case "Posted3":
+            case "Posted4":
+            case "BadgeSecretary":
+            case "WestHertsDepot":
                 this.deliveryOption = value;
                 break;
             default:
@@ -139,10 +139,10 @@ class Order {
         }
     }
     get Address() { return this.deliveryAddress; }
-    set Address(value) { 
+    set Address(value) {
         this.deliveryAddress = value;
         this.save();
-     }
+    }
     addGirl() {
         this.girls.push(new Girl());
     }
@@ -155,9 +155,7 @@ class Order {
         id = id.replace("girls", "");
         const row = id.substring(id.length - 1);
         const field = id.replace(row, "");
-        console.log(`Field: ${field}, row: ${row}: ${value}`)
         this.girls[row][field] = value;
-        console.log(this.girls);
         this.save();
     }
     resetItems(awards) {
@@ -168,7 +166,6 @@ class Order {
         Object.keys(sections).forEach(function (section) {
             const awards = sections[section];
             const items = orderItems[section];
-            console.log(typeof (items));
             for (const sku of items) {
                 if (sku.type !== 'woven') {
                     sku.quantity = awards[sku.award];
@@ -177,12 +174,10 @@ class Order {
                 }
             }
         });
-        console.log(this.orderItems);
     }
     updateQuantity(id, value) {
-        console.log(`${id} - ${value}`);
         const item = id.split(".");
-        var section=this.orderItems[item[0]];
+        var section = this.orderItems[item[0]];
         const sku = section.find(i => i.award == item[1] && i.type == item[2]);
         sku.quantity = value;
         this.save();
@@ -237,6 +232,12 @@ class Girl {
         this.isComplete = value;
     }
     constructor(name, membershipNumber, isComplete, awardLevel, unit) {
+        if (isComplete == null) {
+            isComplete = false;
+        }
+        if (awardLevel == null) {
+            awardLevel = "Bronze";
+        }
         this.name = name;
         this.membershipNumber = membershipNumber;
         this.isComplete = isComplete;
@@ -245,13 +246,13 @@ class Girl {
     }
 }
 
+const order = new Order();
 
 (function ($) {
     'use strict'
 
     // Fetch all the forms we want to apply custom Bootstrap validation styles to
     const forms = document.querySelectorAll('.needs-validation')
-    const order = new Order();
     const $recipients = $("#awardRecipients");
     $recipients.append(order.girlRow());
     $("#customer").on("change", function () {
@@ -297,12 +298,10 @@ class Girl {
             $(".js-has-girls").removeClass("d-none");
             Object.keys(awards).forEach(function (key) {
                 const section = awards[key];
-                console.log(`Gold awards ${section.gold}`);
                 if (section.gold > 0) {
                     $("#goldAward").removeClass("d-none");
                 }
             })
-            console.log(`Incomplete awards? ${order.hasIncompleteAwards}`);
             if (order.hasIncompleteAwards) {
                 $("#incompleteNote").removeClass("d-none");
             }
@@ -316,18 +315,20 @@ class Girl {
         order.updateQuantity(event.target.id, $(event.target).val());
         updateOrders(girlsAwards());
     });
-    $("#deliveryDetails .form-check input").on("change", function (event) {
-        console.log(event.target.id);
+    $("#deliveryDetails .form-check input").on("change", function () {
         const deliveryMethod = $(this).val();
         order.deliveryMethod = deliveryMethod;
         switch (order.deliveryMethod) {
-            case "Posted":
+            case "Posted1":
+            case "Posted2":
+            case "Posted3":
+            case "Posted4":
                 $("#postalAddress").prop("required", true);
                 $(".js-collection").addClass("d-none");
                 $(".js-posted").removeClass("d-none");
                 break;
-            case "Badge Secretary":
-            case "West Herts Depot":
+            case "BadgeSecretary":
+            case "WestHertsDepot":
                 $("#postalAddress").prop("required", false);
                 $(".js-collection").removeClass("d-none");
                 $(".js-posted").addClass("d-none");
@@ -336,8 +337,8 @@ class Girl {
                 throw new Error("Invalid operation");
         }
     });
-    $("#postalAddress").on("change",function(){
-        order.Address=$(this).val();
+    $("#postalAddress").on("change", function () {
+        order.Address = $(this).val();
     });
     $("#addGirl").on("click", function () {
         order.addGirl();
@@ -349,13 +350,86 @@ class Girl {
     Array.prototype.slice.call(forms)
         .forEach(function (form) {
             form.addEventListener('submit', function (event) {
-                if (!form.checkValidity()) {
-                    event.preventDefault()
-                    event.stopPropagation()
+                if (!validateForm(form)) {
+                    event.preventDefault();
+                    event.stopPropagation();
                 }
 
-                form.classList.add('was-validated')
             }, false)
         })
     // eslint-disable-next-line no-undef
 })(jQuery)
+
+function validateForm(form) {
+    $(".error-summary").remove();
+    console.log(form);
+    if (!form.checkValidity()) {
+        console.log("form invalid");
+        let errors = $(".form-control:invalid").length;
+        if (errors > 0) {
+            $("form .row").prepend(`<div class="col-sm-12 error-summary"><div class="alert alert-danger"><i class="fa fa-warning"></i> There ${(errors === 1 ? "is" : "are")} ${errors} fields which need your attention, see details below.</div></div>`);
+            $(".error-summary").trigger("focus");
+        }
+        form.classList.add('was-validated');
+        return false;
+    }
+    console.log("form valid");
+    form.classList.add('was-validated');
+    return true;
+}
+// eslint-disable-next-line no-unused-vars
+function onSubmit(token) { // function is called by Recaptcha callback.
+    $("#sendOrder").prop("disabled", true);
+    if (!validateForm(document.forms[0])) {
+        console.log("invalid form");
+        return;
+    }
+
+    var data = {
+        name: order.name,
+        email: order.email,
+        girls: order.girls,
+        orderItems: order.orderItems,
+        deliveryOption: order.deliveryOption,
+        deliveryAddress: order.deliveryAddress,
+        specialMessage: $("#enquirydetail").val(),
+        recaptchaToken: token
+    };
+    console.log(data);
+
+    function updateForm(msg, canHideForm, isError) {
+        if (canHideForm) {
+            $("form").hide();
+        }
+        $("form").before(`<div class="alert alert-${(isError ? "danger" : "success")}">${msg}</div>`);
+    }
+    // eslint-disable-next-line no-undef
+    $.post(`${baseUrl}badgeorders?apikey=${apikey}`, JSON.stringify(data))
+        .done(function (result) {
+            updateForm(result.statusMessage, true, false);
+        })
+        .fail(function (result) {
+            console.log(result);
+            if (Object.prototype.hasOwnProperty.call(result, "status")) {
+                switch (result.status) {
+                    case 400:
+                        if (Object.prototype.hasOwnProperty.call(result, "responseJSON") && Object.prototype.hasOwnProperty.call(result.responseJSON, "hasValidationError")) {
+                            updateForm(`An error occurred when processing your form: <ul><li>${result.responseJSON.statusMessage}</li></ul>`, false, true);
+                            break;
+                        }
+                    // eslint-disable-next-line no-fallthrough
+                    case 401:
+                    case 404:
+                        updateForm("Sorry, an error is preventing us from sending your form. Please contact us by email. We apologise for any inconvenience caused.", true, true);
+                        break;
+                    default:
+                        alert(`${result.status}: ${result.statusText}`);
+                }
+                if (Object.prototype.hasOwnProperty.call(result, "responseJSON") && Object.prototype.hasOwnProperty.call(result.responseJSON, "statusMessage")) {
+                    console.log(`${result.status}: ${result.statusText} - ${result.responseJSON.statusMessage}`);
+                } else {
+                    console.log(`${result.status}: ${result.statusText}`);
+                }
+            }
+        });
+}

@@ -102,12 +102,12 @@ lastmod: 2022-07-20T19:45:50.229Z
                 </div>
                 <div class="form-check">
                     <input type="radio" class="form-check-input" name="delivery" id="deliveryOption1"
-                        value="Badge Secretary" required />
+                        value="BadgeSecretary" required />
                     <label for="deliveryOption1" class="form-check-label">Collect from Badge Secretary (in Tring)</label>
                 </div>
                 <div class="form-check">
                     <input type="radio" class="form-check-input" name="delivery" id="deliveryOption2"
-                        value="West Herts Depot" required />
+                        value="WestHertsDepot" required />
                     <label for="deliveryOption2" class="form-check-label">Collect from West Herts Depot (Hemel Hempstead: term time, Wed 7-8.30pm)</label>
                 </div>
             </div>
@@ -124,11 +124,19 @@ lastmod: 2022-07-20T19:45:50.229Z
                     final order total including postage. Payment must be made before the items are dispatched. Packages
                     are sent out weekly on Thursdays.</p>
             </div>
+            <div class="col-sm-12 d-none">
+                <label for="enquirydetail">Detailed message:</label>
+                <textarea name="enquirydetail" id="enquirydetail" cols="40" rows="10" class="form-control"></textarea></span>
+            </div>
         </div>
     </div>
     <div id="orderSubmit">
         <div class="mb-3">
-            <input type="submit" class="btn btn-primary btn-lg" id="sendOrder" value="Request badges" disabled />
+            <input type="submit" class="g-recaptcha btn btn-primary btn-lg" data-sitekey="{{ site.recaptcha.sitekey }}" data-action="submit" data-callback="onSubmit" id="sendOrder" value="Request badges" disabled />
         </div>
     </div>
 </form>
+<script src="https://www.google.com/recaptcha/api.js"></script>
+<script type="text/javascript">    
+    var baseUrl = '{{site.email.base_url}}', apikey = encodeURIComponent('{{ site.email.apikey }}');
+</script>
