@@ -231,18 +231,22 @@ class Girl {
     set Complete(value) {
         this.isComplete = value;
     }
-    constructor(name, membershipNumber, isComplete, awardLevel, unit) {
+    constructor(name, membershipNumber, isComplete, awardLevel, unit, section) {
         if (isComplete == null) {
             isComplete = false;
         }
         if (awardLevel == null) {
             awardLevel = "Bronze";
         }
+        if (section == null){
+            section="Rainbows";
+        }
         this.name = name;
         this.membershipNumber = membershipNumber;
         this.isComplete = isComplete;
         this.awardLevel = awardLevel;
         this.unit = unit;
+        this.section=section;
     }
 }
 
