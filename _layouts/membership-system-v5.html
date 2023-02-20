@@ -23,11 +23,11 @@ layout: default-v5
                         {% assign currentYear = "today" | date: "%Y" | plus: 0 %}
                         {% if year < currentYear %} {% if year < currentYear-1 %} {% assign link=year | plus: 1 %} {%
                             endif %} <li class="page-item"><a class="page-link"
-                                href="/membership-system-updates/{{ link }}"><span aria-hidden="true">&laquo;</span>{{ year | plus: 1 }} updates</a></li>
+                                href="/membership-system-updates/{{ link }}/"><span aria-hidden="true">&laquo;</span>{{ year | plus: 1 }} updates</a></li>
                             {% endif %}
                             {% if year > 2018 %}
                             <li class="page-item"><a class="page-link"
-                                    href="/membership-system-updates/{{ year | minus: 1 }}">{{ year | minus: 1 }} updates <span aria-hidden="true">&raquo;</span></a>
+                                    href="/membership-system-updates/{{ year | minus: 1 }}/">{{ year | minus: 1 }} updates <span aria-hidden="true">&raquo;</span></a>
                             </li>
                             {% endif %}
                     </ul>

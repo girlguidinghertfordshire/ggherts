@@ -68,13 +68,13 @@ county-teams:
     url: /international-adventures/
     items:
     - title: Unit Opportunities
-      url: /international-adventures/international-unit-opportunities/
+      url: /international-adventures/international-unit-opportunities
     - title: County Opportunities
-      url: /international-adventures/international-county/
+      url: /international-adventures/international-county
     - title: Region Opportunities
-      url: /international-adventures/international-region-opportunities/
+      url: /international-adventures/international-region-opportunities
     - title: National & WAGGGS Opportunities
-      url: /international-adventures/international-national-wagggs-opportunities/
+      url: /international-adventures/international-national-wagggs-opportunities
   - title: Outdoor Activities
     url: /county-teams/outdoor/
     items:
@@ -87,12 +87,12 @@ county-teams:
     - title: Watersports
       url: /county-teams/outdoor/watersports/
   - title: Trefoil Guild
-    url: /county-teams/trefoil
+    url: /county-teams/trefoil/
     items:
     - title: Guilds
-      url: /county-teams/trefoil/guilds/
+      url: /county-teams/trefoil/guilds
     - title: Activities & Challenges
-      url: /county-teams/trefoil/activities/
+      url: /county-teams/trefoil/activities
 events:
   title: Events
   url: /events/
@@ -111,9 +111,9 @@ news:
   - title: Noticeboard
     url: /noticeboard/
   - title: Essential News
-    url: /news/essential-news/
+    url: /news/essential-news
   - title: Billboard
-    url: /news/billboard/
+    url: /news/billboard
 contact:
   title: Contact Us
   url: /contact-us/

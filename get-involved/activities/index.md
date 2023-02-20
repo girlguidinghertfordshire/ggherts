@@ -181,8 +181,7 @@ Idea <span class="_5mfr"><span class="_6qdm">3️⃣</span></span> Ask girls to 
 <p>Lots of us have got more time on our hands &#8211; so why not use them and sew your badges onto something? How many of you have badges waiting to be sewn onto your gilet, sash, uniform or camp blanket? Can you learn to sew them on yourself? Ask a grown up for help and learn a new skill.</p>
 <h4>Have fun with emojis <span class="_5mfr"><span class="_6qdm">🙂</span></span></h4>
 <p>What film titles can you depict using just emojis? Probably everyone can guess <span class="_5mfr"><span class="_6qdm">❄️</span></span><span class="_5mfr"><span class="_6qdm">⛄️</span></span><span class="_5mfr"><span class="_6qdm">👭</span></span><span class="_5mfr"><span class="_6qdm">🏰</span></span></p>
-<h4>How about making a Ladybird book mark?</h4>
-<p>Did you know that in Ireland Rainbows are called Ladybirds? And a Ladybird leader is called Coccinella? <a href="https://irishgirlguides.ie/wp-conte…/…/2017/04/ladybirds.pdf" target="_blank" rel="noopener">Follow this link</a> to find out more.</p>
+
 <h4>A-Z Scavenger Hunt</h4>
 <p>Make a list from A to Z. Can you can find things around your home beginning with every letter of the alphabet?. Which letters were the most difficult? What were the funniest things you found?<br />
 Share your weird and wonderful findings with your friends!</p>
