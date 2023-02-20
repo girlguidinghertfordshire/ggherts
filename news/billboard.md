@@ -13,9 +13,9 @@ _Billboard_ is a monthly e-newsletter sent to all Girlguiding Hertfordshire memb
 
 ## Recent editions
 
+- [February 2023](https://mailchi.mp/970349cc5715/feb-2023-billboard-13644944){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [January 2023](https://mailchi.mp/c124909ea3ca/jan-2023-billboard-13640528){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [December 2022](https://mailchi.mp/331413d87024/dec-2022-billboard-13516444){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
-- [November 2022](https://mailchi.mp/15eb6f2601f8/nov-2022-billboard-13513828){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 
 [Older editions](#older-editions){:.small}
 
@@ -23,7 +23,6 @@ _Billboard_ is a monthly e-newsletter sent to all Girlguiding Hertfordshire memb
 
 ### 2023
 
-- February: 31 January 2023
 - March: 28 February 2023
 - April: 31 March 2023
 - May: 30 April 2023
@@ -43,6 +42,7 @@ To feature in the Girlguiding Hertfordshire monthly newsletter, sent to all coun
 
 ## Older editions
 
+- [November 2022](https://mailchi.mp/15eb6f2601f8/nov-2022-billboard-13513828){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [October 2022](https://mailchi.mp/6e3588d46675/oct-2022-billboard-13511564){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [September 2022](https://mailchi.mp/d76fe1dec005/sept-2022-billboard-13506144){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - August 2022 - no edition
