@@ -4,14 +4,14 @@ class Order {
     girls = [];
     #items = JSON.stringify([
         { "award": "bronze", "type": "certificate", "description": "Bronze Award - Certificate", "price": 0.7, "quantity": 0 },
-        { "award": "bronze", "type": "woven", "description": "Bronze Award - Woven", "price": 1.1, "quantity": 0 },
-        { "award": "bronze", "type": "metal", "description": "Bronze Award - Metal", "price": 2.15, "quantity": 0 },
+        { "award": "bronze", "type": "woven", "description": "Bronze Award - Woven Badge", "price": 1.1, "quantity": 0 },
+        { "award": "bronze", "type": "metal", "description": "Bronze Award - Metal Badge", "price": 2.15, "quantity": 0 },
         { "award": "silver", "type": "certificate", "description": "Silver Award - Certificate", "price": 0.7, "quantity": 0 },
-        { "award": "silver", "type": "woven", "description": "Silver Award - Woven", "price": 1.1, "quantity": 0 },
-        { "award": "silver", "type": "metal", "description": "Silver Award - Metal", "price": 2.15, "quantity": 0 },
+        { "award": "silver", "type": "woven", "description": "Silver Award - Woven Badge", "price": 1.1, "quantity": 0 },
+        { "award": "silver", "type": "metal", "description": "Silver Award - Metal Badge", "price": 2.15, "quantity": 0 },
         { "award": "gold", "type": "certificate", "description": "Gold Award - Certificate", "price": 0.7, "quantity": 0 },
-        { "award": "gold", "type": "woven", "description": "Gold Award - Woven", "price": 1.1, "quantity": 0 },
-        { "award": "gold", "type": "metal", "description": "Gold Award - Metal", "price": 2.15, "quantity": 0 }
+        { "award": "gold", "type": "woven", "description": "Gold Award - Woven Badge", "price": 1.1, "quantity": 0 },
+        { "award": "gold", "type": "metal", "description": "Gold Award - Metal Badge", "price": 2.15, "quantity": 0 }
     ]);
     orderItems;
     deliveryOption = "Posted1";
