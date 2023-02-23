@@ -60,15 +60,6 @@ Why not take a look at the [Outdoor Activities webpage](/county-teams/outdoor/) 
 {% include vacancy.html title="County Outdoor Team Administrator" description=description button-text="Role Description" download="/assets/docs/2022/outdoor-team-administrator-role-description.pdf" img="/assets/images/2022/12/outdoor-team-administrator.webp" %}
 
 {% capture description %}
-Could you support volunteers who would like to gain their Going Away licence, so they can offer girls exciting residential opportunities?
-
-We are looking for an enthusiastic volunteer, or two (sharing this role) to promote, encourage and be responsible for the County's camping and residential holidays.
-
-If this sounds like you, find out more about this exciting opportunity below or email <cc@girlguidinghertfordshire.org.uk> for further details or to apply.
-{% endcapture %}
-{% include vacancy.html title="County Residential Adviser" description=description button-text="Role Description" download="/assets/docs/2022/county-residential-adviser-role-description.pdf" img="/assets/images/2022/11/county-residential-adviser.webp" %}
-
-{% capture description %}
 We want to ensure that we can offer regular, high quality training opportunities to all our adult members in the county and region.
 
 Girlguiding Hertfordshire is therefore looking for new Trainers to join the Anglia Training Team.
