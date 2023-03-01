@@ -1,0 +1,90 @@
+.home-banner {
+
+    figure {
+        background-repeat: no-repeat;
+        background-size: cover;
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+
+        img {
+            opacity: 0;
+            max-width: 100%;
+        }
+    }
+
+    .image-block {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+
+        .desc {
+            height: 100%;
+            left: 0;
+            padding-left: 35px;
+            padding-top: 20%;
+            position: absolute;
+            top: 0;
+            -webkit-transform: translateY(100%);
+            transform: translateY(100%);
+            -webkit-transition: all .5s ease 0s;
+            transition: all .5s ease 0s;
+            width: 100%;
+            z-index: 5;
+
+            img {
+                opacity: 1;
+                width: auto;
+            }
+
+            h2 {
+                margin-top: 20px;
+                font-weight: 400;
+
+                a {
+                    font-size: 20px;
+                    text-decoration: none;
+                    color: #fff
+                }
+            }
+        }
+
+        h3 a {
+            bottom: 10px;
+            color: #fff;
+            font-size: 16px;
+            left: 40px;
+            min-width: 100px;
+            position: absolute;
+            width: 100%;
+            z-index: 5;
+            font-weight: 400;
+            -webkit-transition: all .5s ease 0s;
+            transition: all .5s ease 0s;
+            text-decoration: none;
+            background-color: $gg-mid-blue;
+            padding: 0.5rem;
+
+            &:after {
+                content: "\f105";
+                display: inline-block;
+                font-family: FontAwesome;
+                color: #fff;
+                padding-left: 7px
+            }
+        }
+    }
+
+
+    figure:hover .image-block .desc {
+        -webkit-transform: translateY(0%);
+        transform: translateY(0%)
+    }
+
+
+    .equal-height figure {
+        height: 240px;
+    }
+}

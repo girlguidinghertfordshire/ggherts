@@ -2,21 +2,21 @@
 {{ include.start }}
 {% endcapture %}
 <div class="row">
-    <div class="col-md-6">
+    <div class="col-md-6 mb-4">
         {% for post in site.posts limit:1 offset: start %}
         <div class="news-post">
-            <div class="line"></div>
             <h3><a href="{{ post.url }}">
                     {{ post.title }}</a></h3>
             <time>{{ post.date | date_to_string: "ordinal","GB" }}</time>
-            <div class="image-block">
+            <div class="image-block text-center">
                 <a href="{{ post.url }}">
                     <img loading="lazy" src="{{ post.image }}" alt="" />
                 </a>
             </div>
             <p>{{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 30 | escape | markdownify }}</p>
-            <a class="btn gg-btn gg-btn-pink-o" href="{{ post.url }}"><span>Read more<span class="sr-only">: {{
-                        post.title }}</span></span></a>
+            <div class="text-right"><a class="btn btn-secondary" href="{{ post.url }}">Read more<span class="sr-only">: {{
+                        post.title }}</span></a></div>
+            
         </div>
         {% endfor %}
     </div>
@@ -26,7 +26,6 @@
             <div class="col-6">
                 <article class="news-post">
                     <div class="post-block">
-                        <div class="line"></div>
                         <h3><a class="" href="{{ post.url }}">{{ post.title }}</a></h3>
                         <time>{{ post.date | date_to_string: "ordinal","GB" }}</time>
                         <div class="image-block">

@@ -10,15 +10,26 @@
     @return mix(black, $color, $weight);
   }
 // blues
-$gg-blue: #4e88c7;
-$gg-dark-blue: #0072bc;
+$gg-dark-blue: #161b4e;
+$gg-mid-blue: #007bc4;
+$gg-light-blue: #00a7e5;
+
 $gg-dark-blue-hover: shade-color($gg-dark-blue, 15%);
 $gg-dark-blue-border-hover: shade-color($gg-dark-blue, 20%);
 $gg-dark-blue-active: shade-color($gg-dark-blue, 20%);
 $gg-dark-blue-border-active: shade-color($gg-dark-blue, 25%);
+$gg-blue: $gg-mid-blue;
 $gg-blue-link: #337ab7;
-$gg-light-blue: #83abd8;
 
+:root{
+    --gg-dark-blue: $gg-dark-blue;
+    --gg-mid-blue: $gg-mid-blue;
+    --gg-light-blue: $gg-light-blue;
+    --bs-primary:var(--gg-dark-blue);
+    --bs-link-color: var(--gg-dark-blue);
+    --bs-link-hover-color: var(--gg-mid-blue);
+    --bs-primary-rgb: 22,27, 78
+  }
 // pinks
 $gg-pink: #c40063;
 $gg-light-pink: #f3cce0;
@@ -34,22 +45,18 @@ $gg-gray: #d8d7d7;
 $gg-mid-gray: #817777;
 $gg-dark-gray: #3a3535;
 
-//
-.gg-blue-bg {
-    background-color: #{$gg-dark-blue}b3;    
-}
 
 .border-primary {
-  border-color: $gg-pink !important;
+  border-color: $gg-dark-blue !important;
 }
 .border-secondary {
-  border-color: $gg-blue !important;
+  border-color: $gg-mid-blue !important;
 }
 .bg-primary {
-  background-color: $gg-pink !important;
+  background-color: $gg-dark-blue !important;
 }
 .bg-secondary {
-  background-color: $gg-blue !important;
+  background-color: $gg-mid-blue !important;
 }
 .bg-light-pink {
   background-color: $gg-light-pink !important;
@@ -60,3 +67,4 @@ $gg-dark-gray: #3a3535;
 .border-thick {
   border-width: 3px;
 }
+

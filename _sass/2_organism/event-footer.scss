@@ -1,9 +1,10 @@
 .latest-events {
     padding: 35px 0 60px;
-    border-top: 1px solid $gg-pink-border;
+    background-color: $gg-mid-blue;
     h2 {
         font-size: 1.5rem;
         font-weight: 700;
+        color: white;
     }
     .event-list {
         width: 100%;
@@ -28,7 +29,6 @@
         transform: skew(0deg,0deg);
         border-radius: 0 0 0 10px;
         figure {
-            border-radius: 20px 20px 0 0;
             max-height: 176px;
             margin-bottom: 0;
             background-size: cover;
@@ -38,8 +38,7 @@
             }
         }
         .event-detail {
-            background-color: #4e88c7;
-            border-radius: 0 0 0 10px;
+            background-color: $gg-light-blue;
             float: left;
             min-height: 124px;
             width: 100%;
@@ -51,19 +50,6 @@
             time {
                 color: #fff;
             }
-        }
-        .event-pattern {
-            background: #4e88c7 none repeat scroll 0 0;
-            border-radius: 0 0 20px 20px;
-            bottom: 23px;
-            float: left;
-            height: 50px;
-            left: 0;
-            position: relative;
-            -webkit-transform: skew(0deg,8deg);
-            transform: skew(0deg,8deg);
-            width: 100%;
-            z-index: 0;
         }
     }
 }

@@ -20,7 +20,10 @@
     crossorigin="anonymous" referrerpolicy="no-referrer" />
   <link rel='stylesheet' id='font-awesome-style-css' href='/wp-content/themes/girl-guiding/css/font-awesome.min.css'
     type='text/css' media='all' />
-  <link rel="stylesheet" href="/css/site.css?v=2.15" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/site.css?v=2.16" />
   {% if page.location_map or page.division_map %}
   <link rel='dns-prefetch' href='https://maps.googleapis.com/' />
   {% if jekyll.environment == "production" %}
@@ -47,11 +50,11 @@
     <div class="gg-sliding-frame">
       <div class="gg-content-wrapper">
         <div class="gg-content">
-          <header class="header">
+          <header class="header bg-primary">
             <div class="container">
               <div class="row">
                 <div class="col-12 col-sm-3">
-                  <a href="/"><img src="/assets/images/core/logo.png" class="gg-logo"
+                  <a href="/"><img src="/assets/images/core/gg-draft-logo.webp" class="gg-logo"
                       alt="GirlGuiding Hertfordshire" /></a>
                   <button class="gg-menu-toggler" id="showmenu" type="button" aria-label="Toggle navigation">
                     <div><i class="fa fa-bars" aria-hidden="true"></i></div>
@@ -63,8 +66,7 @@
                     <div class="input-group">
                       <input type="text" size="50" name="searchBox" id="searchBox" class="form-control search-text"
                         placeholder="Search" value="" />
-                      <button type="submit" id="searchsubmit" class="btn btn-link"><img
-                          src="/assets/images/core/search-icon.png" alt="Search"></button>
+                      <button type="submit" id="searchsubmit" class="btn btn-link" title="search"><i class="fa fa-search" aria-hidden="true"></i><span class="visually-hidden">Search</span></button>
                     </div>
                   </div>
                 </div>
@@ -169,7 +171,7 @@
     integrity="sha512-STof4xm1wgkfm7heWqFJVn58Hm3EtS31XFaagaa8VMReCXAkQnJZ+jEy8PCC/iT18dFy95WcExNHFTqLyp72eQ=="
     crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/js/bootstrap.min.js"
-    integrity="sha512-eHx4nbBTkIr2i0m9SANm/cczPESd0DUEcfl84JpIuutE6oDxPhXvskMR08Wmvmfx5wUpVjlWdi82G5YLvqqJdA=="
+    integrity="sha512-1/RvZTcCDEUjY/CypiMz+iqqtaoQfAITmNSJY17Myp4Ms5mdxPS5UV7iOfdZoxcGhzFbOm6sntTKJppjvuhg4g=="
     crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <script src="/assets/js/site.js?v=2.4"></script>
   <script async src="https://js.sitesearch360.com/plugin/bundle/1899.js"></script>

@@ -1,34 +1,46 @@
 // override BS default colours
 .btn-primary {
     color: #fff;
-    background-color: $gg-pink;
-    border-color: $gg-pink;
+    background-color: $gg-dark-blue;
+    border-color: $gg-dark-blue;
     &:hover, &:focus{
-        background-color: $gg-pink-hover;
-        border-color: $gg-pink-border-hover;
+        background-color: $gg-dark-blue-hover;
+        border-color: $gg-dark-blue-border-hover;
     }
     &:focus, &:active:focus {
         box-shadow: 0 0 0 0.25rem rgba(196, 0, 99, 0.5);
     }
     &:disabled {
-        background-color: $gg-pink;
-        border-color: $gg-pink;
+        background-color: $gg-dark-blue;
+        border-color: $gg-dark-blue;
     }
     &:active {
-        background-color: $gg-pink-active;
-        border-color: $gg-pink-border-active;
+        background-color: $gg-dark-blue-active;
+        border-color: $gg-dark-blue-border-active;
     }
 }
 .btn-outline-primary {
-    color: $gg-pink;
-    border-color: $gg-pink;
+    color: $gg-dark-blue;
+    border-color: $gg-dark-blue;
     &:active,&:hover {
         color: #fff;
-        background-color: $gg-pink;
-        border-color: $gg-pink;
+        background-color: $gg-dark-blue;
+        border-color: $gg-dark-blue;
     }
     &:focus, &:active:focus {
-        box-shadow: 0 0 0 0.25rem rgba(196, 0, 99, 0.5);
+        box-shadow: 0 0 0 0.25rem rgba(22, 27, 78, 0.5);
+    }
+}
+.btn-outline-white {
+    color: white;
+    border-color: white;
+    &:active, &:hover {
+        color: $gg-dark-blue;
+        background-color: white;
+        border-color: white;
+    }
+    &:focus, &:active:focus {
+        box-shadow: 0 0 0 0.25rem rgba(255, 255, 255, 0.5);
     }
 }
 .btn-secondary {

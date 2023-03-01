@@ -15,6 +15,7 @@ $menu-width: 250px;
     border: none;
     background: transparent;
     font-size: 1.5rem;
+    color: white;
 }
 
 .gg-menu-toggler-text {
@@ -35,7 +36,7 @@ $menu-width: 250px;
             content: "\f107";
             display: inline-block;
             font-family: FontAwesome, sans-serif;
-            color: #695f5f;
+            color: $gg-light-blue;
             padding-left: 5px;
             vertical-align: middle
         }
@@ -56,6 +57,19 @@ $menu-width: 250px;
     }
 }
 
+.gg-search-form {
+    padding: .5rem 0;
+    .search-text {
+        border-left: none;
+        border-right: none;
+        border-top: none;
+        border-bottom: 1px solid #b4afaf;
+    }
+    button {
+        color: white;
+        font-size: 1.5rem;
+    }
+}
 @media (max-width:($grid-lg-min - 1)) {
     .gg-viewport {
         width: 100%;
@@ -200,14 +214,6 @@ $menu-width: 250px;
     }
 }
 
-.gg-search-form {
-    .search-text {
-        border-left: none;
-        border-right: none;
-        border-top: none;
-        border-bottom: 1px solid #b4afaf;
-    }
-}
 
 @media (min-width: $grid-sm-min) {
     .gg-logo {
