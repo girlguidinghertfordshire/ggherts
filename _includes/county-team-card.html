@@ -1,0 +1,21 @@
+{% capture member %}
+{{ include.member }}
+{% endcapture %}
+<div class="col">
+    <div class="card h-100 border-0">
+      <div class="card-body">
+        <h3 class="card-title h5 fw-bold"><a class="text-decoration-none" href="{{ member.url }}">{{ member.title }}</a></h3>
+        <div class="card-subtitle mb-2 text-muted fw-bold">{{ member.job_title }}</div>
+        <p class="card-text">{{ member.person_intro }}</p>
+        {% if member.content.size>1 %}
+        <a class="btn gg-btn gg-btn-pink-o" href="{{ member.url }}"><span>Read more<span class="sr-only"> about {{ member.title
+              }}</span></span></a>
+        {% endif %}
+        {% if member.email %}
+        <a class="btn gg-btn gg-btn-pink-o" href="mailto:{{ member.email }}"><span>Email<span class="sr-only"> {{ member.title
+              }}</span></span></a>
+        {% endif %}
+      </div>
+        <div class="line mt-2"></div>
+    </div>
+  </div>

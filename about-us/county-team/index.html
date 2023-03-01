@@ -19,25 +19,19 @@ display_name: GGH-Admin1
     target="_blank" rel="noopener">vacancies page</a>. For more information or if you have any other skills that you
   would like to offer, please email <a href="mailto:countysec@girlguidinghertfordshire.org.uk" target="_blank"
     rel="noopener">county office</a></p>
+    <h2 id="volunteers">Volunteers</h2>
+    {% assign volunteers= site.members | where: "is_employee", false %}
 <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3">
-  {% for member in site.members %}
-  <div class="col">
-    <div class="card h-100 border-0">
-      <div class="card-body">
-        <h2 class="card-title h5 fw-bold"><a class="text-decoration-none" href="{{ member.url }}">{{ member.title }}</a></h2>
-        <div class="card-subtitle mb-2 text-muted fw-bold">{{ member.job_title }}</div>
-        <p class="card-text">{{ member.person_intro }}</p>
-        {% if member.content.size>1 %}
-        <a class="btn gg-btn gg-btn-pink-o" href="{{ member.url }}"><span>Read more<span class="sr-only"> about {{ member.title
-              }}</span></span></a>
-        {% endif %}
-        {% if member.email %}
-        <a class="btn gg-btn gg-btn-pink-o" href="mailto:{{ member.email }}"><span>Email<span class="sr-only"> {{ member.title
-              }}</span></span></a>
-        {% endif %}
-      </div>
-        <div class="line mt-2"></div>
-    </div>
-  </div>
+  {% for member in volunteers %}
+  {% include county-team-card.html member=member %}
+  {% endfor %}
+</div>
+<h2 id="employees">
+  Employees
+</h2>
+{% assign employees= site.members | where: "is_employee", true %}
+<div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3">
+  {% for member in employees %}
+  {% include county-team-card.html member=member %}
   {% endfor %}
 </div>
