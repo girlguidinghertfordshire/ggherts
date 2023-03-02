@@ -9,7 +9,7 @@ categories:
 tags: []
 author:
   display_name: The County Office
-lastmod: 2023-01-12T19:50:27.734Z
+lastmod: 2023-03-02T18:24:42.061Z
 ---
 We&lsquo;re looking for Rainbows, Brownies, Guides, Rangers and Young Leaders to design a colourful festive image for this year&lsquo;s Christmas E-card.
 
@@ -26,7 +26,7 @@ The winning design will include your **first name and unit** underneath so pleas
 
 The deadline to send us your designs is **Sunday 13 November.**
 
-Please email a digital image/photograph of your design (ensuring it is between 1-3mb in size where possible) to <countysec@girlguidinghertfordshire.org.uk>
+Please email a digital image/photograph of your design (ensuring it is between 1-3mb in size where possible) to <admin@girlguidinghertfordshire.org.uk>
 
 Alternatively, post your design (allowing plenty of time for delivery due to proposed postal strikes) to ‘Christmas E-Card Competition’, County Office, Herts Guide Centre, Cottered, Herts SG9 9QP.
 

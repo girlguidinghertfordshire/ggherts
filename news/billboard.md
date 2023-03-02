@@ -35,7 +35,7 @@ _Billboard_ is a monthly e-newsletter sent to all Girlguiding Hertfordshire memb
 
 ## Make a submission
 
-To feature in the Girlguiding Hertfordshire monthly newsletter, sent to all county members opted into receiving marketing messages, please complete this [online form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJUMENVSEM5TEFGQUNVQ1BERklIT0ozUzcwMi4u){:target="_blank"}{:rel="noopener noreferrer"}.  Should you be unable to complete the form please contact <countysec@girlguidinghertfordshire.org.uk> for a Word version of the document.
+To feature in the Girlguiding Hertfordshire monthly newsletter, sent to all county members opted into receiving marketing messages, please complete this [online form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJUMENVSEM5TEFGQUNVQ1BERklIT0ozUzcwMi4u){:target="_blank"}{:rel="noopener noreferrer"}.  Should you be unable to complete the form please contact <admin@girlguidinghertfordshire.org.uk> for a Word version of the document.
 
 [Article Submission Form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJUMENVSEM5TEFGQUNVQ1BERklIT0ozUzcwMi4u){:class="btn-gg"}{:target="_blank"}{:rel="noopener noreferrer"}
 

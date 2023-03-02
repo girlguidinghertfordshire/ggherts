@@ -6,7 +6,7 @@ toc: events
 banner_image: /assets/images/2022/04/GPH_Collage.jpg
 author:
   login: GGH-CMS
-  email: countysec@girlguidinghertfordshire.org.uk
+  email: admin@girlguidinghertfordshire.org.uk
   display_name: the County Office
   first_name: ""
   last_name: ""

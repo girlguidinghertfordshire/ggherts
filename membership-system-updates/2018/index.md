@@ -433,7 +433,7 @@ are available on the <a href="/about-us/resources/" target="_blank" rel="noopene
 
 <strong>GO Queries/Membership Systems Support - </strong><a href="mailto:membership@girlguidinghertfordshire.org.uk" target="_blank" rel="noopener"><strong>membership@girlguidinghertfordshire.org.uk</strong></a>
 
-<strong>County Office – </strong>SS Level 2 Conversations, 1<sup>st</sup> Response Qualifications - <a href="mailto:countysec@girlguidinghertfordshire.org.uk" target="_blank" rel="noopener"><strong>countysec@girlguidinghertfordshire.org.uk</strong></a>
+<strong>County Office – </strong>SS Level 2 Conversations, 1<sup>st</sup> Response Qualifications - <a href="mailto:admin@girlguidinghertfordshire.org.uk" target="_blank" rel="noopener"><strong>admin@girlguidinghertfordshire.org.uk</strong></a>
 
 <strong>Programme/GO suggestions - </strong><a href="mailto:membershipsystemssuggestions@girlguiding.org.uk"><strong>membershipsystemssuggestions@girlguiding.org.uk</strong></a>
 
@@ -911,7 +911,7 @@ You should be allocating the ID Verifier to the applicant on GO using the follow
 
 <strong>Deceased members</strong>
 
-If a member locally passes away, please could we ask that you forward us the membership number as soon as possible so that we can ensure the relevant actions are undertaken. Email <a href="mailto:membership@girlguidinghertfordshire.org.uk">membership@girlguidinghertfordshire.org.uk</a>  and <a href="mailto:countysec@girlguidinghertfordshire.org.uk">countysec@girlguidinghertfordshire.org.uk</a>  with the subject ‘deceased member’.
+If a member locally passes away, please could we ask that you forward us the membership number as soon as possible so that we can ensure the relevant actions are undertaken. Email <a href="mailto:membership@girlguidinghertfordshire.org.uk">membership@girlguidinghertfordshire.org.uk</a>  and <a href="mailto:admin@girlguidinghertfordshire.org.uk">admin@girlguidinghertfordshire.org.uk</a>  with the subject ‘deceased member’.
 <h4><strong>November 2017</strong></h4>
 <span style="text-decoration: underline;">National Support</span>
 We’re now almost two months in and since launch more than 33,700 volunteers have set up their account to use GO. We’ve responded to more than 16,600 support calls and emails. The systems team is available by phone Monday to Friday 9am to 5pm on 0800 999 2016 or can be emailed on <a href="mailto:membershipsystems@girlguiding.org.uk">membershipsystems@girlguiding.org.uk</a>.

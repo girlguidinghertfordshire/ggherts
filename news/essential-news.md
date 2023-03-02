@@ -28,4 +28,4 @@ _Essential News_ is sent to all **Girlguiding Hertfordshire** members by email o
 - [February 2022](https://mailchi.mp/98abc6c499f0/feb-2022-essential-news-6118194){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [January 2022](https://mailchi.mp/a3aed69df64d/jan-2022-essential-news-5015594?e=3599adf2bf){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 
-Please contact the county office via <countysec@girlguidinghertfordshire.org.uk> to request 2021 and older newsletters.
+Please contact the county office via <admin@girlguidinghertfordshire.org.uk> to request 2021 and older newsletters.

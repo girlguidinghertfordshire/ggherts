@@ -12,7 +12,7 @@ author:
   display_name: The County Office
   first_name: ""
   last_name: ""
-lastmod: 2022-12-20T19:35:19.009Z
+lastmod: 2023-03-02T18:24:33.087Z
 ---
 The Great Patrol Hunt team are looking for a caterer for next year's GPH Round 3 (and hopefully thereafter), providing catering for leaders from the Friday evening and then for the whole camp from Saturday breakfast to Sunday breakfast inclusive.  
 
@@ -24,6 +24,6 @@ Indoor catering facilities may be available, depending on the campsite chosen, b
 
 The 2023 camp is due to take place on **Friday 30 - Sunday 2 July 2023** (venue to be confirmed)
 
-To enquire about this vacancy and join the highly successful GPH team please contact <countysec@girlguidinghertfordshire.org.uk>
+To enquire about this vacancy and join the highly successful GPH team please contact <admin@girlguidinghertfordshire.org.uk>
 
 You can find out more about the Great Patrol Hunt event by visiting the [Great Patrol Hunt page.](/great-patrol-hunt/)

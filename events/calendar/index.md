@@ -11,7 +11,7 @@ This calendar shows dates of meetings, trainings and events of which the County 
 
 More information about many events can be found on the Events page, or by contacting the Office.
 
-Please contact the Office to add dates to the calendar - <countysec@girlguidinghertfordshire.org.uk>
+Please contact the Office to add dates to the calendar - <admin@girlguidinghertfordshire.org.uk>
 
 <iframe style="border: 0;" src="https://calendar.google.com/calendar/embed?src=calendar%40girlguidinghertfordshire.org.uk&amp;ctz=Europe/London"
     width="100%" height="600" frameborder="0" scrolling="no" style="max-width:100%"></iframe>

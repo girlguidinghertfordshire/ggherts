@@ -108,4 +108,4 @@ EHAAT can offer a tour at either of our Airbases in North Weald and Earls Colne,
 - Raise West Hertfordshire NHS Trust Charity Badge
 - Uganda Friendship Challenge Badge
 
-If you are interested in any of these challenge badges please contact <countysec@girlguidinghertfordshire.org.uk> for further details.
+If you are interested in any of these challenge badges please contact <admin@girlguidinghertfordshire.org.uk> for further details.
