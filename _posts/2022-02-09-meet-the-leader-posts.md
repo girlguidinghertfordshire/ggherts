@@ -11,14 +11,14 @@ author:
   display_name: The County Office
   first_name: ""
   last_name: ""
-lastmod: 2022-09-18T14:41:28.169Z
+lastmod: 2023-03-02T18:30:46.417Z
 ---
 
-The PR team would love to create more **Meet the Leader** posts for our latest volunteer recruitment campaign.
+The County Media and Communications team would love to create more **Meet the Leader** posts for our latest volunteer recruitment campaign.
 
 ![Meet our leaders: Ciara](/assets/images/2022/09/mtl-ciara.webp){:.img-fluid}
 
-Once our PR team have created your post, we encourage you to share it **EVERYWHERE** you can... not just to community Facebook groups, but also to your unit WhatsApp groups, school parents, church and even work colleagues etc.
+Once our Media and Communications team have created your post, we encourage you to share it **EVERYWHERE** you can... not just to community Facebook groups, but also to your unit WhatsApp groups, school parents, church and even work colleagues etc.
 
 We tested this during the last campaign and it proved extremely successful.
 
@@ -26,7 +26,7 @@ Read our article about [making social media posts effective](/news/help-us-make-
 
 ## Get involved
 
-If you would like to take part simply send the following to <pr@girlguidinghertfordshire.org.uk>:
+If you would like to take part simply send the following to <communications@girlguidinghertfordshire.org.uk>:
 
 - Name
 - Guiding name (if you have one - not everyone does)
