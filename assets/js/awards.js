@@ -294,11 +294,11 @@ const order = new Order();
             /* only tracked options are available for postal */
             $("#deliveryDetails .form-check").eq(0).hide();
             $("#deliveryDetails .form-check").eq(1).hide();
-            $("#deliveryDetails .form-check").eq(2).prop("checked",true);
+            $("#deliveryDetails .form-check").eq(2).find("input").prop("checked",true);
         }else {
             $("#deliveryDetails .form-check").eq(0).show();
             $("#deliveryDetails .form-check").eq(1).show();
-            $("#deliveryDetails .form-check").eq(0).prop("checked",true);
+            $("#deliveryDetails .form-check").eq(0).find("input").prop("checked",true);
         }
     }
     $recipients.on("change", function (event) {
