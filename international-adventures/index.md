@@ -8,7 +8,7 @@ description: We're part of a truly global movement so Girlguiding Hertfordshire 
   members a huge range of amazing international adventures.
 author:
   login: GGH-CMS
-  email: countysec@girlguidinghertfordshire.org.uk
+  email: admin@girlguidinghertfordshire.org.uk
   display_name: the County Office
   first_name: ""
   last_name: ""

@@ -12,6 +12,22 @@ author:
 permalink: /get-involved/challenge-badges/
 lastmod: 2022-09-10T14:38:25.750Z
 ---
+## Eggstraordinary Easter Challenge Badge
+
+![Eggstraordinary Easter Challenge Badge - old design](/assets/images/2023/02/easter-badge.webp){:.float-end.mb-2.ms-2}
+This badge can be completed either in unit meetings or at home independently.
+There are sections for Rainbows, Brownies, Guides, Rangers, Leaders and Trefoil Guild.
+So spring into action and check out all the egg'citing activites in the Easter badge.
+
+Badges cost £1.30 each plus postage.
+
+[Download Challenge Pack and Order Form](/assets/docs/2023/challenge-badge-eggstraordinary-easterv3.pdf){:.btn.btn-primary.download-link}{:target="blank"}{:rel="noopener noreferrer"}
+
+{:.small}
+Challenge pack updated November 2022.
+
+Please be advised that *new stock in production will look different* in appearance to the current badge image due to rebranding.
+
 ## Girls Golf Challenge Badge
 
 ![Badge for Girls Golf Challenge](/assets/images/2022/11/girls-golf.webp){:.ms-3.mb-3.float-end}
@@ -59,19 +75,7 @@ Their Challenge pack is filled with ideas for ALL to complete
 
 [Download Challenge Pack](https://cdn.trefoilguild.co.uk/userfiles/files/National/Initiatives/80th%20anniversary/TG_80thAnniversary_challenge_pack.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [Record Sheet](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcdn.trefoilguild.co.uk%2Fuserfiles%2Ffiles%2FNational%2FInitiatives%2F80th%2520anniversary%2F80th_recordsheet.docx&wdOrigin=BROWSELINK){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [Order badges](https://www.girlguidingshop.co.uk/products/adults/trefoil-guild/trefoil-guild-80th-anniversary-challenge-woven-badge--7788/){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
 
-## Snow is Falling Challenge Badge
 
-![Snow is Falling Challenge Badge](/assets/images/2022/12/snow-is-falling.webp){: .pull-right}{:width="200"}{:height="191"}{:loading="lazy"}
-There are eight themed sections to this fun and seasonal badge, so whether it's snowy weather, snow science or winter arts & crafts you are after, to name but a few, this colour-coded, programme linked, badge is jam packed full of ideas to enjoy during the colder months.
-
-Badges cost £1.20 each plus postage.
-
-Download the Challenge pack to find out more about the requirements and activities.
-
-[Download <span class="visually-hidden">Snow is Falling</span> Challenge Pack and Order Form](/assets/docs/2022/challenge-badge-snow-is-falling-challenge-badge-v3.pdf){:.btn.btn-primary.download-link}{:target="blank"}{:rel="noopener noreferrer"}
-
-{:.small}
-Challenge Pack updated December 2022
 
 ## Lifesaver Challenge Badge {#lifesaver}
 
@@ -103,9 +107,10 @@ EHAAT can offer a tour at either of our Airbases in North Weald and Earls Colne,
 
 ## Previous Challenge Badges - Stock Still Available
 
+- Snow is Falling Challenge Badge
 - Forest Bathing Challenge Badge
 - Marathon Challenge Badge
 - Raise West Hertfordshire NHS Trust Charity Badge
 - Uganda Friendship Challenge Badge
 
-If you are interested in any of these challenge badges please contact <countysec@girlguidinghertfordshire.org.uk> for further details.
+If you are interested in any of these challenge badges please contact <admin@girlguidinghertfordshire.org.uk> for further details.

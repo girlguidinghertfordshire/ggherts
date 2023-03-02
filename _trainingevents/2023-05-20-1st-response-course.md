@@ -1,9 +1,8 @@
 ---
-title: "1st Response Course"
-date: 2022-12-18T07:34:09.472Z
-published: false
+title: 1st Response Course
+date: 2023-03-01T21:59:23.105Z
 event:
-  start_date: "2023-02-25"
+  start_date: 2023-05-20
   end_date: ""
   address: null
   contact_name: null
@@ -15,16 +14,22 @@ event:
     - 1st Response
     - Training
   age-group:
+    - Rangers
+    - Young Leaders
+    - Inspire
     - Leaders
     - Adults
+    - Trefoil
   location:
     - Hertfordshire, West
 author:
   display_name: The County Office
-lastmod: 2022-01-25T20:32:22.789Z
-permalink: /training/1st-response-course-feb-23
+lastmod: 2023-03-01T22:01:33.623Z
+permalink: /training/may/1st-response-course/
 ---
-This 1st Response course takes place on Saturday 25 February 2023 in Hemel Hempstead from 10am - 4pm.  The course is open to all Guiding personnel.
+1st Response course taking place on Saturday 20 May in Hemel Hempstead from 10am-4pm.
+
+Open to all guiding personnel.
 
 Contact Lynne Kirby to book: <lynnekirby1@googlemail.com>
 

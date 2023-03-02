@@ -58,6 +58,7 @@ defaults:
     values:
       layout: "county_team"
       toc: "county-teams"
+      is_employee: false
   - scope:
       path: ""
       type: "shops_nights"

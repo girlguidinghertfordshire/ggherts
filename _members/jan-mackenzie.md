@@ -1,8 +1,8 @@
 ---
 title: Jan Mackenzie
 date: 2016-04-04T16:19:40.000Z
-order: 15.2
-job_title: Wellbeing Adviser
+order: 27
+job_title: County Wellbeing Lead Volunteer
 person_intro: ""
 email: inclusions@girlguidinghertfordshire.org.uk
 image: null
@@ -14,5 +14,5 @@ author:
   first_name: ""
   last_name: ""
 permalink: /about-us/county-team/jan-mackenzie/
-lastmod: 2023-02-08T22:51:50.972Z
+lastmod: 2023-03-01T23:06:39.474Z
 ---

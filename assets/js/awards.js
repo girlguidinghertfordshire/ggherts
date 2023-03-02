@@ -153,7 +153,7 @@ class Order {
     }
     updateGirls(id, value) {
         id = id.replace("girls", "");
-        const row = id.substring(id.length - 1);
+        const row = id.replace(/\D+/,"");
         const field = id.replace(row, "");
         this.girls[row][field] = value;
         this.save();
@@ -200,6 +200,7 @@ class Girl {
     isComplete = false;
     awardLevel = "Bronze"
     unit = "";
+    section = "rainbows";
 
     /**
      * @param {string} value
@@ -230,6 +231,12 @@ class Girl {
      */
     set Complete(value) {
         this.isComplete = value;
+    }    
+    /**
+     * @param {string} value
+     */
+    set Section(value){
+        this.section = value;
     }
     constructor(name, membershipNumber, isComplete, awardLevel, unit, section) {
         if (isComplete == null) {
@@ -260,7 +267,6 @@ const order = new Order();
     const $recipients = $("#awardRecipients");
     $recipients.append(order.girlRow());
     $("#customer").on("change", function () {
-        console.log(`changes...${$("#order_name").val()} - ${$("#order_email").val()}`);
         order.updateCustomer($("#order_name").val(), $("#order_email").val());
     });
     function isValid(fieldName) {
@@ -284,6 +290,16 @@ const order = new Order();
         $("#orderItems tr").remove();
         $("#orderItems").append(order.orderDetails(awardCount));
         $("#orderTotal").text(order.orderTotal.toLocaleString('en-GB', { style: 'currency', currency: 'GBP', minimumFractionDigits: 2 }));
+        if (order.orderTotal>20){
+            /* only tracked options are available for postal */
+            $("#deliveryDetails .form-check").eq(0).hide();
+            $("#deliveryDetails .form-check").eq(1).hide();
+            $("#deliveryDetails .form-check").eq(2).find("input").prop("checked",true);
+        }else {
+            $("#deliveryDetails .form-check").eq(0).show();
+            $("#deliveryDetails .form-check").eq(1).show();
+            $("#deliveryDetails .form-check").eq(0).find("input").prop("checked",true);
+        }
     }
     $recipients.on("change", function (event) {
         const value = event.target.id.indexOf("Complete") > -1 ? $(event.target).prop("checked") : $(event.target).val();

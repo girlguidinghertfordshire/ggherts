@@ -1,18 +1,18 @@
 ---
 title: Tina Cornish
 date: 2019-10-21T09:30:50.000Z
-order: 15
-job_title: Inclusion Adviser
+order: 26
+job_title: County Inclusion Lead Volunteer
 person_intro: Supports members regarding adults and girls who have special and complex needs.
 email: Inclusions@girlguidinghertfordshire.org.uk
 image: /wp-content/uploads/2016/05/GGH-Logo1.jpg
 thumbnail: /wp-content/uploads/2016/05/GGH-Logo1-360x243.jpg
 author:
   display_name: Rachel Kemp
-lastmod: '2021-10-27T21:16:10.493Z'
+lastmod: 2023-03-01T23:06:24.604Z
 ---
 
-As Inclusion Adviser my role involves:
+As Inclusion Lead Volunteer my role involves:
 
 - Supporting and offering advice to Leaders who have girls with special and complex needs in their units.
 - Supporting girls in their units who have special and complex needs.

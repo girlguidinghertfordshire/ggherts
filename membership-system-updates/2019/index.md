@@ -156,7 +156,7 @@ Since Join us links directly to GO, it will not change until GO is updated as de
 
 <strong>Recording Safe Space Level 2 Part 2 </strong>
 
-When the Safe Space Level 2 Part 2 chat has been carried out (by A Safe Space trainer or a commissioner with up to date Levels 1-3) please send the volunteer’s name, membership number and the date of the chat to the <a href="mailto:countysec@girlguidinghertfordshire.org.uk" target="_blank" rel="noopener">County Office</a>, who will update the volunteer’s record.
+When the Safe Space Level 2 Part 2 chat has been carried out (by A Safe Space trainer or a commissioner with up to date Levels 1-3) please send the volunteer’s name, membership number and the date of the chat to the <a href="mailto:admin@girlguidinghertfordshire.org.uk" target="_blank" rel="noopener">County Office</a>, who will update the volunteer’s record.
 
 <strong>Leadership Qualification and Leaders in Training</strong>
 

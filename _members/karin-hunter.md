@@ -1,15 +1,15 @@
 ---
 title: Karin Hunter
 date: 2016-05-19T15:18:52.000Z
-order: 18
-job_title: Training and Event Administrator
+order: 8
+job_title: County Training Administration Lead Volunteer
 person_intro: Coordinates and organises the training and ongoing development of Leaders.
 email: Guidingdev@girlguidinghertfordshire.org.uk
 image: /wp-content/uploads/2021/06/Karin-Hunter1-445x507.jpg
 thumbnail: /wp-content/uploads/2021/06/Karin-Hunter1-360x243.jpg
 author:
   display_name: GGH-Admin1
-lastmod: '2021-12-20T22:48:03.460Z'
+lastmod: 2023-03-01T23:03:26.970Z
 ---
 Over the years, as many of my friends will tell you, Girlguiding has become such a BIG part of my life, having started my Girlguiding journey many moons ago as a Brownie, then a Guide belonging to two units so that I could camp as often as I could, I sadly had to step away from guiding for many years as my career then took over my life, but then had the chance to re-enter when my own daughter joined Rainbows.
 

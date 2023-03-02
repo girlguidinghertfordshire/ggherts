@@ -1,14 +1,15 @@
 ---
 title: Maureen Kell
 date: 2016-04-04 17:17:09.000000000 +01:00
-order: 25
-job_title: Guiding Development Coordinator (Leadership Qualification)
-person_intro: ''
-email: 'Mentors@girlguidinghertfordshire.org.uk'
+order: 10
+job_title: County Leadership Qualification Lead Volunteer
+person_intro: ""
+email: Mentors@girlguidinghertfordshire.org.uk
 image: /wp-content/uploads/2016/04/MKell.jpg
 thumbnail: /wp-content/uploads/2016/04/MKell-360x243.jpg
 author:
   display_name: GGH-Admin1
+lastmod: 2023-03-01T23:11:20.765Z
 ---
 I started my guiding career in County Durham in 1953 as a Guide in 1st Sedgefield Guides. After leaving university I was a Guide and Brownie Leader in Sedgefield and District Commissioner in the Teesside District. We then moved to Leyburn in North Yorkshire where I started a Guide Unit in Lower Wensleydale as well as running the 1st Leyburn Brownies. There I gained my Camp Licence. My first son was born in Northallerton and was with me at the age of 18 months when I was assessed for my licence up in the dales. Camping at this time was tents pitched in a farmer’s field, electric fence around to keep out the cattle, lats with hessian screening dug by the hedge and water carried from the farm in milk churns. Much more fun than nowadays on sites with running water and showers!
 

@@ -11,7 +11,7 @@ author:
   display_name: The County Office
   first_name: ""
   last_name: ""
-lastmod: 2022-09-10T14:33:13.750Z
+lastmod: 2023-03-02T18:31:53.050Z
 ---
 Let's work together to enable recruitment campaigns to reach as many people as possible.
 
@@ -49,7 +49,6 @@ Ask leaders to try sharing some of the more suitable posts into their unit Whats
 
 You can find more details on how to take part in our Meet the Leader campaign here: <https://www.girlguidinghertfordshire.org.uk/news/meet-the-leader-posts/>
 
-Please contact <PR@girlguidinghertfordshire.org.uk> should you have any questions.
+Please contact <communications@girlguidinghertfordshire.org.uk> should you have any questions.
 
-[1]: https://www.facebook.com/GirlguidingHertfordshire
 [2]: https://www.girlguiding.org.uk/get-involved/become-a-volunteer/

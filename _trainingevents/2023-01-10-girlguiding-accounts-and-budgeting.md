@@ -1,6 +1,7 @@
 ---
 title: Girlguiding accounts and budgeting
 date: 2022-12-04T21:01:08.318Z
+published: false
 event:
   start_date: 2023-01-10
   end_date: ""
