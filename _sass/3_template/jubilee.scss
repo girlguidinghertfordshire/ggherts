@@ -3,11 +3,11 @@
     .page-link {
         font-size: 0.7rem;
         padding: 0.375rem 0.5rem;
-        color: $gg-pink;
+        color: $gg-dark-blue;
     }
     &.active .page-link {
-        background-color: $gg-pink;
-        border-color: $gg-pink;
+        background-color: $gg-dark-blue;
+        border-color: $gg-dark-blue;
         color: white;
     }
 }
@@ -15,13 +15,13 @@
     &.nav-tabs .nav-link {
         font-size: 0.7rem;
         padding: 0.4rem;
-        color: $gg-pink;
-        border-color: $gg-light-pink;
+        color: $gg-dark-blue;
+        border-color: $gg-light-blue;
         border-bottom-color: white;
         &.active {
-            background-color: $gg-light-pink;
-            border-color: $gg-pink;
-            border-bottom-color: $gg-light-pink;
+            background-color: $gg-light-blue;
+            border-color: $gg-dark-blue;
+            border-bottom-color: $gg-light-blue;
         }
     }
 } 

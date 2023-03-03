@@ -2,13 +2,11 @@
     padding: 35px 0 60px;
     background-color: $gg-mid-blue;
     h2 {
-        font-size: 1.5rem;
         font-weight: 700;
         color: white;
     }
     .event-list {
         width: 100%;
-        height: 320px;
         display: flex;
         overflow-x: auto;
         overflow-y: hidden;
@@ -20,14 +18,23 @@
             padding-left: 12px;
             padding-right: 12px;
             flex-shrink: 0;
+            &:hover .event-block {
+                background-color: #fff;
+                h3 {
+                    color: black;
+                }
+                time{
+                    color: black;
+                }
+            }
         }
     }
     .event-block {
-        min-height: 300px;
         position: relative;
         -webkit-transform: skew(0deg,0deg);
         transform: skew(0deg,0deg);
-        border-radius: 0 0 0 10px;
+        border-radius: 0;
+        background-color: var(--gg-light-blue);
         figure {
             max-height: 176px;
             margin-bottom: 0;
@@ -38,7 +45,6 @@
             }
         }
         .event-detail {
-            background-color: $gg-light-blue;
             float: left;
             min-height: 124px;
             width: 100%;
@@ -64,9 +70,6 @@
         }
         .event-detail {
             padding: 20px 20px 30px;
-            h3 {
-                font-size:1.2rem;
-            }
         }
     }
 }
@@ -82,7 +85,6 @@
         .event-list {
             margin-bottom: 45px;
             margin-top: 20px;
-            height: 420px;
             &> a {
                 width: 200px;
             }

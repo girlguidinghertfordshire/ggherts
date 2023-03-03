@@ -33,6 +33,7 @@
             transition: all .5s ease 0s;
             width: 100%;
             z-index: 5;
+            background-color: rgba($color: $gg-light-blue, $alpha: 0.85);
 
             img {
                 opacity: 1;
@@ -78,10 +79,13 @@
     }
 
 
-    figure:hover .image-block .desc {
+    figure:hover {
+        h3 { display: none; transition: all .5s ease 0s;}
+       .image-block .desc {
         -webkit-transform: translateY(0%);
         transform: translateY(0%)
-    }
+    } 
+    } 
 
 
     .equal-height figure {

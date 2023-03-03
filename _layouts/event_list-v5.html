@@ -66,7 +66,7 @@ layout: default-v5
                             <div class="col" data-type="|{{ event.event.type | join: '|'}}|"
                                 data-age-group="|{{ event.event.age-group | join: '|'}}|"
                                 data-location="|{{ event.event.location | join: '|'}}|">
-                                <div class="card gg-event-card">
+                                <div class="card gg-event-card h-100">
                                     <figure style="background-image: url('{{ event.event.image}}');"
                                         class="card-img-top">
                                         <img src="{{ event.event.image }}" alt="">
@@ -88,18 +88,13 @@ layout: default-v5
                                             - {{ event.event.end_date | date: "%d %b %Y" }}
                                             {% endif %}</time>
                                         <div class="card-text">
-                                            <div class="row">
-                                                <div class="col-sm-6 col-md-12 col-lg-6">
-                                                    <p>{{ event.event.location | join: ', ' }}</p>
-                                                </div>
-                                                <div class="col-sm-6 col-md-12 col-lg-6">
-                                                    <div class="mt-1 mb-3 text-center"><a href="{{ event.url }}"
-                                                            class="btn gg-btn gg-btn-pink-o"><span>More
-                                                                details</span><span class="sr-only">: {{ event.title
-                                                                }}</span></a></div>
-                                                </div>
-                                            </div>
+                                            <p>{{ event.event.location | join: ', ' }}</p>
                                         </div>
+                                    </div>
+                                    <div class="card-footer bg-white text-end border-top-0">
+                                        <a href="{{ event.url }}" class="btn btn-primary"><span>More
+                                                details</span><span class="sr-only">: {{ event.title
+                                                }}</span></a>
                                     </div>
                                 </div>
 
@@ -109,54 +104,66 @@ layout: default-v5
                             {% if page.type == "training" %}
                             <div class="col">
                                 <div class="card gg-event-card">
-                                    <figure style="background-image: url('/assets/images/2022/03/firstaidevents.webp');" class="card-img-top">
+                                    <figure style="background-image: url('/assets/images/2022/03/firstaidevents.webp');"
+                                        class="card-img-top">
                                         <img src="/assets/images/2022/03/firstaidevents.webp" alt="">
                                         <div class="pattern-one" style="background-color: rgba(78,136,199, 0.85);">
                                         </div>
                                     </figure>
                                     <div class="card-body">
-                                        <h2 class="card-title"><a href="/news/external-first-aid-courses/">External First Aid Courses</a></h2>
+                                        <h2 class="card-title"><a href="/news/external-first-aid-courses/">External
+                                                First Aid Courses</a></h2>
                                         <div class="card-text">
-                                            <p>How to use external first aid training in your Girlguiding role</p>                                
-                                            <div class="clearfix"><a class="btn gg-btn gg-btn-pink-o pull-right" href="/news/external-first-aid-courses/"><span>Read more</span></a></div>
+                                            <p>How to use external first aid training in your Girlguiding role</p>
+                                            <div class="clearfix"><a class="btn gg-btn gg-btn-pink-o pull-right"
+                                                    href="/news/external-first-aid-courses/"><span>Read more</span></a>
+                                            </div>
                                         </div>
                                         <div class="clearfix">&nbsp;</div>
-                                    </div>                                
-                                </div>
-                                </div>
-                                <div class="col">
-                                    <div class="card gg-event-card">
-                                        <figure style="background-image: url('/assets/images/2022/09/a_safe_space_training.webp');" class="card-img-top">
-                                            <img src="/assets/images/2022/09/a_safe_space_training.webp" alt="">
-                                            <div class="pattern-one" style="background-color: rgba(78,136,199, 0.85);">
-                                            </div>
-                                        </figure>
-                                        <div class="card-body">
-                                            <h2 class="card-title"><a href="/news/a-safe-space-training/">A Safe Space Training</a></h2>
-                                            <div class="card-text">
-                                                <p>Essential guidance and how to book your training.</p>                                
-                                                <div class="clearfix"><a class="btn gg-btn gg-btn-pink-o pull-right" href="/news/a-safe-space-training/"><span>Read more</span></a></div>
-                                            </div>
-                                            <div class="clearfix">&nbsp;</div>
-                                        </div>                                
                                     </div>
                                 </div>
-                            <div class="col">
-                            <div class="card gg-event-card">
-                                <figure style="background-image: url('/wp-content/uploads/2021/03/Training-badges-1-360x243.png');" class="card-img-top">
-                                    <img src="/wp-content/uploads/2021/03/Training-badges-1-360x243.png" alt="">
-                                    <div class="pattern-one" style="background-color: rgba(78,136,199, 0.85);">
-                                    </div>
-                                </figure>
-                                <div class="card-body">
-                                    <h2 class="card-title"><a href="/training-badges/">Training Badges</a></h2>
-                                    <div class="card-text">
-                                        <p>Log your training hours to claim a pin badge when you reach milestones.</p>                                
-                                        <div class="clearfix"><a class="btn gg-btn gg-btn-pink-o pull-right" href="/training-badges/"><span>Read more</span></a></div>
-                                    </div>
-                                    <div class="clearfix">&nbsp;</div>
-                                </div>                                
                             </div>
+                            <div class="col">
+                                <div class="card gg-event-card">
+                                    <figure
+                                        style="background-image: url('/assets/images/2022/09/a_safe_space_training.webp');"
+                                        class="card-img-top">
+                                        <img src="/assets/images/2022/09/a_safe_space_training.webp" alt="">
+                                        <div class="pattern-one" style="background-color: rgba(78,136,199, 0.85);">
+                                        </div>
+                                    </figure>
+                                    <div class="card-body">
+                                        <h2 class="card-title"><a href="/news/a-safe-space-training/">A Safe Space
+                                                Training</a></h2>
+                                        <div class="card-text">
+                                            <p>Essential guidance and how to book your training.</p>
+                                            <div class="clearfix"><a class="btn gg-btn gg-btn-pink-o pull-right"
+                                                    href="/news/a-safe-space-training/"><span>Read more</span></a></div>
+                                        </div>
+                                        <div class="clearfix">&nbsp;</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card gg-event-card">
+                                    <figure
+                                        style="background-image: url('/wp-content/uploads/2021/03/Training-badges-1-360x243.png');"
+                                        class="card-img-top">
+                                        <img src="/wp-content/uploads/2021/03/Training-badges-1-360x243.png" alt="">
+                                        <div class="pattern-one" style="background-color: rgba(78,136,199, 0.85);">
+                                        </div>
+                                    </figure>
+                                    <div class="card-body">
+                                        <h2 class="card-title"><a href="/training-badges/">Training Badges</a></h2>
+                                        <div class="card-text">
+                                            <p>Log your training hours to claim a pin badge when you reach milestones.
+                                            </p>
+                                            <div class="clearfix"><a class="btn gg-btn gg-btn-pink-o pull-right"
+                                                    href="/training-badges/"><span>Read more</span></a></div>
+                                        </div>
+                                        <div class="clearfix">&nbsp;</div>
+                                    </div>
+                                </div>
                             </div>
                             {% endif %}
                         </div>
@@ -217,11 +224,13 @@ layout: default-v5
                             </div>
                             <div class="col">
                                 <h5>Section</h5>
-                                {% assign sections = "Rainbows,Brownies,Guides,Rangers,Young Leaders,Inspire,Adults,Leaders,Trefoil" | split:"," %}
+                                {% assign sections = "Rainbows,Brownies,Guides,Rangers,Young
+                                Leaders,Inspire,Adults,Leaders,Trefoil" | split:"," %}
                                 <ul class="division age">
                                     {% for section in sections %}
                                     {% if all_ages contains section %}
-                                    <li><input type="checkbox" name="{{section | slugify }}"" id="age_filter_{{ section | slugify }}" value="{{ section }}" />
+                                    <li><input type="checkbox" name="{{section | slugify }}"" id=" age_filter_{{ section
+                                            | slugify }}" value="{{ section }}" />
                                         <label for="age_filter_{{ section | slugify }}">{{ section }}</label>
                                     </li>
                                     {% endif %}
@@ -267,9 +276,11 @@ layout: default-v5
                                 </ul>
                             </div>
                         </div>
-                    <button class="btn btn-sm btn-secondary d-block d-md-none w-100" type="button" id="filterClose"><i class="fa fa-caret-up"></i> Close <i class="fa fa-caret-up"></i></button>
+                        <button class="btn btn-sm btn-secondary d-block d-md-none w-100" type="button"
+                            id="filterClose"><i class="fa fa-caret-up"></i> Close <i
+                                class="fa fa-caret-up"></i></button>
                     </div>
-                    
+
                 </div>
                 <div class="row row-cols-2 row-cols-1-md gy-2">
                     <div class="col col-md-12">

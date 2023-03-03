@@ -3,18 +3,32 @@
     position: sticky;
     top: 20px;
     margin-top: 10px;
-    a { text-decoration: none;
-        color: $gg-pink;
-    &:hover,&:focus { text-decoration: underline; color: $gg-dark-pink;}
+
+    a {
+        text-decoration: none;
+        color: $gg-dark-blue;
+
+        &:hover,
+        &:focus {
+            text-decoration: underline;
+            color: $gg-dark-blue-hover;
+        }
     }
-    .nav-item>a {
-        padding-left: 0;
-        font-weight: 700;
+
+    .nav-item {
+        &>a {
+            padding-left: 0;
+            font-weight: 700;
+        }
+        &>ul>li {
+            font-size: 0.9rem;
+        }
     }
+
     h2 {
-        border-bottom: 1px solid #c40063;
+        border-bottom: 1px solid $gg-mid-blue;
         padding-bottom: 10px;
-        font-size: calc(0.8rem + .9vw);
+        font-size: calc(0.75rem + .9vw);
         font-weight: 700;
     }
 }

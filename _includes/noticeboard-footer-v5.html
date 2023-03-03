@@ -1,7 +1,7 @@
 <section class="post-section bg-light-blue">
     <div class="container">
         <h2>Noticeboard</h2>
-        <div class="row row-cols-2 row-cols-lg-3 g-3">
+        <div class="row row-cols-2 row-cols-md-3 row-cols-lg-4 g-3">
             {% assign noticeboards = site.noticeboards | sort: "date" | reverse %}
             {% for notice in noticeboards limit:4 %}
             {% if forloop.last %}

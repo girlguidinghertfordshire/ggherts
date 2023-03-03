@@ -31,7 +31,7 @@ lastmod: 2022-09-29T21:20:49.525Z
 
 <p>Although some Girlguiding units are starting to meet face to face many units are continuing or beginning to meet virtually and we need to continue with alternative ways to communicate and keep in touch. Our County <a href="https://www.facebook.com/GirlguidingHertfordshire/" target="_blank" rel="noopener">Facebook page</a> is a resource for everyone linked to Guiding: parents (and their daughters) as well as leaders. We aim to provide information, ongoing news and activities on Facebook but will also add these activities for you and your daughter to do together at home on this page so please keep checking this page for updates on activities to do as well as <a href="https://www.girlguiding.org.uk/what-we-do/adventures-at-home/" target="_blank" rel="noopener">Girlguiding webpage for Adventures at Home</a>.</p>
 <h2 id="baking">Baking/Food</h2>
-<div><a class="btn-gg" href="/wp-content/uploads/2021/02/virtual-ideas-food-and-baking.pdf"><i class="fa fa-download"></i> Download all Baking/Food Ideas (PDF)</a></div>
+<div><a class="btn btn-primary" href="/wp-content/uploads/2021/02/virtual-ideas-food-and-baking.pdf"><i class="fa fa-download"></i> Download all Baking/Food Ideas (PDF)</a></div>
 <h3>Brownie in a Mug</h3>
 <p>Did you know you can make a Brownie in a mug??</p>
 <p>For ingredients and instructions <a href="https://www.simplyrecipes.com/recipes/brownie_in_a_mug/" target="_blank" rel="noopener">click here</a> &#8211; and enjoy your creations 😋</p>
@@ -57,7 +57,7 @@ A great opportunity to get parents involved too, if doing this activity with you
 <p>Here is <a href="https://www.cookingwithmykids.co.uk/chocolate-brownies/" target="_blank" rel="noopener">Mary Berry&#8217;s Easy Chocolate Brownie recipe</a> 😋<br />
 Have fun trying this with your kid&#8217;s over half term, or use it as a baking activity for a Zoom meeting.</p>
 <h2 id="crafts">Arts and Crafts</h2>
-<div><a class="btn-gg" href="/wp-content/uploads/2021/02/virtual-ideas-arts-and-crafts.pdf"><i class="fa fa-download"></i> Download all arts and craft ideas (PDF)</a></div>
+<div><a class="btn btn-primary" href="/wp-content/uploads/2021/02/virtual-ideas-arts-and-crafts.pdf"><i class="fa fa-download"></i> Download all arts and craft ideas (PDF)</a></div>
 <h3>Snowflake Challenge? ❄️❄️❄️</h3>
 <p>Cut out a paper circle. Fold in half to make a semi-circle. Next fold into thirds ie. making two folds in the semi-circle so you end up with a triangular shape. This gives you the starting point for a 6 point snowflake. See the <a href="/wp-content/uploads/2021/05/Snowflake-Challenge.pdf">Snowflake patterns</a> you can make then try cutting them out.</p>
 <h3>Get Creative using Natural Resources</h3>
@@ -82,7 +82,7 @@ Have fun trying this with your kid&#8217;s over half term, or use it as a baking
 <h3>Halloween Ghost Toy</h3>
 <p>A fun craft for children to make with some adult assistance 👩‍👧‍👧 For instructions <a href="https://www.facebook.com/thedadlab/videos/2815550435212059/" target="_blank" rel="noopener">click here</a>.  How about drawing a girl in her Rainbow or Brownie uniform on the cup, and imagining she is skipping??</p>
 <h2 id="games">Games</h2>
-<div><a class="btn-gg" href="/wp-content/uploads/2021/02/virtual-ideas-games.pdf"><i class="fa fa-download"></i> Download all games ideas (PDF)</a></div>
+<div><a class="btn btn-primary" href="/wp-content/uploads/2021/02/virtual-ideas-games.pdf"><i class="fa fa-download"></i> Download all games ideas (PDF)</a></div>
 <h3>A Further Ten ACTION games for girls to play in a Zoom meeting</h3>
 <ul>
 <li>Musical Statues &#8211; play lively music loudly on your phone and hold it right next to the speaker on your laptop, to minimise fading in and out on girls’ devices</li>
@@ -128,7 +128,7 @@ How about using this as an opportunity to showcase the range of interest badges 
 <li>Guess Who dressing up (using hats, scarves, gloves, wigs, moustaches etc)</li>
 </ol>
 <h2 id="activities">Activities</h2>
-<div><a class="btn-gg" href="/wp-content/uploads/2021/07/Virtual-Ideas-Activities.pdf" target="_blank" rel="noopener"><i class="fa fa-download"></i> Download all activities ideas (PDF)</a></div>
+<div><a class="btn btn-primary" href="/wp-content/uploads/2021/07/Virtual-Ideas-Activities.pdf" target="_blank" rel="noopener"><i class="fa fa-download"></i> Download all activities ideas (PDF)</a></div>
 <h3>Brownie Bells in British Sign Language 👍</h3>
 <p>Brownie leaders &#8211; how about finishing your Zoom meetings by signing rather than singing Brownie Bells?  Girls love to try something new, and this could be a useful starting point for a discussion about inclusion 🙌. <a href="https://www.youtube.com/watch?v=TX72YZXfzRk&amp;fbclid=IwAR2Nne3Gk3Sry2AqGbt84ErYEXh4m5Vbmr5JVdorzeSuJopzljlC88SMbsQ" target="_blank" rel="noopener">Click here</a> for the  Brownie Bells signing video.</p>
 <h3>Rainbow Song  in British Sign Language 👍</h3>

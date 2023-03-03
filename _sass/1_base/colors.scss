@@ -14,31 +14,34 @@ $gg-dark-blue: #161b4e;
 $gg-mid-blue: #007bc4;
 $gg-light-blue: #00a7e5;
 
-$gg-dark-blue-hover: shade-color($gg-dark-blue, 15%);
-$gg-dark-blue-border-hover: shade-color($gg-dark-blue, 20%);
+$gg-dark-blue-hover: tint-color($gg-dark-blue, 15%);
+$gg-dark-blue-border-hover: tint-color($gg-dark-blue, 20%);
 $gg-dark-blue-active: shade-color($gg-dark-blue, 20%);
 $gg-dark-blue-border-active: shade-color($gg-dark-blue, 25%);
+
+$gg-mid-blue-hover: tint-color($gg-mid-blue, 15%);
+$gg-mid-blue-border-hover: tint-color($gg-mid-blue, 20%);
+$gg-mid-blue-active: shade-color($gg-mid-blue, 20%);
+$gg-mid-blue-border-active: shade-color($gg-mid-blue, 25%);
+
 $gg-blue: $gg-mid-blue;
 $gg-blue-link: #337ab7;
 
+
 :root{
-    --gg-dark-blue: $gg-dark-blue;
-    --gg-mid-blue: $gg-mid-blue;
-    --gg-light-blue: $gg-light-blue;
+    --gg-dark-blue: #{$gg-dark-blue};
+    --gg-mid-blue: #{$gg-mid-blue};
+    --gg-light-blue: #{$gg-light-blue};
     --bs-primary:var(--gg-dark-blue);
     --bs-link-color: var(--gg-dark-blue);
     --bs-link-hover-color: var(--gg-mid-blue);
-    --bs-primary-rgb: 22,27, 78
+    --bs-primary-rgb: 22,27,78;
+    --bs-secondary-rgb: 0,123,196;
+    --bs-nav-link-hover-color: #{$gg-light-blue};
+    --bs-nav-link-font-size: 1rem;
+    --bs-body-font-family: "Poppins","open sans",sans-serif;
+    --bs-body-color: #000;
   }
-// pinks
-$gg-pink: #c40063;
-$gg-light-pink: #f3cce0;
-$gg-dark-pink: #cb1f76;
-$gg-pink-hover: shade-color($gg-pink, 15%);
-$gg-pink-border-hover: shade-color($gg-pink, 20%);
-$gg-pink-active: shade-color($gg-pink, 20%);
-$gg-pink-border-active: shade-color($gg-pink, 25%);
-$gg-pink-border: $gg-light-pink;
 
 // Grays
 $gg-gray: #d8d7d7;
@@ -46,21 +49,10 @@ $gg-mid-gray: #817777;
 $gg-dark-gray: #3a3535;
 
 
-.border-primary {
-  border-color: $gg-dark-blue !important;
-}
-.border-secondary {
-  border-color: $gg-mid-blue !important;
-}
-.bg-primary {
-  background-color: $gg-dark-blue !important;
-}
 .bg-secondary {
   background-color: $gg-mid-blue !important;
 }
-.bg-light-pink {
-  background-color: $gg-light-pink !important;
-}
+
 .bg-light-blue {
   background-color: $gg-light-blue !important;
 }
