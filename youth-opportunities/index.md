@@ -66,7 +66,7 @@ You will be trained how to create a safe space for girls to discuss subjects lik
 
 To find out more visit: <https://www.girlguiding.org.uk/making-guiding-happen/programme-and-activities/peer-education/become-a-peer-educator/>{:rel="noopener"}{:target="_blank"}{:.external-link} Complete the e-learning to discover if this is for you!
 
-Contact our Peer Educator Coordinator via <peereducators@girlguidinghertfordshire.org.uk> to register your interest.
+Contact our County Peer Educator Coordination Lead Volunteer via <peereducators@girlguidinghertfordshire.org.uk> to register your interest.
 
 ## Inspire
 
