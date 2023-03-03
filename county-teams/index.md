@@ -10,7 +10,7 @@ lastmod: 2022-09-29T21:11:42.778Z
 ---
 The County Team is here to support local guiding, as well as providing trainings, events, and much more.
 
-[View your county team](/about-us/county-team/){:class="btn-gg"}
+[View your county team](/about-us/county-team/){:.btn.btn-primary}
 
 <div class="row">
 <div class="col-md-4">

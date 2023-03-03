@@ -43,7 +43,7 @@ A one off payment of £15* gives you the opportunity to join the monthly prize d
 
 If you would like to join the 200 Club please complete the online registration form and download and read the terms and conditions via the buttons below.
 
-[Online Application Form <i class="fa fa-external-link"></i>](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJUREpYRDhXREFSRVJWU0RPREhSWlhLUFNZUC4u){:.btn-gg}{:target="_blank"}{:rel="noopener"} [Terms and Conditions <i class="fa fa-download"></i>](/assets/docs/2022/2023-200-club-tscs.pdf){:class="btn-gg"}{:target="_blank"}{:rel="noopener"}
+[Online Application Form <i class="fa fa-external-link"></i>](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJUREpYRDhXREFSRVJWU0RPREhSWlhLUFNZUC4u){.btn.btn-primary}{:target="_blank"}{:rel="noopener"} [Terms and Conditions <i class="fa fa-download"></i>](/assets/docs/2022/2023-200-club-tscs.pdf){:.btn.btn-primary}{:target="_blank"}{:rel="noopener"}
 
 To view the names of recent winners please visit the 200 Club webpage on the Hertfordshire Guide Centre website. [200 Club Results <i class="fa fa-external-link"></i>](https://www.hertsguidecentre.co.uk/200-club.html){:target="_blank"}{:.external-link}{:rel="noreferrer noopener"}
 

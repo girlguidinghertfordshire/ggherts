@@ -10,13 +10,13 @@ author:
   display_name: The County Office
   first_name: ""
   last_name: ""
-lastmod: 2023-03-02T18:24:30.054Z
+lastmod: 2023-03-03T20:26:54.053Z
 ---
 If you have undertaken external first aid training and wish this to be used within your Girlguiding role your external course must have been delivered on a **face-to-face** basis and last at least **6 hours**. It must have included both **child and adult CPR** and covered all the clauses in the _Girlguiding 1st Response syllabus_.  
 
 If there are any clauses which were not covered, you may wish to discuss this shortfall with a Girlguiding trainer. Please speak to your commissioner if you need to arrange this.
 
-[Girlguiding 1st Reponse Syllabus <i class="fa fa-download"></i>][1]{:.btn-gg}{:target="_blank"}{:rel="noopener"}
+[Girlguiding 1st Reponse Syllabus <i class="fa fa-download"></i>][1]{.btn.btn-primary}{:target="_blank"}{:rel="noopener"}
 
 ## Submitting your request
 

@@ -9,7 +9,7 @@ author:
   display_name: The County Office
   first_name: null
   last_name: null
-lastmod: 2022-09-20T19:05:57.800Z
+lastmod: 2023-03-03T20:23:42.838Z
 ---
 
 Bring your unit to watch a London Pulse Superleague netball match at the Copperbox Arena on the Olympic Park East London.
@@ -35,7 +35,7 @@ Season tickets and Members tickets go on sale on 10th October, with General sale
 
 [![London Pulse Home Fixtures](/assets/images/2022/09/london-pulse-2023.webp){:loading="lazy"}][1]{:target="blank"}{:rel="noopener noreferrer"}
 
-[Gameday FAQs](/assets/docs/2022/london-pulse-netball-faq.docx){:.btn-gg.download-link}{:target="blank"}{:rel="noopener noreferrer"}
+[Gameday FAQs](/assets/docs/2022/london-pulse-netball-faq.docx){:.btn.btn-primary.download-link}{:target="blank"}{:rel="noopener noreferrer"}
 
 [1]: https://londonpulsenetball.com/
 [2]: mailto:customerservices@ticketline.co.uk
