@@ -1,0 +1,36 @@
+.gg-news-card {
+    .card-header {
+        --lines: 2;
+        --font-size: 1.25rem;
+        font-size: var(--font-size);
+        height: calc(var(--font-size) * var(--bs-body-line-height) * var(--lines));
+        overflow: hidden;
+        display: -webkit-box !important;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+
+        a:link,
+        a:visited {
+            text-decoration: none;
+        }
+    }
+
+    figure img {
+        opacity: 0;
+        max-width: 100%;
+    }
+}
+
+.filter-block {
+    background-color: var(--gg-light-blue);
+    padding: .8rem 0.5rem .1rem;
+    margin-bottom: 0.5rem;
+
+    label {
+        padding-right: 1em;
+    }
+
+    input {
+        margin-right: .5em
+    }
+}
