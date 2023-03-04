@@ -38,11 +38,11 @@ layout: default-v5
         {% endif %}
         {% endfor %}
         <script>
-            (function () {
+            function initMap(){
                 document.addEventListener("DOMContentLoaded", function () {
                     const locationMap = new LocationMap([{{ l }}], true);
             });
-        }) ()  
+            }              
         </script>
         <section class="shop-center">
             <h1>{{ page.title }}</h1>

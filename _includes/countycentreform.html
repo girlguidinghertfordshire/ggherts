@@ -1,104 +1,34 @@
-<form action="/about-us/county-centre/#hgcForm" method="post" id="hgcForm" >
-<div class="row">
-    <div class="col-sm-12">
-        <div class="form-group">
-            <label for="name">Your name:*</label>
-            <input type="text" name="first-name" id="name" minlength="3" size="40" class="form-control" aria-required="true" aria-invalid="false"  required />
-        </div>
-        <div class="form-group">
-            <label for="email_address">Your email address:*</label>
-            <input type="email" name="email-address" id="email_address"  size="40" class="form-control" aria-required="true" aria-invalid="false"  required />
-        </div>
-        <div class="form-group">
-            <label for="phone_number">Phone number:</label>
-            <input type="tel" name="phone-number" id="phone_number" value="" size="40" class="form-control" aria-invalid="false"  />
-        </div>
-        <div class="form-group">
-            <label for="enquiry">Your message:*</label>
-            <textarea name="enquiry" id="enquiry" cols="40" rows="10" class="form-control" aria-required="true" aria-invalid="false" required></textarea>
-        </div>
+<form action="/about-us/county-centre/#hgcForm" method="post" id="hgcForm">
+    <div class="mb-3">
+        <label for="name" class="form-label">Your name:*</label>
+        <input type="text" name="first-name" id="name" minlength="3" size="40" class="form-control" aria-required="true"
+            aria-invalid="false" required />
     </div>
-    <div class="col-sm-12 hidden">
-        <label for="enquirydetail">Detailed message:</label>
-        <textarea name="enquirydetail" id="enquirydetail" cols="40" rows="10" class="form-control"></textarea></span>
+    <div class="mb-3">
+        <label for="email_address" class="form-label">Your email address:*</label>
+        <input type="email" name="email-address" id="email_address" size="40" class="form-control" aria-required="true"
+            aria-invalid="false" required />
     </div>
-    <div class="col-sm-12">
-        <button class="g-recaptcha submit-btn" data-sitekey="{{ site.recaptcha.sitekey }}" data-action="submit" data-callback="onSubmit"><div class="wpcf7-form-control wpcf7-submit"><span>Send message</span></div></button>
+    <div class="mb-3">
+        <label for="phone_number" class="form-label">Phone number:*</label>
+        <input type="tel" name="phone-number" id="phone_number" value="" size="40" class="form-control"
+            aria-invalid="false" required />
     </div>
-</div>
+    <div class="mb-3">
+        <label for="enquiry" class="form-label">Your message:*</label>
+        <textarea name="enquiry" id="enquiry" cols="40" rows="10" class="form-control" aria-required="true"
+            aria-invalid="false" required></textarea>
+    </div>
+    <div class="mb-3 d-none">
+        <label for="enquirydetail" class="form-label">Detailed message:</label>
+        <textarea name="enquirydetail" id="enquirydetail" cols="40" rows="10" class="form-control"></textarea>
+    </div>
+    <div class="mb-3">
+        <button class="g-recaptcha submit-btn btn btn-primary" data-sitekey="{{ site.recaptcha.sitekey }}"
+            data-action="submit" data-callback="onSubmit">Send message</button>
+    </div>
 </form>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js" integrity="sha512-37T7leoNS06R80c8Ulq7cdCDU5MNQBwlYoy1TX/WUsLFC2eYNqtKlV0QjH7r8JpG/S0GUMZwebnVFLPd6SU5yg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="https://www.google.com/recaptcha/api.js"></script>
 <script>
-    var errorGroup="has-error";
-    $("#hgcForm").validate({
-        highlight: function(element, errorClass, validClass) {
-            $(element).addClass(errorClass).removeClass(validClass);
-            $(element.form).find("label[for=" + element.id + "]").closest(".form-group")
-            .addClass(errorGroup);
-        },
-        unhighlight: function(element, errorClass, validClass) {
-            $(element).removeClass(errorClass).addClass(validClass);
-            $(element.form).find("label[for=" + element.id + "]").closest(".form-group")
-            .removeClass(errorGroup);
-        },
-        showErrors: function(errorMap, errorList){
-            $(".error-summary").remove();
-            if (this.numberOfInvalids()>0){
-               $("form .row").prepend(`<div class="col-sm-12 error-summary"><div class="alert alert-danger"><i class="fa fa-warning"></i> There ${(this.numberOfInvalids()===1?"is":"are")} ${ this.numberOfInvalids()} fields which need your attention, see details below.</div></div>`); 
-            }            
-            this.defaultShowErrors();
-        },
-        errorClass: "help-block"
-    });
-    function updateForm(msg, canHideForm, isError){
-        if (canHideForm){
-            $("form").hide();
-        }
-        $("form").before(`<div class="alert alert-${(isError?"danger":"success")}">${msg}</div>`);
-    }
-    function onSubmit(token){
-        $(".submit-btn").prop("disabled",true);
-        $(".error-summary").remove();
-        if (!$("#hgcForm").valid()){
-            return;
-        }
-        var data= {
-            name: $("#name").val(),
-            email: $("#email_address").val(),
-            phone: $("#phone_number").val(),
-            message: $("#enquiry").val(),
-            specialMessage: $("#enquirydetail").val(),
-            recaptchaToken: token
-        };
-        console.log(data);
-        var baseUrl = '{{site.email.base_url}}', apikey=encodeURIComponent('{{ site.email.apikey }}');
-        $.post(`${baseUrl}contactus?apikey=${apikey}`, JSON.stringify(data))
-            .done(function(result){
-                updateForm(result.statusMessage,true,false);
-            })
-            .fail(function(result){
-                console.log(result);
-                if (result.hasOwnProperty("status")){
-                    switch (result.status){
-                        case 400:
-                            if (result.hasOwnProperty("responseJSON") && result.responseJSON.hasOwnProperty("hasValidationError")){
-                                updateForm(`An error occurred when processing your form: <ul><li>${ result.responseJSON.statusMessage}</li></ul>`,false, true);
-                                break;
-                            }
-                        case 401:
-                        case 404:
-                            updateForm("Sorry, an error is preventing us from sending your form. Please contact us by email. We apologise for any inconvenience caused.",true,true);
-                            break;
-                        default:
-                            alert(`${result.status}: ${result.statusText}`);
-                    }
-                    if (result.hasOwnProperty("responseJSON") && result.responseJSON.hasOwnProperty("statusMessage")){
-                        console.log(`${result.status}: ${result.statusText} - ${ result.responseJSON.statusMessage }`);
-                    }else{
-                        console.log(`${result.status}: ${result.statusText}`);
-                    }                    
-                }
-            });       
-    }
+    var baseUrl = '{{site.email.base_url}}', apikey = encodeURIComponent('{{ site.email.apikey }}');
 </script>

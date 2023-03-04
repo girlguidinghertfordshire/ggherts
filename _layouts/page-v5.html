@@ -46,9 +46,6 @@ layout: default-v5
     {% include countyteam.html %}
     {% include noticeboard-footer-v5.html %}
     {% endif %}
-    {% if page.showMap %}
-    {% include countycentre.html %}
-    {% endif %}
     {% for inc in page.includes %}
         {% case inc %}
         {% when "Events" %}

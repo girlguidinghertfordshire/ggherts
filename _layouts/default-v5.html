@@ -28,10 +28,10 @@
   <link rel='dns-prefetch' href='https://maps.googleapis.com/' />
   {% if jekyll.environment == "production" %}
   <script type='text/javascript'
-    src='https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyC8lZG8HH0rs3iZ03uCiDdokKQAWE-Aj04' id='maps-js'
+    src='https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyC8lZG8HH0rs3iZ03uCiDdokKQAWE-Aj04&callback=initMap' id='maps-js'
     defer></script>
   {% else %}
-  <script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?v=3.exp&key={{site.maps.apikey}}'
+  <script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?v=3.exp&key={{site.maps.apikey}}&callback=initMap'
     id='maps-js' defer></script>
   {% endif %}
   {% if page.division_map %}
@@ -195,6 +195,10 @@
   {% endif %}
   {% if page.title == "Bronze, Silver & Gold Awards Badges and Certificates - Order Form" %}
   <script src="/assets/js/awards.js?v=1" type="text/javascript"></script>
+  {% endif %}
+  {% if page.validation == "countycentreform" %}
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js" integrity="sha512-37T7leoNS06R80c8Ulq7cdCDU5MNQBwlYoy1TX/WUsLFC2eYNqtKlV0QjH7r8JpG/S0GUMZwebnVFLPd6SU5yg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="/assets/js/countycentreform.js?v=1" type="text/javascript"></script>
   {% endif %}
 </body>
 

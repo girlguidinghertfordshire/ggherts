@@ -1,41 +1,37 @@
-<div class="container">
-    <div class="row">
-    <h2 class="col-sm-offset-4 col-sm-8 title">Location</h2>
+<h2>Location</h2>
+<div class="fluid-wrapper">
+    <div id="map" class="location-map"></div>
+    <div class="filter-options d-none"></div>
+</div>
+<h3>Contact details</h3>
+<div class="Contact-details">
+    <address>
+        Hertfordshire Guide Centre<br />
+        Cottered<br />
+        HERTFORDSHIRE<br />
+        SG9 9QP </address>
+    <div class="contact-bottom">
+        <div><a href="mailto:hgcbookings@girlguidinghertfordshire.org.uk" rel="noopener" class="text-truncate d-block"
+                title="hgcbookings@girlguidinghertfordshire.org.uk"><i class="fa fa-envelope-open-o"
+                    aria-hidden="true"></i> hgcbookings@girlguidinghertfordshire.org.uk</a></div>
+
     </div>
 </div>
-    <script>
-        var LocationData = [[51.9471558,-0.0803925000000163,"Array","/wp-content/themes/girl-guiding/images/marker-pink.png"]];
-    </script>
-    <div class="fluid-wrapper">
-    <div id="map"></div>
-    </div>
-    <section class="contact-section">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-6">
-                <h3>Contact form</h3>
-                {% include countycentreform.html %}
-                </div>
-                <div class="col-sm-6 col-md-5 col-md-offset-1">
-                    <h3>Contact details</h3>
-                    <div class="Contact-details">
-                    <address>
-                    Hertfordshire Guide Centre<br />
-                    Cottered<br />
-                    HERTFORDSHIRE<br />
-                    SG9 9QP </address>
-                    <div class="contact-bottom">
-                        <div><a href="mailto:hgcbookings@girlguidinghertfordshire.org.uk" rel="noopener"><i class="fa fa-at" aria-hidden="true"></i>hgcbookings@girlguidinghertfordshire.org.uk</a></div>
-                        
-                    <div class="social-media">
-                    <ul>
-                    <li><a href="https://www.facebook.com/GirlguidingHertfordshire" target="_blank" rel="noopener"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
-                    <li><a href="https://twitter.com/gguidingherts" target="_blank" rel="noopener"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
-                    </ul>
-                    </div>
-                    </div>
-                    </div>
-                </div>
+<section class="contact-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6">
+            </div>
+            <div class="col-sm-6 col-md-5 col-md-offset-1">
+
             </div>
         </div>
-    </section>
+    </div>
+</section>
+<script type="text/javascript">
+    function initMap() {
+        document.addEventListener("DOMContentLoaded", function () {
+            const locationMap = new LocationMap([LocationMap.location("51.9471558,-0.0803925000000163", "Hertfordshire Guide Centre", "/wp-content/themes/girl-guiding/images/marker-pink.png", "Hertfordshire Guide Centre<br/>Cottered<br/>Hertfordshire<br/>SG9 9QP")]);
+        });
+    }
+</script>
