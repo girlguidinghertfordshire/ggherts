@@ -14,11 +14,46 @@
             text-decoration: none;
         }
     }
-
-    figure img {
-        opacity: 0;
-        max-width: 100%;
+    .card-img, .card-img-top {
+        max-height: 163px;
+        object-fit: contain;
     }
+    
+@media  (min-width: 321px){ 
+    .card-img, .card-img-top {
+        max-height: 194px;
+    }
+}
+@media  (min-width: 386px){ 
+    .card-img, .card-img-top {
+        max-height: 200px;
+    }
+}
+@media  (min-width: $grid-sm-min){ 
+    .card-img, .card-img-top {
+        max-height: 136px;
+    }
+}
+@media  (min-width: $grid-md-min){ 
+    .card-img, .card-img-top {
+        max-height: 186px;
+    }
+}
+@media  (min-width: $grid-lg-min){ 
+    .card-img, .card-img-top {
+        max-height: 163px;
+    }
+}
+@media  (min-width: $grid-xl-min){ 
+    .card-img, .card-img-top {
+        max-height: 197px;
+    }
+}
+@media  (min-width: $grid-xxl-min){ 
+    .card-img, .card-img-top {
+        max-height: 189px;
+    }
+}
 }
 
 .filter-block {

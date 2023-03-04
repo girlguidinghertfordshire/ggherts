@@ -7,26 +7,42 @@ layout: default-v5
         {% include breadcrumbs.html %}
         <div class="row">
             <div class="col-lg-8 col-xxl-10 order-lg-2 content">
-                <h1>{{ page.title }}</h1>
+                <h1>{{ page.title }}</h1><p>The county Noticeboard contains external opportunities that may appeal to, and benefit, our girls and volunteers.</p>
+                <p>Please email <a href="mailto:admin@girlguidinghertfordshire.org.uk">admin@girlguidinghertfordshire.org.uk</a> with details of opportunities you wish to be considered for inclusion.</p>
+                <p>Girlguiding Hertfordshire do not endorse any external organisations that may be displayed here.</p>
+                
                 <div class="filter-block">
-                    <ul class="category row row-cols-1 row-cols-md-2 row-cols-xl-3 list-unstyled">
-                        {% for cat in site.categories %}
-                        <li class="col"><span><input type="checkbox" name="{{cat[0] |slugify}}" id="cat-filter-{{cat[0] |slugify}}" value="{{cat[0]}}" checked /><label for="cat-filter-{{cat[0] |slugify}}">{{cat[0]}}</label></span><span class="badge bg-primary rounded-pill">{{ cat[1].size }}</span></li>
+                    <ul class="category row row-cols-1 row-cols-md-2 row-cols-xxl-3 list-unstyled">
+                        {% assign all_types= '' | split: '' %}
+                        {% for post in site.noticeboards %}
+                        {% for t in post.categories %}
+                        {% unless all_types contains t %}
+                        {% assign tName = t | split: '_' %}
+                        {% assign all_types = all_types | concat: tName %}
+                        {% endunless %}
+                        {% endfor %}
+                        {% endfor %}
+                        {% assign categories = all_types | uniq %}
+                        {% for cat in categories %}
+                        {% assign catPosts = site.noticeboards | where: "categories", cat %}
+                        <li class="col"><span><input type="checkbox" name="{{cat |slugify}}"
+                                    id="cat-filter-{{cat |slugify}}" value="{{cat}}" checked /><label
+                                    for="cat-filter-{{cat |slugify}}">{{cat}}</label></span><span
+                                class="badge bg-primary rounded-pill">{{ catPosts.size }}</span></li>
                         {% endfor %}
                     </ul>
                 </div>
                 <div class="filter-list pb-4" data-type="news">
                     <div class="row row-cols-1 row-cols-sm-2 row-cols-xl-3 g-4">
-                        {% for post in site.posts %}
+                        {% assign noticeboards = site.noticeboards | sort: "date" | reverse %}
+                        {% for post in noticeboards %}
                         <div class="col" data-type="|{{ post.categories | join:'|'}}|"
                             data-month="{{post.date | date: '%Y %b'}}">
                             <div class="card gg-news-card h-100 border-primary">
-                                <h2 class="card-header border-bottom-0 bg-white"><a href="{{ post.url }}" class="stretched-link">{{post.title}}</a></h2>
-                                <div class="card-body pt-1 pb-2 flex-grow-0"><time class="card-text">{{ post.date | date_to_string:
-                                        "ordinal","GB" }}</time>
-                                </div>
-                                <img src="{{ post.image }}" alt="" class="card-img">
+                                <img src="{{ post.image }}" alt="" class="card-img-top">
                                 <div class="card-body">
+                                <h2 class="card-title h5"><a href="{{ post.url }}"
+                                        class="stretched-link">{{post.title}}</a></h2>
                                     <div class="card-text">
                                         <p>{{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 20 |
                                             escape }}</p>
