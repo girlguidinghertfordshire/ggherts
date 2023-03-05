@@ -12,14 +12,11 @@
   {% seo %}
   <link rel='dns-prefetch' href='https://cdnjs.cloudflare.com/' />
   <link rel='dns-prefetch' href='https://cdn.sitesearch360.com/' />
-  <link rel="preload" href="/wp-content/themes/girl-guiding/fonts/fontawesome-webfont.woff2" as="font" type="font/woff2"
-    crossorigin />
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/css/bootstrap.min.css"
     integrity="sha512-SbiR/eusphKoMVVXysTKG/7VseWii+Y3FdHrt0EpKgpToZeemhqHeZeLWLhJutz/2ut2Vw1uQEj2MbRF+TVBUA=="
     crossorigin="anonymous" referrerpolicy="no-referrer" />
-  <link rel='stylesheet' id='font-awesome-style-css' href='/wp-content/themes/girl-guiding/css/font-awesome.min.css'
-    type='text/css' media='all' />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
@@ -192,8 +189,8 @@
   {% endif %}
   {% if page.division_map %}
 
-  <script type='text/javascript' src='/wp-content/themes/girl-guiding/js/geoxml3.js' id='geoxml3-js' defer></script>
-  <script type='text/javascript' src='/wp-content/themes/girl-guiding/js/ProjectedOverlay.js'
+  <script type='text/javascript' src='/assets/js/divisions/geoxml3.js' id='geoxml3-js' defer></script>
+  <script type='text/javascript' src='/assets/js/divisions/ProjectedOverlay.js'
     id='ProjectedOverlay-js' defer></script>
   {% include divisions-map.html %}
   {% endif %}
