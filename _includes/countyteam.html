@@ -15,7 +15,7 @@
         {% endfor %}
         {% assign start=current | minus:1 %}
         {% assign end=start | plus:3 %}
-        <div class="row">
+        <div class="row mb-3">
             {% for pos in (start..end)%}
             {% if pos >= count %}
             {% assign i=pos | minus: count %}
@@ -25,21 +25,28 @@
             {% if site.members[i].url==page.url %}
             {% continue %}
             {% endif %}
-            <div class="col col-md-4">
-                <div class="position-relative">
-                {% assign thumbnail="/wp-content/uploads/2016/05/GGH-Logo1-360x243.jpg" %}
-                {% if site.members[i].thumbnail %}
-                {% assign thumbnail=site.members[i].thumbnail %}
-                {% endif %}
-                <div class="person-image"><img src="{{ thumbnail }}" alt="person" class="rounded img-fluid"></div>
-                <h3 class="mt-2">{{site.members[i].title }}</h3>
-                <span class="h6 text-muted">{{site.members[i].job_title }}</span>
-                <p class="mt-2">{{site.members[i].person_intro }}</p>
-                <a class="stretched-link" href="{{site.members[i].url }}">
-                    <span class="btn gg-btn gg-btn-pink-o "><span>Read
-                        more</span></span></a>
-                <div class="line team-line"></div>
-            </div>
+            {% assign thumbnail="/wp-content/uploads/2016/05/GGH-Logo1-360x243.jpg" %}
+            {% if site.members[i].thumbnail %}
+            {% assign thumbnail=site.members[i].thumbnail %}
+            {% endif %}
+            <div class="col">
+                <div class="card mb-3 h-100">
+                    <div class="row g-0">
+                        <div class="col-md-4">
+                            <img src="{{ thumbnail }}" alt="person" class="rounded-start img-fluid">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h3 class="mt-2 card-title h5">{{site.members[i].title }}</h3>
+                                <span class="h6 card-subtitle text-muted">{{site.members[i].job_title }}</span>
+                                <p class="mt-2 card-text">{{site.members[i].person_intro }}</p>
+                                <a class="stretched-link" href="{{site.members[i].url }}">
+                                    <span class="btn btn-primary"><span>Read
+                                            more</span></span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
             {% endfor %}
         </div>
