@@ -77,8 +77,7 @@
     
     
 // eslint-disable-next-line no-unused-vars
-function onSubmit(token){    
-    console.log("recaptcha complete");
+function onSubmit(token){
     const event=new CustomEvent("recaptchaSubmit",{bubbles:true, detail:{token:token}});
     console.log(event, this);
     this.dispatchEvent(event); 

@@ -1,0 +1,31 @@
+#map_canvas {
+    height: 50vh;
+    margin: 2rem 0;
+}
+
+.division {
+    border-bottom: var(--gg-light-blue) 1px solid;
+    padding: 0.5rem;
+
+    .division-name,
+    a {
+        display: block;
+    }
+
+    .division-name {
+        font-weight: bold;
+    }
+
+    .highlight-polygon {
+        cursor: pointer;
+    }
+
+    &.selected {
+        background-color: var(--gg-dark-blue);
+        color: white;
+
+        a {
+            color: white;
+        }
+    }
+}

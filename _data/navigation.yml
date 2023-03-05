@@ -15,6 +15,9 @@ about-us:
     url: /about-us/mission-statement/
   - title: Divisions
     url: /about-us/divisions/
+    items:
+      - title: Flexible Guiding Units
+        url: /flexible-guiding-units/
   - title: Resources and Links
     url: /about-us/resources/
     items:

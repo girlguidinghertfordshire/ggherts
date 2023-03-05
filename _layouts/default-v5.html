@@ -35,9 +35,6 @@
     id='maps-js' defer></script>
   {% endif %}
   {% if page.division_map %}
-  <script type='text/javascript' src='/wp-content/themes/girl-guiding/js/geoxml3.js' id='geoxml3-js'></script>
-  <script type='text/javascript' src='/wp-content/themes/girl-guiding/js/ProjectedOverlay.js'
-    id='ProjectedOverlay-js'></script>
   {% else %}
   <script type='text/javascript' src='/assets/js/location-map.js' id='location-maps-js' defer></script>
   {% endif %}
@@ -192,6 +189,13 @@
       const reloadMap = new LocationMap(locationData);
     });
   </script>
+  {% endif %}
+  {% if page.division_map %}
+
+  <script type='text/javascript' src='/wp-content/themes/girl-guiding/js/geoxml3.js' id='geoxml3-js' defer></script>
+  <script type='text/javascript' src='/wp-content/themes/girl-guiding/js/ProjectedOverlay.js'
+    id='ProjectedOverlay-js' defer></script>
+  {% include divisions-map.html %}
   {% endif %}
   {% if page.title == "Bronze, Silver & Gold Awards Badges and Certificates - Order Form" %}
   <script src="/assets/js/awards.js?v=1" type="text/javascript"></script>
