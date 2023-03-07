@@ -67,7 +67,7 @@
         color: white;
     }
     h3 { 
-        --header-font-size: 1.1rem;
+        --header-font-size: 0.9rem;
         --header-line-height:1.2;
         --lines: 2;
         font-size: var(--header-font-size);
@@ -78,4 +78,10 @@
     -webkit-box-orient: vertical;
     }
     .card-text { font-size: 0.9rem;}
+    @media (min-width: $grid-md-min){
+        h3 {
+        --header-font-size: 1.1rem;
+        }
+
+    }
 }

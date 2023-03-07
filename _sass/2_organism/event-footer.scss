@@ -46,8 +46,10 @@
             min-height: 124px;
             width: 100%;
             h3 {
+                --event-title-font-size: 1rem;
                 margin: 0 0 10px;
                 min-height: 4.5rem;
+                font-size: var(--event-title-font-size);
             }
         }
     }
@@ -72,7 +74,9 @@
             margin-bottom: 60px;
             .event-detail {
                 padding: 35px 20px;
-                
+                h3 {
+                    --event-title-font-size: 1.25rem;
+                }
             }
         }
         .event-list {

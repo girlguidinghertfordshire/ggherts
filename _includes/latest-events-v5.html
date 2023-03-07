@@ -19,7 +19,7 @@
                             <img src="{{ event.event.image }}" alt="Event" />
                         </figure>
                         <div class="event-detail">
-                            <h3 class="h5">{{ event.title }}</h3>
+                            <h3>{{ event.title }}</h3>
                             <time>{{ event.event.start_date | date: "%d %b %Y" }}
                                 {% if event.event.end_date != '' and event.event.start_date != event.event.end_date %}
                                 - {{ event.event.end_date | date: "%d %b %Y" }}
