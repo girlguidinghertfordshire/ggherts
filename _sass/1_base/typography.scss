@@ -14,6 +14,7 @@ $em        : $font-size*1em;
 //     color: $gg-dark-blue;
 //     font-weight: 700;
 // }
+h1,h2,h3 { font-weight: 600;}
 
 .gg-blockquote {
     background-color: lighten($gg-light-blue,20%);

@@ -1,7 +1,7 @@
 ---
 title: The Dog House
 date: 2023-02-06T20:10:57.667Z
-image: /assets/images/2023/02/dog-house1.webp
+image: /assets/images/2023/02/dog-house2.webp
 image_filter: false
 categories:
   - Notice
@@ -10,7 +10,7 @@ author:
   display_name: The County Office
   first_name: null
   last_name: null
-lastmod: 2023-02-06T20:17:38.602Z
+lastmod: 2023-03-07T21:14:55.446Z
 ---
 Another series of Channel 4's *The Dog House with Wood Green* will start production soon.
 

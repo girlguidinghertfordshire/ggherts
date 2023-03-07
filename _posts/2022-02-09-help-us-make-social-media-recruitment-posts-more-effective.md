@@ -1,7 +1,7 @@
 ---
 title: Help us make social media recruitment posts more effective
 date: 2022-09-10T20:17:39.574Z
-image: /assets/images/2022/02/work-together.webp
+image: /assets/images/2022/02/work-together-200.webp
 categories:
   - Announcements
   - Badges
@@ -11,7 +11,7 @@ author:
   display_name: The County Office
   first_name: ""
   last_name: ""
-lastmod: 2023-03-02T18:31:53.050Z
+lastmod: 2023-03-07T20:34:46.248Z
 ---
 Let's work together to enable recruitment campaigns to reach as many people as possible.
 

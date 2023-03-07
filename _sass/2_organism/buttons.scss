@@ -1,14 +1,21 @@
+.btn {
+    --bs-btn-padding-x: 1rem;
+    --bs-btn-border-radius: calc((var(--bs-btn-line-height)*var(--bs-btn-font-size)));
+    --bs-btn-border-width:3px;
+    --bs-btn-font-weight: 700;
+    margin: 0.3rem 0.5rem;
+}
 // override BS default colours
 .btn-primary {
-    --bs-btn-hover-color: var(--bs-white);
-    --bs-btn-hover-bg: #{$gg-dark-blue-hover};
-    --bs-btn-hover-border-color: #{$gg-dark-blue-border-hover};
+    --bs-btn-hover-color: var(--gg-mid-blue);
+    --bs-btn-hover-bg: var(--bs-white);
+    --bs-btn-hover-border-color: var(--gg-mid-blue);
     --bs-btn-active-color: #{$gg-dark-blue-active};
     --bs-btn-active-bg: var(--bs-white);
     --bs-btn-active-border-color: #{$gg-dark-blue-border-active};
     --bs-btn-color: #fff;
-    --bs-btn-bg: #{$gg-dark-blue};
-    --bs-btn-border-color: #{$gg-dark-blue};
+    --bs-btn-bg: #{$gg-mid-blue};
+    --bs-btn-border-color: #{$gg-mid-blue};
     --bs-btn-focus-shadow-rgb: var(--bs-primary-rgb);
     --bs-btn-disabled-color: var(--bs-white);
     --bs-btn-disabled-bg: #{$gg-dark-blue};

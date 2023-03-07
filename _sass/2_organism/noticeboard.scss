@@ -1,22 +1,22 @@
 .post-section {
     clear: both;
     padding: 40px 0 65px;
-    h2 {
-        color: white;
-    }
-    h3 a {
-        color: var(--bs-black);
+    
+    h3 {
+        font-size: 1.1rem;
         margin: 20px 0 25px;
         display: block;
-        text-decoration: none; 
-        &:hover,&:focus{ text-decoration: underline;}
     }
     .card {
+        --bs-card-border-radius: 0;
+        --bs-card-inner-border-radius:0;
+        --bs-card-border-width: 0;
+        box-shadow: inset 0 -9px 0 0 var(--gg-mid-blue);
         background: var(--bs-white);
-        border-radius: 30px;
-        .card-img-top {
-            border-top-left-radius: 30px;
-            border-top-right-radius: 30px;
+        &:hover {
+            background-color: var(--gg-mid-blue);
+            color: white;
         }
+        
     }
 }

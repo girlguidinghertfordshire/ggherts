@@ -33,17 +33,18 @@ $gg-blue-link: #337ab7;
     --gg-mid-blue: #{$gg-mid-blue};
     --gg-light-blue: #{$gg-light-blue};
     --bs-primary:var(--gg-dark-blue);
-    --bs-link-color: var(--gg-dark-blue);
-    --bs-link-hover-color: var(--gg-mid-blue);
+    --bs-link-color: var(--gg-mid-blue);
+    --bs-link-hover-color: var(--gg-dark-blue);
     --bs-primary-rgb: 22,27,78;
     --bs-secondary-rgb: 0,123,196;
     --bs-nav-link-hover-color: #{$gg-light-blue};
     --bs-nav-link-font-size: 1rem;
     --bs-body-font-family: "Poppins","open sans",sans-serif;
-    --bs-body-color: #000;
+    --bs-body-color: var(--gg-dark-blue);
   }
 
 // Grays
+$gg-light-gray: #f2f2f2;
 $gg-gray: #d8d7d7;
 $gg-mid-gray: #817777;
 $gg-dark-gray: #3a3535;
