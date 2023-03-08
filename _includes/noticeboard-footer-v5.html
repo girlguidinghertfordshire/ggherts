@@ -1,22 +1,24 @@
-<section class="post-section blue-bg gg-blue-bg">
+<section class="post-section border-top-primary">
     <div class="container">
         <h2>Noticeboard</h2>
-        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-5">
+        <div class="row row-cols-2 row-cols-md-3 row-cols-lg-4 g-3">
             {% assign noticeboards = site.noticeboards | sort: "date" | reverse %}
-            {% for notice in noticeboards limit:3 %}
+            {% for notice in noticeboards limit:4 %}
             {% if forloop.last %}
             {% assign class=" d-md-none d-lg-flex" %}
             {% endif %}
             <div class="col{{ class }}">
-                <div class="card">
+                <div class="card h-100">
                     <img src="{{ notice.image }}" alt="" class="card-img-top" />
                     <div class="card-body">
-                        <h3 class="card-title"><a class="" href="{{ notice.url }}">{{ notice.title }}</a></h3>
+                        <h3 class="card-title">{{ notice.title }}</h3>
                         <div class="card-text">{{ notice.excerpt | strip_html | normalize_whitespace | truncatewords: 20
                             | escape | markdownify }}</div>
-                        <div class="gg-btn-shift">
-                        <a class="btn gg-btn gg-btn-blue pull-right front" href="{{ notice.url }}"><span>Read more </span><span
-                                class="sr-only">: {{ notice.title }}</span></a></div>
+                            <div class="float-start w-100 p-3"></div>
+                    </div>
+                    <div class="card-footer bg-transparent pb-3">
+                        <a class="btn btn-primary me-3 mb-2 stretched-link" href="{{ notice.url }}"><span>Read more </span><span
+                                class="sr-only">: {{ notice.title }}</span></a>
                     </div>
                 </div>
             </div>

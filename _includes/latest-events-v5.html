@@ -13,7 +13,7 @@
             {% if startDate> today %}
             {% assign count = count | plus:1 %}
             <a href="{{ event.url }}">
-                <div class="event-block">
+                <div class="event-block h-100">
                     <div class="event-content">
                         <figure style="background-image:url('{{ event.event.image }}');">
                             <img src="{{ event.event.image }}" alt="Event" />
@@ -25,13 +25,13 @@
                                 - {{ event.event.end_date | date: "%d %b %Y" }}
                                 {% endif %}</time>
                         </div>
-                        <div class="event-pattern"></div>
                     </div>
                 </div>
             </a>
             {% endif %}
             {% endfor %}
         </div>
-        <a href="/events/" class="d-block btn btn-outline-primary">View all events</a>
+        <div class="text-center"><a href="/events/" class="btn btn-primary">View all events</a></div>
+        
     </div>
 </section>

@@ -4,25 +4,21 @@
 $font-size : 16;       
 $em        : $font-size*1em;
 
-// Base style
-body {
-    font-size: 16px;
-    font-family: "trebuchet ms","open sans",sans-serif;
-}
 
 //
 .header {
     padding: 6px 0;
 }
 
-h1 { 
-    color: $gg-pink;
-    font-weight: 700;
-}
+// h1 { 
+//     color: $gg-dark-blue;
+//     font-weight: 700;
+// }
+h1,h2,h3 { font-weight: 600;}
 
 .gg-blockquote {
     background-color: lighten($gg-light-blue,20%);
-    border-left: 10px solid $gg-blue;
+    border-left: 10px solid $gg-mid-blue;
     margin: 1.5rem 10px;
     padding: 1rem 10px 0.1rem;
 }

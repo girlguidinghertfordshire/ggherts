@@ -1,47 +1,23 @@
 {% capture start %}
 {{ include.start }}
 {% endcapture %}
-<div class="row">
-    <div class="col-md-6">
-        {% for post in site.posts limit:1 offset: start %}
-        <div class="news-post">
-            <div class="line"></div>
-            <h3><a href="{{ post.url }}">
-                    {{ post.title }}</a></h3>
-            <time>{{ post.date | date_to_string: "ordinal","GB" }}</time>
-            <div class="image-block">
-                <a href="{{ post.url }}">
-                    <img loading="lazy" src="{{ post.image }}" alt="" />
-                </a>
+<div class="row row-cols-2 row-cols-lg-4">
+    {% for post in site.posts limit:8 %}
+    <div class="col mb-3">
+        <div class="card gg-news-footer h-100">
+            <img loading="lazy" src="{{ post.image }}" alt="" class="card-img-top" />
+            <div class="card-body">
+                <h3 class="card-title">{{ post.title }}</h3>
+                <time class="card-text">{{ post.date | date_to_string: "ordinal","GB" }}</time>
+                <p class="card-text">{{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 15 | escape }}</p>
+                
             </div>
-            <p>{{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 30 | escape | markdownify }}</p>
-            <a class="btn gg-btn gg-btn-pink-o" href="{{ post.url }}"><span>Read more<span class="sr-only">: {{
-                        post.title }}</span></span></a>
+            <div class="card-footer bg-transparent text-center pb-3"><a class="btn btn-primary stretched-link" href="{{ post.url }}">Read more<span class="sr-only">: {{
+                        post.title
+                        }}</span></a></div>
         </div>
-        {% endfor %}
     </div>
-    <div class="col-md-6">
-        <div class="row">
-            {% for post in site.posts limit:4 offset: continue %}
-            <div class="col-6">
-                <article class="news-post">
-                    <div class="post-block">
-                        <div class="line"></div>
-                        <h3><a class="" href="{{ post.url }}">{{ post.title }}</a></h3>
-                        <time>{{ post.date | date_to_string: "ordinal","GB" }}</time>
-                        <div class="image-block">
-                            <a class="" href="{{ post.url }}">
-                                <img loading="lazy" src="{{ post.image }}" alt="" />
-                            </a>
-                        </div>
-                        <p>{{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 15 | escape }}</p>
-                        <a class="link" href="{{ post.url }}">Read more<span class="sr-only">: {{ post.title
-                                }}</span></a>
-                    </div>
-                </article>
-            </div>
-            {% endfor %}
+    {% endfor %}
 
-        </div>
-    </div>
+
 </div>

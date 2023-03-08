@@ -13,7 +13,7 @@ author:
   display_name: The County Office
   first_name: ""
   last_name: ""
-lastmod: 2022-09-18T14:54:29.866Z
+lastmod: 2023-03-04T11:12:10.585Z
 ---
 {:.lead}
 Everyone needs to have the correct level of [_A Safe Space_ training][1] for their role.
@@ -30,13 +30,13 @@ Please remember that **membership may be withdrawn** if you do not complete the 
 
 _A Safe Space_ Level 1 and 2 e-learning training modules can both be completed via the Learning Platform. Each takes approximately 20 minutes to complete.
 
-[Start Level 1 or Level 2 e-learning <i class="fa fa-external-link" aria-hidden="true"></i>][3]{:.btn-gg}{:rel="noopener"}{:target="_blank"}
+[Start Level 1 or Level 2 e-learning <i class="fa fa-external-link" aria-hidden="true"></i>][3]{:.btn.btn-primary}{:rel="noopener"}{:target="_blank"}
 
 ### Level 3
 
 This training is delivered by a live online session with Girlguiding Anglia. Alternatively, you can enrol to attend a National Webinar session through the Learning Platform.
 
-[View and book with Girlguiding Anglia <i class="fa fa-external-link" aria-hidden="true"></i>][4]{:.btn-gg}{:rel="noopener"}{:target="_blank"} [Enrol on National Webinar session <i class="fa fa-external-link" aria-hidden="true"></i>][3]{:.btn-gg}{:rel="noopener"}{:target="_blank"}
+[View and book with Girlguiding Anglia <i class="fa fa-external-link" aria-hidden="true"></i>][4]{:.btn.btn-primary}{:rel="noopener"}{:target="_blank"} [Enrol on National Webinar session <i class="fa fa-external-link" aria-hidden="true"></i>][3]{:.btn.btn-primary}{:rel="noopener"}{:target="_blank"}
 
 ### Level 4
 

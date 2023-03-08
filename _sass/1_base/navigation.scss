@@ -15,6 +15,7 @@ $menu-width: 250px;
     border: none;
     background: transparent;
     font-size: 1.5rem;
+    color: white;
 }
 
 .gg-menu-toggler-text {
@@ -35,7 +36,7 @@ $menu-width: 250px;
             content: "\f107";
             display: inline-block;
             font-family: FontAwesome, sans-serif;
-            color: #695f5f;
+            color: $gg-light-blue;
             padding-left: 5px;
             vertical-align: middle
         }
@@ -56,6 +57,19 @@ $menu-width: 250px;
     }
 }
 
+.gg-search-form {
+    padding: .5rem 0;
+    .search-text {
+        border-left: none;
+        border-right: none;
+        border-top: none;
+        border-bottom: 1px solid #b4afaf;
+    }
+    button {
+        color: white;
+        font-size: 1.5rem;
+    }
+}
 @media (max-width:($grid-lg-min - 1)) {
     .gg-viewport {
         width: 100%;
@@ -152,10 +166,6 @@ $menu-width: 250px;
     .gg-main-nav ul>li {
         display: inline-block;
 
-        a {
-            color: $gg-dark-gray;
-        }
-
         ul {
             display: none;
         }
@@ -166,7 +176,7 @@ $menu-width: 250px;
             &:focus {
                 .gg-blue-menu {
                     display: block;
-                    background: $gg-blue;
+                    background: var(--bs-white);
                     position: absolute;
                     padding: 5px;
                     border-radius: 0.25rem;
@@ -177,7 +187,7 @@ $menu-width: 250px;
                         padding: 0;
 
                         a {
-                            color: white;
+                            color: var(--bs-black);
                             font-size: 0.9rem;
                             padding-left: 0.5rem;
                             padding-right: 0.5rem;
@@ -185,7 +195,7 @@ $menu-width: 250px;
 
                             &:focus,
                             &:hover {
-                                background-color: $gg-pink;
+                                background-color: var(--gg-light-blue);
                             }
                         }
                     }
@@ -200,21 +210,11 @@ $menu-width: 250px;
     }
 }
 
-.gg-search-form {
-    .search-text {
-        border-left: none;
-        border-right: none;
-        border-top: none;
-        border-bottom: 1px solid #b4afaf;
-    }
-}
 
 @media (min-width: $grid-sm-min) {
     .gg-logo {
         max-width: 100%;
     }
 
-    .gg-search-form {
-        max-width: 50%;
-    }
+    
 }

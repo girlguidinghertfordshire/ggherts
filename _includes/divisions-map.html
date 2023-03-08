@@ -1,0 +1,390 @@
+<script type="module">
+    var geoXml = null;
+    var geoXmlDoc = null;
+    var map = null;
+    var myLatLng = null;
+    var myGeoXml3Zoom = true;
+    var sidebarHtml = "";
+    var infowindow = null;
+    var kmlLayer = null;
+    var defaultElement = 3;
+    var filename = "/assets/js/divisions/maps_regions.kml?v=2";
+    var geocoder = new google.maps.Geocoder();
+    const polyOptions = {
+        normalStyle: {
+            fillColor:"#00a7e5",
+            strokeColor: "#161b4e",
+            fillOpacity: 0.8
+        },
+        highlightPoly : { fillColor: "#007bc4", strokeColor: "#161b4e", fillOpacity: 0.8, strokeWidth: 10 },
+        highlightLine : { fillColor: "#161b4e", strokeColor: "#161b4e", strokeWidth: 10, fillOpacity: 0.8 }
+    }
+    function MapTypeId2UrlValue(maptype) {
+        var urlValue = 'm';
+        switch (maptype) {
+            case google.maps.MapTypeId.HYBRID: urlValue = 'h';
+                break;
+            case google.maps.MapTypeId.SATELLITE: urlValue = 'k';
+                break;
+            case google.maps.MapTypeId.TERRAIN: urlValue = 't';
+                break;
+            default:
+            case google.maps.MapTypeId.ROADMAP: urlValue = 'm';
+                break;
+        }
+        return urlValue;
+    }
+
+    function initialize() {
+        myLatLng = new google.maps.LatLng(51.5073509, -0.12775829999998223);
+        var zoom = 10;
+        var maptype = google.maps.MapTypeId.ROADMAP;
+        var query = location.search.substring(1);
+
+        var myOptions = {
+            zoom: zoom,
+            center: myLatLng,
+            mapTypeId: maptype,
+            scrollwheel: false
+        };
+        map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+console.log(map);
+        infowindow = new google.maps.InfoWindow({});
+        var geoXml = new geoXML3.parser(
+            {
+                map: map,
+                infoWindow: infowindow,
+                singleInfoWindow: true,
+                zoom: false,
+                markerOptions: { optimized: false },
+                afterParse: useTheData,
+                failedParse: geoxmlErrorHandler
+            });
+
+        google.maps.event.addListener(geoXml, 'parsed', function () {
+            var endTime = performance.now();
+        });
+
+        geoXml.parse(filename);
+        google.maps.event.addListener(map, "bounds_changed", makeSidebar);
+        google.maps.event.addListener(map, "center_changed", makeSidebar);
+        google.maps.event.addListener(map, "zoom_changed", makeSidebar);
+        google.maps.event.addListenerOnce(map, "idle", makeSidebar);
+    }
+
+    window.addEventListener("googleInit",function(){
+        console.log("google init");
+        google.maps.event.addDomListener(window, 'load', initialize);
+    })
+    function kmlPgClick(pm) {
+        if (geoXml.docs[0].placemarks[pm].polygon.getMap()) {
+            google.maps.event.trigger(geoXmlDoc.placemarks[pm].polygon, "click");
+        } else {
+            geoXmlDoc.placemarks[pm].polygon.setMap(map);
+            google.maps.event.trigger(geoXmlDoc.placemarks[pm].polygon, "click");
+        }
+    }
+    function kmlPlClick(pm) {
+        if (geoXml.docs[0].placemarks[pm].polyline.getMap()) {
+            google.maps.event.trigger(geoXmlDoc.placemarks[pm].polyline, "click");
+        } else {
+            geoXmlDoc.placemarks[pm].polyline.setMap(map);
+            google.maps.event.trigger(geoXmlDoc.placemarks[pm].polyline, "click");
+        }
+    }
+    function kmlClick(pm) {
+        console.log(pm);
+        if (geoXml.docs[0].placemarks[pm].marker.getMap()) {
+            google.maps.event.trigger(geoXml.docs[0].placemarks[pm].marker, "click");
+        } else {
+            geoXmlDoc.placemarks[pm].marker.setMap(map);
+            google.maps.event.trigger(geoXmlDoc.placemarks[pm].marker, "click");
+        }
+    }
+    function kmlShowPlacemark(pm) {
+        console.log("show placemark...");
+        if (geoXmlDoc.placemarks[pm].polygon) {
+            map.fitBounds(geoXmlDoc.placemarks[pm].polygon.bounds);
+        } else if (geoXmlDoc.placemarks[pm].polyline) {
+            map.fitBounds(geoXmlDoc.placemarks[pm].polyline.bounds);
+        } else if (geoXmlDoc.placemarks[pm].marker) {
+            map.setCenter(geoXmlDoc.placemarks[pm].marker.getPosition());
+        }
+
+        for (var i = 0; i < geoXmlDoc.placemarks.length; i++) {
+            var placemark = geoXmlDoc.placemarks[i];
+            if (i == pm) {
+                if (placemark.polygon) placemark.polygon.setMap(map);
+                if (placemark.polyline) placemark.polyline.setMap(map);
+                if (placemark.marker) placemark.marker.setMap(map);
+            } else {
+                if (placemark.polygon) placemark.polygon.setMap(null);
+                if (placemark.polyline) placemark.polyline.setMap(null);
+                if (placemark.marker) placemark.marker.setMap(null);
+            }
+        }
+    }
+
+    function kmlHighlightPoly(pm) {
+        console.log('kmlHighlightPoly' + pm);
+        for (var i = 0; i < geoXmlDoc.placemarks.length; i++) {
+            var placemark = geoXmlDoc.placemarks[i];
+            var name = geoXmlDoc.placemarks[i].name;
+            if (i == pm) {
+                defaultElement = pm;
+                jQuery('.area-content-' + i).css('display', 'block');
+                jQuery('#row' + i).addClass("selected");
+                if (placemark.polygon) placemark.polygon.setOptions(polyOptions.highlightPoly);
+                if (placemark.polyline) placemark.polyline.setOptions(polyOptions.highlightLine);
+                if (geoXmlDoc.placemarks[i].polygon.getMap()) {
+                    google.maps.event.trigger(geoXmlDoc.placemarks[i].polygon, "click");
+                } else {
+                    geoXmlDoc.placemarks[i].polygon.setMap(map);
+                    google.maps.event.trigger(geoXmlDoc.placemarks[i].polygon, "click");
+                }
+            } else {
+                if (placemark.polygon) placemark.polygon.setOptions(placemark.polygon.normalStyle);
+                if (placemark.polyline) placemark.polyline.setOptions(placemark.polyline.normalStyle);
+                jQuery('.area-content-' + i).css('display', 'none');
+                jQuery('#row' + i).removeClass("selected");
+            }
+        }
+    }
+
+    function kmlUnHighlightPoly(pm) {
+        for (var i = 0; i < geoXmlDoc.placemarks.length; i++) {
+            if (i == pm) {
+                var placemark = geoXmlDoc.placemarks[i];
+                if (placemark.polygon) placemark.polygon.setOptions(placemark.polygon.normalStyle);
+                if (placemark.polyline) placemark.polyline.setOptions(placemark.polyline.normalStyle);
+            }
+        }
+    }
+
+    function showAll() {
+        console.log("showing all...");
+        map.fitBounds(geoXmlDoc.bounds);
+        for (var i = 0; i < geoXmlDoc.placemarks.length; i++) {
+            var placemark = geoXmlDoc.placemarks[i];
+            if (placemark.polygon) placemark.polygon.setMap(map);
+            if (placemark.polyline) placemark.polyline.setMap(map);
+            if (placemark.marker) placemark.marker.setMap(map);
+        }
+    }
+
+    function highlightPoly(poly, polynum) {
+        //poly.setOptions({ fillColor: "#00a7e5", strokeColor: "#00a7e5", fillOpacity: 0.8 });
+        google.maps.event.addListener(poly, "click", function () {
+            var rowElem = document.getElementById('row' + polynum);
+
+            for (var i = 0; i < geoXmlDoc.placemarks.length; i++) {
+                var placemark = geoXmlDoc.placemarks[i];
+                var name = geoXmlDoc.placemarks[i].name;
+                if (i == polynum) {
+
+                    setTimeout(function () {
+                        //jQuery('#sidebar table td').removeAttr('style');
+                        //jQuery('.area-content-' + polynum).css('display', 'block');
+                        jQuery('#row' + polynum).addClass("selected");
+                    }, 200);
+
+                    if (placemark.polygon) placemark.polygon.setOptions(polyOptions.highlightPoly);
+                    if (placemark.polyline) placemark.polyline.setOptions(polyOptions.highlightLine);
+
+                } else {
+                    if (placemark.polygon) placemark.polygon.setOptions(placemark.polygon.normalStyle);
+                    if (placemark.polyline) placemark.polyline.setOptions(placemark.polyline.normalStyle);
+                    //jQuery('.area-content-' + i).css('display', 'none');
+                    jQuery('#row' + i).removeClass("selected");
+                }
+            }
+        });
+    }
+
+    // == rebuilds the sidebar to match the markers currently displayed ==
+    function makeSidebarPolygonEntry(i) {
+        var name = geoXmlDoc.placemarks[i].name;
+        var email = geoXmlDoc.placemarks[i].email;
+        if (!name || (name.length == 0)) name = "polygon #" + i;
+        sidebarHtml += '<div class="col division" id="row' + i + '"><span class="highlight-polygon division-name" data-id="' + i + '">' + name + '</span>';
+        if (typeof (email) !== "undefined" && email != '') {
+            sidebarHtml += '<a href="mailto:' + email + '" class="small"><i class="fa fa-envelope-o"></i> <span class="sr-only">' + name + '</span> division commissioner</a>'
+        }
+        sidebarHtml += '</div>';
+    }
+
+    function makeSidebarPolylineEntry(i) {
+        var name = geoXmlDoc.placemarks[i].name;
+        if (!name || (name.length == 0)) name = "polyline #" + i;
+        // alert(name);
+        sidebarHtml += '<div class="col-xs-12" id="row' + i + '" onmouseover="kmlHighlightPoly(' + i + ');" onmouseout="kmlUnHighlightPoly(' + i + ');"><a href="javascript:kmlPlClick(' + i + ');">' + name + '</a> - <a href="javascript:kmlShowPlacemark(' + i + ');">show</a></div>';
+
+    }
+    function makeSidebarEntry(i) {
+        var name = geoXmlDoc.placemarks[i].name;
+        if (!name || (name.length == 0)) name = "marker #" + i;
+        // alert(name);
+        sidebarHtml += '<div class="col-xs-12" id="row' + i + '"><a href="javascript:kmlClick(' + i + ');">' + name + '</a></div>';
+    }
+
+    function makeSidebar() {
+        sidebarHtml = '<h2 class="js-areas">Divisions</h2>';
+        sidebarHtml += '<div class="row row-cols-3">';
+        var currentBounds = map.getBounds();
+        // if bounds not yet available, just use the empty bounds object;
+        if (!currentBounds) currentBounds = new google.maps.LatLngBounds();
+
+        if (geoXmlDoc && geoXmlDoc.placemarks) {
+            for (var i = 0; i < geoXmlDoc.placemarks.length; i++) {
+                if (geoXmlDoc.placemarks[i].polygon) {
+                    makeSidebarPolygonEntry(i);
+                    //}
+                }
+                if (geoXmlDoc.placemarks[i].polyline) {
+                    if (currentBounds.intersects(geoXmlDoc.placemarks[i].polyline.bounds)) {
+                        makeSidebarPolylineEntry(i);
+                    }
+                }
+                if (geoXmlDoc.placemarks[i].marker) {
+                    if (currentBounds.contains(geoXmlDoc.placemarks[i].marker.getPosition())) {
+                        makeSidebarEntry(i);
+                    }
+                }
+            }
+        }
+        sidebarHtml += '</div><div class="row"><div class="col division"><a class="division-name" href="/flexible-guiding-units/">Flexible Guiding (not on map)</a><a href="mailto:flexibledivision@girlguidinghertfordshire.org.uk"><i class="fa fa-envelope-o"></i> <span class="sr-only">Flexible </span>division commissioner</a></div></div>';
+        document.getElementById("sidebar").innerHTML = sidebarHtml;
+        jQuery('#row' + defaultElement).addClass("selected");
+        jQuery(".highlight-polygon").on("click", function(e){
+            kmlHighlightPoly($(this).data("id"));
+        });
+    }
+
+    function geoxmlErrorHandler(doc) {
+        showParseError();
+        alert("GEOXML3: failed parse");
+    }
+
+    function useTheData(doc) {
+        var currentBounds = map.getBounds();
+        if (!currentBounds) currentBounds = new google.maps.LatLngBounds();
+        // Geodata handling goes here, using JSON properties of the doc object
+        //sidebarHtml = '<table class="table">';
+        geoXmlDoc = doc[0];
+        if (!geoXmlDoc || !geoXmlDoc.placemarks) return;
+        for (var i = 0; i < geoXmlDoc.placemarks.length; i++) {
+            // console.log(doc[0].markers[i].title);
+            var placemark = geoXmlDoc.placemarks[i];
+            console.log(placemark);
+            if (placemark.polygon) {
+                if (currentBounds.intersects(placemark.polygon.bounds)) {
+                    makeSidebarPolygonEntry(i);
+                }
+                var normalStyle = {
+                    strokeColor: polyOptions.normalStyle.strokeColor,
+                    strokeWeight: placemark.polygon.get('strokeWeight'),
+                    strokeOpacity: placemark.polygon.get('strokeOpacity'),
+                    fillColor: polyOptions.normalStyle.fillColor,
+                    fillOpacity: polyOptions.normalStyle.fillOpacity
+                };
+                placemark.polygon.normalStyle = normalStyle;
+
+                highlightPoly(placemark.polygon, i);
+            }
+            if (placemark.polyline) {
+                if (currentBounds.intersects(placemark.polyline.bounds)) {
+                    makeSidebarPolylineEntry(i);
+                }
+                var normalStyle = {
+                    strokeColor: placemark.polyline.get('strokeColor'),
+                    strokeWeight: placemark.polyline.get('strokeWeight'),
+                    strokeOpacity: placemark.polyline.get('strokeOpacity')
+                };
+                placemark.polyline.normalStyle = normalStyle;
+
+                highlightPoly(placemark.polyline, i);
+            }
+            if (placemark.marker) {
+                if (currentBounds.contains(placemark.marker.getPosition())) {
+                    makeSidebarEntry(i);
+                }
+            }
+
+        }
+        //document.getElementById("sidebar").innerHTML = sidebarHtml;
+        kmlHighlightPoly(defaultElement);
+    };
+
+    function hide_kml() {
+        geoXml.hideDocument();
+    }
+
+    function unhide_kml() {
+        geoXml.showDocument();
+    }
+
+    function reload_kml() {
+        geoXml.hideDocument();
+        //delete geoXml;
+        geoXml = new geoXML3.parser({
+            map: map,
+            singleInfoWindow: true,
+            afterParse: useTheData
+        });
+        geoXml.parse(filename);
+    }
+    function hide_markers_kml() {
+        for (var i = 0; i < geoXmlDoc.markers.length; i++) {
+            geoXmlDoc.markers[i].setVisible(false);
+        }
+    }
+
+    function unhide_markers_kml() {
+        for (var i = 0; i < geoXmlDoc.markers.length; i++) {
+            geoXmlDoc.markers[i].setVisible(true);
+        }
+    }
+    function hide_polys_kml() {
+        for (var i = 0; i < geoXmlDoc.gpolylines.length; i++) {
+            geoXmlDoc.gpolylines[i].setMap(null);
+        }
+    }
+
+    function unhide_polys_kml() {
+        for (var i = 0; i < geoXmlDoc.gpolylines.length; i++) {
+            geoXmlDoc.gpolylines[i].setMap(map);
+        }
+    }
+
+    function codeAddress() {
+        console.log("code address...");
+        var address = document.getElementById('address').value;
+        geocoder.geocode({ 'address': address }, function (results, status) {
+            if (status == google.maps.GeocoderStatus.OK) {
+                var marker = new google.maps.Marker({
+                    map: map,
+                    position: results[0].geometry.location
+                });
+                if (results[0].geometry.viewport)
+                    map.fitBounds(results[0].geometry.viewport);
+                else if (results[0].geometry.bounds)
+                    map.fitBounds(results[0].geometry.bounds);
+                else
+                    map.setCenter(results[0].geometry.location);
+
+            } else {
+                alert('Geocode was not successful for the following reason: ' + status);
+            }
+        });
+    }
+
+</script>
+<script type="text/javascript">
+    function initMap(){
+        window.addEventListener("DOMContentLoaded", function(){
+            const event=new CustomEvent("googleInit",{bubbles:true});
+            console.log(event, this);
+            this.dispatchEvent(event);
+        });
+    }
+</script>

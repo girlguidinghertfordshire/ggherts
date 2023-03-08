@@ -8,7 +8,7 @@ categories:
 tags: []
 author:
   display_name: The County Office
-lastmod: 2022-12-18T07:46:46.519Z
+lastmod: 2023-03-03T20:23:40.686Z
 ---
 
 <p class="lead">Get your free basil seeds in the post and join Together TV's 8 week Green Challenge!</p>
@@ -25,4 +25,4 @@ You'll have the opportunity to improve your gardening skills, learn some simple,
 
 For more information and to pre-order your seeds please visit the [Together TV website. <i class="fa fa-external-link"></i>](https://www.togethertv.com/2021-autumn-teaser-charity-partners){:target="_blank"}
 
-[<i class="fa fa-download"></i> Green Challenge Get Involved Powerpoint](/assets/docs/green-challenge-get-involved.pptx){:class="btn-gg"}
+[<i class="fa fa-download"></i> Green Challenge Get Involved Powerpoint](/assets/docs/green-challenge-get-involved.pptx){:.btn.btn-primary}

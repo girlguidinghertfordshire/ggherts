@@ -12,19 +12,19 @@
             max-width: 100%;
         }
     } 
-    .pattern-one {
-        border-radius: 0 45px 0 0;
-        bottom: -25px;
-        content: "";
-        display: inline-block;
-        height: 80px;
-        left: -20px;
-        position: absolute;
-        -webkit-transform: skew(-22deg,6deg);
-        transform: skew(-22deg,6deg);
-        width: 104%;
-        z-index: 1;
-    }
+    // .pattern-one {
+    //     border-radius: 0 45px 0 0;
+    //     bottom: -25px;
+    //     content: "";
+    //     display: inline-block;
+    //     height: 80px;
+    //     left: -20px;
+    //     position: absolute;
+    //     -webkit-transform: skew(-22deg,6deg);
+    //     transform: skew(-22deg,6deg);
+    //     width: 104%;
+    //     z-index: 1;
+    // }
     .icon {
         display: inline-block;
         margin-bottom: 20px;
@@ -39,7 +39,7 @@
             color: $gg-dark-gray; 
             text-decoration: none;
             &:hover,&:focus { 
-                color: $gg-pink;
+                color: $gg-dark-blue;
                 text-decoration: underline;
             }
         }        
@@ -51,7 +51,7 @@
             display: block;
             }
         p {
-            color: $gg-pink;
+            color: $gg-mid-blue;
         }
     }
     
@@ -98,11 +98,6 @@
 }
 .gg-card-footer {
     a {
-        color: $gg-pink;
-        text-decoration: none;
-        &:focus span,&:hover span{
-            text-decoration: underline;
-        }
         .fa {
             padding: 0 10px;
             text-decoration: none;

@@ -1,199 +1,73 @@
+.btn {
+    --bs-btn-padding-x: 1rem;
+    --bs-btn-border-radius: calc((var(--bs-btn-line-height)*var(--bs-btn-font-size)));
+    --bs-btn-border-width:3px;
+    --bs-btn-font-weight: 700;
+    margin: 0.3rem 0.5rem;
+}
 // override BS default colours
 .btn-primary {
-    color: #fff;
-    background-color: $gg-pink;
-    border-color: $gg-pink;
-    &:hover, &:focus{
-        background-color: $gg-pink-hover;
-        border-color: $gg-pink-border-hover;
-    }
+    --bs-btn-hover-color: var(--gg-mid-blue);
+    --bs-btn-hover-bg: var(--bs-white);
+    --bs-btn-hover-border-color: var(--gg-mid-blue);
+    --bs-btn-active-color: #{$gg-dark-blue-active};
+    --bs-btn-active-bg: var(--bs-white);
+    --bs-btn-active-border-color: #{$gg-dark-blue-border-active};
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #{$gg-mid-blue};
+    --bs-btn-border-color: #{$gg-mid-blue};
+    --bs-btn-focus-shadow-rgb: var(--bs-primary-rgb);
+    --bs-btn-disabled-color: var(--bs-white);
+    --bs-btn-disabled-bg: #{$gg-dark-blue};
+    --bs-btn-disabled-border-color: #{$gg-dark-blue};
     &:focus, &:active:focus {
-        box-shadow: 0 0 0 0.25rem rgba(196, 0, 99, 0.5);
-    }
-    &:disabled {
-        background-color: $gg-pink;
-        border-color: $gg-pink;
-    }
-    &:active {
-        background-color: $gg-pink-active;
-        border-color: $gg-pink-border-active;
-    }
+        box-shadow: 0 0 0 0.25rem rgba($color: #fff, $alpha: 0.5);
+    } 
 }
 .btn-outline-primary {
-    color: $gg-pink;
-    border-color: $gg-pink;
+    color: $gg-dark-blue;
+    border-color: $gg-dark-blue;
     &:active,&:hover {
         color: #fff;
-        background-color: $gg-pink;
-        border-color: $gg-pink;
+        background-color: $gg-dark-blue;
+        border-color: $gg-dark-blue;
     }
     &:focus, &:active:focus {
-        box-shadow: 0 0 0 0.25rem rgba(196, 0, 99, 0.5);
+        box-shadow: 0 0 0 0.25rem rgba(22, 27, 78, 0.5);
+    }
+}
+.btn-outline-white {
+    color: white;
+    border-color: white;
+    &:active, &:hover {
+        color: $gg-dark-blue;
+        background-color: white;
+        border-color: white;
+    }
+    &:focus, &:active:focus {
+        box-shadow: 0 0 0 0.25rem rgba(255, 255, 255, 0.5);
     }
 }
 .btn-secondary {
-    color: #fff;
-    background-color: $gg-dark-blue;
-    border-color: $gg-dark-blue;
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #{$gg-mid-blue};
+    --bs-btn-border-color: #{$gg-mid-blue};
+    --bs-btn-hover-color: var(--bs-white);
+    --bs-btn-hover-bg: #{$gg-mid-blue-hover};
+    --bs-btn-hover-border-color: #{$gg-mid-blue-border-hover};
+    --bs-btn-active-color: #{$gg-mid-blue-active};
+    --bs-btn-active-bg: var(--bs-white);
+    --bs-btn-active-border-color: #{$gg-mid-blue-border-active};
+    --bs-btn-focus-shadow-rgb: var(--bs-primary-rgb);
+    --bs-btn-disabled-color: var(--bs-white);
+    --bs-btn-disabled-bg: #{$gg-mid-blue};
+    --bs-btn-disabled-border-color: #{$gg-mid-blue};
     
-    &:hover, &:focus{
+    &:focus{
         background-color: $gg-dark-blue-hover;
         border-color: $gg-dark-blue-border-hover;
     }
     &:focus, &:active:focus {
         box-shadow: 0 0 0 0.25rem rgba(0,114,188, 0.5);
     }
-    &:disabled {
-        background-color: $gg-dark-blue;
-        border-color: $gg-dark-blue;
-    }
-    &:active {
-        background-color: $gg-dark-blue-active;
-        border-color: $gg-dark-blue-border-active;
-    }
-}
-// shaped buttons
-.gg-btn {
-    border-radius: 20px;
-    height: 43px;
-    left: 2px;
-    transform: skew(2deg,-10deg);
-    width: 130px;
-    font-size: 14px;
-    padding-top: 7px;
-    margin-bottom: 25px;
-    &.btn-lg {
-        font-size: 20px;
-        > span {
-            font-size: 20px;
-        }
-    }
-    span {
-        color: white;
-        &::after {
-            content: "\f105";
-            display: inline-block;
-            font-family: FontAwesome, sans-serif;
-            padding-left: 5px;
-            vertical-align: middle;
-            margin-top: -1px;
-        }
-    }
-    &::before{
-        border-color: $gg-dark-pink;
-        background-color: $gg-pink;
-        border-radius: 10px 12px 0 0;
-        border-style: solid solid none;
-        border-width: 1px 1px medium;
-        content: "";
-        height: 40px;
-        left: 0;
-        position: absolute;
-        top: 0;
-        transform: skew(0deg,10deg);
-        width: 100%;
-    }
-    &::after{
-        border-color: $gg-dark-pink;
-        background-color: $gg-pink;
-        border-radius: 0 0 5px 8px;
-        border-style: none solid solid;
-        border-width: 0 1px 1px;
-        content: "";
-        height: 50%;
-        left: 0;
-        position: absolute;
-        top: 32px;
-        transform: skew(-2deg,17deg);
-        width: 128px;
-    }
-    &:focus{
-        box-shadow: none;
-    }
-    > span { 
-        display: block;
-        position: relative;
-        text-align: center;
-        top: 6px;
-        -webkit-transform: skew(0deg,10deg);
-        transform: skew(0deg,10deg);
-        z-index: 999;
-        font-size: 14px;
-    }    
-}
-.gg-btn-200 {
-    width:200px;
-    height: 48px;
-    &::before{
-        height: 44px;
-    }
-    &::after{
-        width: 198px;
-        height: 40%;
-        top: 37px;
-        -webkit-transform: skew(-2deg,14deg);
-        transform: skew(-2deg,14deg);
-    }
-}
-.gg-btn-pink-o {
-    span {
-        color: $gg-dark-pink;
-        &::after {
-            color: $gg-dark-pink;
-        }
-    }
-    &::before, &::after {
-        background-color: white;
-    }    
-    &:hover{        
-        span {
-            color: white;
-            &::after {
-                color: white;
-            }
-        }
-        &::before,&::after {
-            background-color: $gg-pink;
-            border-color: darken($gg-dark-pink,15%);
-        }
-    }
-}
-a:hover {
-    .gg-btn-pink-o {
-        span {
-            color: white;
-            &::after {
-                color: white;
-            }
-        }
-        &::before,&::after {
-            background-color: $gg-pink;
-            border-color: darken($gg-dark-pink,15%);
-        }
-    }
-}
-.gg-btn-blue {
-    span {
-        color: white;
-        &::after {
-            color: white;
-        }
-    }
-    &::before,&::after {
-        background-color: $gg-dark-blue;
-        border-color: $gg-blue;
-    }
-    &:hover{
-        &::before,&::after {
-            background-color: darken($gg-dark-blue,15%);
-            border-color: darken($gg-blue,15%);
-        }
-    }
-     
-}
-.gg-btn-shift {
-    position: absolute;
-    right: 14px;
-    bottom: -45px;
-    z-index: 999;
 }

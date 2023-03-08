@@ -107,7 +107,7 @@ const breakpoint = { xs: 0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400 };
     });
     // eslint-disable-next-line no-undef
 })(jQuery, window, document);
-// Filter for Events/Training pages
+// Filter for Events/Training/News/Noticeboard pages
 (function ($) {
     function showBlock(/** @type {JQuery<HTMLElement>} */ $block, /** @type {JQuery<HTMLElement>} */ $filters, /** @type {string} */ dataName) {
         if (typeof ($block) === "undefined" || $block == null) {
@@ -130,7 +130,7 @@ const breakpoint = { xs: 0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400 };
         });
         return canShowBlock;
     }
-    function filterPosts() {
+    function filterEventPosts() {
         $(".filter-list .col").hide();
         const $type = $(".division.type input:checked");
         const $age = $(".division.age input:checked");
@@ -153,16 +153,32 @@ const breakpoint = { xs: 0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400 };
             });
         }
     }
+    function filterNewsPosts(){
+        console.log("filtering...");
+        $(".filter-list .col").hide();
+        const $categories = $(".category input:checked");
+        $(".filter-list .col").each(function(){
+            if (showBlock($(this), $categories, "type")){
+                $(this).show();
+            }
+        })
+    }
     $.when($.ready).then(function () {
         initialiseFilters();
+        $(".category input").on("change",function(){
+            filterNewsPosts();
+            const event=new CustomEvent("filterChanged",{bubbles:true, detail:{text:""}});
+            this.dispatchEvent(event);
+        });
         $(".division input").on("change", function () {
-            filterPosts();
+            filterEventPosts();
             const event=new CustomEvent("filterChanged",{bubbles:true, detail:{text:""}});
             this.dispatchEvent(event);
         });
     });
     // eslint-disable-next-line no-undef
 })(jQuery);
+
 // Add in-page links for long pages
 (function ($) {
     const pages = ["challenge-badges", "resources", "thanks-awards-and-recognition","share-with-us","your-county-team"]; //classes added to main-content section used to filter which pages this runs on

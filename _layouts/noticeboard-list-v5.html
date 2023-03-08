@@ -1,0 +1,97 @@
+---
+layout: default-v5
+---
+{% include banner.html %}
+<div class="main-content {{ page.title | slugify }}">
+    <div class="container">
+        {% include breadcrumbs.html %}
+        <div class="row">
+            <div class="col-lg-8 col-xxl-10 order-lg-2 content">
+                <h1>{{ page.title }}</h1><p>The county Noticeboard contains external opportunities that may appeal to, and benefit, our girls and volunteers.</p>
+                <p>Please email <a href="mailto:admin@girlguidinghertfordshire.org.uk">admin@girlguidinghertfordshire.org.uk</a> with details of opportunities you wish to be considered for inclusion.</p>
+                <p>Girlguiding Hertfordshire do not endorse any external organisations that may be displayed here.</p>
+                
+                <div class="filter-block">
+                    <ul class="category row row-cols-1 row-cols-md-2 row-cols-xxl-3 list-unstyled">
+                        {% assign all_types= '' | split: '' %}
+                        {% for post in site.noticeboards %}
+                        {% for t in post.categories %}
+                        {% unless all_types contains t %}
+                        {% assign tName = t | split: '_' %}
+                        {% assign all_types = all_types | concat: tName %}
+                        {% endunless %}
+                        {% endfor %}
+                        {% endfor %}
+                        {% assign categories = all_types | uniq %}
+                        {% for cat in categories %}
+                        {% assign catPosts = site.noticeboards | where: "categories", cat %}
+                        <li class="col"><span><input type="checkbox" name="{{cat |slugify}}"
+                                    id="cat-filter-{{cat |slugify}}" value="{{cat}}" checked /><label
+                                    for="cat-filter-{{cat |slugify}}">{{cat}}</label></span><span
+                                class="badge bg-primary rounded-pill">{{ catPosts.size }}</span></li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <div class="filter-list pb-4" data-type="news">
+                    <div class="row row-cols-1 row-cols-sm-2 row-cols-xl-3 g-4">
+                        {% assign noticeboards = site.noticeboards | sort: "date" | reverse %}
+                        {% for post in noticeboards %}
+                        <div class="col" data-type="|{{ post.categories | join:'|'}}|"
+                            data-month="{{post.date | date: '%Y %b'}}">
+                            <div class="card gg-news-card h-100 border-primary">
+                                <img src="{{ post.image }}" alt="" class="card-img-top">
+                                <div class="card-body">
+                                <h2 class="card-title h5"><a href="{{ post.url }}"
+                                        class="stretched-link">{{post.title}}</a></h2>
+                                    <div class="card-text">
+                                        <p>{{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 20 |
+                                            escape }}</p>
+                                    </div>
+                                </div>
+                                <div class="card-footer border-top-0 bg-white text-end">
+                                    <a class="btn btn-primary" href="{{ post.url }}"><span>Read more</span></a>
+                                </div>
+                            </div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-xxl-2">
+                <nav class="gg-left-menu" aria-label="Site navigation">
+                    <h2><a href="{{ menu.url }}">{{ menu.title }}</a></h2>
+                    <ul class="nav flex-column">
+                        {% for item in menu.items %}
+                        {% assign linkClass="nav-link" %}{% if item.url==page.url %}{% assign linkClass="nav-link
+                        active"%}{% endif %}
+                        <li class="nav-item"><a href="{{ item.url}}" class="{{ linkClass }}" {%if item.url==page.url %}
+                                aria-current="page" {% endif %}>{{ item.title }}</a>{% if item.items %}<ul>
+                                {% for childItem in item.items %}<li {% if item.url==page.url %}
+                                    class="current_page_item" {% endif %}><a href="{{ childItem.url}}" {%if
+                                        childItem.url==page.url %} aria-current="page" {% endif %}>{{ childItem.title
+                                        }}</a></li>{% endfor %} </ul>{% endif %}</li>
+                        {% endfor %}
+                    </ul>
+
+                    {% if page.advertId != '' %}
+                    {% for advert in site.adverts %}
+                    {% if advert.advertId == page.advertId %}
+                    <a href="{{ advert.advert_url }}">
+                        <div class="promo-block">
+                            <div class="promo-description">
+                                <h3>{{ advert.advert_title }}</h3>
+                                <p>{{ advert.advert_description }}</p>
+                            </div>
+                        </div>
+                    </a>
+                    {% break %}
+                    {% endif %}
+                    {% endfor %}
+                    {% endif %}
+                </nav>
+
+            </div>
+        </div>
+    </div>
+    {% include latest-events-v5.html %}
+</div>

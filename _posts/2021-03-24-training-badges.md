@@ -1,21 +1,21 @@
 ---
 title: Training Badges
-date: '2021-11-04T20:32:45.842Z'
+date: 2021-11-04T20:32:45.842Z
 image: /wp-content/uploads/2021/03/Training-badges-1-360x243.png
 categories:
   - Announcements
   - Badges
 tags: []
 author:
-  display_name: 'Jenny Maskrey, County Commissioner'
+  display_name: Jenny Maskrey, County Commissioner
 permalink: /training-badges/
-lastmod: '2021-11-04T20:36:13.327Z'
+lastmod: 2023-03-03T20:26:34.328Z
 ---
 <p class="lead">As a "thank you" for the time you put into training, we invite you to log the hours of training you complete and claim a pin badge when you reach milestones. </p>
 
 You can download the log sheet training record below:
 
-<a href="/wp-content/uploads/2021/03/Training-Record.docx" class="btn-gg">Training Record - colour <i class="fa fa-download"></i></a> <a href="/wp-content/uploads/2021/03/Training-Record-BW.docx" class="btn-gg">Training Record -  B&amp;W version  <i class="fa fa-download"></i></a>
+<a href="/wp-content/uploads/2021/03/Training-Record.docx" class="btn btn-primary">Training Record - colour <i class="fa fa-download"></i></a> <a href="/wp-content/uploads/2021/03/Training-Record-BW.docx" class="btn btn-primary">Training Record -  B&amp;W version  <i class="fa fa-download"></i></a>
 
 ## Claiming your limited-edition Owl Training badges
 

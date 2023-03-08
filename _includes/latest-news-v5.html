@@ -1,21 +1,11 @@
-<section class="latest-news">
+<section class="latest-news-footer">
     <div class="container">
-    <h2>Latest News</h2>
-    <div class="latest-newsslider desktop">
-{% assign pages="0" | split: ',' %}
-{% assign newsCount=site.posts | size | plus:0 %}
-{% for newsPage in pages %}
-{% if  newsPage |plus:0 < newsCount %}
-    {% include news-row-desktop-v5.html start=newsPage %}
-    {% endif %}
-{% endfor %}
-    </div>
-    <!--<div class="letest-newsslider mobile">
-        {% for newsPage in pages %}
-        {% if  newsPage |plus:0 < newsCount %}
-            {% include news-row-mobile.html start=newsPage %}
-            {% endif %}
-        {% endfor %}  
-    </div>-->
-    </div>
+        <h2>Latest News</h2>
+        <div class="latest-newsslider desktop">
+            {% assign pages="0" | split: ',' %}
+            {% assign newsCount=site.posts | size | plus:0 %}
+            {% for newsPage in pages %}
+            {% if newsPage |plus:0 < newsCount %} {% include news-row-desktop-v5.html start=newsPage %} {% endif %} {%
+                endfor %} </div>
+        </div>
 </section>
