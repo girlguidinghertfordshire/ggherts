@@ -8,7 +8,7 @@
         {% assign css="carousel-item active" %}
         {% endif %}
       <div class="{{ css }}">
-        <img src="{{slide.img}}" class="d-block w-100" alt="{{slide.alt}}">
+        <img src="{{slide.img}}" class="d-block w-100" alt="{{slide.alt}}" loading="lazy">
       </div>
       {% endfor %}
     </div>

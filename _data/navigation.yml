@@ -38,6 +38,19 @@ about-us:
     url: /about-us/wellbeing-resources-and-links/
   - title: County Centre
     url: /about-us/county-centre/
+    items:
+      - title: Indoor Accommodation
+        url: /about-us/county-centre/indoor-accommodation/
+      - title: Campsite
+        url: /about-us/county-centre/campsite/
+      - title: Nature and Pond Area
+        url: /about-us/county-centre/nature-pond/
+      - title: 200 Club
+        url: /about-us/county-centre/200-club/
+      - title: Local Area
+        url: /about-us/county-centre/local-area/
+      - title: Contact us
+        url: /about-us/county-centre/contact-us/
   - title: Shops & Depots
     url: /about-us/shops-depots/
   - title: Nights Away

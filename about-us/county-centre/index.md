@@ -12,41 +12,31 @@ description: The Hertfordshire Guide Centre is located in the village of Cottere
 permalink: /about-us/county-centre/
 lastmod: 2022-09-07T20:48:28.022Z
 ---
-![Hertfordshire Guide Centre Campsite](/assets/images/2022/04/hgc_campsite.jpg)
-
 {:.lead}
 The Hertfordshire Guide Centre, owned by Girlguiding Hertfordshire, is situated in the lovely village of Cottered in North Hertfordshire.
 
-Offering indoor accommodation, a campsite, pond and campfire, it is suitable for meetings, trainings, sleepovers, camps, pond dipping sessions and camp fire circles.  
+![Hertfordshire Guide Centre Campsite](/assets/images/2022/04/hgc_campsite.jpg){:.d-block.mx-auto.img-fluid}
 
-Please visit the [Hertfordshire Guide Centre's dedicated website](http://www.hertsguidecentre.co.uk){:target="_blank"}{:.external-link}{:rel="noreferrer noopener"}, where you can:
+## Facilities
 
-- Find out more about the facilities available
-- View the availability calendar
-- View current hire fees
-- Make booking requests.
+Offering [indoor accommodation](indoor-accommodation/), a [campsite](campsite/), [pond](nature-pond/) and [campfire](campsite/#campfire-circle), it is suitable for meetings, trainings, sleepovers, camps, pond dipping sessions and camp fire circles.
 
-Contact the HGC Bookings Secretary via <HGCBookings@girlguidinghertfordshire.org.uk> with any queries, or submit them below.
+## 200 Club
 
-## Contact form
+Support the Hertfordshire Guide Centre by joining its [200 Club](200-club/). You can win prizes in the monthly prize draw and the additional super draw in December.
 
-{% include countycentreform.html %}
+## Availability and booking
 
-## ![200 club logo](/wp-content/uploads/2020/12/200-Club-Logo-150x150.jpg){:loading="lazy"}{:.float-start.me-2}Hertfordshire Guide Centre 200 Club
+Please use the calendar to check availability.  Booking requests can be submitted directly via the calendar or by contacting the Bookings Secretary on <hgcbookings@girlguidinghertfordshire.org.uk>
 
-For Girlguiding Hertfordshire members or non-Guiding family members and friends.  
+[Availability Calendar](https://v2.hallmaster.co.uk/Scheduler/View/11336){:.external-link.btn.btn-primary}{:target="_blank"}{:rel="noreferrer noopener"}
 
-All profits from the 200 Club go towards the Girlguiding Hertfordshire County Centre, so why not show your support?
+Please email your signed and dated Booking Terms and Conditions to the Bookings Secretary via <HGCbookings@girlguidinghertfordshire.org.uk> within 14 days of confirmation that your provisional booking has been accepted.
 
-A one off payment of £15* gives you the opportunity to join the monthly prize draw, worth £50, along with an additional super draw in December. This prize pot will be dependant upon the number of supporters within the present year.
+[2023 Booking Fees](/assets/docs/2023/hertfordshire_guide_centre_fee_chart_2023.pdf){:.btn.btn-secondary.download-link} [Booking Terms and Conditions](/assets/docs/2023/hgc_t_cs.pdf){:.btn.btn-secondary.download-link}{:target="_blank"}{:rel="noreferrer noopener"}
 
-If you would like to join the 200 Club please complete the online registration form and download and read the terms and conditions via the buttons below.
+## Reviews
 
-[Online Application Form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJUREpYRDhXREFSRVJWU0RPREhSWlhLUFNZUC4u){:.btn.btn-primary.external-link}{:target="_blank"}{:rel="noopener"} [Terms and Conditions](/assets/docs/2022/2023-200-club-tscs.pdf){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noopener"}
-
-To view the names of recent winners please visit the 200 Club webpage on the Hertfordshire Guide Centre website. [200 Club Results](https://www.hertsguidecentre.co.uk/200-club.html){:target="_blank"}{:.external-link}{:rel="noreferrer noopener"}
-
-{:.small}
-\* Those persons joining throughout the year may pay a pro rata payment for the remaining part of the year.
-
-{% include countycentre.html %}
+{% include quote.html quote="We had a lovely stay at Hertfordshire Guide Centre.  The girls enjoyed the space outside to play games and complete activities.  We enjoyed our campfire on Saturday night.  The mattresses were very comfortable" source="​2nd, 3rd and 4th Baldock Brownies" %}
+{% include quote.html quote="Loved staying here and will definitely be returning" source="1st Orwell Brownies" %}
+{% include quote.html quote="Marvellous site and facilities.  Delighted to be back under canvas!" source="1st Ashwell Scouts" %}
