@@ -4,14 +4,14 @@ date: 2023-03-09T18:48:56.202Z
 image: /assets/images/2023/03/big-help-out.webp
 categories:
   - Announcements
-  - Badges
+  - Volunteers
 tags: []
 author:
   email: null
   display_name: null
   first_name: ""
   last_name: ""
-lastmod: 2023-03-09T19:06:50.181Z
+lastmod: 2023-03-09T19:14:43.582Z
 ---
 Would you like to be part of the county task team for The Big Help Out?
 

@@ -4,11 +4,12 @@ date: 2021-01-29T13:11:55.000Z
 image: /wp-content/uploads/2021/01/Lifesaver-badge.png
 categories:
   - Announcements
+  - Training
 tags: []
 author:
   display_name: the County Office
 permalink: /unit-first-aid-sessions/
-lastmod: '2022-02-24T18:58:18.803Z'
+lastmod: 2023-03-09T19:22:54.070Z
 ---
 Why not invite the county's First Aid Adviser, Verity Maclachlan, to your Guide or Ranger unit meeting to conduct some first aid and/or CPR training.  
 

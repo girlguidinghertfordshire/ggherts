@@ -4,14 +4,14 @@ date: 2022-12-06T21:23:49.096Z
 image: /assets/images/2022/12/ITTH_vacancies_website.webp
 categories:
   - Announcements
-  - Badges
+  - Volunteers
 tags: []
 author:
   email: null
   display_name: null
   first_name: ""
   last_name: ""
-lastmod: 2022-12-06T21:28:56.683Z
+lastmod: 2023-03-09T19:14:55.598Z
 ---
 The Introduction to the Hills team are looking for leaders to join their friendly team of organisers.
 

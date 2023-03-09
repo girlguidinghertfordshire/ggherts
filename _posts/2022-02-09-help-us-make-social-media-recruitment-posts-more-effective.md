@@ -4,14 +4,13 @@ date: 2022-09-10T20:17:39.574Z
 image: /assets/images/2022/02/work-together-200.webp
 categories:
   - Announcements
-  - Badges
 tags: []
 author:
   email: null
   display_name: The County Office
   first_name: ""
   last_name: ""
-lastmod: 2023-03-07T20:34:46.248Z
+lastmod: 2023-03-09T19:16:27.286Z
 ---
 Let's work together to enable recruitment campaigns to reach as many people as possible.
 

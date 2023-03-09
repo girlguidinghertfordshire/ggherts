@@ -2,6 +2,7 @@
 title: Meet the Leader Posts
 date: 2022-09-10T20:21:07.506Z
 image: /assets/images/2022/09/meet_the_leader.webp
+published: false
 categories:
   - Announcements
   - Badges
@@ -11,7 +12,7 @@ author:
   display_name: The County Office
   first_name: ""
   last_name: ""
-lastmod: 2023-03-02T18:30:46.417Z
+lastmod: 2023-03-09T19:10:57.414Z
 ---
 
 The County Media and Communications team would love to create more **Meet the Leader** posts for our latest volunteer recruitment campaign.
