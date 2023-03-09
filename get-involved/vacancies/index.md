@@ -32,7 +32,7 @@ We are looking for a new County Walking Lead Volunteer, if you think this could 
 
 We are lucky enough to have a very active and successful County Walking team who organise social walks and weekends away, help our leaders run unit events, and assist those working towards their Girlguiding Walking Scheme qualifications, to name just a few.
 {% endcapture %}
-{% include vacancy.html title="County Walking Lead Volunteer" description=description button-text="Role Description" download="/assets/docs/2022/county_walking_adviser.pdf" img="/assets/images/2023/03/walking-lead-volunteer.webp" %}
+{% include vacancy.html title="County Walking Lead Volunteer" description=description button-text="Role Description" download="/assets/docs/2022/county_walking_adviser.pdf" img="/assets/images/2023/03/walking-lead-volunteer2.webp" %}
 
 {% capture description %}
 Our Walking team are looking for a well organised individual to provide administrative support to the County Walking Lead Volunteer and team.
@@ -41,7 +41,7 @@ With so many exciting walking events offered throughout the year the team requir
 
 This newly created role is ideal for someone who loves the outdoors and has excellent organisation skills.  Find out more about what the role entails below and apply via <cc@girlguidinghertfordshire.org.uk>.   You can also find out more about the walking team on their dedicated [walking webpage.](/county-teams/outdoor/walking/)
 {% endcapture %}
-{% include vacancy.html title="County Walking Administration Lead Volunteer" description=description button-text="Role Description" download="/assets/docs/2022/county-walking-team-administrator.pdf" img="/assets/images/2023/03/walking-admin-lead-volunteer.webp" %}
+{% include vacancy.html title="County Walking Administration Lead Volunteer" description=description button-text="Role Description" download="/assets/docs/2022/county-walking-team-administrator.pdf" img="/assets/images/2023/03/walking-admin-lead-volunteer2.webp" %}
 
 {% capture description %}
 Do you enjoy taking part in outdoor activities and events?  If so, you could share your passion and encourage others to join in and reap the mental and physical benefits.
