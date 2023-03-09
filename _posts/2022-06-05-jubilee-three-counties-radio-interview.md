@@ -4,11 +4,10 @@ date: 2022-06-05T19:47:55.709Z
 image: /assets/images/2022/06/hannah-1st-digswell-200.webp
 categories:
   - Announcements
-  - Badges
 tags: []
 author:
   display_name: The County Office
-lastmod: 2023-03-07T20:40:08.076Z
+lastmod: 2023-03-09T19:32:57.223Z
 ---
 A huge well done to Hannah of 1st Digswell Guides, who was interviewed by Miles Blumsom on BBC Three Counties Radio on Saturday 4th June.
 
