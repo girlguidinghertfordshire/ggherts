@@ -23,8 +23,10 @@ If you would like to join the 200 Club please use the links below to register on
 
 *This prize pot will be dependant upon supporter numbers.
 
-## 2023 - 200 Club 2022 Winners
+## 2023 - 200 Club Winners
 
-### January
+January
+: Rickmansworth Trefoil Guild
 
-Rickmansworth Trefoil Guild
+February
+: Carole Hildrop
