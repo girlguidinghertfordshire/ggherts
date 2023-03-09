@@ -1,8 +1,8 @@
 ---
 layout: page-v5
 title: Billboard
-banner_image: /assets/images/2022/10/billboard-banner.webp
-image: /assets/images/core/billboard.webp
+banner_image: /assets/images/core/billboard-banner.webp
+image: /assets/images/core/billboard2023.webp
 
 date: 2021-09-07T19:51:13.187Z
 toc: news
