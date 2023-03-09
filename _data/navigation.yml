@@ -2,7 +2,8 @@ main:
   items:
   - id: about-us
   - id: get-involved
-  - id: county-teams
+  - id: what-we-do
+  - id: for-volunteers
   - id: events
   - id: training
   - id: news
@@ -13,29 +14,10 @@ about-us:
   items:
   - title: Mission Statement
     url: /about-us/mission-statement/
+  - title: Your County Team
+    url: /about-us/county-team/
   - title: Divisions
     url: /about-us/divisions/
-    items:
-      - title: Flexible Guiding Units
-        url: /flexible-guiding-units/
-  - title: Resources and Links
-    url: /about-us/resources/
-    items:
-      - title: Accessing Learning Platform
-        url: /go/
-      - title: Expenses
-        url: /about-us/resources/expenses/
-        items: 
-          - title: Commissioners and County Advisers
-            url: /about-us/resources/expenses/commissioners/
-          - title: County Trainers
-            url: /about-us/resources/expenses/trainers/
-      - title: Bronze, Silver & Gold Badges & Certs Order Form
-        url: /badge-orders/
-  - title: Membership System Updates
-    url: /membership-system-updates/
-  - title: Wellbeing Resources
-    url: /about-us/wellbeing-resources-and-links/
   - title: County Centre
     url: /about-us/county-centre/
     items:
@@ -51,32 +33,13 @@ about-us:
         url: /about-us/county-centre/local-area/
       - title: Contact us
         url: /about-us/county-centre/contact-us/
-  - title: Shops & Depots
-    url: /about-us/shops-depots/
-  - title: Nights Away
-    url: /about-us/nights-away/
-  - title: County Archives
-    url: /about-us/county-archives/
 get-involved:
   title: Get Involved
   url: /get-involved/
-  items:
-  - title: Challenge Badges
-    url: /get-involved/challenge-badges/
-  - title: Virtual Ideas and Activities
-    url: /get-involved/activities/
-  - title: Vacancies
-    url: /get-involved/vacancies/
-  - title: Share With Us
-    url: /get-involved/share/
-  - title: Thanks, Awards and Recognition
-    url: /get-involved/thanks/
-county-teams:
-  title: County Teams
+what-we-do:
+  title: What We Do
   url: /county-teams/
   items:
-  - title: Your County Team
-    url: /about-us/county-team/
   - title: Youth Opportunities
     url: /youth-opportunities/
     items:
@@ -111,6 +74,67 @@ county-teams:
       url: /county-teams/trefoil/guilds
     - title: Activities & Challenges
       url: /county-teams/trefoil/activities
+for-volunteers:
+  title: For Volunteers
+  url: /volunteers/
+  items:
+  - title: Forms and resources
+    url: /forms-resources/
+    items:
+    - title: Resources and Links
+      url: /about-us/resources/
+    - title: Expenses
+      url: /about-us/resources/expenses/
+      items: 
+        - title: Commissioners and County Advisers
+          url: /about-us/resources/expenses/commissioners/
+        - title: County Trainers
+          url: /about-us/resources/expenses/trainers/
+    - title: Wellbeing Resources
+      url: /about-us/wellbeing-resources-and-links/
+    - title: County Archives
+      url: /about-us/county-archives/
+  - title: Programme delivery
+    url: /programme-delivery/
+    items:
+    - title: Virtual Ideas and Activities
+      url: /get-involved/activities/
+  - title: Running your unit
+    url: /unit/
+    items:
+    - title: Nights Away
+      url: /about-us/nights-away/
+    - title: Challenge Badges
+      url: /get-involved/challenge-badges/
+    - title: Bronze, Silver & Gold Badges & Certs Order Form
+      url: /badge-orders/
+    - title: Shops & Depots
+      url: /about-us/shops-depots/
+    - title: Membership System Updates
+      url: /membership-system-updates/
+  - title: Growing our membership
+    url: /growing-our-membership/
+    items:
+      - title: Flexible Guiding Units
+        url: /flexible-guiding-units/
+  - title: Learning & development
+    url: /learning-development/
+    items:
+      - title: Accessing Learning Platform
+        url: /go/
+  - title: Volunteer roles
+    url: /volunteers/roles/
+    items:    
+    - title: Vacancies
+      url: /get-involved/vacancies/
+  - title: Celebrate our members
+    url: /celebrate/
+    items:
+    - title: Thanks, Awards and Recognition
+      url: /get-involved/thanks/
+    - title: Share With Us
+      url: /get-involved/share/
+
 events:
   title: Events
   url: /events/
