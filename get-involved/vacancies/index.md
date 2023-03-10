@@ -77,7 +77,7 @@ Visit the [‘Becoming a Trainer’](https://www.girlguiding.org.uk/making-guidi
 
 Be that role model for other volunteers and help ensure excellence and consistency across our organisation.
 
-If you would like to apply please complete the application form and email it to Anglia region via <angliahq@girlguiding-anglia.org.uk>.
+If you would like to apply please complete the application form and email it to Anglia region via <angliahq@girlguiding-anglia.org.uk>
 {% endcapture %}
 {% include vacancy.html title="Trainers" description=description button-text="Role Description" download="/assets/docs/2022/becoming-a-trainer-application-form.docx" img="/assets/images/2022/10/bat-vacancies.webp" %}
 
