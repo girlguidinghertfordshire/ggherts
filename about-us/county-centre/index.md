@@ -29,7 +29,7 @@ Support the Hertfordshire Guide Centre by joining its [200 Club](200-club/). You
 
 Please use the calendar to check availability.  Booking requests can be submitted directly via the calendar or by contacting the Bookings Secretary on <hgcbookings@girlguidinghertfordshire.org.uk>
 
-[Availability Calendar](https://v2.hallmaster.co.uk/Scheduler/View/11336){:.external-link.btn.btn-primary}{:target="_blank"}{:rel="noreferrer noopener"}
+[Availability Calendar](https://v2.hallmaster.co.uk/Scheduler/View/11336?startRoom=0){:.external-link.btn.btn-primary}{:target="_blank"}{:rel="noreferrer noopener"}
 
 Please email your signed and dated Booking Terms and Conditions to the Bookings Secretary via <HGCbookings@girlguidinghertfordshire.org.uk> within 14 days of confirmation that your provisional booking has been accepted.
 
