@@ -4,7 +4,7 @@ title: Resources
 toc: about-us
 lastmod: 2022-09-01T19:35:10.039Z
 ---
-## Forms &amp; Stationery
+## Forms
 
 ### Girlguiding Hertfordshire Photograph Consent Forms
 {:#photoconsent}
