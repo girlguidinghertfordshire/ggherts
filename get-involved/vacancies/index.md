@@ -13,15 +13,22 @@ author:
 permalink: /get-involved/vacancies/
 lastmod: 2022-04-24T07:01:49.097Z
 ---
-## Salaried Positions
-
-There are currently no salaried vacancies, but there are lots of volunteering opportunities below.
-
-___
-
 ## Volunteer Vacancies
 
 We have fantastic volunteers who look to the county team for guidance, support and vision. We are looking for new lead volunteers and trainers to fully embrace the programme, spread passion and enthusiasm for guiding to help the county move forward.
+
+{% capture description %}
+Do you have what it takes to move Girlguiding forward across the whole division, whilst leading a dedicated team?
+
+This fantastic opportunity to influence and create real change in the East division (covering Ware, Hertford, Sawbridgeworth, High Wych, Bishop's Stortford and Buntingford) has become available.
+
+Make a positive difference to others and improve opportunities for girls and young women.
+
+The division commissioner role can be done as a job share and a division team created to enable delegation of some of the commissioner tasks. Further details of what the role entails can be found below.
+
+Please apply via <cc@girlguidinghertfordshire.org.uk>. by Friday 31 March
+{% endcapture %}
+{% include vacancy.html title="East Division Commissioner" description=description button-text="Role Description" download="/assets/docs/2023/division-commissioner-role-description.pdf" img="/assets/images/2023/03/edc-vacancy.webp" %}
 
 {% capture description %}
 We are lucky enough to have a very active and successful County Walking team who organise social walks and weekends away, help our leaders run unit events, and assist those working towards their Girlguiding Walking Scheme qualifications, to name just a few.
@@ -73,3 +80,9 @@ Be that role model for other volunteers and help ensure excellence and consisten
 If you would like to apply please complete the application form and email it to Anglia region via <angliahq@girlguiding-anglia.org.uk>.
 {% endcapture %}
 {% include vacancy.html title="Trainers" description=description button-text="Role Description" download="/assets/docs/2022/becoming-a-trainer-application-form.docx" img="/assets/images/2022/10/bat-vacancies.webp" %}
+
+___
+
+## Salaried Positions
+
+There are currently no salaried vacancies, but there are lots of volunteering opportunities above.
