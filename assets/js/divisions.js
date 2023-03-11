@@ -2,8 +2,9 @@
 class DivisionMap {
     google;
     map;
-    kmlSrc = "https://www.girlguidinghertfordshire.org.uk/assets/js/divisions/maps_regions.kml";
+    kmlSrc = "https://www.girlguidinghertfordshire.org.uk/assets/js/divisions/maps_regions.kml?v=1";
     constructor() {
+        console.log("Constructing...");
         this.google = window.google || {};
         console.log("constructing...", this.google);
         this.map = new this.google.maps.Map(document.getElementById('map'), {
@@ -34,6 +35,7 @@ class DivisionMap {
 function initMap() {
     console.log("init map...");
     window.addEventListener("DOMContentLoaded", function () {
+        console.log("DOM Content loaded...");
         new DivisionMap();
     });
 }
