@@ -20,9 +20,8 @@ collections:
       output: true
       permalink: /noticeboard/:title/
     members:
-      output: true
+      output: false
       permalink: /about-us/county-team/:title/
-      sort_by: order
     shops_nights:
       output: true
       sort_by: title

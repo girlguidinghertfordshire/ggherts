@@ -1,21 +1,17 @@
-{% capture member %}
-{{ include.member }}
-{% endcapture %}
 <div class="col">
-    <div class="card h-100 border-0">
+    <div class="card h-100 border-0" date-sort="{{ include.role.sort}}">
       <div class="card-body">
-        <h3 class="card-title h5 fw-bold"><a class="text-decoration-none" href="{{ member.url }}">{{ member.title }}</a></h3>
-        <div class="card-subtitle mb-2 text-muted fw-bold">{{ member.job_title }}</div>
-        <p class="card-text">{{ member.person_intro }}</p>        
+        <h3 class="card-title h5 fw-bold">{{ include.member.title }}</h3>
+        <div class="card-subtitle mb-2 text-muted fw-bold">{{ include.role.job_title }}</div>
+        <p class="card-text">{{ include.role.person_intro | markdownify }}</p>        
       </div>
       <div class="card-footer border-top-0 bg-white">
-        {% if member.email %}
-        <a class="btn btn-primary" href="mailto:{{ member.email }}"><span><i class="fa fa-envelope-open-o" aria-hidden="true"></i> Email<span class="sr-only"> {{ member.title
-              }}</span></span></a>
+        {% if include.role.vacancyurl %}
+        <a class="btn btn-primary" href="{{ include.role.vacancyurl }}">Apply now<span class="sr-only"> for {{ include.role.jobtitle }}</span></a>
         {% endif %}
-        {% if member.content.size>1 %}
-        <a class="btn btn-primary" href="{{ member.url }}"><span>Read more<span class="sr-only"> about {{ member.title
-              }}</span></span> <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+        {% if include.role.email %}
+        <a class="btn btn-primary" href="mailto:{{ include.role.email }}"><span><i class="fa fa-envelope-open-o" aria-hidden="true"></i> Email<span class="sr-only"> {{ include.member.title
+              }} - {{ include.role.job_title }}</span></span></a>
         {% endif %}
       </div>
         <div class="line mt-2"></div>

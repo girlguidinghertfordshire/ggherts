@@ -8,10 +8,7 @@ description: >
   The County Team is here to support local guiding, as well
   as providing trainings, events, and much more. Find out more about the County
   Team here.
-author:
-display_name: GGH-Admin1
 ---
-
 <p class="lead">The County Team is here to support local guiding, as well as providing training, events, and much more.
 </p>
 
@@ -19,19 +16,23 @@ display_name: GGH-Admin1
     target="_blank" rel="noopener">vacancies page</a>. For more information or if you have any other skills that you
   would like to offer, please email <a href="mailto:admin@girlguidinghertfordshire.org.uk" target="_blank"
     rel="noopener">county office</a></p>
-    <h2 id="volunteers">Volunteers</h2>
-    {% assign volunteers= site.members | where: "is_employee", false %}
-<div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3">
-  {% for member in volunteers %}
-  {% include county-team-card.html member=member %}
-  {% endfor %}
-</div>
-<h2 id="employees">
-  Employees
+    <h2 id="commissioners">Commissioners</h2>
+    {% include county-team-section.html group="commissioners" %}
+    <h3>Division commissioners</h3>
+    {% include county-team-section.html group="divcomm" %}
+    <h2 id="youthopps">Youth Opportunities Team</h3>
+    <p>See the <a href="/youth-opportunities">Youth Opportunities Team</a> pages for more information about the work they do for Hertfordshire.</p>
+    {% include county-team-section.html group="youthopp" %}
+    <h2 id="outdoor">Outdoor Team</h2>
+    <p>See the <a href="/county-teams/outdoor/">Outdoor Team</a> pages for more information about outdoor activities.</p>
+    {% include county-team-section.html group="outdoor" %}
+    <h2 id="residential">Residential Team</h2>
+    {% include county-team-section.html group="residential" %}
+    <h2 id="lead-volunteers">Other Lead Volunteers</h2>    
+    {% include county-team-section.html group="leads" %}
+    <h2 id="vp">County Vice Presidents</h2>    
+    {% include county-team-section.html group="vp" %}
+<h2 id="staff">
+  County staff
 </h2>
-{% assign employees= site.members | where: "is_employee", true %}
-<div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3">
-  {% for member in employees %}
-  {% include county-team-card.html member=member %}
-  {% endfor %}
-</div>
+{% include county-team-section.html group="staff" %}
