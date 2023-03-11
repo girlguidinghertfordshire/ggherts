@@ -32,10 +32,3 @@ class DivisionMap {
         });
     }
 }
-function initMap() {
-    console.log("init map...");
-    window.addEventListener("DOMContentLoaded", function () {
-        console.log("DOM Content loaded...");
-        new DivisionMap();
-    });
-}
