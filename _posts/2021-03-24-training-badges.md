@@ -3,13 +3,13 @@ title: Training Badges
 date: 2021-11-04T20:32:45.842Z
 image: /wp-content/uploads/2021/03/Training-badges-1-360x243.png
 categories:
-  - Announcements
+  - Training
   - Badges
 tags: []
 author:
   display_name: Jenny Maskrey, County Commissioner
 permalink: /training-badges/
-lastmod: 2023-03-03T20:26:34.328Z
+lastmod: 2023-03-09T19:23:11.102Z
 ---
 <p class="lead">As a "thank you" for the time you put into training, we invite you to log the hours of training you complete and claim a pin badge when you reach milestones. </p>
 

@@ -4,13 +4,14 @@ date: 2022-03-15T16:02:09.597Z
 image: /assets/images/2022/03/firstaid.webp
 categories:
   - Announcements
+  - Training
 tags: []
 author:
   email: null
   display_name: The County Office
   first_name: ""
   last_name: ""
-lastmod: 2023-03-04T11:12:05.317Z
+lastmod: 2023-03-09T19:25:23.879Z
 ---
 If you have undertaken external first aid training and wish this to be used within your Girlguiding role your external course must have been delivered on a **face-to-face** basis and last at least **6 hours**. It must have included both **child and adult CPR** and covered all the clauses in the _Girlguiding 1st Response syllabus_.  
 

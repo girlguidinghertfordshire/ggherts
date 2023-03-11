@@ -4,7 +4,7 @@ title: Resources
 toc: about-us
 lastmod: 2022-09-01T19:35:10.039Z
 ---
-## Forms &amp; Stationery
+## Forms
 
 ### Girlguiding Hertfordshire Photograph Consent Forms
 {:#photoconsent}
@@ -31,8 +31,6 @@ Where photos feature groups of girls, this form should be completed by leaders c
 - [Property Loan/Grant Application Form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJUNElSTjJIRFA3SE1KSFJVVzUwUElMRlRHTy4u){:.external-link}{:target="_blank"}{:rel="noopener"}
   - This form is for county grant/loan applications for works/projects on properties leased/owned by Girlguiding Hertfordshire units/districts/divisions
 - [Expenses policy and claim form](/about-us/resources/expenses/)
-- [Letterhead](/wp-content/uploads/2021/05/Girlguiding-Hertfordshire-Letterhead.doc){:target="_blank"}{:rel="noopener"}{:.word-link}
-  - This letterhead is fully editable and may be opened in Microsoft Word or other word processing software.
 - [Unit Registration Form](/wp-content/uploads/2021/05/Unit-Registration-Form-Oct-2020.docx){:target="_blank"}{:rel="noopener"}{:.word-link}
   - This form is for requests to open a new unit, reopen a closed unit, or amend unit name or section
 - [Leadership Qualification Form](/wp-content/uploads/2021/07/Girlguiding-Hertfordshire-Leadership-Qualification-Form.docx){:target="_blank"}{:rel="noopener"}{:.word-link}
@@ -42,6 +40,13 @@ Where photos feature groups of girls, this form should be completed by leaders c
   - This form is used by Girlguiding Hertfordshire to enable individuals who hold, or are applying for, a trustee position, to declare that they are not disqualified from holding that position.
 - [County Store Inventory](/assets/docs/2022/cottered-county-store-inventory.pdf)
   - Hertfordshire County has many items available to borrow from the County Store. For a list of items and details of how to book click on the County Store Inventory above.
+
+
+___
+
+## Stationery
+
+Girlguiding Hertfordshire members can obtain and personalise division, district and unit specific letterheads, compliment slips and other rebranded stationery by visiting the [online design centre](https://girlguiding.rightmarket.com/){:.external-link}{:rel="noopener"}{:target="_blank"} in conjunction with March 2023 brand guidelines.
 
 ___
 

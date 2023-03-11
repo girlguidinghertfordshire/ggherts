@@ -2,10 +2,19 @@
 layout: page-v5
 ---
 <section class="map-details">
-    <div class="pull-left">
-        <h2 class="light">{{ page.shop.type | join: ' & '}}</h2>
+    <div class="row">
+        <div class="col">
+            <h2 class="text-muted">{{ page.shop.type | join: ' & '}}</h2>
+        </div>
+        <div class="col-lg-3 text-right">
+            {% if page.shop.type contains "Shop" %}
+            <a href="/about-us/shops-depots/" class="btn btn-secondary">Back to Shops</a>
+            {% else %}
+            <a href="/about-us/nights-away/" class="btn btn-secondary">Back to Nights Away </a>
+            {% endif %}
+        </div>
     </div>
-    <a href="/about-us/shops-depots-and-nights-away/" class="pull-right link">Back to Shops & Nights Away </a>
+    {% if page.showmap %}
     {% assign firstType = page.shop.type | first %}
     {% case firstType %}
     {% when 'Campsite' %}
@@ -15,19 +24,6 @@ layout: page-v5
     {% else %}
     {% assign marker = '/wp-content/uploads/2016/03/marker-blue.png' %}
     {% endcase %}
-    <script>
-        (function () {
-            document.addEventListener("DOMContentLoaded", function () {
-                const location = LocationMap.location("{{page.shop.latlng}}", "{{ page.shop.mapaddress | strip_newlines }}", "{{ marker }}", "<div class='gg-map-info'><strong>{{ page.shop.type | join: ' & '}}:</strong> <span>{{ page.shop.location | strip_newlines }}</span>{% if page.shop.contact_email %}<a href='mailto:{{ page.shop.contact_email }}'><i class='fa fa-at'></i> {{ page.shop.contact_email}}</a>{% endif %}{% if page.shop.contact_number %}<a href='tel:{{ page.shop.contact_number }}'><i class='fa fa-phone'></i> {{ page.shop.contact_number }}</a>{% endif %}</div>");
-                const locationMap = new LocationMap([location], true);
-                
-            const transportMode = document.getElementById("mode");
-            transportMode.addEventListener("change", locationMap.calcRoute);
-            const directions=document.getElementById("getDirections");
-            directions.addEventListener("click",locationMap.calcRoute);
-            });
-        })()        
-    </script>
     <div id="map" class="location-map"></div>
     <div class="map-form">
         <div id="directions" class="direction-area">
@@ -59,6 +55,25 @@ layout: page-v5
             </div>
         </div>
     </div>
+    {% endif %}
+    <script>
+        function initMap(){
+            const loadMap = {{ page.showmap }};
+            if (loadMap){
+            document.addEventListener("DOMContentLoaded", function () {
+                const location = LocationMap.location("{{page.shop.latlng}}", "{{ page.shop.mapaddress | strip_newlines }}", "{{ marker }}", "<div class='gg-map-info'><strong>{{ page.shop.type | join: ' & '}}:</strong> <span>{{ page.shop.location | strip_newlines }}</span>{% if page.shop.contact_email %}<a href='mailto:{{ page.shop.contact_email }}'><i class='fa fa-at'></i> {{ page.shop.contact_email}}</a>{% endif %}{% if page.shop.contact_number %}<a href='tel:{{ page.shop.contact_number }}'><i class='fa fa-phone'></i> {{ page.shop.contact_number }}</a>{% endif %}</div>");
+                const locationMap = new LocationMap([location], true);
+                
+            const transportMode = document.getElementById("mode");
+            transportMode.addEventListener("change", locationMap.calcRoute);
+            const directions=document.getElementById("getDirections");
+            directions.addEventListener("click",locationMap.calcRoute);
+            });
+
+            }
+        }
+                
+    </script>
     <div class="contact-detail">
         <h2>Contact details</h2>
         {{ page.shop.location | markdownify }}

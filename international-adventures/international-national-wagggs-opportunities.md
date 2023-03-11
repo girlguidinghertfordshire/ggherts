@@ -17,9 +17,11 @@ lastmod: 2022-06-15T19:39:16.311Z
 
 {% include slider.html slider="international-waggs" %}
 
-Girlguiding offers a number of national opportunities, please see their website for the most up to date details: <a href="https://www.girlguiding.org.uk/what-we-do/international-adventures/" target="_blank" rel="noopener">https://www.girlguiding.org.uk/what-we-do/international-adventures/</a> Members from the County have taken part in GOLD, Moot, Roverway and the World Scout Jamboree. If you are interested in finding out more from someone with personal experience, then let us know and we can put you in touch.
+Girlguiding offers a number of national opportunities, please see their website for the most up to date details: [girlguiding.org.uk/what-we-do/international-adventures](https://www.girlguiding.org.uk/what-we-do/international-adventures/){:.external-link}{:rel="noopener"}{:target="_blank"} Members from the County have taken part in GOLD, Moot, Roverway and the World Scout Jamboree. If you are interested in finding out more from someone with personal experience, then let us know and we can put you in touch.
 
 ## WAGGGS Opportunities
+
+{% include roverway2024.html %}
 
 Each of the World Centres is staffed by a small international team of volunteers and paid employees.  Volunteering opportunities are available to members over the age of 18 for periods ranging from a couple of weeks to a year.
 

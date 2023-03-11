@@ -20,9 +20,8 @@ collections:
       output: true
       permalink: /noticeboard/:title/
     members:
-      output: true
+      output: false
       permalink: /about-us/county-team/:title/
-      sort_by: order
     shops_nights:
       output: true
       sort_by: title
@@ -67,6 +66,7 @@ defaults:
       toc: "about-us"
       location_map: true
       county: "Hertfordshire"
+      showmap: true
 email:
   base_url: "https://email.girlguidinghertfordshire.org.uk/api/"
   apikey: "OifYW6lBBY3CUykd9NhfBeojO8aAYWhdHiJaDa8RFm8="

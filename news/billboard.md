@@ -1,8 +1,8 @@
 ---
 layout: page-v5
 title: Billboard
-banner_image: /assets/images/2022/10/billboard-banner.webp
-image: /assets/images/core/billboard.webp
+banner_image: /assets/images/core/billboard-banner.webp
+image: /assets/images/core/billboard2023.webp
 
 date: 2021-09-07T19:51:13.187Z
 toc: news
@@ -13,6 +13,7 @@ _Billboard_ is a monthly e-newsletter sent to all Girlguiding Hertfordshire memb
 
 ## Recent editions
 
+- [March 2023](https://mailchi.mp/8013a52a79ab/march-2023-billboard-13645624){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [February 2023](https://mailchi.mp/970349cc5715/feb-2023-billboard-13644944){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [January 2023](https://mailchi.mp/c124909ea3ca/jan-2023-billboard-13640528){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [December 2022](https://mailchi.mp/331413d87024/dec-2022-billboard-13516444){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}

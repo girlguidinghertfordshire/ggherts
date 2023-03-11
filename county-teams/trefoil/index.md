@@ -5,7 +5,7 @@ date: 2022-06-23T20:40:59.883Z
 toc: county-teams
 lastmod: 2022-09-08T20:09:39.694Z
 ---
-![Trefoil Guild Logo](/assets/images/core/trefoil-logo.webp){:.float-start.m-3}
+![Trefoil Guild Logo](/assets/images/core/trefoil-logo-2023.webp){:.float-start.m-3}
 Trefoil members are adults who enjoy life, make friends, support others, and value making time to do something ‘for them’ – and if it’s a challenge, so much the better! In this pressured world where wellness is vital, what could be better than growing and learning with like-minded individuals.
 
 Every Trefoil is different. Some have all ages from 18 to 90; but whichever Trefoil you join, everyone decides on a programme together that provides the fun and friendship that gives Trefoil its central ethos.

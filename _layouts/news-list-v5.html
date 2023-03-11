@@ -8,24 +8,35 @@ layout: default-v5
         <div class="row">
             <div class="col-lg-8 col-xxl-10 order-lg-2 content">
                 <h1>{{ page.title }}</h1>
-                <div class="filter-block">
+                <fieldset class="filter-block">
+                    <legend>Filter:</legend>
                     <ul class="category row row-cols-1 row-cols-md-2 row-cols-xl-3 list-unstyled">
-                        {% for cat in site.categories %}
-                        <li class="col"><span><input type="checkbox" name="{{cat[0] |slugify}}" id="cat-filter-{{cat[0] |slugify}}" value="{{cat[0]}}" checked /><label for="cat-filter-{{cat[0] |slugify}}">{{cat[0]}}</label></span><span class="badge bg-primary rounded-pill">{{ cat[1].size }}</span></li>
+                        {% assign categories = site.categories | sort %}
+                        {% for cat in categories %}
+                        <li class="col"><span><input type="checkbox" name="{{cat[0] |slugify}}"
+                                    id="cat-filter-{{cat[0] |slugify}}" value="{{cat[0]}}" /><label
+                                    for="cat-filter-{{cat[0] |slugify}}">{{cat[0]}}</label></span><span
+                                class="badge bg-primary rounded-pill">{{ cat[1].size }}</span></li>
                         {% endfor %}
                     </ul>
-                </div>
+                </fieldset>
+
                 <div class="filter-list pb-4" data-type="news">
                     <div class="row row-cols-1 row-cols-sm-2 row-cols-xl-3 g-4">
                         {% for post in site.posts %}
                         <div class="col" data-type="|{{ post.categories | join:'|'}}|"
                             data-month="{{post.date | date: '%Y %b'}}">
                             <div class="card gg-news-card h-100 border-primary">
-                                <h2 class="card-header border-bottom-0 bg-white"><a href="{{ post.url }}" class="stretched-link">{{post.title}}</a></h2>
-                                <div class="card-body pt-1 pb-2 flex-grow-0"><time class="card-text">{{ post.date | date_to_string:
+                                <h2 class="card-header border-bottom-0 bg-white">{{post.title}}</h2>
+                                <div class="card-body pt-1 pb-2 flex-grow-0"><time class="card-text">{{ post.date |
+                                        date_to_string:
                                         "ordinal","GB" }}</time>
                                 </div>
-                                <img src="{{ post.image }}" alt="" class="card-img">
+                                {% assign img = "/assets/images/core/brand-background.webp" %}
+                                {% if post.image %}
+                                {% assign img = post.image %}
+                                {% endif %}
+                                <img src="{{ img }}" alt="" class="card-img">
                                 <div class="card-body">
                                     <div class="card-text">
                                         <p>{{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 20 |
@@ -33,7 +44,8 @@ layout: default-v5
                                     </div>
                                 </div>
                                 <div class="card-footer border-top-0 bg-white text-end">
-                                    <a class="btn btn-primary" href="{{ post.url }}"><span>Read more</span></a>
+                                    <a class="btn btn-primary stretched-link" href="{{ post.url }}"><span>Read
+                                            more</span></a>
                                 </div>
                             </div>
                         </div>
