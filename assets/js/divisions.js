@@ -32,6 +32,7 @@ class DivisionMap {
     }
 }
 function initMap() {
+    console.log("init map...");
     window.addEventListener("DOMContentLoaded", function () {
         new DivisionMap();
     });

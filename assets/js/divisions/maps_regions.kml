@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 	<Folder>
-		<Style id="colour1Poly">
+		<Style id="normalPlacemark">
 			<LineStyle>
 				<color>
-					660000FF
+					FF4e1b16
 				</color>
 				<width>
 					0
@@ -12,14 +12,14 @@
 			</LineStyle>
 			<PolyStyle>
 				<color>
-					660000FF
+					50e5a700
 				</color>
 			</PolyStyle>
 		</Style>
-		<Style id="colour2Poly">
+		<Style id="highlightPlacemark">
 			<LineStyle>
 				<color>
-					660000FF
+					FF4e1b16
 				</color>
 				<width>
 					0
@@ -27,114 +27,19 @@
 			</LineStyle>
 			<PolyStyle>
 				<color>
-					660000FF
+					50c47b00
 				</color>
 			</PolyStyle>
 		</Style>
-		<Style id="colour3Poly">
-			<LineStyle>
-				<color>
-					660000FF
-				</color>
-				<width>
-					0
-				</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>
-					660000FF
-				</color>
-			</PolyStyle>
-		</Style>
-		<Style id="colour4Poly">
-			<LineStyle>
-				<color>
-					660000FF
-				</color>
-				<width>
-					0
-				</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>
-					660000FF
-				</color>
-			</PolyStyle>
-		</Style>
-		<Style id="colour5Poly">
-			<LineStyle>
-				<color>
-					660000FF
-				</color>
-				<width>
-					0
-				</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>
-					660000FF
-				</color>
-			</PolyStyle>
-		</Style>
-		<Style id="colour6Poly">
-			<LineStyle>
-				<color>
-					660000FF
-				</color>
-				<width>
-					0
-				</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>
-					660000FF
-				</color>
-			</PolyStyle>
-		</Style>
-		<Style id="colour7Poly">
-			<LineStyle>
-				<color>
-					660000FF
-				</color>
-				<width>
-					0
-				</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>
-					660000FF
-				</color>
-			</PolyStyle>
-		</Style>
-		<Style id="colour8Poly">
-			<LineStyle>
-				<color>
-					660000FF
-				</color>
-				<width>
-					0
-				</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>
-					660000FF
-				</color>
-			</PolyStyle>
-		</Style>
-		<Style id="colour9Poly">
-			<LineStyle>
-				<color>
-					660000FF
-				</color>
-				<width>
-					0
-				</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>
-					660000FF
-				</color>
-			</PolyStyle>
+		<Style id="divisionMap">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#normalPlacemark</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#highlightPlacemark</styleUrl>
+			</Pair>
 		</Style>
 		<Style id="linecolour">
 			<LineStyle>
@@ -156,7 +61,7 @@
 			<description>
 			</description>
 			<styleUrl>
-				#colour2Poly
+				#divisionMap
 			</styleUrl>
 			<Polygon>
 				<tessellate>
@@ -228,7 +133,7 @@
 			<description>
 			</description>
 			<styleUrl>
-				#colour1Poly
+				#divisionMap
 			</styleUrl>
 			<Polygon>
 				<tessellate>
@@ -326,7 +231,7 @@
 			<description>
 			</description>
 			<styleUrl>
-				#colour3Poly
+				#divisionMap
 			</styleUrl>
 			<Polygon>
 				<tessellate>
@@ -429,7 +334,7 @@
 			<description>
 			</description>
 			<styleUrl>
-				#colour4Poly
+				#divisionMap
 			</styleUrl>
 			<Polygon>
 				<tessellate>
@@ -547,7 +452,7 @@
 			<description>
 			</description>
 			<styleUrl>
-				#colour5Poly
+				#divisionMap
 			</styleUrl>
 			<Polygon>
 				<tessellate>
@@ -621,7 +526,7 @@
 			<description>
 			</description>
 			<styleUrl>
-				#colour6Poly
+				#divisionMap
 			</styleUrl>
 			<Polygon>
 				<tessellate>
@@ -712,7 +617,7 @@
 			<description>
 			</description>
 			<styleUrl>
-				#colour7Poly
+				#divisionMap
 			</styleUrl>
 			<Polygon>
 				<tessellate>
@@ -800,7 +705,7 @@
 			<description>
 			</description>
 			<styleUrl>
-				#colour8Poly
+				#divisionMap
 			</styleUrl>
 			<Polygon>
 				<tessellate>
@@ -884,7 +789,7 @@
 			<description>
 			</description>
 			<styleUrl>
-				#colour9Poly
+				#divisionMap
 			</styleUrl>
 			<Polygon>
 				<tessellate>
