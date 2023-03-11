@@ -8,5 +8,6 @@
 /news/walking-team-news/ /county-teams/outdoor/social-walking/#newsletter 301
 /training/anglia-social-walking/ /event/anglia-social-walking/ 301
 /about-us/county-team/judith-wheeler/ /about-us/county-team/victoria-richards/ 301
-/county-teams/outdoor/paddlesports/ /county-teams/outdoor/watersports/ 301
-/county-teams/outdoor/social-walking/ /county-teams/outdoor/walking/ 301
+/county-teams/outdoor/paddlesports/ /what-we-do/outdoor/watersports/ 301
+/county-teams/outdoor/social-walking/ /what-we-do/outdoor/walking/ 301
+/county-teams/* /what-we-do/:splat

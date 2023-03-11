@@ -38,7 +38,7 @@ get-involved:
   url: /get-involved/
 what-we-do:
   title: What We Do
-  url: /county-teams/
+  url: /what-we-do/
   items:
   - title: Youth Opportunities
     url: /youth-opportunities/
@@ -57,29 +57,29 @@ what-we-do:
     - title: National & WAGGGS Opportunities
       url: /international-adventures/international-national-wagggs-opportunities
   - title: Outdoor Activities
-    url: /county-teams/outdoor/
+    url: /what-we-do/outdoor/
     items:
     - title: Walking
-      url: /county-teams/outdoor/walking/
+      url: /what-we-do/outdoor/walking/
     - title: Walks and Trails
-      url: /county-teams/outdoor/walks/
+      url: /what-we-do/outdoor/walks/
     - title: Outdoors useful apps
-      url: /county-teams/outdoor/useful-apps/
+      url: /what-we-do/outdoor/useful-apps/
     - title: Watersports
-      url: /county-teams/outdoor/watersports/
+      url: /what-we-do/outdoor/watersports/
   - title: Trefoil Guild
-    url: /county-teams/trefoil/
+    url: /what-we-do/trefoil/
     items:
     - title: Guilds
-      url: /county-teams/trefoil/guilds
+      url: /what-we-do/trefoil/guilds
     - title: Activities & Challenges
-      url: /county-teams/trefoil/activities
+      url: /what-we-do/trefoil/activities
 for-volunteers:
   title: For Volunteers
   url: /volunteers/
   items:
   - title: Forms and resources
-    url: /forms-resources/
+    url: /about-us/resources/
     items:
     - title: Resources and Links
       url: /about-us/resources/
@@ -95,7 +95,7 @@ for-volunteers:
     - title: County Archives
       url: /about-us/county-archives/
   - title: Programme delivery
-    url: /programme-delivery/
+    url: /get-involved/activities/
     items:
     - title: Virtual Ideas and Activities
       url: /get-involved/activities/
@@ -113,22 +113,22 @@ for-volunteers:
     - title: Membership System Updates
       url: /membership-system-updates/
   - title: Growing our membership
-    url: /growing-our-membership/
+    url: /flexible-guiding-units/
     items:
       - title: Flexible Guiding Units
         url: /flexible-guiding-units/
   - title: Learning & development
-    url: /learning-development/
+    url: /go/
     items:
       - title: Accessing Learning Platform
         url: /go/
   - title: Volunteer roles
-    url: /volunteers/roles/
+    url: /get-involved/vacancies/
     items:    
     - title: Vacancies
       url: /get-involved/vacancies/
   - title: Celebrate our members
-    url: /celebrate/
+    url: /get-involved/thanks/
     items:
     - title: Thanks, Awards and Recognition
       url: /get-involved/thanks/

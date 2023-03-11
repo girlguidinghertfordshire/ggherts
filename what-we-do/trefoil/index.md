@@ -2,7 +2,7 @@
 layout: page-v5
 title: Trefoil Guild
 date: 2022-06-23T20:40:59.883Z
-toc: county-teams
+toc: what-we-do
 lastmod: 2022-09-08T20:09:39.694Z
 ---
 ![Trefoil Guild Logo](/assets/images/core/trefoil-logo-2023.webp){:.float-start.m-3}

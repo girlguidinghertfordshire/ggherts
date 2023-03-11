@@ -2,7 +2,7 @@
 layout: page-v5
 title: International Adventures
 date: 2018-06-07T18:46:31.000Z
-toc: county-teams
+toc: what-we-do
 banner_image: /assets/images/2022/04/International_banner.jpg
 description: We're part of a truly global movement so Girlguiding Hertfordshire can offer
   members a huge range of amazing international adventures.

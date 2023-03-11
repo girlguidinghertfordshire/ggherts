@@ -1,7 +1,7 @@
 ---
 layout: page-v5
 title: Setting up access to GO and the Learning Platform
-toc: about-us
+toc: for-volunteers
 lastmod: 2022-05-03T12:09:05.933Z
 ---
 {:.lead}

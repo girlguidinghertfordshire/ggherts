@@ -2,16 +2,10 @@
 layout: page-v5
 title: Virtual Ideas and Activities
 date: 2020-03-24 11:44:24.000000000 +00:00
-toc: get-involved
+toc: for-volunteers
 advertId: get-involved
 description: For ideas and activities for you and your daughter to do together at home we
   have created a list together with links to great websites.
-author:
-  login: rachelkempis
-  email: rachelkempis@hotmail.com
-  display_name: Rachel Kemp
-  first_name: Rachel
-  last_name: Kemp
 permalink: /get-involved/activities/
 lastmod: 2022-09-29T21:20:49.525Z
 ---
