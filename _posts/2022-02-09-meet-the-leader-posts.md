@@ -12,7 +12,7 @@ author:
   display_name: The County Office
   first_name: ""
   last_name: ""
-lastmod: 2023-03-09T19:10:57.414Z
+lastmod: 2023-03-12T21:09:05.619Z
 ---
 
 The County Media and Communications team would love to create more **Meet the Leader** posts for our latest volunteer recruitment campaign.
@@ -22,8 +22,6 @@ The County Media and Communications team would love to create more **Meet the Le
 Once our Media and Communications team have created your post, we encourage you to share it **EVERYWHERE** you can... not just to community Facebook groups, but also to your unit WhatsApp groups, school parents, church and even work colleagues etc.
 
 We tested this during the last campaign and it proved extremely successful.
-
-Read our article about [making social media posts effective](/news/help-us-make-social-media-recruitment-posts-more-effective/) for more information
 
 ## Get involved
 

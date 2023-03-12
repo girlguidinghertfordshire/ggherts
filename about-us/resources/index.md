@@ -41,7 +41,6 @@ Where photos feature groups of girls, this form should be completed by leaders c
 - [County Store Inventory](/assets/docs/2022/cottered-county-store-inventory.pdf)
   - Hertfordshire County has many items available to borrow from the County Store. For a list of items and details of how to book click on the County Store Inventory above.
 
-
 ___
 
 ## Stationery
@@ -90,7 +89,7 @@ ___
 
 ### Girlguiding Hertfordshire Trefoil Guild
 
-- [Information on the different Trefoil Guild groups within the County](/county-teams/trefoil/)
+- [Information on the different Trefoil Guild groups within the County](/what-we-do/trefoil/)
 - The Trefoil Guild website can be found here: [www.trefoilguild.co.uk](https://www.trefoilguild.co.uk/){:target="_blank"}{:rel="noopener"}
 
 ___

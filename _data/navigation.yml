@@ -79,7 +79,7 @@ for-volunteers:
   url: /volunteers/
   items:
   - title: Forms and resources
-    url: /about-us/resources/
+    url: /forms-resources/
     items:
     - title: Resources and Links
       url: /about-us/resources/
@@ -128,11 +128,11 @@ for-volunteers:
     - title: Vacancies
       url: /get-involved/vacancies/
   - title: Celebrate our members
-    url: /get-involved/thanks/
+    url: /celebrate-our-members/
     items:
     - title: Thanks, Awards and Recognition
       url: /get-involved/thanks/
-    - title: Share With Us
+    - title: SHARE magazine
       url: /get-involved/share/
 
 events:

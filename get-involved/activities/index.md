@@ -21,7 +21,7 @@ lastmod: 2022-09-29T21:20:49.525Z
 **See also:**
 
 - [Challenge Badges](/get-involved/challenge-badges/)
-- [Walking related games](/county-teams/outdoor/walking/)
+- [Walking related games](/what-we-do/outdoor/walking/)
 
 Our County <a href="https://www.facebook.com/GirlguidingHertfordshire/" target="_blank" rel="noopener">Facebook page</a> is a resource for everyone linked to Guiding: parents (and their daughters) as well as leaders. We aim to provide information, ongoing news and activities on Facebook but will also add these activities for you and your daughter to do together at home on this page so please keep checking this page for updates on activities to do as well as <a href="https://www.girlguiding.org.uk/what-we-do/adventures-at-home/" target="_blank" rel="noopener">Girlguiding webpage for Adventures at Home</a>.
 

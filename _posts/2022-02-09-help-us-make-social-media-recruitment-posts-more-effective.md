@@ -10,7 +10,7 @@ author:
   display_name: The County Office
   first_name: ""
   last_name: ""
-lastmod: 2023-03-09T19:16:27.286Z
+lastmod: 2023-03-12T18:41:14.472Z
 ---
 Let's work together to enable recruitment campaigns to reach as many people as possible.
 
@@ -22,12 +22,12 @@ Below are some handy hints as to how you can make a HUGE difference to the succe
 
 Share our recruitment posts into your local community Facebook groups, and ALSO encourage leaders and parents to like and comment on these posts so they will be actually seen by more people overall.
 
-A coordinated approach between 2 or 3 leaders in your district will work best. We tried this during the last campaign and it proved successful! It may help if the post is focused on  a [Meet the Leader](/news/meet-the-leader-posts/) post featuring one of your own local leaders.
+A coordinated approach between 2 or 3 leaders in your district will work best. We tried this during the last campaign and it proved successful! It may help if the post is focused on  a *Meet the Leader* post featuring one of your own local leaders.
 
 Try the following three things to make that difference:
 
 1. Find two leaders who are active on Facebook, who will be willing to share 2 or 3 posts per week into your local Facebook groups and to alert other leaders
-2. Find one or more of your leaders to take part in our [Meet the Leader](/news/meet-the-leader-posts/) posts. This will make a huge difference as people engage on social media with people they know!
+2. Find one or more of your leaders to take part in our *Meet the Leader* posts. This will make a huge difference as people engage on social media with people they know!
 3. Discuss your plan of action - decide who is responsible for posting into which local group(s) to prevent repetition
 
 ### How to share a Facebook post
