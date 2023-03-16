@@ -57,14 +57,22 @@ $menu-width: 250px;
     }
 }
 
-.get-involved #getinvolved, .what-we-do #whatwedo, .for-volunteers #forvolunteers, .events #events, .training #training .about-us #aboutus {
+.get-involved #getinvolved,
+.what-we-do #whatwedo,
+.for-volunteers #forvolunteers,
+.events #events,
+.training #training,
+.news #news,
+.about-us #aboutus {
     color: var(--gg-light-blue);
 }
+
 .gg-search-form {
     padding: .5rem 0;
+
     .btn {
         --bs-btn-color: var(--gg-light-blue);
-        --bs-btn-padding-y:0;
+        --bs-btn-padding-y: 0;
         --bs-btn-bg: #fff;
         --bs-btn-border-color: #ced4da;
         --bs-btn-border-width: 1px;
@@ -78,6 +86,7 @@ $menu-width: 250px;
         border-left-width: 0;
     }
 }
+
 @media (max-width:($grid-lg-min - 1)) {
     .gg-viewport {
         width: 100%;
@@ -225,5 +234,5 @@ $menu-width: 250px;
         max-width: 100%;
     }
 
-    
+
 }

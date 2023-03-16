@@ -35,22 +35,26 @@ defaults:
     values:
       layout: "post-v5"
       advertId: "get-involved"
+      toc: "news"
   - scope:
       path: ""
       type: "events"
     values:
       layout: "event-v5"
+      toc: "events"
   - scope:
       path: ""
       type: "trainingevents"
     values:
       layout: "event-v5"
+      toc: "training"
   - scope:
       path: ""
       type: "noticeboards"
     values:
       layout: "post-v5"
       image_filter: true
+      toc: "news"
   - scope:
       path: ""
       type: "members"
