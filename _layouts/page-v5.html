@@ -37,12 +37,12 @@ layout: default-v5
                     <li class="nav-item"><a href="{{ level1.url}}" class="{{ linkClass }}"{%if level1.url==page.url %} aria-current="page"{% endif %}>{{ level1.title }}</a>
                         {% if level1.items and navtree contains level1.url %}<ul>
                         {% for level2 in level1.items %}
-                        <li {% if level1.url==page.url %} class="current_page_item"{% endif %}>
-                            <a href="{{ level2.url}}"{%if level2.url==page.url %} aria-current="page"{% endif %}>{{ level2.title }}</a>
+                        <li>{% assign linkClass="nav-link" %}{% if level2.url == page.url %}{% assign linkClass="nav-link active"%}{% endif %}
+                            <a href="{{ level2.url}}" class="{{linkClass}}"{%if level2.url==page.url %} aria-current="page"{% endif %}>{{ level2.title }}</a>
                             {% if level2.items and navtree contains level2.url %}<ul>
                                 {% for level3 in level2.items %}
-                                <li>
-                                    <a href="{{ level3.url }}">{{ level3.title }}</a>
+                                <li>{% assign linkClass="nav-link" %}{% if level3.url == page.url %}{% assign linkClass="nav-link active"%}{% endif %}
+                                    <a href="{{ level3.url }}" class="{{ linkClass}}"{%if level3.url==page.url %} aria-current="page"{% endif %}>{{ level3.title }}</a>
                                 </li>
                                 {% endfor %}
                             </ul>{% endif %}

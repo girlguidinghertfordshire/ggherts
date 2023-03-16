@@ -1,67 +1,70 @@
 main:
   items:
-  - id: about-us
   - id: get-involved
   - id: what-we-do
   - id: for-volunteers
   - id: events
   - id: training
   - id: news
-  - id: contact
+  - id: about-us
 about-us:
-  title: About Us
+  title: About us
   url: /about-us/
   items:
-  - title: Mission Statement
+  - title: Mission statement
     url: /about-us/mission-statement/
-  - title: Your County Team
+  - title: Your county team
     url: /about-us/county-team/
   - title: Divisions
     url: /about-us/divisions/
-  - title: County Centre
+  - title: Contact us
+    url: /contact-us/
+  - title: County centre
     url: /about-us/county-centre/
     items:
-      - title: Indoor Accommodation
+      - title: Indoor accommodation
         url: /about-us/county-centre/indoor-accommodation/
       - title: Campsite
         url: /about-us/county-centre/campsite/
-      - title: Nature and Pond Area
+      - title: Nature and pond area
         url: /about-us/county-centre/nature-pond/
-      - title: 200 Club
+      - title: 200 club
         url: /about-us/county-centre/200-club/
-      - title: Local Area
+      - title: Local area
         url: /about-us/county-centre/local-area/
       - title: Contact us
         url: /about-us/county-centre/contact-us/
+  - title: Charity Commission reports
+    url: /about-us/charity-commission-reports/
 get-involved:
-  title: Get Involved
+  title: Get involved
   url: /get-involved/
 what-we-do:
-  title: What We Do
+  title: What we do
   url: /what-we-do/
   items:
-  - title: Youth Opportunities
+  - title: Youth opportunities
     url: /youth-opportunities/
     items:
       - title: Duke of Edinburgh's Award
         url: /youth-opportunities/dofe/
-  - title: International Adventures
+  - title: International adventures
     url: /international-adventures/
     items:
-    - title: Unit Opportunities
+    - title: Unit opportunities
       url: /international-adventures/international-unit-opportunities
-    - title: County Opportunities
+    - title: County opportunities
       url: /international-adventures/international-county
-    - title: Region Opportunities
+    - title: Region opportunities
       url: /international-adventures/international-region-opportunities
-    - title: National & WAGGGS Opportunities
+    - title: National & WAGGGS opportunities
       url: /international-adventures/international-national-wagggs-opportunities
-  - title: Outdoor Activities
+  - title: Outdoor activities
     url: /what-we-do/outdoor/
     items:
     - title: Walking
       url: /what-we-do/outdoor/walking/
-    - title: Walks and Trails
+    - title: Walks and trails
       url: /what-we-do/outdoor/walks/
     - title: Outdoors useful apps
       url: /what-we-do/outdoor/useful-apps/
@@ -72,55 +75,55 @@ what-we-do:
     items:
     - title: Guilds
       url: /what-we-do/trefoil/guilds
-    - title: Activities & Challenges
+    - title: Activities and challenges
       url: /what-we-do/trefoil/activities
 for-volunteers:
-  title: For Volunteers
+  title: For volunteers
   url: /volunteers/
   items:
   - title: Forms and resources
     url: /forms-resources/
     items:
-    - title: Resources and Links
+    - title: Resources and links
       url: /about-us/resources/
     - title: Expenses
       url: /about-us/resources/expenses/
       items: 
-        - title: Commissioners and County Advisers
+        - title: Commissioners and county advisers
           url: /about-us/resources/expenses/commissioners/
-        - title: County Trainers
+        - title: County trainers
           url: /about-us/resources/expenses/trainers/
-    - title: Wellbeing Resources
+    - title: Wellbeing resources
       url: /about-us/wellbeing-resources-and-links/
-    - title: County Archives
+    - title: County archives
       url: /about-us/county-archives/
   - title: Programme delivery
     url: /get-involved/activities/
     items:
-    - title: Virtual Ideas and Activities
+    - title: Virtual ideas and activities
       url: /get-involved/activities/
   - title: Running your unit
     url: /unit/
     items:
-    - title: Nights Away
+    - title: Nights away
       url: /about-us/nights-away/
-    - title: Challenge Badges
+    - title: Challenge badges
       url: /get-involved/challenge-badges/
-    - title: Bronze, Silver & Gold Badges & Certs Order Form
+    - title: Bronze, Silver & Gold badges & certs order form
       url: /badge-orders/
-    - title: Shops & Depots
+    - title: Shops and depots
       url: /about-us/shops-depots/
-    - title: Membership System Updates
+    - title: Membership system updates
       url: /membership-system-updates/
   - title: Growing our membership
     url: /flexible-guiding-units/
     items:
-      - title: Flexible Guiding Units
+      - title: Flexible guiding units
         url: /flexible-guiding-units/
-  - title: Learning & development
+  - title: Learning and development
     url: /go/
     items:
-      - title: Accessing Learning Platform
+      - title: Accessing learning platform
         url: /go/
   - title: Volunteer roles
     url: /get-involved/vacancies/
@@ -130,7 +133,7 @@ for-volunteers:
   - title: Celebrate our members
     url: /celebrate-our-members/
     items:
-    - title: Thanks, Awards and Recognition
+    - title: Thanks, awards and recognition
       url: /get-involved/thanks/
     - title: SHARE magazine
       url: /get-involved/share/
@@ -139,7 +142,7 @@ events:
   title: Events
   url: /events/
   items:
-  - title: County Calendar
+  - title: County calendar
     url: /events/calendar/
   - title: Great Patrol Hunt
     url: /great-patrol-hunt/
@@ -152,15 +155,15 @@ news:
   items:
   - title: Noticeboard
     url: /noticeboard/
-  - title: Essential News
+  - title: Essential news
     url: /news/essential-news
   - title: Billboard
     url: /news/billboard
 contact:
-  title: Contact Us
+  title: Contact us
   url: /contact-us/
 cookie:
-  title: Cookie Policy
+  title: Cookie policy
   url: /cookie-policy/
 sitemap:
   title: Sitemap
@@ -169,10 +172,10 @@ privacy:
   title: Privacy policy
   url: /privacy-policy/
 term:
-  title: Term of Use
+  title: Term of use
   url: /term-of-use/
 membership:
-  title: Membership System Updates
+  title: Membership system updates
   url: /membership-system-updates/
   items:
   - title: 2021

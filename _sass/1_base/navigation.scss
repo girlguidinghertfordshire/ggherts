@@ -57,17 +57,25 @@ $menu-width: 250px;
     }
 }
 
+.get-involved #getinvolved, .what-we-do #whatwedo, .for-volunteers #forvolunteers, .events #events, .training #training .about-us #aboutus {
+    color: var(--gg-light-blue);
+}
 .gg-search-form {
     padding: .5rem 0;
-    .search-text {
-        border-left: none;
-        border-right: none;
-        border-top: none;
-        border-bottom: 1px solid #b4afaf;
-    }
-    button {
-        color: white;
-        font-size: 1.5rem;
+    .btn {
+        --bs-btn-color: var(--gg-light-blue);
+        --bs-btn-padding-y:0;
+        --bs-btn-bg: #fff;
+        --bs-btn-border-color: #ced4da;
+        --bs-btn-border-width: 1px;
+        --bs-btn-hover-color: #fff;
+        --bs-btn-hover-bg: var(--gg-light-blue);
+        --bs-btn-hover-border-color: #fff;
+        --bs-btn-active-color: #fff;
+        --bs-btn-active-border-color: #fff;
+        font-size: 1.2rem;
+        margin: 0 0.5rem;
+        border-left-width: 0;
     }
 }
 @media (max-width:($grid-lg-min - 1)) {
@@ -181,6 +189,7 @@ $menu-width: 250px;
                     padding: 5px;
                     border-radius: 0.25rem;
                     border: 1px solid $gg-dark-gray;
+                    z-index: 10;
 
                     li {
                         display: block;
