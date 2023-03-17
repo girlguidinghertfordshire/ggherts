@@ -219,6 +219,14 @@ $menu-width: 250px;
                     }
                 }
             }
+            &:last-child {
+                &:hover,
+                &:focus {
+                    .gg-blue-menu {
+                        right:0;
+                    }
+                }
+            }
         }
     }
 
