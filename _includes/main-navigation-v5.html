@@ -6,7 +6,7 @@
             {% for item in site.data.navigation["main"].items %}
             {% assign menu= site.data.navigation[item.id] %}
             {% unless menu.items.size%}
-            <li><a href="{{ menu.url }}" class="nav-link">{{ menu.title }}</a>
+            <li><a href="{{ menu.url }}" class="nav-link" id="{{ menu.title | slugify | camelcase | replace: "-",""}}">{{ menu.title }}</a>
             {% else %}
             <li class="has-children"><a href="{{ menu.url }}" id="{{ menu.title | slugify | camelcase | replace: "-",""}}" >{{ menu.title }}</a>
             <ul class="gg-blue-menu" aria-labelledby="{{ menu.title |slugify | camelcase | replace: "-",""}}">

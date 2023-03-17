@@ -20,9 +20,8 @@ collections:
       output: true
       permalink: /noticeboard/:title/
     members:
-      output: true
+      output: false
       permalink: /about-us/county-team/:title/
-      sort_by: order
     shops_nights:
       output: true
       sort_by: title
@@ -36,29 +35,32 @@ defaults:
     values:
       layout: "post-v5"
       advertId: "get-involved"
+      toc: "news"
   - scope:
       path: ""
       type: "events"
     values:
       layout: "event-v5"
+      toc: "events"
   - scope:
       path: ""
       type: "trainingevents"
     values:
       layout: "event-v5"
+      toc: "training"
   - scope:
       path: ""
       type: "noticeboards"
     values:
       layout: "post-v5"
       image_filter: true
+      toc: "news"
   - scope:
       path: ""
       type: "members"
     values:
       layout: "county_team"
-      toc: "county-teams"
-      is_employee: false
+      toc: "about-us"
   - scope:
       path: ""
       type: "shops_nights"

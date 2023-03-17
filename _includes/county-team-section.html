@@ -1,0 +1,13 @@
+<div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 county-team-section">
+  {% for member in site.members %}
+{% unless member.roles == empty %}
+    {% for group in member.groups %}
+    {% if group.group == include.group %}
+        {% for role in group.roles %}
+        {% include county-team-card.html member=member role=role %}
+        {% endfor %}
+    {% endif %}
+    {% endfor %}
+  {% endunless %}
+  {% endfor %}
+</div>

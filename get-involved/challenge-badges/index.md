@@ -2,7 +2,7 @@
 layout: page-v5
 title: Challenge Badges
 date: 2021-02-15T22:25:36.000Z
-toc: get-involved
+toc: for-volunteers
 description: "New challenge badges for guiding units in Hertfordshire: Let the Sun Shine,
   Marathon, Lifesaver, Flower Power and more."
 author:

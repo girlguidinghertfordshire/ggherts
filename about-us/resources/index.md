@@ -1,7 +1,7 @@
 ---
 layout: page-v5
 title: Resources
-toc: about-us
+toc: for-volunteers
 lastmod: 2022-09-01T19:35:10.039Z
 ---
 ## Forms
@@ -41,40 +41,11 @@ Where photos feature groups of girls, this form should be completed by leaders c
 - [County Store Inventory](/assets/docs/2022/cottered-county-store-inventory.pdf)
   - Hertfordshire County has many items available to borrow from the County Store. For a list of items and details of how to book click on the County Store Inventory above.
 
-
 ___
 
 ## Stationery
 
 Girlguiding Hertfordshire members can obtain and personalise division, district and unit specific letterheads, compliment slips and other rebranded stationery by visiting the [online design centre](https://girlguiding.rightmarket.com/){:.external-link}{:rel="noopener"}{:target="_blank"} in conjunction with March 2023 brand guidelines.
-
-___
-
-## Membership Systems Updates
-
-- [2023](/membership-system-updates/)
-- [2022](/membership-system-updates/2022/)
-
-___
-
-## Access to GO and Learning Platform
-
-[Instructions on how to set up access to GO and the Learning Platform](/go/)
-
-___
-
-## External First Aid Courses
-
-[Latest information on external first aid courses](/news/external-first-aid-courses/)
-
-___
-
-## Girlguiding Hertfordshire Charity Commission Reports (Financial statements)
-
-- [2021](/assets/docs/accounts/FY21-financial-statements.pdf "Girlguiding Hertfordshire Unaudited Financial Statements 2021"){:.download-link}{:rel="noopener"}{:target="_blank"}
-- [2020](/wp-content/uploads/2021/07/Financial-Statements-ye-31.12.20.pdf "Girlguiding Hertfordshire Unaudited Financial Statements 2020"){:.download-link}{:rel="noopener"}{:target="_blank"}
-- [2019](/wp-content/uploads/2021/05/Charity-Commission-Report-2019.pdf "Girlguiding Hertfordshire Charity Commission Report 2019"){:.download-link}{:rel="noopener"}{:target="_blank"}
-- [2018](/wp-content/uploads/2021/05/Charity-Commission-Report-2018.pdf "Girlguiding Hertfordshire Charity Commission Report 2018"){:.download-link}{:rel="noopener"}{:target="_blank"}
 
 ___
 
@@ -88,10 +59,14 @@ ___
 
 ___
 
-### Girlguiding Hertfordshire Trefoil Guild
+## Relocated sections
 
-- [Information on the different Trefoil Guild groups within the County](/county-teams/trefoil/)
-- The Trefoil Guild website can be found here: [www.trefoilguild.co.uk](https://www.trefoilguild.co.uk/){:target="_blank"}{:rel="noopener"}
+The following sections have recently been moved from this page:
+
+- [Membership Systems Updates](/membership-system-updates/)
+- [Access to GO and Learning Platform](/go/)
+- [External First Aid Courses](/news/external-first-aid-courses/)
+- [Girlguiding Hertfordshire Trefoil Guild](/what-we-do/trefoil/)
 
 ___
 

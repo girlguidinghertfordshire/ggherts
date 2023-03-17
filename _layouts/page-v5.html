@@ -15,10 +15,38 @@ layout: default-v5
                 <nav class="gg-left-menu" aria-label="Site navigation">
                     <h2><a href="{{ menu.url }}">{{ menu.title }}</a></h2>
                     <ul class="nav flex-column">
-                    {% for item in menu.items %}
-                    {% assign linkClass="nav-link" %}{% if item.url==page.url %}{% assign linkClass="nav-link active"%}{% endif %}
-                    <li class="nav-item"><a href="{{ item.url}}" class="{{ linkClass }}"{%if item.url==page.url %} aria-current="page"{% endif %}>{{ item.title }}</a>{% if item.items %}<ul>
-                        {% for childItem in item.items %}<li {% if item.url==page.url %} class="current_page_item"{% endif %}><a href="{{ childItem.url}}"{%if childItem.url==page.url %} aria-current="page"{% endif %}>{{ childItem.title }}</a></li>{% endfor %} </ul>{% endif %}</li>
+                        {% assign navtree="" %}
+                        {% for level1 in menu.items %}
+                            {% if level1.url == page.url %}
+                            {% assign navtree=level1.url %}
+                            {% endif %}
+                            {% for level2 in level1.items %}
+                                {% if level2.url == page.url %}
+                                {% assign navtree = level1.url | append: "|" | append: level2.url %}
+                                {% endif %}
+                                {% for level3 in level3.items %}
+                                    {% if level3.url == page.url %}
+                                    {% assign navtree = level1.url | append: "|" | append: level2.url | append: "|" | append: level3.url %}
+                                    {% endif %}
+                                {% endfor %}
+                            {% endfor %}
+                        {% endfor %}
+                        {% assign navtree = navtree | split: "|" %}
+                    {% for level1 in menu.items %}
+                    {% assign linkClass="nav-link" %}{% if level1.url==page.url %}{% assign linkClass="nav-link active"%}{% endif %}
+                    <li class="nav-item"><a href="{{ level1.url}}" class="{{ linkClass }}"{%if level1.url==page.url %} aria-current="page"{% endif %}>{{ level1.title }}</a>
+                        {% if level1.items and navtree contains level1.url %}<ul>
+                        {% for level2 in level1.items %}
+                        <li>{% assign linkClass="nav-link" %}{% if level2.url == page.url %}{% assign linkClass="nav-link active"%}{% endif %}
+                            <a href="{{ level2.url}}" class="{{linkClass}}"{%if level2.url==page.url %} aria-current="page"{% endif %}>{{ level2.title }}</a>
+                            {% if level2.items and navtree contains level2.url %}<ul>
+                                {% for level3 in level2.items %}
+                                <li>{% assign linkClass="nav-link" %}{% if level3.url == page.url %}{% assign linkClass="nav-link active"%}{% endif %}
+                                    <a href="{{ level3.url }}" class="{{ linkClass}}"{%if level3.url==page.url %} aria-current="page"{% endif %}>{{ level3.title }}</a>
+                                </li>
+                                {% endfor %}
+                            </ul>{% endif %}
+                        </li>{% endfor %} </ul>{% endif %}</li>
                     {% endfor %}
                     </ul>
                 

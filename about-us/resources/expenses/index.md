@@ -1,7 +1,7 @@
 ---
 layout: page-v5
 title: Expenses
-toc: about-us
+toc: for-volunteers
 lastmod: 2022-09-01T19:35:10.039Z
 ---
 ## Expenses policy

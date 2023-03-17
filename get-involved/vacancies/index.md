@@ -2,7 +2,7 @@
 layout: page-v5
 title: Vacancies
 date: 2019-10-17T10:38:11.000Z
-toc: get-involved
+toc: for-volunteers
 advertId: get-involved
 author:
   login: GGH-Admin1
@@ -35,7 +35,7 @@ We are lucky enough to have a very active and successful County Walking team who
 
 Do you have a passion for adventurous walking and walking related activities and feel you could inspire and lead the County Walking team?
 
-We are looking for a new County Walking Lead Volunteer, if you think this could be you, please apply by emailing <cc@girlguidinghertfordshire.org.uk>. You can find out more about what the role entails below and why not have a look at our dedicated [Walking webpage.](/county-teams/outdoor/walking/)
+We are looking for a new County Walking Lead Volunteer, if you think this could be you, please apply by emailing <cc@girlguidinghertfordshire.org.uk>. You can find out more about what the role entails below and why not have a look at our dedicated [Walking webpage.](/what-we-do/outdoor/walking/)
 
 We are lucky enough to have a very active and successful County Walking team who organise social walks and weekends away, help our leaders run unit events, and assist those working towards their Girlguiding Walking Scheme qualifications, to name just a few.
 {% endcapture %}
@@ -46,7 +46,7 @@ Our Walking team are looking for a well organised individual to provide administ
 
 With so many exciting walking events offered throughout the year the team require someone who is efficient and self-motivated to assist in making all events run successfully.
 
-This newly created role is ideal for someone who loves the outdoors and has excellent organisation skills.  Find out more about what the role entails below and apply via <cc@girlguidinghertfordshire.org.uk>.   You can also find out more about the walking team on their dedicated [walking webpage.](/county-teams/outdoor/walking/)
+This newly created role is ideal for someone who loves the outdoors and has excellent organisation skills.  Find out more about what the role entails below and apply via <cc@girlguidinghertfordshire.org.uk>.   You can also find out more about the walking team on their dedicated [walking webpage.](/what-we-do/outdoor/walking/)
 {% endcapture %}
 {% include vacancy.html title="County Walking Administration Lead Volunteer" description=description button-text="Role Description" download="/assets/docs/2022/county-walking-team-administrator.pdf" img="/assets/images/2023/03/walking-admin-lead-volunteer2.webp" %}
 
@@ -55,7 +55,7 @@ Do you enjoy taking part in outdoor activities and events?  If so, you could sha
 
 We are looking for someone to develop, inspire and lead the outdoor team, organising county outdoor events for members across all sections through collaborative working and providing support to our volunteers.
 
-Please apply via <cc@girlguidinghertfordshire.org.uk>.  You can find out more about what the role entails below, and why not take a look at the [Outdoor Activities](/county-teams/outdoor/) webpage to see what the team currently provides.  
+Please apply via <cc@girlguidinghertfordshire.org.uk>.  You can find out more about what the role entails below, and why not take a look at the [Outdoor Activities](/what-we-do/outdoor/) webpage to see what the team currently provides.  
 {% endcapture %}
 {% include vacancy.html title="County Outdoor Lead Volunteer" description=description button-text="Role Description" download="/assets/docs/2022/outdoor-adviser-role-description.pdf" img="/assets/images/2023/03/outdoor-lead-volunteer.webp" %}
 
@@ -64,7 +64,7 @@ Our Outdoor team are looking for a well organised individual to provide administ
 
 This newly created role would suit someone with a love of the outdoors whilst possessing excellent administration skills.  You will play a vital role in the team, ensuring events are organised and advertised efficiently and effectively.
 
-Why not take a look at the [outdoor activities webpage](/county-teams/outdoor/) to see what the team currently provides.  If this role is of interest, you can find out more below and apply via <cc@girlguidinghertfordshire.org.uk>.
+Why not take a look at the [outdoor activities webpage](/what-we-do/outdoor/) to see what the team currently provides.  If this role is of interest, you can find out more below and apply via <cc@girlguidinghertfordshire.org.uk>.
 {% endcapture %}
 {% include vacancy.html title="County Outdoor Administration Lead Volunteer" description=description button-text="Role Description" download="/assets/docs/2022/outdoor-team-administrator-role-description.pdf" img="/assets/images/2023/03/outdoor-admin-lead-volunteer.webp" %}
 
