@@ -9,7 +9,7 @@
             {% endif %}
             <div class="col{{ class }}">
                 <div class="card h-100">
-                    <img src="{{ notice.image }}" alt="" class="card-img-top" />
+                    <img src="{{ notice.image }}" alt="" class="card-img-top" loading="lazy" />
                     <div class="card-body">
                         <h3 class="card-title">{{ notice.title }}</h3>
                         <div class="card-text">{{ notice.excerpt | strip_html | normalize_whitespace | truncatewords: 20
