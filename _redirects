@@ -3,3 +3,7 @@
 /county-teams/outdoor/social-walking/ /what-we-do/outdoor/walking/ 301
 /county-teams/* /what-we-do/:splat 301
 /about-us/county-team/* /about-us/county-team/ 301
+/international-adventures/international-county/ /international-adventures/county/ 301
+/international-adventures/international-region-opportunities/ /international-adventures/region/ 301
+/international-adventures/international-unit-opportunities/ /international-adventures/unit/ 301
+/international-adventures/international-national-wagggs-opportunities/ /international-adventures/national/ 301

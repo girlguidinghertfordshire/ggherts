@@ -37,7 +37,7 @@ If you require advice on international travel or resources within Girlguiding, p
 
 ## How to get involved
 
-- [Unit Opportunities](/international-adventures/international-unit-opportunities/)
-- [County Opportunities](/international-adventures/international-county/)
-- [Region Opportunities](/international-adventures/international-region-opportunities/)
-- [National &amp; WAGGGS Opportunities](/international-adventures/international-national-wagggs-opportunities/)
+- [Unit Opportunities](/international-adventures/unit/)
+- [County Opportunities](/international-adventures/county/)
+- [Region Opportunities](/international-adventures/region/)
+- [National &amp; WAGGGS Opportunities](/international-adventures/national/)

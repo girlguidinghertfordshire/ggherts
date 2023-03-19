@@ -52,13 +52,13 @@ what-we-do:
     url: /international-adventures/
     items:
     - title: Unit opportunities
-      url: /international-adventures/international-unit-opportunities
+      url: /international-adventures/unit/
     - title: County opportunities
-      url: /international-adventures/international-county
+      url: /international-adventures/county/
     - title: Region opportunities
-      url: /international-adventures/international-region-opportunities
+      url: /international-adventures/region/
     - title: National & WAGGGS opportunities
-      url: /international-adventures/international-national-wagggs-opportunities
+      url: /international-adventures/national/
   - title: Outdoor activities
     url: /what-we-do/outdoor/
     items:
@@ -105,16 +105,16 @@ for-volunteers:
   - title: Running your unit
     url: /unit/
     items:
-    - title: Nights away
-      url: /about-us/nights-away/
+    - title: Membership system updates
+      url: /membership-system-updates/
     - title: Challenge badges
       url: /get-involved/challenge-badges/
     - title: Bronze, Silver & Gold badges & certs order form
       url: /badge-orders/
+    - title: Nights away
+      url: /about-us/nights-away/
     - title: Shops and depots
       url: /about-us/shops-depots/
-    - title: Membership system updates
-      url: /membership-system-updates/
   - title: Growing our membership
     url: /flexible-guiding-units/
     items:

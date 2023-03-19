@@ -22,4 +22,6 @@ The exception to this is ICE (International Community Experience) which is aimed
 
 Leaders who are interested in leading a region trip may apply directly to region and their event information can be found on the [Girlguiding Anglia Website][1]{:rel="noopener"}{:target="_blank"}{:.external-link} (usually held in May/June).
 
+{% include region-int-ops.html %}
+
 [1]: https://www.girlguiding-anglia.org.uk/events
