@@ -4,13 +4,6 @@ title: National & WAGGGS Opportunities
 date: 2018-06-07 20:45:10.000000000 +01:00
 toc: what-we-do
 banner_image: /assets/images/2022/04/International_banner.jpg
-author:
-  login: GGH-CMS
-  email: admin@girlguidinghertfordshire.org.uk
-  display_name: the County Office
-  first_name: ""
-  last_name: ""
-permalink: /international-adventures/international-national-wagggs-opportunities/
 lastmod: 2022-06-15T19:39:16.311Z
 ---
 ## National Opportunities
