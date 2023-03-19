@@ -33,7 +33,6 @@ Where photos feature groups of girls, this form should be completed by leaders c
 - [Expenses policy and claim form](/about-us/resources/expenses/)
 - [Unit Registration Form](/wp-content/uploads/2021/05/Unit-Registration-Form-Oct-2020.docx){:target="_blank"}{:rel="noopener"}{:.word-link}
   - This form is for requests to open a new unit, reopen a closed unit, or amend unit name or section
-- [Leadership Qualification Form](/wp-content/uploads/2021/07/Girlguiding-Hertfordshire-Leadership-Qualification-Form.docx){:target="_blank"}{:rel="noopener"}{:.word-link}
 - [Declaration of Interest Form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJUM0xHWVBTV1A0WkIzMzRDRzQ5VjNISUgxRy4u){:target="_blank"}{:rel="noopener"}{:.external-link}
   -This is to identify any areas where there may be competing interests and should be completed annually by all Trustees, Sub-Committee Members and paid staff.
 - [Trustee Confirmation of Eligibility Form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJUNzBCSEQyM0Y0NEs2WkpLN0M2M08yUkpZRS4u){:target="_blank"}{:rel="noopener"}{:.external-link}
