@@ -13,14 +13,14 @@ author:
 permalink: /get-involved/vacancies/
 lastmod: 2022-04-24T07:01:49.097Z
 ---
-## Volunteer Vacancies
+## Volunteer vacancies
 
 We have fantastic volunteers who look to the county team for guidance, support and vision. We are looking for new lead volunteers and trainers to fully embrace the programme, spread passion and enthusiasm for guiding to help the county move forward.
 
 {% capture description %}
 Do you have what it takes to move Girlguiding forward across the whole division, whilst leading a dedicated team?
 
-This fantastic opportunity to influence and create real change in the East division (covering Ware, Hertford, Sawbridgeworth, High Wych, Bishop's Stortford and Buntingford) has become available.
+This fantastic opportunity to influence and create real change in the east division (covering Ware, Hertford, Sawbridgeworth, High Wych, Bishop's Stortford and Buntingford) has become available.
 
 Make a positive difference to others and improve opportunities for girls and young women.
 
@@ -28,58 +28,54 @@ The division commissioner role can be done as a job share and a division team cr
 
 Please apply via <cc@girlguidinghertfordshire.org.uk>. by Friday 31 March
 {% endcapture %}
-{% include vacancy.html title="East Division Commissioner" description=description button-text="Role Description" download="/assets/docs/2023/division-commissioner-role-description.pdf" img="/assets/images/2023/03/edc-vacancy.webp" %}
+{% include vacancy.html title="East division commissioner" description=description button-text="Role description" download="/assets/docs/2023/vacancies/division-commissioner-role-description.pdf" img="/assets/images/2023/03/edc-vacancy.webp" %}
 
 {% capture description %}
-We are lucky enough to have a very active and successful County Walking team who organise social walks and weekends away, help our leaders run unit events, and assist those working towards their Girlguiding Walking Scheme qualifications, to name just a few.
+We are lucky enough to have a very active and successful county walking team who organise social walks and weekends away, help our leaders run unit events, and assist those working towards their Girlguiding walking scheme qualifications, to name just a few.
 
-Do you have a passion for adventurous walking and walking related activities and feel you could inspire and lead the County Walking team?
+Do you have a passion for adventurous walking and walking related activities and feel you could inspire and lead the county walking team?
 
-We are looking for a new County Walking Lead Volunteer, if you think this could be you, please apply by emailing <cc@girlguidinghertfordshire.org.uk>. You can find out more about what the role entails below and why not have a look at our dedicated [Walking webpage.](/what-we-do/outdoor/walking/)
+We are looking for a new county walking lead volunteer, if you think this could be you, please apply by emailing <cc@girlguidinghertfordshire.org.uk>. 
 
-We are lucky enough to have a very active and successful County Walking team who organise social walks and weekends away, help our leaders run unit events, and assist those working towards their Girlguiding Walking Scheme qualifications, to name just a few.
+You can find out more about what the role entails below and why not have a look at our dedicated [walking webpage.](/what-we-do/outdoor/walking/)
 {% endcapture %}
-{% include vacancy.html title="County Walking Lead Volunteer" description=description button-text="Role Description" download="/assets/docs/2022/county_walking_adviser.pdf" img="/assets/images/2023/03/walking-lead-volunteer2.webp" %}
+{% include vacancy.html title="County walking lead volunteer" description=description button-text="Role description" download="/assets/docs/2023/vacancies/county-walking-lead-volunteer.pdf" img="/assets/images/2023/03/walking-lead-volunteer2.webp" %}
 
 {% capture description %}
-Our Walking team are looking for a well organised individual to provide administrative support to the County Walking Lead Volunteer and team.
+Our walking team are looking for a well organised individual to provide administrative support to the county walking lead volunteer and team. With so many exciting walking events offered throughout the year the team require someone who is efficient and self-motivated to assist in making all events run successfully.
 
-With so many exciting walking events offered throughout the year the team require someone who is efficient and self-motivated to assist in making all events run successfully.
-
-This newly created role is ideal for someone who loves the outdoors and has excellent organisation skills.  Find out more about what the role entails below and apply via <cc@girlguidinghertfordshire.org.uk>.   You can also find out more about the walking team on their dedicated [walking webpage.](/what-we-do/outdoor/walking/)
+This newly created role is ideal for someone who loves the outdoors and has excellent organisation skills.  Find out more about what the role entails below and apply via <cc@girlguidinghertfordshire.org.uk>. You can also find out more about the walking team on their dedicated [walking webpage.](/what-we-do/outdoor/walking/)
 {% endcapture %}
-{% include vacancy.html title="County Walking Administration Lead Volunteer" description=description button-text="Role Description" download="/assets/docs/2022/county-walking-team-administrator.pdf" img="/assets/images/2023/03/walking-admin-lead-volunteer2.webp" %}
+{% include vacancy.html title="County walking administration lead volunteer" description=description button-text="Role Description" download="/assets/docs/vacancies/county-walking-administration-lead-volunteer.pdf" img="/assets/images/2023/03/walking-admin-lead-volunteer2.webp" %}
 
 {% capture description %}
 Do you enjoy taking part in outdoor activities and events?  If so, you could share your passion and encourage others to join in and reap the mental and physical benefits.
 
 We are looking for someone to develop, inspire and lead the outdoor team, organising county outdoor events for members across all sections through collaborative working and providing support to our volunteers.
 
-Please apply via <cc@girlguidinghertfordshire.org.uk>.  You can find out more about what the role entails below, and why not take a look at the [Outdoor Activities](/what-we-do/outdoor/) webpage to see what the team currently provides.  
+Please apply via <cc@girlguidinghertfordshire.org.uk>.  You can find out more about what the role entails below, and why not take a look at the [outdoor activities](/what-we-do/outdoor/) webpage to see what the team currently provides.  
 {% endcapture %}
-{% include vacancy.html title="County Outdoor Lead Volunteer" description=description button-text="Role Description" download="/assets/docs/2022/outdoor-adviser-role-description.pdf" img="/assets/images/2023/03/outdoor-lead-volunteer.webp" %}
+{% include vacancy.html title="County outdoor lead volunteer" description=description button-text="Role description" download="/assets/docs/2023/vacancies/county-outdoor-lead-volunteer.pdf" img="/assets/images/2023/03/outdoor-lead-volunteer.webp" %}
 
 {% capture description %}
-Our Outdoor team are looking for a well organised individual to provide administrative support to the County Outdoor Lead Volunteer and team.
+Our outdoor team are looking for a well organised individual to provide administrative support to the county outdoor lead volunteer and team. This newly created role would suit someone with a love of the outdoors whilst possessing excellent administration skills.  You will play a vital role in the team, ensuring events are organised and advertised efficiently and effectively.
 
-This newly created role would suit someone with a love of the outdoors whilst possessing excellent administration skills.  You will play a vital role in the team, ensuring events are organised and advertised efficiently and effectively.
-
-Why not take a look at the [outdoor activities webpage](/what-we-do/outdoor/) to see what the team currently provides.  If this role is of interest, you can find out more below and apply via <cc@girlguidinghertfordshire.org.uk>.
+Why not take a look at the [outdoor activities](/what-we-do/outdoor/) webpage to see what the team currently provides.  If this role is of interest, you can find out more below and apply via <cc@girlguidinghertfordshire.org.uk>.
 {% endcapture %}
-{% include vacancy.html title="County Outdoor Administration Lead Volunteer" description=description button-text="Role Description" download="/assets/docs/2022/outdoor-team-administrator-role-description.pdf" img="/assets/images/2023/03/outdoor-admin-lead-volunteer.webp" %}
+{% include vacancy.html title="County outdoor administration lead volunteer" description=description button-text="Role description" download="/assets/docs/2023/vacancies/county-outdoor-administration-lead-volunteer.pdf" img="/assets/images/2023/03/outdoor-admin-lead-volunteer.webp" %}
 
 {% capture description %}
 We want to ensure that we can offer regular, high quality training opportunities to all our adult members in the county and region.
 
-Girlguiding Hertfordshire is therefore looking for new Trainers to join the Anglia Training Team.
+Girlguiding Hertfordshire is therefore looking for new trainers to join the Anglia training team.
 
-Visit the [‘Becoming a Trainer’](https://www.girlguiding.org.uk/making-guiding-happen/learning-and-development/helping-others-to-learn/becoming-a-trainer/){:.external-link}{:rel="noopener"}{:target="_blank"} section of the Girlguiding website to find out more about what is involved.
+Visit the [‘becoming a trainer’](https://www.girlguiding.org.uk/making-guiding-happen/learning-and-development/helping-others-to-learn/becoming-a-trainer/){:.external-link}{:rel="noopener"}{:target="_blank"} section of the Girlguiding website to find out more about what is involved.
 
 Be that role model for other volunteers and help ensure excellence and consistency across our organisation.
 
-If you would like to apply please complete the application form and email it to Anglia region via <angliahq@girlguiding-anglia.org.uk>
+Complete the application form and email it to Anglia region via <angliahq@girlguiding-anglia.org.uk> to apply.
 {% endcapture %}
-{% include vacancy.html title="Trainers" description=description button-text="Role Description" download="/assets/docs/2022/becoming-a-trainer-application-form.docx" img="/assets/images/2022/10/bat-vacancies.webp" %}
+{% include vacancy.html title="Trainers" description=description button-text="Role description" download="/assets/docs/2022/becoming-a-trainer-application-form.docx" img="/assets/images/2022/10/bat-vacancies.webp" %}
 
 ___
 
