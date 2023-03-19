@@ -17,5 +17,6 @@ shop:
     - Shop
 author:
 ---
-<p>Monday 7.30-8.30pm and Saturday 9.30-10.30am during term time</p>
-<p>W: <a href="https://www.girlguidingstalbans.co.uk">girlguidingstalbans.org.uk</a></p>
+Saturdays 9.30-10.30am during term time only.
+
+W: [girlguidingstalbans.org.uk](https://www.girlguidingstalbans.co.uk){:.external-link}{:rel="noopener"}{:target="_blank"}
