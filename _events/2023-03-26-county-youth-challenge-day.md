@@ -8,7 +8,7 @@ event:
   contact_name: null
   contact_email: null
   contact_number: ""
-  book_now_link: mailto:youthops@girlguidinghertfordshire.org.uk?subject=County+Youth+Challenge+Day
+  book_now_link: null
   image: /assets/images/2022/12/county-youth-challenge-day.webp
   type:
     - Activity
@@ -22,8 +22,10 @@ event:
     - Hertfordshire, Central
 author:
   display_name: The County Office
-lastmod: 2023-01-22T21:51:04.713Z
+lastmod: 2023-03-19T16:59:29.797Z
 ---
+**FULLY BOOKED**
+
 {:.lead}
 Calling all Rangers, Young Leaders and 13+ helpers in Units
 
@@ -37,6 +39,4 @@ Cost: **£5**
 
 Uniform is to be worn
 
-Places are limited so don’t delay book your place!
-
-For further information and to book contact <youthops@girlguidinghertfordshire.org.uk>
+For further information contact <youthops@girlguidinghertfordshire.org.uk>
