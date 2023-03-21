@@ -39,6 +39,15 @@ about-us:
 get-involved:
   title: Get involved
   url: /get-involved/
+  items:
+  - title: Rainbows
+    url: /get-involved/rainbows/
+  - title: Brownies
+    url: /get-involved/brownies/
+  - title: Guides
+    url: /get-involved/guides/
+  - title: Rangers
+    url: /get-involved/rangers/
 what-we-do:
   title: What we do
   url: /what-we-do/
