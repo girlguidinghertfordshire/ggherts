@@ -40,14 +40,16 @@ get-involved:
   title: Get involved
   url: /get-involved/
   items:
-  - title: Rainbows
+  - title: Rainbows (4-7)
     url: /get-involved/rainbows/
-  - title: Brownies
+  - title: Brownies (7-10)
     url: /get-involved/brownies/
-  - title: Guides
+  - title: Guides (10-14)
     url: /get-involved/guides/
-  - title: Rangers
+  - title: Rangers (14-18)
     url: /get-involved/rangers/
+  - title: Adult volunteers
+    url: /get-involved/volunteers/
 what-we-do:
   title: What we do
   url: /what-we-do/
