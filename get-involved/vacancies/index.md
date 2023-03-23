@@ -46,7 +46,7 @@ Our walking team are looking for a well organised individual to provide administ
 
 This newly created role is ideal for someone who loves the outdoors and has excellent organisation skills.  Find out more about what the role entails below and apply via <cc@girlguidinghertfordshire.org.uk>. You can also find out more about the walking team on their dedicated [walking webpage.](/what-we-do/outdoor/walking/)
 {% endcapture %}
-{% include vacancy.html title="County walking administration lead volunteer" description=description button-text="Role Description" download="/assets/docs/vacancies/county-walking-administration-lead-volunteer.pdf" img="/assets/images/2023/03/walking-admin-lead-volunteer2.webp" %}
+{% include vacancy.html title="County walking administration lead volunteer" description=description button-text="Role Description" download="/assets/docs/2023/vacancies/county-walking-administration-lead-volunteer.pdf" img="/assets/images/2023/03/walking-admin-lead-volunteer2.webp" %}
 
 {% capture description %}
 Do you enjoy taking part in outdoor activities and events?  If so, you could share your passion and encourage others to join in and reap the mental and physical benefits.
