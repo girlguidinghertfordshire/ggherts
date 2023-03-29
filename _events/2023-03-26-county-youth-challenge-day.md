@@ -1,6 +1,7 @@
 ---
 title: County Youth Challenge Day
 date: 2022-12-04T20:27:50.142Z
+published: false
 event:
   start_date: 2023-03-26
   end_date: ""
@@ -22,7 +23,7 @@ event:
     - Hertfordshire, Central
 author:
   display_name: The County Office
-lastmod: 2023-03-19T16:59:29.797Z
+lastmod: 2023-03-29T20:18:40.544Z
 ---
 **FULLY BOOKED**
 
