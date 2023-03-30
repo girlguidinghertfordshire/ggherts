@@ -21,6 +21,8 @@ The Hertfordshire Guide Centre, owned by Girlguiding Hertfordshire, is situated 
 
 Offering [indoor accommodation](indoor-accommodation/), a [campsite](campsite/), [pond](nature-pond/) and [campfire](campsite/#campfire-circle), it is suitable for meetings, trainings, sleepovers, camps, pond dipping sessions and camp fire circles.
 
+{% include tagged-news-post.html tag="HGC" %}
+
 ## 200 Club
 
 Support the Hertfordshire Guide Centre by joining its [200 Club](200-club/). You can win prizes in the monthly prize draw and the additional super draw in December.
