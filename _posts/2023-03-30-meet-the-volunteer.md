@@ -1,5 +1,5 @@
 ---
-title: Meet the volunteer - recuitment campaign resources needed
+title: Meet the volunteer - recruitment campaign resources needed
 date: 2023-03-30T20:01:00.503Z
 image: /assets/images/2023/03/meet-the-volunteer.webp
 categories:
@@ -9,8 +9,7 @@ description: We need your help! We are looking for volunteers to take part in ou
   volunteer' recruitment campaign.
 author:
   display_name: the County Office
-permalink: /volunteer-recuitment-campaign-resources-we-need-your-help/
-lastmod: 2023-03-30T20:03:08.247Z
+lastmod: 2023-04-01T15:23:28.830Z
 ---
 ## We need your help
 
