@@ -9,9 +9,9 @@ categories:
 tags: []
 author:
   display_name: The County Office
-lastmod: 2023-03-02T18:24:42.061Z
+lastmod: 2023-03-23T19:22:09.726Z
 ---
-We&lsquo;re looking for Rainbows, Brownies, Guides, Rangers and Young Leaders to design a colourful festive image for this year&lsquo;s Christmas E-card.
+We&rsquo;re looking for Rainbows, Brownies, Guides, Rangers and Young Leaders to design a colourful festive image for this year&rsquo;s Christmas E-card.
 
 Details of the competition are as follows:
 

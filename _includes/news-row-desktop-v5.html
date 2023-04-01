@@ -1,15 +1,24 @@
 {% capture start %}
 {{ include.start }}
 {% endcapture %}
+{% assign limit = 4 %}
+{% if include.limit %}
+{% assign limit = include.limit | plus: 0 %}
+{% endif %}
 <div class="row row-cols-2 row-cols-lg-4">
-    {% for post in site.posts limit:8 %}
+    {% for post in site.posts limit: limit %}
     <div class="col mb-3">
         <div class="card gg-news-footer h-100">
-            <img loading="lazy" src="{{ post.image }}" alt="" class="card-img-top" />
+            {% assign img = "/assets/images/core/brand-background.webp" %}
+            {% if post.image %}
+            {% assign img = post.image %}
+            {% endif %}
+            <img loading="lazy" src="{{ img }}" alt="" class="card-img-top" />
             <div class="card-body">
                 <h3 class="card-title">{{ post.title }}</h3>
-                <time class="card-text">{{ post.date | date_to_string: "ordinal","GB" }}</time>
-                <p class="card-text">{{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 15 | escape }}</p>
+                <time class="card-text text-muted">{{ post.date | date_to_string: "ordinal","GB" }}</time>
+                <p class="card-text">{% if post.description %}{{ post.description | normalize_whitespace | truncatewords: 15 }}{% else %}{{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 15 |
+                    escape }}{% endif %}</p>
                 
             </div>
             <div class="card-footer bg-transparent text-center pb-3"><a class="btn btn-primary stretched-link" href="{{ post.url }}">Read more<span class="sr-only">: {{
