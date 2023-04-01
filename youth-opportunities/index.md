@@ -15,16 +15,6 @@ Welcome to the Youth Opportunities webpage, the contents of which we hope will s
 
 ## Events
 
-<div class="alert alert-info" markdown="1">
-### County Youth Challenge Day - Bookings Open
-
-For Rangers, Young Leaders and Unit Helpers aged 13+.  
-
-Join us for a fun day of challenges with your county advisers.  
-
-[Find out more](/event/county-youth-challenge-day/){:.btn.btn-primary}
-</div>
-
 Information about forthcoming opportunites for this age group can be found on the county's [Events](/events/) and [Training](/training/) pages
 
 Young Leaders can also find information on the [Girlguiding Anglia's website](https://www.girlguiding-anglia.org.uk/young-leader-opportunities){:.external-link}{:rel="noopener"}{:target="_blank"} about various opportunities available.

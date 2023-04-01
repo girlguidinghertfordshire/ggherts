@@ -1,0 +1,14 @@
+{% for tag in site.tags %}
+{% if tag[0]== include.tag %}
+    {% assign post = tag[1] | first %}  
+<div class="row g-0 overflow-hidden flex-md-row mb-4 position-relative bg-light-blue">
+    <div class="col-auto"><img src="{{ post.image }}" alt=""/></div>
+    <div class="col d-flex flex-column p-2">
+        <h2 class="h5">{{ post.title }}</h2>
+        <p>{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 20 |
+            escape }}{% endif %}</p>
+            <a href="{{ post.url}}" class="btn btn-primary stretched-link">Read more<span class="visually-hidden"> about {{post.title}}</span></a>
+    </div>
+</div>
+  {% endif %}
+{% endfor %}

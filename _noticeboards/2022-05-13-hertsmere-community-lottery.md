@@ -2,12 +2,13 @@
 title: Hertsmere Community Lottery
 date: 2022-05-13T21:01:44.246Z
 image: /assets/images/2022/05/hcl_logo.webp
+published: false
 categories:
   - Fundraising
 tags: []
 author:
   display_name: The County Office
-lastmod: 2022-05-13T21:11:56.142Z
+lastmod: 2023-03-30T21:12:41.240Z
 ---
 Hertsmere Community Lottery is a free online fundraising tool, to raise vital funds for local good causes. Since its launch in December 2021, 25 good causes have registered with 200 supporters, and we are on track to raise around £13,000 for good causes in our local community this year.
 

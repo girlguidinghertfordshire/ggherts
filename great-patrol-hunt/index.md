@@ -24,14 +24,18 @@ It began in 1968, Hertfordshire Scout Patrols competed annually in various ways,
 ## Our Events
 
 - Round 1: Saturday 15 October 2022 \| Borehamwood - **completed**
-- [Round 2: Saturday 11 March 2023 \| St Albans](/event/gph-round-2/) - closing date for entries **extended to Friday 24 February**
-- [Round 3: Friday 30 June - Sunday 2 July 2023](/event/gph-round-3/)
+- Round 2: Saturday 11 March 2023 \| St Albans - **completed**
+- [Round 3: Friday 30 June - Sunday 2 July 2023 \| Letchworth Garden City](/event/gph-round-3/)
 
 ### 2022/23 results
 
 Round 1 of the Great Patrol Hunt was completed on Saturday 15 October 2022:
 
 [Download round 1 results (PDF)](/assets/docs/2022/gph-2022-23-round1-results.pdf){:.download-link.btn.btn-primary.btn-sm}{:rel="noopener"}{:target="_blank"}
+
+Round 2 of the Great Patrol Hunt was completed on Saturday 11 March 2023:
+
+[Download round 2 results (PDF)](/assets/docs/2023/great-patrol-hunt-round-2-results-22-23.pdf){:.download-link.btn.btn-primary.btn-sm}{:rel="noopener"}{:target="_blank"}
 
 ## About the Competition
 

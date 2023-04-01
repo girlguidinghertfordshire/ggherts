@@ -7,8 +7,7 @@ location_map: true
 showMap: true
 banner_image: /assets/images/core/hgc_outdoorview.webp
 validation: countycentreform
-description: The Hertfordshire Guide Centre is located in the village of Cottered in North
-  Herts, and is suitable for meetings, trainings, sleepovers and camps.
+description: How to find and contact the Hertfordshire Guide Centre.
 lastmod: 2022-09-07T20:48:28.022Z
 ---
 ## Where to find us

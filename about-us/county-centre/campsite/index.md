@@ -6,8 +6,7 @@ toc: about-us
 location_map: false
 showMap: false
 banner_image: /assets/images/core/hgc-fire-circle.webp
-description: The Hertfordshire Guide Centre is located in the village of Cottered in North
-  Herts, and is suitable for meetings, trainings, sleepovers and camps.
+description: The Hertfordshire Guide Centre has camping field is perfect for camps, fun days, cookouts and campfires.
 lastmod: 2022-09-07T20:48:28.022Z
 ---
 {:.lead}

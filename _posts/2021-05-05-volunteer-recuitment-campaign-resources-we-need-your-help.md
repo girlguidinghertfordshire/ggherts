@@ -1,21 +1,27 @@
 ---
-title: Volunteer Recuitment Campaign Resources - WE NEED YOUR HELP
-date: 2021-05-05 09:38:00.000000000 +01:00
-image: /wp-content/uploads/2021/05/MeetLeaders.jpg
+title: Meet the volunteer - recuitment campaign resources needed
+date: 2023-03-30T20:01:00.503Z
+image: /assets/images/2023/03/meet-the-volunteer.webp
 categories:
   - Announcements
 tags: []
+description: We need your help! We are looking for volunteers to take part in our 'meet the
+  volunteer' recruitment campaign.
 author:
   display_name: the County Office
 permalink: /volunteer-recuitment-campaign-resources-we-need-your-help/
-lastmod: 2023-03-02T18:35:18.771Z
+lastmod: 2023-03-30T20:03:08.247Z
 ---
-We need your help to create more resources for our volunteer recruitment campaign!
+## We need your help
 
-We know most of our leaders are busy people who juggle busy lives and families - but many potential volunteers think they haven't the time to join us.....
+We are looking for volunteers to take part in our **'meet the volunteer'** recruitment campaign.
 
-SO this is an opportunity to showcase who we really are - ordinary people who together achieve amazing things!
-  
-Simply send your name and guiding name, job title, volunteer role(s), an interesting quote about why you volunteer and two photos (one in guiding uniform, one in work attire) to <communications@girlguidinghertfordshire.org.uk>.
+Previously we have feature some of our wonderful leaders but to showcase the wider variety of volunteer opportunities available within the county this time we are looking for more varied roles.
 
-Please include a completed photo permission form available to download from the [Share With Us](/get-involved/share/) page.
+## Could this be you?
+
+This is your opportunity to showcase who we really are - ordinary people who together achieve amazing things.
+
+Simply send your name, volunteer role and photo, plus your job role and photo, with an interesting quote about why you volunteer and what you enjoy to <communications@girlguidinghertfordshire.org.uk>
+
+Please include a completed photo permission form available to download from the [volunteers' resources page](/about-us/resources/)

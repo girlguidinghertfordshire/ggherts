@@ -28,7 +28,7 @@ layout: default-v5
                             data-month="{{post.date | date: '%Y %b'}}">
                             <div class="card gg-news-card h-100 border-primary">
                                 <h2 class="card-header border-bottom-0 bg-white">{{post.title}}</h2>
-                                <div class="card-body pt-1 pb-2 flex-grow-0"><time class="card-text">{{ post.date |
+                                <div class="card-body pt-1 pb-2 flex-grow-0"><time class="card-text text-muted small">{{ post.date |
                                         date_to_string:
                                         "ordinal","GB" }}</time>
                                 </div>
@@ -39,8 +39,8 @@ layout: default-v5
                                 <img src="{{ img }}" alt="" class="card-img">
                                 <div class="card-body">
                                     <div class="card-text">
-                                        <p>{{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 20 |
-                                            escape }}</p>
+                                        <p>{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 20 |
+                                            escape }}{% endif %}</p>
                                     </div>
                                 </div>
                                 <div class="card-footer border-top-0 bg-white text-end">
