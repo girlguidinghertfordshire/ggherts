@@ -1,0 +1,35 @@
+.section-badge {
+    background: var(--top-left-img) top left no-repeat,
+        var(--top-right-img) top right no-repeat, 
+        var(--bottom-left-img) bottom left no-repeat, 
+        var(--bottom-right-img) bottom right no-repeat var(--section-color);
+    background-size: contain;
+    &.rainbows {
+        --section-color: #{$gg-rainbows-light-blue};
+        --top-left-img: url(/assets/images/core/rainbows-bg-icons-top-left.webp);
+        --top-right-img: url(/assets/images/core/rainbows-bg-icons-top-right.webp);
+        --bottom-left-img: url(/assets/images/core/rainbows-bg-icons-bottom-left.webp);
+        --bottom-right-img: url(/assets/images/core/rainbows-bg-icons-bottom-right.webp)
+    }
+    &.brownies {
+        --section-color: #{$gg-brownies-yellow};
+        --top-left-img: url(/assets/images/core/brownies-bg-icons-top-left.webp);
+        --top-right-img: url(/assets/images/core/brownies-bg-icons-top-right.webp);
+        --bottom-left-img: url(/assets/images/core/brownies-bg-icons-bottom-left.webp);
+        --bottom-right-img: url(/assets/images/core/brownies-bg-icons-bottom-right.webp)
+    }
+    &.guides {
+        --section-color: #{$gg-guides-dark-blue};
+        --top-left-img: url(/assets/images/core/guides-bg-icons-top-left.webp);
+        --top-right-img: url(/assets/images/core/guides-bg-icons-top-right.webp);
+        --bottom-left-img: url(/assets/images/core/guides-bg-icons-bottom-left.webp);
+        --bottom-right-img: url(/assets/images/core/guides-bg-icons-bottom-right.webp)
+    }
+    &.rangers {
+        --section-color: #{$gg-rangers-purple};
+        --top-left-img: url(/assets/images/core/rangers-bg-icons-top-left.webp);
+        --top-right-img: url(/assets/images/core/rangers-bg-icons-top-right.webp);
+        --bottom-left-img: url(/assets/images/core/rangers-bg-icons-bottom-left.webp);
+        --bottom-right-img: url(/assets/images/core/rangers-bg-icons-bottom-right.webp)
+    }
+}

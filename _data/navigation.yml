@@ -85,9 +85,9 @@ what-we-do:
     url: /what-we-do/trefoil/
     items:
     - title: Guilds
-      url: /what-we-do/trefoil/guilds
+      url: /what-we-do/trefoil/guilds/
     - title: Activities and challenges
-      url: /what-we-do/trefoil/activities
+      url: /what-we-do/trefoil/activities/
 for-volunteers:
   title: For volunteers
   url: /volunteers/
@@ -167,9 +167,9 @@ news:
   - title: Noticeboard
     url: /noticeboard/
   - title: Essential news
-    url: /news/essential-news
+    url: /news/essential-news/
   - title: Billboard
-    url: /news/billboard
+    url: /news/billboard/
 contact:
   title: Contact us
   url: /contact-us/
