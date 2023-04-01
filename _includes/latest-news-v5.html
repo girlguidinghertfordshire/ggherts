@@ -5,7 +5,7 @@
             {% assign pages="0" | split: ',' %}
             {% assign newsCount=site.posts | size | plus:0 %}
             {% for newsPage in pages %}
-            {% if newsPage |plus:0 < newsCount %} {% include news-row-desktop-v5.html start=newsPage %} {% endif %} {%
+            {% if newsPage |plus:0 < newsCount %} {% include news-row-desktop-v5.html start=newsPage limit=include.limit %} {% endif %} {%
                 endfor %} </div>
         </div>
 </section>
