@@ -7,7 +7,7 @@ categories:
 tags: []
 author:
   display_name: The County Office
-lastmod: 2023-03-31T08:04:47.097Z
+lastmod: 2023-04-02T07:04:03.239Z
 ---
 Let's work together to enable recruitment campaigns to reach as many people as possible.
 
@@ -43,7 +43,7 @@ Are your district leaders all connected on a WhatsApp group? If not, setting one
 
 Ask leaders to try sharing some of the more suitable posts into their unit WhatsApp groups too - get some parent power behind you! This will multiply the numbers engaging with the post. Again remember to include the URL. It might even encourage parents to consider [volunteering][2]{:target="blank"}{:rel="noopener noreferrer"} themselves.
 
-Find more details on how to take part in our [meet the volunteer campaign.](/volunteer-recuitment-campaign-resources-we-need-your-help/)
+Find more details on how to take part in our [meet the volunteer campaign.](/news/meet-the-volunteer/)
 
 Please contact <communications@girlguidinghertfordshire.org.uk> should you have any questions.
 
