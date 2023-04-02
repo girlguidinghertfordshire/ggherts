@@ -2,6 +2,7 @@
 layout: page-v5
 title: Resources
 toc: for-volunteers
+description: Forms used by Girlguiding Hertfordshire including photo consent
 lastmod: 2022-09-01T19:35:10.039Z
 ---
 ## Forms
