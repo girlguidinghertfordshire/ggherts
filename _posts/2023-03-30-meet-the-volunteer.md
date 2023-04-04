@@ -8,14 +8,15 @@ tags: []
 description: We need your help! We are looking for volunteers to take part in our 'meet the
   volunteer' recruitment campaign.
 author:
-  display_name: the County Office
-lastmod: 2023-04-01T15:23:28.830Z
+  display_name: the county media and communications team
+  email: communications@girlguidinghertfordshire.org.uk
+lastmod: 2023-04-04T09:11:49.943Z
 ---
 ## We need your help
 
 We are looking for volunteers to take part in our **'meet the volunteer'** recruitment campaign.
 
-Previously we have feature some of our wonderful leaders but to showcase the wider variety of volunteer opportunities available within the county this time we are looking for more varied roles.
+Previously we have featured some of our wonderful leaders but to showcase the wider variety of volunteer opportunities available within the county this time we are looking for more varied roles.
 
 ## Could this be you?
 

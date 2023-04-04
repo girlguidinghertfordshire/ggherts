@@ -6,8 +6,9 @@ categories:
   - Announcements
 tags: []
 author:
-  display_name: The County Office
-lastmod: 2023-04-02T07:04:03.239Z
+  display_name: the county media and communications team
+  email: communications@girlguidinghertfordshire.org.uk
+lastmod: 2023-04-04T09:08:32.211Z
 ---
 Let's work together to enable recruitment campaigns to reach as many people as possible.
 
