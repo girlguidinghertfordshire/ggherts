@@ -3,11 +3,11 @@ title: KidZania London
 date: 2022-04-27T19:48:18.179Z
 image: /assets/images/2022/04/kidzania.webp
 categories:
-  - Notice
+  - Things to do
 tags: []
 author:
   display_name: The County Office
-lastmod: 2022-04-27T19:54:34.939Z
+lastmod: 2023-04-04T09:39:41.727Z
 ---
 Get ready for the best youth group adventure at KidZania London!
 

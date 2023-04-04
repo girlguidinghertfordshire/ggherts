@@ -4,11 +4,11 @@ date: 2023-01-23T20:04:13.716Z
 image: /assets/images/2021/10/miltonkeynestheatre.webp
 image_filter: false
 categories:
-  - Notice
+  - Things to do
 tags: []
 author:
   display_name: The County Office
-lastmod: 2023-04-04T09:27:44.436Z
+lastmod: 2023-04-04T09:38:46.031Z
 ---
 Milton Keynes Theatre have lots of fabulous shows coming up, many of which offer group discounts for uniformed groups like Girlguiding.
 

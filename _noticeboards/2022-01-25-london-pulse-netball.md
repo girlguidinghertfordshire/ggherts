@@ -3,13 +3,13 @@ title: London Pulse Netball
 date: 2022-09-20T19:04:38.526Z
 image: /assets/images/2022/01/london-pulse.jpg
 categories:
-  - Notice
+  - Things to do
 tags: []
 author:
   display_name: The County Office
   first_name: null
   last_name: null
-lastmod: 2023-03-03T20:23:42.838Z
+lastmod: 2023-04-04T09:39:03.888Z
 ---
 
 Bring your unit to watch a London Pulse Superleague netball match at the Copperbox Arena on the Olympic Park East London.

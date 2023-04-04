@@ -3,11 +3,11 @@ title: Junior Bake Off
 date: 2023-02-20T20:54:58.059Z
 image: /assets/images/2023/02/junior-bakeoff.webp
 categories:
-  - Notice
+  - TV show
 tags: []
 author:
   display_name: The County Office
-lastmod: 2023-02-20T21:06:22.136Z
+lastmod: 2023-04-04T09:37:59.712Z
 ---
 Love Productions, the company behind The Great British Bake Off, The Great British Sewing Bee and The Great Pottery Throw Down are delighted to announce that applications are now open for the 9th series of Junior Bake Off; a Channel 4 programme that celebrates the culinary talent and ambition of the younger generation.
 

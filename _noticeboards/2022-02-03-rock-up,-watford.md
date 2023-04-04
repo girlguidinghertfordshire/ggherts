@@ -1,15 +1,13 @@
 ---
-title: 'Rock Up, Watford'
-date: '2022-02-03T21:57:48.511Z'
+title: Rock Up, Watford
+date: 2022-02-03T21:57:48.511Z
 image: /assets/images/2022/02/rockup.jpg
 categories:
-    - Notice
+  - Things to do
 tags: []
 author:
-    display_name: The County Office
-    first_name: null
-    last_name: null
-lastmod: '2022-02-03T22:22:39.879Z'
+  display_name: The County Office
+lastmod: 2023-04-04T09:39:22.200Z
 ---
 
 Rock Up is an indoor climbing arena in Watford with over 26 climbing walls to choose from, towering over 8m high with over 70 challenges.

@@ -3,11 +3,11 @@ title: The Dog Academy
 date: 2022-04-27T19:42:48.496Z
 image: /assets/images/2022/04/dog-academy.webp
 categories:
-  - Notice
+  - TV show
 tags: []
 author:
   display_name: The County Office
-lastmod: 2022-04-27T19:53:31.816Z
+lastmod: 2023-04-04T09:38:13.632Z
 ---
 Five Miles Films, the TV company responsible for the Channel 4 series The Dog House, are currently making a brand-new prime time series for Channel 4 called The Dog Academy, all about misbehaving dogs and their owners.
 
