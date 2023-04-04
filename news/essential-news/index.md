@@ -1,7 +1,7 @@
 ---
 layout: page-v5
-title: Essential News
-banner_image: /assets/images/2022/10/essential-news-banner.webp
+title: Essential news
+banner_image: /assets/images/2023/04/essential-news-banner.webp
 date: 2021-09-07T19:51:13.187Z
 toc: news
 lastmod: 2022-09-05T19:23:47.621Z
@@ -10,6 +10,7 @@ _Essential News_ is sent to all **Girlguiding Hertfordshire** members by email o
 
 ## 2023
 
+- [April 2023](https://mailchi.mp/e8a8673ca1db/april-2023-essential-news-10364515){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [March 2023](https://mailchi.mp/09b28eab33fc/march-2023-essential-news-10359783){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [February 2023](https://mailchi.mp/1400c000f351/february-2023-essential-news-10332635){:target="_blank"}{:.external-link}{:rel="noreferrer noopener"}
 - [January 2023](https://mailchi.mp/dda0669819dd/january-2023-essential-news-10122423){:target="_blank"}{:.external-link}{:rel="noreferrer noopener"}
