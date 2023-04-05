@@ -1,0 +1,127 @@
+---
+layout: default-v5
+---
+{% include banner.html %}
+<div class="main-content {{ page.title | slugify }}">
+    <div class="container">
+        {% include breadcrumbs.html %}
+        <div class="row">
+            <div class="col-lg-8 col-xxl-10 order-lg-2 content">
+                <h1>{{ page.title }}</h1>
+                <p>Girlguiding is taking part in the Big Help Out to mark His Majesty The King’s Coronation when
+                    thousands of organisations across the country are getting together to give us all the chance to help
+                    out in our own local communities.</p>
+                <div class="video-wrapper"><iframe title="vimeo-player"
+                        src="https://player.vimeo.com/video/809035349?h=26fd9d1c77" width="640" height="360"
+                        class="border-0" allowfullscreen></iframe></div>
+                <p>Girlguiding Hertfordshire do not endorse any external organisations that may be displayed here.</p>
+
+                <div class="filter-block">
+                    <ul class="category row row-cols-1 row-cols-md-2 row-cols-xxl-3 list-unstyled">
+                        {% assign all_types= '' | split: '' %}
+                        {% for post in site.bighelpout %}
+                        {% for t in post.categories %}
+                        {% unless all_types contains t %}
+                        {% assign tName = t | split: '_' %}
+                        {% assign all_types = all_types | concat: tName %}
+                        {% endunless %}
+                        {% endfor %}
+                        {% endfor %}
+                        {% assign categories = all_types | uniq %}
+                        {% for cat in categories %}
+                        {% assign catPosts = site.bighelpout | where: "categories", cat %}
+                        <li class="col"><span><input type="checkbox" name="{{cat |slugify}}"
+                                    id="cat-filter-{{cat |slugify}}" value="{{cat}}" checked /><label
+                                    for="cat-filter-{{cat |slugify}}">{{cat}}</label></span><span
+                                class="badge bg-primary rounded-pill">{{ catPosts.size }}</span></li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <div class="filter-list pb-4" data-type="news">
+                    <div class="row row-cols-1 row-cols-sm-2 row-cols-xl-3 g-4">
+                        {% assign noticeboards = site.bighelpout | sort: "date" | reverse %}
+                        {% for post in noticeboards %}
+                        <div class="col" data-type="|{{ post.categories | join:'|'}}|"
+                            data-month="{{post.date | date: '%Y %b'}}">
+                            <div class="card gg-news-card h-100 border-primary">
+                                {% assign img = "/assets/images/core/brand-background.webp" %}
+                                {% if post.image %}
+                                {% assign img = post.image %}
+                                {% endif %}
+                                <img src="{{ img }}" alt="" class="card-img-top">
+                                <div class="card-body">
+                                    <h2 class="card-title h5">{{post.title}}</h2>
+                                    <div class="card-text">
+                                        <p>{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt |
+                                            strip_html | normalize_whitespace | truncatewords: 20 |
+                                            escape }}{% endif %}</p>
+                                    </div>
+                                </div>
+                                <div class="card-footer border-top-0 bg-white text-end">
+                                    <a class="btn btn-primary stretched-link" href="{{ post.url }}"><span>Read
+                                            more</span></a>
+                                </div>
+                            </div>
+                        </div>
+                        {% endfor %}
+                        <div class="col">
+                            <div class="card gg-news-card h-100 border-primary">
+                                {% assign img = "/assets/images/core/brand-background.webp" %}
+                                {% if post.image %}
+                                {% assign img = post.image %}
+                                {% endif %}
+                                <img src="{{ img }}" alt="" class="card-img-top">
+                                <div class="card-body">
+                                    <h2 class="card-title h5">Add your event</h2>
+                                    <div class="card-text">
+                                        <p>Add your event to this list.</p>
+                                    </div>
+                                </div>
+                                <div class="card-footer border-top-0 bg-white text-end">
+                                    <a class="btn btn-primary stretched-link"
+                                        href="https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwRrqs7bdo19CnIwI_9Lov51UODhIMTlWSjU2MlNTVVVITDNCM0Q1TUpDSS4u">Add
+                                        your event</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-xxl-2">
+                <nav class="gg-left-menu" aria-label="Site navigation">
+                    <h2><a href="{{ menu.url }}">{{ menu.title }}</a></h2>
+                    <ul class="nav flex-column">
+                        {% for item in menu.items %}
+                        {% assign linkClass="nav-link" %}{% if item.url==page.url %}{% assign linkClass="nav-link
+                        active"%}{% endif %}
+                        <li class="nav-item"><a href="{{ item.url}}" class="{{ linkClass }}" {%if item.url==page.url %}
+                                aria-current="page" {% endif %}>{{ item.title }}</a>{% if item.items %}<ul>
+                                {% for childItem in item.items %}<li {% if item.url==page.url %}
+                                    class="current_page_item" {% endif %}><a href="{{ childItem.url}}" {%if
+                                        childItem.url==page.url %} aria-current="page" {% endif %}>{{ childItem.title
+                                        }}</a></li>{% endfor %} </ul>{% endif %}</li>
+                        {% endfor %}
+                    </ul>
+
+                    {% if page.advertId != '' %}
+                    {% for advert in site.adverts %}
+                    {% if advert.advertId == page.advertId %}
+                    <a href="{{ advert.advert_url }}">
+                        <div class="promo-block">
+                            <div class="promo-description">
+                                <h3>{{ advert.advert_title }}</h3>
+                                <p>{{ advert.advert_description }}</p>
+                            </div>
+                        </div>
+                    </a>
+                    {% break %}
+                    {% endif %}
+                    {% endfor %}
+                    {% endif %}
+                </nav>
+
+            </div>
+        </div>
+    </div>
+    {% include latest-events-v5.html %}
+</div>
