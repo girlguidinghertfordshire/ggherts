@@ -20,7 +20,7 @@ It began in 1968, Hertfordshire Scout Patrols competed annually in various ways,
 
 - Round 1: Saturday 15 October 2022 \| Borehamwood - **completed**
 - Round 2: Saturday 11 March 2023 \| St Albans - **completed**
-- [Round 3: Friday 30 June - Sunday 2 July 2023 \| Letchworth Garden City](/event/gph-round-3/)
+- [Round 3: Friday 30 June - Sunday 2 July 2023 \| Letchworth Garden City](/event/gph-round-3/) - Applications now open
 
 ### 2022/23 results
 
