@@ -32,13 +32,13 @@ Where photos feature groups of girls, this form should be completed by leaders c
 - [Property Loan/Grant Application Form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJUNElSTjJIRFA3SE1KSFJVVzUwUElMRlRHTy4u){:.external-link}{:target="_blank"}{:rel="noopener"}
   - This form is for county grant/loan applications for works/projects on properties leased/owned by Girlguiding Hertfordshire units/districts/divisions
 - [Expenses policy and claim form](/about-us/resources/expenses/)
-- [Unit Registration Form](/assets/docs/2023/unit-registration-form-march-2023.docx){:target="_blank"}{:rel="noopener"}{:.word-link}
+- [Unit Registration Form](/assets/docs/2023/unit-registration-form-march-2023-1.docx){:target="_blank"}{:rel="noopener"}{:.word-link}
   - This form is for requests to open a new unit, reopen a closed unit, or amend unit name or section
 - [Declaration of Interest Form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJUM0xHWVBTV1A0WkIzMzRDRzQ5VjNISUgxRy4u){:target="_blank"}{:rel="noopener"}{:.external-link}
   -This is to identify any areas where there may be competing interests and should be completed annually by all Trustees, Sub-Committee Members and paid staff.
 - [Trustee Confirmation of Eligibility Form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJUNzBCSEQyM0Y0NEs2WkpLN0M2M08yUkpZRS4u){:target="_blank"}{:rel="noopener"}{:.external-link}
   - This form is used by Girlguiding Hertfordshire to enable individuals who hold, or are applying for, a trustee position, to declare that they are not disqualified from holding that position.
-- [County Store Inventory](/assets/docs/2023/cottered-county-store-inventory.pdf)
+- [County Store Inventory](/assets/docs/2023/cottered-county-store-inventory.pdf){:target="_blank"}{:rel="noopener"}{:.download-link}
   - Hertfordshire County has many items available to borrow from the County Store. For a list of items and details of how to book click on the County Store Inventory above.
 
 ___
