@@ -37,6 +37,8 @@ Please email your signed and dated Booking Terms and Conditions to the Bookings 
 
 [2023 Booking Fees](/assets/docs/2023/hertfordshire_guide_centre_fee_chart_2023.pdf){:.btn.btn-secondary.download-link} [Booking Terms and Conditions](/assets/docs/2023/hgc_t_cs.pdf){:.btn.btn-secondary.download-link}{:target="_blank"}{:rel="noreferrer noopener"}
 
+Site visits can be arranged for a Wednesday evening, and should you wish to visit the Guide Centre in advance of your booking please contact the bookings secretary to agree a date and time.
+
 ## Reviews
 
 {% include quote.html quote="We had a lovely stay at Hertfordshire Guide Centre.  The girls enjoyed the space outside to play games and complete activities.  We enjoyed our campfire on Saturday night.  The mattresses were very comfortable" source="​2nd, 3rd and 4th Baldock Brownies" %}
