@@ -36,6 +36,8 @@ collections:
     bighelpout:
       output: true
       permalink: /big-help-out/:title
+    vacancies:
+      output: false
 defaults:
   - scope:
       path: ""
@@ -84,6 +86,11 @@ defaults:
     values:
       layout: "page-v5"
       toc: "news"
+  - scope:
+      path: ""
+      type: "vacancies"
+    values:
+      button_text: "Role description"
 email:
   base_url: "https://email.girlguidinghertfordshire.org.uk/api/"
   apikey: "OifYW6lBBY3CUykd9NhfBeojO8aAYWhdHiJaDa8RFm8="
