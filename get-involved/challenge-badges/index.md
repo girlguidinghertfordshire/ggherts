@@ -3,8 +3,7 @@ layout: page-v5
 title: Challenge Badges
 date: 2021-02-15T22:25:36.000Z
 toc: for-volunteers
-description: "New challenge badges for guiding units in Hertfordshire: Let the Sun Shine,
-  Marathon, Lifesaver, Flower Power and more."
+description: "New challenge badges for guiding units in Hertfordshire: Girls Golf, Forest bathing, Book challenge, Trefoil anniversary and more."
 author:
   display_name: andrew
   first_name: Andrew
@@ -12,28 +11,12 @@ author:
 permalink: /get-involved/challenge-badges/
 lastmod: 2022-09-10T14:38:25.750Z
 ---
-## Eggstraordinary Easter Challenge Badge
-
-![Eggstraordinary Easter Challenge Badge - old design](/assets/images/2023/02/easter-badge.webp){:.float-end.mb-2.ms-2}
-This badge can be completed either in unit meetings or at home independently.
-There are sections for Rainbows, Brownies, Guides, Rangers, Leaders and Trefoil Guild.
-So spring into action and check out all the egg'citing activites in the Easter badge.
-
-Badges cost £1.30 each plus postage.
-
-[Download Challenge Pack and Order Form](/assets/docs/2023/challenge-badge-eggstraordinary-easterv3.pdf){:.btn.btn-primary.download-link}{:target="blank"}{:rel="noopener noreferrer"}
-
-{:.small}
-Challenge pack updated November 2022.
-
-Please be advised that *new stock in production will look different* in appearance to the current badge image due to rebranding.
-
 ## Girls Golf Challenge Badge
 
 ![Badge for Girls Golf Challenge](/assets/images/2022/11/girls-golf.webp){:.ms-3.mb-3.float-end}
 Golf is a fun, friendly activity for everyone, whatever their ability.  
 
-Working with Hertfordshire Golf we have put together the Girls Golf Challenge badge to introduce golf to girls and young women across Hertfordshire county and beyond.
+This award winning joint project with Hertfordshire Golf won the Women & Girls' Trailblazer award in the 2023 England Golf Awards and introduce golf to girls and young woman across Hertfordshire county and beyond.
 
 To earn your Golf Challenge badge you will need to complete activities from each of the five sections detailed within the Challenge pack.  There are a variety of activities and skill levels, which means members from all sections can take part.  
 
@@ -41,14 +24,16 @@ Badges cost £1 each plus postage.  Download the Challenge badge pack to find ou
 
 [Download <span class="visually-hidden">Golf </span>Challenge Pack](/assets/docs/2022/challenge-badge-girls-golf.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [<span class="visually-hidden">Golf </span>Badge Order Form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJURFY2T09OMjQ4Q0JCTlpCWUtQM1I5N0xYMC4u){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
 
-## Gold for Georgia 2022 Challenge Badge
+## Forest bathing challenge badge
 
-![Gold for Georgia 2022 Challenge Badge](/assets/images/2022/09/gold-georgia-2022-challenge-badge.webp){:.pull-right.mb-2.ms-2}
-The Girlguiding Overseas Linked with Development (GOLD) Team are excited to share with you this new challenge badge.  
+![Forest bathing challenge badge](/assets/images/2023/04/forest-badge.webp){:.float-end.mb-2.ms-2}
+Forest bathing, or ‘shinrin-yoku,’ was first developed in Japan in the 1980s as a form of mindfulness.
 
-We hope you enjoy learning about WAGGGS and Georgia, including Girlguiding and Scouting within this beautiful country.
+What better way to enjoy the summer months than a relaxing walk in the Forest or Woods whilst reducing stress levels and improving your concentration and memory.
 
-[Download <span class="visually-hidden">Georgia 2022</span> Challenge Pack and Order Form](/assets/docs/2022/challenge-pack-georgia-2022.pdf){:.btn.btn-primary.download-link}{:target="blank"}{:rel="noopener noreferrer"}
+Badges cost £1.30 each plus postage. Download the Challenge badge pack to find out more about the requirements and activities.
+
+[Download <span class="visually-hidden">forest bathing </span>Challenge Pack](/assets/docs/2023/forest-bathing-challenge-badge_v2.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
 
 ## Book Challenge Badge
 
@@ -75,8 +60,6 @@ Their Challenge pack is filled with ideas for ALL to complete
 
 [Download Challenge Pack](https://cdn.trefoilguild.co.uk/userfiles/files/National/Initiatives/80th%20anniversary/TG_80thAnniversary_challenge_pack.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [Record Sheet](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcdn.trefoilguild.co.uk%2Fuserfiles%2Ffiles%2FNational%2FInitiatives%2F80th%2520anniversary%2F80th_recordsheet.docx&wdOrigin=BROWSELINK){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [Order badges](https://www.girlguidingshop.co.uk/products/adults/trefoil-guild/trefoil-guild-80th-anniversary-challenge-woven-badge--7788/){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
 
-
-
 ## Lifesaver Challenge Badge {#lifesaver}
 
 ![](/wp-content/uploads/2021/01/Lifesaver-badge.png){: .pull-right}{:width="187"}{:height="167"}{:loading="lazy"}
@@ -85,6 +68,15 @@ This badge has been designed to encourage everyone to learn First Aid and to rai
 Once learnt new skills can also be passed on to parents and beyond.
 
 [Download Challenge Pack <i class="fa fa-download"></i>](/assets/docs/2022/challenge-badge-lifesaver-clauses.docx){:.btn.btn-primary} [Order form <i class="fa fa-download"></i>](/assets/docs/2022/challenge-badge-lifesaver-order-form.docx){:.btn.btn-primary}{:target="blank"}{:rel="noopener noreferrer"}
+
+## Gold for Georgia 2022 Challenge Badge
+
+![Gold for Georgia 2022 Challenge Badge](/assets/images/2022/09/gold-georgia-2022-challenge-badge.webp){:.pull-right.mb-2.ms-2}
+The Girlguiding Overseas Linked with Development (GOLD) Team are excited to share with you this new challenge badge.  
+
+We hope you enjoy learning about WAGGGS and Georgia, including Girlguiding and Scouting within this beautiful country.
+
+[Download <span class="visually-hidden">Georgia 2022</span> Challenge Pack and Order Form](/assets/docs/2022/challenge-pack-georgia-2022.pdf){:.btn.btn-primary.download-link}{:target="blank"}{:rel="noopener noreferrer"}
 
 <div class="clearfix"></div>
 
@@ -103,12 +95,12 @@ Badges cost £1.50 each, purchased in packs.
 
 EHAAT can offer a tour at either of our Airbases in North Weald and Earls Colne, where you may get to see the helicopter and meet our crew! Alternatively, one of our Charity representatives can come and talk about your local Air Ambulance’s life-saving work.
 
-[More information and request your Challenge Pack](https://www.ehaat.org/fundraise/challengebadge){:target="_blank"}{:.btn.btn-primary.external-link}{:rel="noreferrer noopener"}
+[More information and request your Challenge Pack](https://ehaat.org/get-involved/schools-groups/challenge-badge/){:target="_blank"}{:.btn.btn-primary.external-link}{:rel="noreferrer noopener"}
 
 ## Previous Challenge Badges - Stock Still Available
 
+- Eggstraordinary Easter Challenge Badge
 - Snow is Falling Challenge Badge
-- Forest Bathing Challenge Badge
 - Marathon Challenge Badge
 - Raise West Hertfordshire NHS Trust Charity Badge
 - Uganda Friendship Challenge Badge
