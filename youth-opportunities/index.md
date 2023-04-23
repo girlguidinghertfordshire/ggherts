@@ -19,6 +19,8 @@ Information about forthcoming opportunites for this age group can be found on th
 
 Young Leaders can also find information on the [Girlguiding Anglia's website](https://www.girlguiding-anglia.org.uk/young-leader-opportunities){:.external-link}{:rel="noopener"}{:target="_blank"} about various opportunities available.
 
+{% include amplify-notice.html %}
+
 ## Young Leader and Young Leader Qualification Registration Process
 
 For more details on adding the YL role to GO and how the YLQ can be registered please visit the [Member System Updates page May 2021 section](/membership-system-updates/2021/#may-2021).
