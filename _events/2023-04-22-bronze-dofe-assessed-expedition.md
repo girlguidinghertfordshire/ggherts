@@ -1,6 +1,7 @@
 ---
 title: Bronze DofE Assessed Expedition
 date: 2022-11-09T22:38:12.308Z
+published: false
 event:
   start_date: 2023-04-22
   end_date: 2023-04-23
@@ -25,7 +26,7 @@ event:
     - Chilterns
 author:
   display_name: The County Office
-lastmod: 2022-11-09T23:02:50.776Z
+lastmod: 2023-04-25T20:05:05.686Z
 ---
 This weekend is aimed at anyone undertaking their **Bronze Duke of Edinburgh's Award** and will run from Saturday 22 April until approximately 4pm Sunday 23 April, in the Chilterns.
 

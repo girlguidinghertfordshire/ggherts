@@ -1,6 +1,7 @@
 ---
 title: Silver DofE Practice weekend
 date: 2022-11-09T22:38:12.308Z
+published: false
 event:
   start_date: 2023-04-21
   end_date: 2023-04-23
@@ -25,7 +26,7 @@ event:
     - Chilterns
 author:
   display_name: The County Office
-lastmod: 2022-11-09T23:02:29.966Z
+lastmod: 2023-04-25T20:04:58.074Z
 ---
 This weekend is aimed at anyone undertaking their **Silver Duke of Edinburgh's Award** and will run from the evening of Friday 21 April until approximately 4pm on Sunday 23 April in the Chilterns.
 
