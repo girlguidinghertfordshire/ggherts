@@ -9,7 +9,7 @@ lastmod: 2023-04-22T16:36:00.000Z
 ---
 Are you enthusiastic about developing young people?
 
-A great opportunity has a risen within the county youth opportunites team and they are looking for someone to join them in supporting and encouraging young leaders, both within their role, and in completing their young leader qualication.
+A great opportunity has arisen within the county youth opportunites team and they are looking for someone to join them in supporting and encouraging young leaders, both within their role, and in completing their young leader qualication.
 
 Could you be the person to inspire the next generation of adult leaders?
 

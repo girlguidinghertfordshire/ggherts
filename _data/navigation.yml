@@ -136,11 +136,8 @@ for-volunteers:
     items:
       - title: Accessing learning platform
         url: /go/
-  - title: Volunteer roles
+  - title: Volunteer vacancies
     url: /get-involved/vacancies/
-    items:    
-    - title: Vacancies
-      url: /get-involved/vacancies/
   - title: Celebrate our members
     url: /celebrate-our-members/
     items:

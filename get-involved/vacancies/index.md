@@ -1,6 +1,6 @@
 ---
 layout: page-v5
-title: Vacancies
+title: Volunteer vacancies
 date: 2019-10-17T10:38:11.000Z
 toc: for-volunteers
 advertId: get-involved
@@ -13,8 +13,6 @@ author:
 permalink: /get-involved/vacancies/
 lastmod: 2022-04-24T07:01:49.097Z
 ---
-## Volunteer vacancies
-
 We have fantastic volunteers who look to the county team for guidance, support and vision. We are looking for new lead volunteers and trainers to fully embrace the programme, spread passion and enthusiasm for guiding to help the county move forward.
 
 {% assign vacancies = site.vacancies | sort: date | reverse %}

@@ -16,7 +16,7 @@ lastmod: 2022-09-10T14:38:25.750Z
 ![Badge for Girls Golf Challenge](/assets/images/2022/11/girls-golf.webp){:.ms-3.mb-3.float-end}
 Golf is a fun, friendly activity for everyone, whatever their ability.  
 
-This award winning joint project with Hertfordshire Golf won the Women & Girls' Trailblazer award in the 2023 England Golf Awards and introduce golf to girls and young woman across Hertfordshire county and beyond.
+This award winning joint project with Hertfordshire Golf won the Women & Girls' Trailblazer award in the 2023 England Golf Awards and introduces golf to girls and young woman across Hertfordshire county and beyond.
 
 To earn your Golf Challenge badge you will need to complete activities from each of the five sections detailed within the Challenge pack.  There are a variety of activities and skill levels, which means members from all sections can take part.  
 
@@ -29,7 +29,7 @@ Badges cost £1 each plus postage.  Download the Challenge badge pack to find ou
 ![Forest bathing challenge badge](/assets/images/2023/04/forest-badge.webp){:.float-end.mb-2.ms-2}
 Forest bathing, or ‘shinrin-yoku,’ was first developed in Japan in the 1980s as a form of mindfulness.
 
-What better way to enjoy the summer months than a relaxing walk in the Forest or Woods whilst reducing stress levels and improving your concentration and memory.
+What better way to enjoy the summer months than a relaxing walk in the forest or woods whilst reducing stress levels and improving your concentration and memory.
 
 Badges cost £1.30 each plus postage. Download the Challenge badge pack to find out more about the requirements and activities.
 
