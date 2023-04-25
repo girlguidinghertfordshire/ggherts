@@ -7,11 +7,10 @@ groups:
       - order: 22
         job_title: County Walking Administration Lead Volunteer
         person_intro: null
-        vacancyurl: /get-involved/vacancies/#county-walking-administration-lead-volunteer
-        emailx: walking@girlguidinghertfordshire.org.uk
+        email: walking@girlguidinghertfordshire.org.uk
 image: null
 thumbnail: null
 author:
   display_name: Rachel Kemp
-lastmod: 2023-04-25T20:08:12.533Z
+lastmod: 2023-04-25T20:18:10.820Z
 ---
