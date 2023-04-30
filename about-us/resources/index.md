@@ -10,7 +10,9 @@ lastmod: 2022-09-01T19:35:10.039Z
 ### Girlguiding Hertfordshire Photograph Consent Forms
 {:#photoconsent}
 
-A photo consent form should be used when submitting photographs for county publicity and when sending Share articles.  
+A photo consent form should be used when submitting photographs for county publicity and when sending Share articles.
+
+[Updated GDPR and photo consent guidance](/assets/docs/2023/gdpr-and-photo-guidance.pdf){:target="_blank"}{:rel="noopener"}{:.btn.btn-primary.download-link}
 
 You can submit consent either via the online forms or use the Word versions.
 
@@ -56,6 +58,7 @@ ___
 - [Going Away With Assessment Request Form](/wp-content/uploads/2016/03/Going-Away-With-Assessment-Request-Form.pdf){:target="_blank"}{:rel="noopener"}{:.download-link}
 - [The Senior Section Permit Assessment Request Form](/wp-content/uploads/2017/05/The-Senior-Section-Permit-Assessment-Request-Form.pdf){:target="_blank"}{:rel="noopener"}{:.download-link}
 - [Guide Camp Permit Assessment Request Form](/wp-content/uploads/2017/05/Guide-Camp-Permit-Assessment-Request-Form.pdf){:target="_blank"}{:rel="noopener"}{:.download-link}
+- [Fire safety guidance for leaders and Girlguiding venue managers for residentials](/assets/docs/2023/fire-safety-guidance.pdf){:target="_blank"}{:rel="noopener"}{:.download-link}
 
 ___
 
