@@ -1,5 +1,6 @@
 ---
 layout: default-v5
+scrollspy: true
 ---
 {% assign year = page.year | plus:0 %}
 {% include banner.html %}
@@ -11,7 +12,7 @@ layout: default-v5
         <div class="row">
             <div class="col-md-8 col-xxl-10 order-md-2 content js-updates">
                 {% for update in updates %}
-                <section id="{{ update.title | slugify }}">
+                <section id="{{ update.title | slugify }}">{{page.Type}}
                     <h2>{{ update.title }}</h2>
                     {{ update.content }}
                 </section>

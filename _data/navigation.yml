@@ -113,11 +113,11 @@ for-volunteers:
     items:
     - title: Virtual ideas and activities
       url: /get-involved/activities/
+  - title: Membership system updates
+    url: /membership-system-updates/
   - title: Running your unit
     url: /unit/
     items:
-    - title: Membership system updates
-      url: /membership-system-updates/
     - title: Challenge badges
       url: /get-involved/challenge-badges/
     - title: Bronze, Silver & Gold badges & certs order form
