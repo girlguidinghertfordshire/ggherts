@@ -56,7 +56,7 @@ Calling all our 14-25 year old members - would you like to make a difference as 
 
 You will be trained how to create a safe space for girls to discuss subjects like self-esteem, mental wellbeing and challenging gender stereotypes. You will visit units and run activities which teach invaluable life tools.
 
-To find out more visit: <https://www.girlguiding.org.uk/making-guiding-happen/programme-and-activities/peer-education/become-a-peer-educator/>{:rel="noopener"}{:target="_blank"}{:.external-link} Complete the e-learning to discover if this is for you!
+To find out more visit: <https://www.girlguiding.org.uk/information-for-volunteers/programme-and-activities/peer-education/become-a-peer-educator/>{:rel="noopener"}{:target="_blank"}{:.external-link}. Complete the e-learning to discover if this is for you!
 
 Contact our County Peer Educator Coordination Lead Volunteer via <peereducators@girlguidinghertfordshire.org.uk> to register your interest.
 
