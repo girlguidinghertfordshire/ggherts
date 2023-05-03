@@ -1,6 +1,7 @@
 ---
 title: Introduction to the Hills
 date: 2022-12-04T19:27:53.661Z
+published: false
 event:
   start_date: 2023-04-28
   end_date: 2023-05-01
@@ -19,7 +20,7 @@ event:
     - Peak District
 author:
   display_name: The County Office
-lastmod: 2022-12-08T19:39:17.750Z
+lastmod: 2023-05-03T21:26:41.128Z
 ---
 Introduction to the Hills (ITTH) is a camping weekend for Hertfordshire Guides and Scouts, aged between 11 and 13, taking place from **Friday 28 April - Monday 1 May 2023** in the Peak District.
 
