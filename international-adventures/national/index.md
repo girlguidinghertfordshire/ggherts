@@ -6,11 +6,13 @@ toc: what-we-do
 banner_image: /assets/images/2022/04/International_banner.jpg
 lastmod: 2022-06-15T19:39:16.311Z
 ---
-## National Opportunities
-
 {% include slider.html slider="international-waggs" %}
 
+## National Opportunities
+
 Girlguiding offers a number of national opportunities, please see their website for the most up to date details: [girlguiding.org.uk/what-we-do/international-adventures](https://www.girlguiding.org.uk/what-we-do/international-adventures/){:.external-link}{:rel="noopener"}{:target="_blank"} Members from the County have taken part in GOLD, Moot, Roverway and the World Scout Jamboree. If you are interested in finding out more from someone with personal experience, then let us know and we can put you in touch.
+
+{% include international-national.html %}
 
 ## WAGGGS Opportunities
 
