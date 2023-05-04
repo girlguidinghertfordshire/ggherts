@@ -1,7 +1,7 @@
 ---
 title: East division commissioner
 date: 2023-04-22T16:23:00.000Z
-image: /assets/images/2023/03/edc-vacancy.webp
+image: /assets/images/2023/05/east-div-commissioner.webp
 download: /assets/docs/2023/vacancies/division-commissioner-role-description.pdf
 categories: []
 tags: []

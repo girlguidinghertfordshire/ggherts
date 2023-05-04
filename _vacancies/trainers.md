@@ -1,7 +1,7 @@
 ---
 title: Trainers
 date: 2023-04-22T16:22:00.000Z
-image: /assets/images/2022/10/bat-vacancies.webp
+image: /assets/images/2023/05/trainers.webp
 download: "/assets/docs/2022/becoming-a-trainer-application-form.docx"
 categories: []
 tags: []
@@ -16,3 +16,4 @@ Visit the [‘becoming a trainer’](https://www.girlguiding.org.uk/making-guidi
 Be that role model for other volunteers and help ensure excellence and consistency across our organisation.
 
 Complete the application form and email it to Anglia region via <angliahq@girlguiding-anglia.org.uk> to apply.
+[]()

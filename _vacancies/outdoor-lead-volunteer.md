@@ -1,7 +1,7 @@
 ---
 title: County outdoor lead volunteer
 date: 2023-04-22T16:30:00.000Z
-image: /assets/images/2023/03/outdoor-lead-volunteer.webp
+image: /assets/images/2023/05/county-outdoor-lead-volunteer.webp
 download: /assets/docs/2023/vacancies/county-outdoor-lead-volunteer.pdf
 categories: []
 tags: []
