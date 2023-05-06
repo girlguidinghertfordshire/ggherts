@@ -2,6 +2,7 @@
 title: ITTH Team Members Wanted
 date: 2023-03-09T20:13:39.465Z
 image: /assets/images/2022/12/ITTH_vacancies_website.webp
+published: false
 categories:
   - Announcements
   - Volunteers
@@ -11,7 +12,7 @@ author:
   display_name: null
   first_name: ""
   last_name: ""
-lastmod: 2023-03-09T20:13:49.394Z
+lastmod: 2023-05-06T09:12:35.650Z
 ---
 The Introduction to the Hills team are looking for volunteers to help with [ITTH 2023](/event/introduction-to-the-hills/).
 
