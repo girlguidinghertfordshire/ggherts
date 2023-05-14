@@ -34,7 +34,7 @@ groups:
   - group: youthopp
     roles:
       - job_title: County Youth Opportunities Lead Volunteer
-        order: 12
+        order: 1
         person_intro: Promotes opportunities to young members. Responsible for the Ranger element, advising and supporting Ranger unit leaders within the county and encourages the transition from Guides to Rangers
         vacancyurl: /get-involved/vacancies/#county-youth-opportunities-lead-volunteer
         emailx: Youthops@girlguidinghertfordshire.org.uk
@@ -42,5 +42,5 @@ image: null
 thumbnail: null
 author:
   display_name: Rachel Kemp
-lastmod: 2023-05-06T09:18:17.306Z
+lastmod: 2023-05-14T07:28:36.899Z
 ---
