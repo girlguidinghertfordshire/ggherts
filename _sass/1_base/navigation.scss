@@ -43,6 +43,7 @@ $menu-width: 250px;
 
         a {
             color: #fff;
+            background-color: $gg-dark-blue;
             font-size: 1.0625rem;
             padding: 5px 0;
             display: block;
@@ -71,7 +72,7 @@ $menu-width: 250px;
     padding: .5rem 0;
 
     .btn {
-        --bs-btn-color: var(--gg-light-blue);
+        --bs-btn-color: var(--gg-dark-blue);
         --bs-btn-padding-y: 0;
         --bs-btn-bg: #fff;
         --bs-btn-border-color: #ced4da;
@@ -84,6 +85,10 @@ $menu-width: 250px;
         font-size: 1.2rem;
         margin: 0 0.5rem;
         border-left-width: 0;
+    }
+    .unibox-sr-only {
+        color: white;
+        background-color: $gg-dark-blue;
     }
 }
 

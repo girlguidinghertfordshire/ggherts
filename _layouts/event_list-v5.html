@@ -67,12 +67,7 @@ layout: default-v5
                                 data-age-group="|{{ event.event.age-group | join: '|'}}|"
                                 data-location="|{{ event.event.location | join: '|'}}|">
                                 <div class="card gg-event-card h-100">
-                                    <figure style="background-image: url('{{ event.event.image}}');"
-                                        class="card-img-top">
-                                        <img src="{{ event.event.image }}" alt="">
-                                        <div class="pattern-one" style="background-color: rgba(78,136,199, 0.85);">
-                                        </div>
-                                    </figure>
+                                        <img src="{{ event.event.image }}" class="card-img-top" alt="">
                                     <div class="card-body">
                                         <div class="card-text">
                                             {% for type in event.event.type %}
@@ -81,7 +76,7 @@ layout: default-v5
                                             {% endunless %}
                                             {% endfor %}
                                         </div>
-                                        <h2 class="card-title"><a href="{{ event.url }}">{{ event.title }}</a></h2>
+                                        <h2 class="card-title">{{ event.title }}</h2>
                                         <time class="card-text">{{ event.event.start_date | date: "%d %b %Y" }}
                                             {% if event.event.end_date != '' and event.event.start_date !=
                                             event.event.end_date %}
@@ -92,7 +87,7 @@ layout: default-v5
                                         </div>
                                     </div>
                                     <div class="card-footer bg-white text-end border-top-0">
-                                        <a href="{{ event.url }}" class="btn btn-primary"><span>More
+                                        <a href="{{ event.url }}" class="btn btn-primary stretched-link"><span>More
                                                 details</span><span class="sr-only">: {{ event.title
                                                 }}</span></a>
                                     </div>
@@ -109,11 +104,11 @@ layout: default-v5
                                         <img src="/assets/images/2023/03/first-aid-events.webp" alt="">
                                     </figure>
                                     <div class="card-body">
-                                        <h2 class="card-title"><a href="/news/external-first-aid-courses/">External
-                                                first aid courses</a></h2>
+                                        <h2 class="card-title">External
+                                                first aid courses</h2>
                                         <div class="card-text">
                                             <p>How to use external first aid training in your Girlguiding role</p>
-                                            <div class="clearfix"><a class="btn btn-primary pull-right"
+                                            <div class="clearfix"><a class="btn btn-primary pull-right stretched-link"
                                                     href="/news/external-first-aid-courses/"><span>Read more</span></a>
                                             </div>
                                         </div>
@@ -129,11 +124,11 @@ layout: default-v5
                                         <img src="/assets/images/2023/03/a-safe-space.webp" alt="">
                                     </figure>
                                     <div class="card-body">
-                                        <h2 class="card-title"><a href="/news/a-safe-space-training/">A safe space
-                                                training</a></h2>
+                                        <h2 class="card-title">A safe space
+                                                training</h2>
                                         <div class="card-text">
                                             <p>Essential guidance and how to book your training.</p>
-                                            <div class="clearfix"><a class="btn btn-primary pull-right"
+                                            <div class="clearfix"><a class="btn btn-primary pull-right stretched-link"
                                                     href="/news/a-safe-space-training/"><span>Read more</span></a></div>
                                         </div>
                                         <div class="clearfix">&nbsp;</div>
@@ -148,11 +143,11 @@ layout: default-v5
                                         <img src="/wp-content/uploads/2021/03/Training-badges-1-360x243.png" alt="">
                                     </figure>
                                     <div class="card-body">
-                                        <h2 class="card-title"><a href="/training-badges/">Training Badges</a></h2>
+                                        <h2 class="card-title">Training Badges</h2>
                                         <div class="card-text">
                                             <p>Log your training hours to claim a pin badge when you reach milestones.
                                             </p>
-                                            <div class="clearfix"><a class="btn btn-primary pull-right"
+                                            <div class="clearfix"><a class="btn btn-primary pull-right stretched-link"
                                                     href="/training-badges/"><span>Read more</span></a></div>
                                         </div>
                                         <div class="clearfix">&nbsp;</div>
@@ -223,7 +218,7 @@ layout: default-v5
                                 <ul class="division age">
                                     {% for section in sections %}
                                     {% if all_ages contains section %}
-                                    <li><input type="checkbox" name="{{section | slugify }}"" id=" age_filter_{{ section
+                                    <li><input type="checkbox" name="{{section | slugify }}"" id="age_filter_{{ section
                                             | slugify }}" value="{{ section }}" />
                                         <label for="age_filter_{{ section | slugify }}">{{ section }}</label>
                                     </li>

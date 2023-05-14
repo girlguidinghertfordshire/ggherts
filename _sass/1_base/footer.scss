@@ -37,7 +37,7 @@
     .link-list {
          h4 {
         font-size: 20px;
-        color: var(--gg-mid-blue);
+        color: var(--gg-light-blue);
         margin: 0 0 20px;
         font-weight: 400;
         }
@@ -52,6 +52,9 @@
                 &:hover,&:focus { text-decoration: underline;}
             }
         }
+    }
+    .tweet-list>a {
+        color: #fff;
     }
 }
 .bottom-footer {

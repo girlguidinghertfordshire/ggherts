@@ -78,20 +78,11 @@ const breakpoint = { xs: 0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400 };
 (function ($, w, d) {
     const tweetList = d.querySelectorAll(".tweet-list")[0];
     const hgcmap = d.getElementById("hgcmap");
-    const social = d.querySelectorAll(".social-media")[0];
-    let isTwitterLoaded = false, isMapLoaded = false, isSocialLoaded = false;
+    let isTwitterLoaded = false, isMapLoaded = false;
     function lazyLoad() {
         const viewportHeight = w.innerHeight || d.documentElement.clientHeight;
         const tPos = tweetList.getBoundingClientRect().top;
         const mPos = hgcmap.getBoundingClientRect().top;
-        const sPos = social.getBoundingClientRect().top;
-        if (!isSocialLoaded && sPos - viewportHeight < 100) {
-            isSocialLoaded = true;
-            const script = document.createElement('script');
-            script.setAttribute('src', '//w.sharethis.com/button/buttons.js');
-            script.setAttribute('type', 'text/javascript');
-            document.getElementsByTagName('head')[0].appendChild(script);
-        }
         if (!isTwitterLoaded && (tPos - viewportHeight < 100)) {
             isTwitterLoaded = true;
             $("body").append('<script async src="https://platform.twitter.com/widgets.js" charset="utf-8" />');
