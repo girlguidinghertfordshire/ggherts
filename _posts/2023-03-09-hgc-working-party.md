@@ -2,6 +2,7 @@
 title: Hertfordshire Guide Centre Working Party - Volunteer now
 date: 2023-03-09T19:35:31.652Z
 image: /assets/images/2023/03/hgc-big-help-out.webp
+published: false
 categories:
   - Announcements
   - Volunteers
@@ -12,7 +13,7 @@ author:
   display_name: null
   first_name: ""
   last_name: ""
-lastmod: 2023-04-22T14:42:38.511Z
+lastmod: 2023-05-17T21:03:32.079Z
 ---
 Taking place on the extra Coronation Bank Holiday, Monday 8th May, between 10am - 3pm* as part of the [Big Help Out](https://thebighelpout.org.uk/){:external-link}{:target="_blank"}{:rel="noopener"}
 
