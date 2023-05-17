@@ -3,6 +3,7 @@ layout: page-v5
 title: National & WAGGGS Opportunities
 date: 2018-06-07 20:45:10.000000000 +01:00
 toc: what-we-do
+carousel: true
 banner_image: /assets/images/2022/04/International_banner.jpg
 lastmod: 2022-06-15T19:39:16.311Z
 ---

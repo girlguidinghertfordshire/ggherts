@@ -5,6 +5,7 @@ date: 2016-03-04T12:50:17.000Z
 toc: about-us
 location_map: false
 showMap: false
+carousel: true
 banner_image: /assets/images/core/hgc-fire-circle.webp
 description: The Hertfordshire Guide Centre has camping field is perfect for camps, fun days, cookouts and campfires.
 lastmod: 2022-09-07T20:48:28.022Z

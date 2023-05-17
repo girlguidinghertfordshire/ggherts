@@ -4,6 +4,7 @@ title: Indoor Accomodation
 date: 2022-09-07T20:48:28.022Z
 toc: about-us
 location_map: false
+carousel: true
 showMap: false
 banner_image: /assets/images/core/hgc_outdoorview.webp
 description: The Hertfordshire Guide Centre holiday house is perfect for unit holidays and other indoor residentials, as well as daytime and evening events.

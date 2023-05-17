@@ -3,6 +3,7 @@ layout: page_full-v5
 title: Great Patrol Hunt
 date: 2021-08-18T21:08:03.000Z
 toc: events
+carousel: true
 banner_image: /assets/images/2022/04/GPH_Collage.jpg
 description: The Great Patrol Hunt is a competition for Guides. It takes place over three rounds culminating in a residential weekend.
 lastmod: 2022-09-03T10:01:02.547Z
