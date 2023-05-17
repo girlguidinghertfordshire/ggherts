@@ -15,7 +15,7 @@ lastmod: 2022-09-07T20:48:28.022Z
 {:.lead}
 The Hertfordshire Guide Centre, owned by Girlguiding Hertfordshire, is situated in the lovely village of Cottered in North Hertfordshire.
 
-![Hertfordshire Guide Centre Campsite](/assets/images/2022/04/hgc_campsite.jpg){:.d-block.mx-auto.img-fluid}
+![Hertfordshire Guide Centre Campsite](/assets/images/2023/05/hgc-campsite-view.webp){:.d-block.mx-auto.img-fluid}
 
 ## Facilities
 
@@ -31,11 +31,11 @@ Support the Hertfordshire Guide Centre by joining its [200 Club](200-club/). You
 
 Please use the calendar to check availability.  Booking requests can be submitted directly via the calendar or by contacting the Bookings Secretary on <hgcbookings@girlguidinghertfordshire.org.uk>
 
-[Availability Calendar](https://v2.hallmaster.co.uk/Scheduler/View/11336?startRoom=0){:.external-link.btn.btn-primary}{:target="_blank"}{:rel="noreferrer noopener"}
+[Availability Calendar](https://v2.hallmaster.co.uk/Diary/ViewWeeklyDiary/11336){:.external-link.btn.btn-primary}{:target="_blank"}{:rel="noreferrer noopener"}
 
 Please email your signed and dated Booking Terms and Conditions to the Bookings Secretary via <HGCbookings@girlguidinghertfordshire.org.uk> within 14 days of confirmation that your provisional booking has been accepted.
 
-[2023 Booking Fees](/assets/docs/2023/hertfordshire_guide_centre_fee_chart_2023.pdf){:.btn.btn-secondary.download-link} [Booking Terms and Conditions](/assets/docs/2023/hgc-booking-conditions-april-23.pdf){:.btn.btn-secondary.download-link}{:target="_blank"}{:rel="noreferrer noopener"}
+[2023 Booking Fees](/assets/docs/2023/hertfordshire_guide_centre_fee_chart_2023.pdf){:.btn.btn-secondary.download-link} [Booking Terms and Conditions](/assets/docs/2023/hgc-booking-conditions-may-23.pdf){:.btn.btn-secondary.download-link}{:target="_blank"}{:rel="noreferrer noopener"}(Updated May 2023)
 
 Site visits can be arranged for a Wednesday evening, and should you wish to visit the Guide Centre in advance of your booking please contact the bookings secretary to agree a date and time.
 

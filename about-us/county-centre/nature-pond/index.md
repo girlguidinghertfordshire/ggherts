@@ -5,7 +5,7 @@ date: 2016-03-04T12:50:17.000Z
 toc: about-us
 location_map: false
 showMap: false
-banner_image: /assets/images/core/hgc_outdoorview.webp
+banner_image: /assets/images/2023/05/hgc-pond-ducks.webp
 description: The Hertfordshire Guide Centre has a natural pond with accessible pathway.
 lastmod: 2022-09-07T20:48:28.022Z
 ---
