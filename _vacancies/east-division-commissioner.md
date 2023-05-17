@@ -1,18 +1,17 @@
 ---
-title: East division commissioner
+title: Current opportunities
 date: 2023-04-22T16:23:00.000Z
-image: /assets/images/2023/05/east-div-commissioner.webp
+image: /assets/images/2023/05/division-commissioners.webp
 download: /assets/docs/2023/vacancies/division-commissioner-role-description.pdf
-categories: []
+categories: 
+    - Divisions
 tags: []
 lastmod: 2023-04-22T16:23:00.000Z
 ---
-Do you have what it takes to move Girlguiding forward across the whole division, whilst leading a dedicated team?
+- **East division commissioner** covering Bishop's Stortford, Buntingford, Hertford, Sawbridgeworth and High Wych, Ware districts.
+- **Harpenden and Redbourn division commissioner** covering Harpenden Central, Harpenden Southdown and Redbourn districts.
+- **North division commissioner** covering Baldock, Hitchin, Letchworth, Royston and Stotfold districts.
 
-This fantastic opportunity to influence and create real change in the east division (covering Ware, Hertford, Sawbridgeworth, High Wych, Bishop's Stortford and Buntingford) has become available.
-
-Make a positive difference to others and improve opportunities for girls and young women.
-
-The division commissioner role can be done as a job share and a division team created to enable delegation of some of the commissioner tasks. Further details of what the role entails can be found below.
+Further details of what the division commissioner role entails can be found below.
 
 Please apply via <cc@girlguidinghertfordshire.org.uk>.

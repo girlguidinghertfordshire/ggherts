@@ -3,7 +3,8 @@ title: County walking lead volunteer
 date: 2023-04-22T16:36:00.000Z
 image: /assets/images/2023/05/county-walking-leader-lead-volunteer.webp
 download: /assets/docs/2023/vacancies/county-walking-lead-volunteer.pdf
-categories: []
+categories: 
+    - County team
 tags: []
 lastmod: 2023-04-22T16:36:00.000Z
 ---

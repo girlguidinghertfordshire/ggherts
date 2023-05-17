@@ -1,6 +1,7 @@
 ---
 title: Trainers
 date: 2023-04-22T16:22:00.000Z
+published: false
 image: /assets/images/2023/05/trainers.webp
 download: "/assets/docs/2022/becoming-a-trainer-application-form.docx"
 categories: []
