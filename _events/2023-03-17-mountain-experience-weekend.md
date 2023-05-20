@@ -1,6 +1,7 @@
 ---
 title: Mountain Experience Weekend
 date: 2022-09-10T13:35:39.433Z
+published: false
 event:
   start_date: 2023-03-17
   end_date: 2023-03-19
@@ -26,7 +27,7 @@ event:
     - Peak District
 author:
   display_name: The County Office
-lastmod: 2022-12-01T20:32:35.291Z
+lastmod: 2023-05-20T13:11:25.170Z
 ---
 Mountain Experience is a fun walking/navigation weekend primarily for **Rangers** (adults also welcome) to improve upon personal skills whilst meeting likeminded individuals.  
 

@@ -1,6 +1,7 @@
 ---
 title: Mountain Navigation Training Weekend
 date: 2022-09-18T15:07:35.316Z
+published: false
 event:
   start_date: 2023-03-17
   end_date: 2023-03-19

@@ -1,6 +1,7 @@
 ---
 title: International Opportunities Selection Days
 date: 2023-01-21T10:09:42.247Z
+published: false
 event:
   start_date: 2023-04-01
   end_date: 2023-04-02
@@ -21,7 +22,7 @@ event:
     - Hertfordshire, East
 author:
   display_name: The County Office
-lastmod: 2023-02-02T19:22:52.423Z
+lastmod: 2023-05-20T13:11:10.802Z
 ---
 Would you or any of your girls like to be considered for an international trip or to join a Girlguiding Hertfordshire group going to an event in the UK?
 

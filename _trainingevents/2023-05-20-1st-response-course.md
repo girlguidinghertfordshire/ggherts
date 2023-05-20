@@ -1,6 +1,7 @@
 ---
 title: 1st Response Course
 date: 2023-03-01T21:59:23.105Z
+published: false
 event:
   start_date: 2023-05-20
   end_date: ""

@@ -1,6 +1,7 @@
 ---
 title: Relaxed Social Walking Weekend
 date: 2023-02-06T20:22:11.244Z
+published: false
 event:
   start_date: 2023-05-19
   end_date: 2023-05-21
@@ -20,7 +21,7 @@ event:
     - Wales, Black Mountains
 author:
   display_name: The County Office
-lastmod: 2023-02-06T20:43:39.770Z
+lastmod: 2023-05-20T13:07:26.324Z
 ---
 Social walking in the Black Mountains, Wales, for pure pleasure, or to help those wanting to build up their logbook walks for Levels 1 and 2 of the Walking Scheme. You choose.
 
