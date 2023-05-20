@@ -6,12 +6,11 @@ groups:
     roles:
       - order: 8
         job_title: County training administration lead volunteer
-        person_intro: Coordinates and organises the training and ongoing development of
-          Leaders.
+        person_intro: Coordinates and organises the training and ongoing development of Leaders.
         email: Guidingdev@girlguidinghertfordshire.org.uk
   - group: divcomm
     roles:
-      - order: 54
+      - order: 9
         job_title: Stevenage division commissioner
         person_intro: null
         email: stevenagedivision@girlguidinghertfordshire.org.uk
@@ -19,7 +18,7 @@ image: /wp-content/uploads/2021/06/Karin-Hunter1-445x507.jpg
 thumbnail: /wp-content/uploads/2021/06/Karin-Hunter1-360x243.jpg
 author:
   display_name: GGH-Admin1
-lastmod: 2023-03-29T21:09:08.785Z
+lastmod: 2023-05-20T13:26:50.144Z
 ---
 Over the years, as many of my friends will tell you, Girlguiding has become such a BIG part of my life, having started my Girlguiding journey many moons ago as a Brownie, then a Guide belonging to two units so that I could camp as often as I could, I sadly had to step away from guiding for many years as my career then took over my life, but then had the chance to re-enter when my own daughter joined Rainbows.
 

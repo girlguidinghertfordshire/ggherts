@@ -4,7 +4,7 @@ date: 2022-06-07T19:30:57.560Z
 groups:
   - group: divcomm
     roles:
-      - order: 51
+      - order: 2
         job_title: East Division Commissioner
         person_intro: null
         vacancyurl: /get-involved/vacancies/#east-division-commissioner
@@ -35,12 +35,12 @@ groups:
     roles:
       - job_title: County Youth Opportunities Lead Volunteer
         order: 1
-        person_intro: Promotes opportunities to young members. Responsible for the Ranger element, advising and supporting Ranger unit leaders within the county and encourages the transition from Guides to Rangers
+        person_intro: Heads up the county youth opportunities team and promotes opportunities to young members.
         vacancyurl: /get-involved/vacancies/#county-youth-opportunities-lead-volunteer
         emailx: Youthops@girlguidinghertfordshire.org.uk
 image: null
 thumbnail: null
 author:
   display_name: Rachel Kemp
-lastmod: 2023-05-14T07:28:36.899Z
+lastmod: 2023-05-20T13:24:24.833Z
 ---
