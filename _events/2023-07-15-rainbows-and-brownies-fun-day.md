@@ -9,7 +9,7 @@ event:
   contact_email: events@girlguidinghertfordshire.co.uk
   contact_number: ""
   book_now_link: https://forms.office.com/pages/responsepage.aspx?id=3yob_CzTykeMNWNnWM6OwRrqs7bdo19CnIwI_9Lov51UQjdIMU02RkRUNzVDNEVHVExXTE1XTDc0VC4u
-  image: /assets/images/2023/05/pwp.webp
+  image: /assets/images/2023/05/pwp1.webp
   type:
     - Activity
   age-group:
@@ -17,7 +17,7 @@ event:
     - Brownies
   location:
     - Hertfordshire, South East
-lastmod: 2023-05-17T21:10:50.157Z
+lastmod: 2023-05-29T16:55:24.081Z
 ---
 *Bookings now open!*
 

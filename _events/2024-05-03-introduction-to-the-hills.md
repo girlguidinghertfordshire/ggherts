@@ -9,7 +9,7 @@ event:
   contact_email: null
   contact_number: ""
   book_now_link: ""
-  image: /assets/images/2023/05/itth-2024.webp
+  image: /assets/images/2023/05/itth-2024-1.webp
   type:
     - Activity
     - Residential
@@ -18,7 +18,7 @@ event:
   location:
     - Peak District
 permalink: /event/2024/introduction-to-the-hills/
-lastmod: 2023-05-20T13:06:27.335Z
+lastmod: 2023-05-29T16:58:04.720Z
 ---
 **Save the date.**
 

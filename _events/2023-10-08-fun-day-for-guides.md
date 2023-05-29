@@ -9,14 +9,14 @@ event:
   contact_email: events@girlguidinghertfordshire.org.uk
   contact_number: ""
   book_now_link: ""
-  image: /assets/images/2023/05/phasels.webp
+  image: /assets/images/2023/05/phasels1.webp
   type:
     - Activity
   age-group:
     - Guides
   location:
     - Hertfordshire, West
-lastmod: 2023-05-17T21:23:35.610Z
+lastmod: 2023-05-29T16:57:52.640Z
 ---
 Let us know if you would like to join this county day for Guides on Sunday 8 October from approximately 9.30am - 5pm in Kings Langley. During the day the guides will be able to participate in 4 activities (2 instructor lead and 2 lead by volunteers.)
 

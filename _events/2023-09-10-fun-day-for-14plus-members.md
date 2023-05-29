@@ -9,7 +9,7 @@ event:
   contact_email: events@girlguidinghertfordshire.co.uk
   contact_number: ""
   book_now_link: ""
-  image: /assets/images/2023/05/rangers-plus.webp
+  image: /assets/images/2023/05/rangers-plus1.webp
   type:
     - Activity
   age-group:
@@ -21,7 +21,7 @@ event:
     - Trefoil
   location:
     - Bedfordshire
-lastmod: 2023-05-17T21:18:13.214Z
+lastmod: 2023-05-29T16:57:03.384Z
 ---
 Calling all young members aged 14+
 
