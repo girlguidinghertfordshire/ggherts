@@ -21,7 +21,7 @@ Our privacy notice sets out how Girlguiding Hertfordshire* gathers, uses, disclo
 
 This privacy notice was prepared to be as comprehensive as possible, but it does not include an exhaustive list of every aspect our collection and use of personal information. However, we would be happy to provide any further information or explanation about our practices. If you have any questions about this notice, please contact us using the details in the “Get in touch” section below.
 
-## Who ‘Girlguiding Hertfordshire’, ‘we’ or ‘us’ are:
+## Who ‘Girlguiding Hertfordshire’, ‘we’ or ‘us’ are
 
 "Girlguiding Hertfordshire", "Us", "We" or "Our" refers to the registered charity The Guide Association County of Hertfordshire, Registered Charity Number 274225.
 
@@ -41,7 +41,7 @@ We collect the following personal information:
 
 - Your name;
 - Your parents/guardian’s name;
-- Contact details (including your postal address, telephone number(s) and email address;
+- Contact details (including your postal address, telephone number(s) and email address);
 - Your date of birth;
 - Your payment details (bank and/or credit card details) (if you donate to us or make a payment or purchase with us)
 - Records of your correspondence and engagement with us;
@@ -90,7 +90,7 @@ We send the following types of marketing materials:
 
 You can withdraw your consent, unsubscribe from or update your marketing preferences at any point using the details in the “Get in touch” section below.
 
-If you make any changes to your consent, we will update your record as soon as we possibly can. It may take up to 60 days for our systems to update and stop any postal communications from being sent to you. E-mail communications will however be stopped immediately. If you tell us you do not wish to receive marketing, fundraising or campaign communications, you may still receive transactional and service-based communications confirming and servicing other relationships you have with us (as described below). You can also opt-out of receiving fundraising communications from us by signing up to the Fundraising Preference Service (<a href="https://www.fundraisingregulator.org.uk/the-fundraising-preference-service" target="_blank" rel="noopener">https://www.fundraisingregulator.org.uk/the-fundraising-preference-service</a>)
+If you make any changes to your consent, we will update your record as soon as we possibly can. It may take up to 60 days for our systems to update and stop any postal communications from being sent to you. E-mail communications will however be stopped immediately. If you tell us you do not wish to receive marketing, fundraising or campaign communications, you may still receive transactional and service-based communications confirming and servicing other relationships you have with us (as described below). You can also opt-out of receiving fundraising communications from us by signing up to the Fundraising Preference Service ([https://www.fundraisingregulator.org.uk/the-fundraising-preference-service](https://www.fundraisingregulator.org.uk/the-fundraising-preference-service){:.external-link}{:rel="noopener"}{:target="_blank"})
 
 We may also analyse your personal information and create a profile of your interests and preferences. This allows us to ensure communications are relevant and timely and provide an improved experience for our supporters. It also helps us understand the background of our supporters so that we can make appropriate requests to those who may be willing and able to give more than they already do, enabling us to raise funds sooner and more cost-effectively.
 
@@ -223,18 +223,14 @@ Cottered
 Buntingford  
 Herts, SG9 9QP
 
-Alternatively, you can email our Data Protection Officer <a href="mailto:Countysec@girlguidinghertfordshire.org.uk">Countysec@girlguidinghertfordshire.org.uk</a> or telephone 07437354158 or 07785274267
+Alternatively, you can email our Data Protection Officer <admin@girlguidinghertfordshire.org.uk> or telephone [07918 167 366](tel:+447918167366) or [07785 274 267](tel:+447785274267)
 
 If you have any complaints about the way in which Girlguiding Hertfordshire has used your data please get in touch with us using the details in this “Get in touch” section. We would be happy to help and discuss your concerns.
 
-In addition, you are also entitled to make a complaint to the Information Commissioner’s Office (<a href="http://www.ico.org.uk" target="_blank" rel="noopener">www.ico.org.uk</a>) and the Fundraising Regulator (<a href="http://www.fundraisingpreference.org.uk" target="_blank" rel="noopener">www.fundraisingpreference.org.uk</a>).
+In addition, you are also entitled to make a complaint to the Information Commissioner’s Office ([www.ico.org.uk](https://www.ico.org.uk){:.external-link}{:rel="noopener"}{:target="_blank"}) and the Fundraising Regulator ([www.fundraisingpreference.org.uk](http://www.fundraisingpreference.org.uk){:.external-link}{:rel="noopener"}{:target="_blank"}).
 
-<strong>Changes to this privacy notice</strong>
+## Changes to this privacy notice
+
 This privacy notice may change from time to time. Please visit this website section periodically in order to keep up to date with the changes in our privacy notice.
-
-© Girlguiding  
-17-19 Buckingham Palace Road  
-London  
-SW1W 0PT
 
 This privacy notice was last updated on 20 June 2022.
