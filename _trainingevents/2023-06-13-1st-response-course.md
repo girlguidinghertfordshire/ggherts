@@ -9,7 +9,7 @@ event:
   contact_email: null
   contact_number: ""
   book_now_link: "https://www.eventbrite.co.uk/e/girlguiding-hertfordshire-1st-response-course-2-x-3-hour-sessions-tickets-633476163257"
-  image: "/assets/images/2022/09/1st-response.webp"
+  image: /assets/images/2023/06/1st-response.webp
   type:
     - 1st Response
   age-group:
