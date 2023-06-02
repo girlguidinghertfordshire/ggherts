@@ -26,11 +26,6 @@ groups:
         person_intro: Promotes all forms of walking activities from scavenger hunts to mountaineering. Supports members undertaking Walking Scheme training and advises on walking events.
         vacancyurl: /get-involved/vacancies/#county-walking-lead-volunteer
         emailx: walking@girlguidinghertfordshire.org.uk
-      - order: 22
-        job_title: County Walking Administration Lead Volunteer
-        person_intro: null
-        vacancyurl: /get-involved/vacancies/#county-walking-administration-lead-volunteer
-        emailx: walking@girlguidinghertfordshire.org.uk
   - group: youthopp
     roles:
       - job_title: County Youth Opportunities Lead Volunteer
@@ -42,5 +37,5 @@ image: null
 thumbnail: null
 author:
   display_name: Rachel Kemp
-lastmod: 2023-05-20T13:24:24.833Z
+lastmod: 2023-06-02T12:07:19.727Z
 ---
