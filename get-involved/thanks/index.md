@@ -27,7 +27,7 @@ all that is done within guiding, including [County](#county), [Region](#region)Â
 
 Do you know a member or volunteer in your district, division or county who is special, and you feel deserves recognition for what they do or have done for Guiding in Hertfordshire but been put off nominating them in the past by the complicated process?  Then youâ€™ll be pleased to hear we have created a new, easy to use, online nomination process and girls and parents can now make nominations.  It is open to all and fully inclusive.
 
-Nominations for awards received by **Wednesday 31 May 2023**{:.fs-5} will be considered for this year's award ceremony. Nominations received after this date will be consider for next year.
+Nominations for the 2023 award ceremony have now closed. You can still submit nominations which will be considered for the 2024 awards.
 
 [Online Nomination Form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwRrqs7bdo19CnIwI_9Lov51UMDVOTzhWNlFHOUdXN0o5SzNMOE9NTVJWQy4u){:.btn.btn-primary}{:rel="noopener"}{:target="_blank"}
 
