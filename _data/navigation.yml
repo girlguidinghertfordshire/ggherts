@@ -97,7 +97,7 @@ for-volunteers:
   - title: Forms and resources
     url: /forms-resources/
     items:
-    - title: Resources and links
+    - title: Forms
       url: /about-us/resources/
     - title: Expenses
       url: /about-us/resources/expenses/
@@ -106,6 +106,10 @@ for-volunteers:
           url: /about-us/resources/expenses/commissioners/
         - title: County trainers
           url: /about-us/resources/expenses/trainers/
+    - title: Stationery
+      url: /volunteers/stationery/
+    - title: Going Away With Scheme
+      url: /volunteers/going-away/
     - title: Wellbeing resources
       url: /about-us/wellbeing-resources-and-links/
     - title: County archives

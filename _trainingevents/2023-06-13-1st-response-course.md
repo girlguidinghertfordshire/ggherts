@@ -28,7 +28,7 @@ This 1st Response course taking place over 2 evenings, **Tuesday 13 and Tuesday 
 
 Both sessions run from **7pm - 10pm** and both must be attended to achieve the qualification.
 
-Cost: **£20** - details of payment methods are included within the booking confirmation email 
+Cost: **£20** - details of payment methods are included within the booking confirmation email
 
 Deadline for bookings: **Friday 9 June**
 
