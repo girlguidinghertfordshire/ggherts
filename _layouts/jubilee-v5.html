@@ -16,25 +16,6 @@ layout: default-v5
             </div>
         </div>
     </div>
-    {% if page.layout=="county_team"%}
-    {% include countyteam.html %}
-    {% include noticeboard-footer.html %}
-    {% endif %}
-    {% if page.showMap %}
-    {% include countycentre.html %}
-    {% endif %}
-    {% for inc in page.includes %}
-    {% case inc %}
-    {% when "Events" %}
-    {% include latest-events-v5.html %}
-    {% when "News" %}
-    {% include latest-news-v5.html %}
-    {% when "Noticeboard" %}
-    {% include noticeboard-footer-v5.html %}
-    {% else %}
-    <!-- Unknown include: {{ inc }}-->
-    {% endcase %}
-    {% endfor %}
 </div>
 <div class="modal fade" id="getInvolved" tabindex="-1" aria-labelledby="getInvolvedLabel" aria-hidden="true">
     <div class="modal-dialog">
