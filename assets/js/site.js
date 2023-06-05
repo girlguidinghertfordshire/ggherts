@@ -188,8 +188,8 @@ const breakpoint = { xs: 0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400 };
 // Add in-page links for membership system pages
 (function ($) {
     $.when($.ready).then(function () {
-        const pages = ["membership-system-updates"]; //classes added to main-content section used to filter which pages this runs on
-        const page = pages.find(pageClass => $(".main-content").hasClass(pageClass));
+        const pages = ["membership"]; //classes added to body tag used to filter which pages this runs on
+        const page = pages.find(pageClass => $("body").hasClass(pageClass));
         if (typeof (page) === "undefined" || page == null) {
             return;
         }

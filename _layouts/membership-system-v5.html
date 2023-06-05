@@ -46,6 +46,14 @@ scrollspy: true
                                 }}</a></li>
                         {% endfor %}
                     </ul>
+                    {% assign year = "today" | date: "%Y" %}
+                    <h2>By year</h2>
+                    <ul class="nav flex-column">
+                        {% assign yrange = (2018..year)%}
+                    {% for y in yrange reversed %}
+                    <li class="nav-item"><a href="/membership-system-updates/{{ y}}/">{{y}}</a></li>
+                    {% endfor %}
+                </ul>
                 </nav>
                 {% endif %}
             </div>

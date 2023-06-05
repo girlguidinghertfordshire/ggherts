@@ -1,5 +1,5 @@
 ---
-layout: membership-system-v5
+layout: page-v5
 title: 2020 Membership System Updates
 date: 2016-11-29 10:28:52.000000000 +00:00
 toc: membership
@@ -250,51 +250,51 @@ A list of the 5,10 and 20 year long service awards awarded in January is as foll
 
 <span style="text-decoration: underline;">20 year service</span>
 
-Christina Penn
-Julia Cheek
-Sue Turgoose
-Alison Bygrave
+Christina Penn  
+Julia Cheek  
+Sue Turgoose  
+Alison Bygrave  
 
 <span style="text-decoration: underline;">10 year service</span>
 
-Linda Kane
-Julia Keddie
-Hannah Kiely
-Helena Price
-Julie Murrell
-Ashley Wood
-Emily Stone
-Sarah Jacobs
-Katie Southwell
-Jean Lewsley
-Sue Jarvis
-Dominique Spillett
-Nik Ward
-Sarah Hillcoat
-Sue Coleman
+Linda Kane  
+Julia Keddie  
+Hannah Kiely  
+Helena Price  
+Julie Murrell  
+Ashley Wood  
+Emily Stone  
+Sarah Jacobs  
+Katie Southwell  
+Jean Lewsley  
+Sue Jarvis  
+Dominique Spillett  
+Nik Ward  
+Sarah Hillcoat  
+Sue Coleman  
 
 <span style="text-decoration: underline;">5 year service</span>
 
-Megan Jones
-Naomi Divall
-Becky Robinson
-Ciara McMorrow
-Emma Russell
-Karen Searle
-Abbie Staniforth
-Sarah Lord
-Sally Settle
-Jane Hudson
-Ashleigh Goldspring
-Amy Rutledge
-Lilli Gibson
-Jessica Mazzola
-Sarah Brown
-Jessica Clode
-Beth Taperell
-Sue Waite
-Sofia Da Silva
-Elaine Reed
+Megan Jones  
+Naomi Divall  
+Becky Robinson  
+Ciara McMorrow  
+Emma Russell  
+Karen Searle  
+Abbie Staniforth  
+Sarah Lord  
+Sally Settle  
+Jane Hudson  
+Ashleigh Goldspring  
+Amy Rutledge  
+Lilli Gibson  
+Jessica Mazzola  
+Sarah Brown  
+Jessica Clode  
+Beth Taperell  
+Sue Waite  
+Sofia Da Silva  
+Elaine Reed  
 
 If your name is on the list above and you have not yet received your award please contact your commissioner.
 
@@ -362,7 +362,7 @@ Subscriptions are paid for all girls and volunteers who have membership status e
 Some roles have mandatory membership, others have optional membership. Please check that the membership status for roles with optional membership is set as required. Any change to the membership status should be discussed with the volunteer. Details for each role type can be found on links to unit/district/division roles on the following page: <a href="https://www.girlguiding.org.uk/making-guiding-happen/policies/girlguiding-policies/recruitment-and-vetting-policy/recruitment-procedures/" target="_blank" rel="noopener">https://www.girlguiding.org.uk/making-guiding-happen/policies/girlguiding-policies/recruitment-and-vetting-policy/recruitment-procedures/</a>
 
 <span style="text-decoration: underline;"><strong>Ending the role of a Leader in Training or YL doing the LQ</strong></span>
-If you end a leader in training role for any reason other than that the volunteer has completed their Leadership Qualification, please make sure that their mentor is told. Please also notify Maureen Kell and/or Sheila Hill so that the LQ and modules can be marked as postponed or abandoned. The system does not do this automatically, nor does it tell us they have gone.
+If you end a leader in training role for any reason other than that the volunteer has completed their Leadership Qualification, please make sure that their mentor is told. Please also notify the county leadership qualification adviser and/or county membership systems coordinator so that the LQ and modules can be marked as postponed or abandoned. The system does not do this automatically, nor does it tell us they have gone.
 <h4><strong>January 2020</strong></h4>
 <strong><u>Subscriptions</u></strong>
 
@@ -420,7 +420,7 @@ Please check Active Pending roles in your unit/district/division. The main reaso
 <ul>
  	<li>Awaiting new or renewal of DBS check.</li>
  	<li>Awaiting References.</li>
- 	<li>Leader in training role max date reached. Extension of 1 year possible but should be discussed and agreed by Maureen Kell and mentor.</li>
+ 	<li>Leader in training role max date reached. Extension of 1 year possible but should be discussed and agreed by county leadership qualification adviser and mentor.</li>
  	<li>Young leader turned 18 and needs adult role if remaining in Guiding.</li>
  	<li>Other role has reached max date and extension/renewal should be discussed with volunteer and commissioner.</li>
  	<li>For girls - A role in a younger section is still active.</li>

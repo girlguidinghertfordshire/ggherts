@@ -1,5 +1,5 @@
 ---
-layout: membership-system-v5
+layout: page-v5
 title: 2019 Membership System Updates
 date: 2016-11-29 10:28:52.000000000 +00:00
 toc: membership
@@ -57,9 +57,6 @@ If you aren’t already aware, there is currently a historic review of Safeguard
 
 The programme changeover date is 22<sup>nd</sup> July. At this point you’ll no longer be able to view guidance on the old programme such as the Baden Powell award or badge syllabuses. The older programme and badges will be retired from the website and online shop. You will still be able to order resources over the phone and from volunteer shops, while stocks last.
 
-Hope you all have a lovely summer!
-
-Sheila
 <h4></h4>
 <h4>June 2019</h4>
 <strong><u>Membership Systems Support</u></strong>
@@ -162,11 +159,11 @@ When the Safe Space Level 2 Part 2 chat has been carried out (by A Safe Space tr
 
 We are finding people on GO with a Leadership Qualification still in progress who have either left Girlguiding or have changed roles. If the volunteer has left Girlguiding altogether GO will usually mark the LQ and modules as Abandoned but if they change roles this doesn’t always happen.
 
-Please help us to keep our data up to date by notifying Maureen Kell if you end a Leader in Training role and the volunteer no longer wishes to complete the Leadership Qualification.
+Please help us to keep our data up to date by notifying county leadership qualification adviser if you end a Leader in Training role and the volunteer no longer wishes to complete the Leadership Qualification.
 
 <strong>Membership Cards</strong>
 
-New Membership cards have been sent out for this year. Please let <a href="mailto:membership@girlguidinghertfordshire.org.uk" target="_blank" rel="noopener">Sheila Hill</a> know if you have not received yours.
+New Membership cards have been sent out for this year. Please let <a href="mailto:membership@girlguidinghertfordshire.org.uk" target="_blank" rel="noopener">county membership systems coordinator</a> know if you have not received yours.
 <h4><strong>March 2019</strong></h4>
 <strong>Subscriptions</strong>
 • <strong>Live Invoices are now available to download</strong>, no amendments can be made.

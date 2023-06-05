@@ -194,6 +194,10 @@ membership:
   title: Membership system updates
   url: /membership-system-updates/
   items:
+  - title: 2023
+    url: /membership-system-updates/
+  - title: 2022
+    url: /membership-system-updates/2022/
   - title: 2021
     url: /membership-system-updates/2021/
   - title: 2020
