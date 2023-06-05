@@ -14,14 +14,14 @@ event:
     - Activity
   age-group:
     - Rangers
-    - Young Leaders
+    - Young leaders
     - Inspire
     - Leaders
     - Adults
     - Trefoil
   location:
     - Bedfordshire
-lastmod: 2023-05-29T16:57:03.384Z
+lastmod: 2023-06-05T06:48:37.156Z
 ---
 Calling all young members aged 14+
 

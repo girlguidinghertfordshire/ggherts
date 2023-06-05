@@ -14,14 +14,14 @@ event:
     - Walking
   age-group:
     - Rangers
-    - Young Leaders
+    - Young leaders
     - Inspire
     - Leaders
     - Adults
     - Trefoil
   location:
     - Peak District
-lastmod: 2023-06-02T11:57:27.082Z
+lastmod: 2023-06-05T06:48:25.741Z
 ---
 Anglia region social and log book walking weekend from **Friday 3 - Sunday 5 November** in the Peak District.
 
