@@ -11,6 +11,15 @@ author:
 permalink: /get-involved/challenge-badges/
 lastmod: 2022-09-10T14:38:25.750Z
 ---
+## Nigeria 2023 GOLD challenge badge
+
+![Nigeria 2023 GOLD challenge badge](/assets/images/2023/06/nigeria-badge.webp){:.ms-3.mb-3.float-end}
+The Girlguiding Overseas Linked with Development (GOLD) Team are excited to share with you this new challenge badge.
+
+This year the Nigeria 2023 GOLD team are working alongside the Nigerian Girl Guides Association to develop peer education tools and techniques around wellbeing, decision making, leadership and confidence.
+
+[Download <span class="visually-hidden">Nigeria 2023 GOLD</span> challenge pack](/assets/docs/2023/nigeria-2023-activity-pack.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
+
 ## Girls Golf Challenge Badge
 
 ![Badge for Girls Golf Challenge](/assets/images/2022/11/girls-golf.webp){:.ms-3.mb-3.float-end}
@@ -69,15 +78,6 @@ Once learnt new skills can also be passed on to parents and beyond.
 
 [Download Challenge Pack <i class="fa fa-download"></i>](/assets/docs/2022/challenge-badge-lifesaver-clauses.docx){:.btn.btn-primary} [Order form <i class="fa fa-download"></i>](/assets/docs/2022/challenge-badge-lifesaver-order-form.docx){:.btn.btn-primary}{:target="blank"}{:rel="noopener noreferrer"}
 
-## Gold for Georgia 2022 Challenge Badge
-
-![Gold for Georgia 2022 Challenge Badge](/assets/images/2022/09/gold-georgia-2022-challenge-badge.webp){:.pull-right.mb-2.ms-2}
-The Girlguiding Overseas Linked with Development (GOLD) Team are excited to share with you this new challenge badge.  
-
-We hope you enjoy learning about WAGGGS and Georgia, including Girlguiding and Scouting within this beautiful country.
-
-[Download <span class="visually-hidden">Georgia 2022</span> Challenge Pack and Order Form](/assets/docs/2022/challenge-pack-georgia-2022.pdf){:.btn.btn-primary.download-link}{:target="blank"}{:rel="noopener noreferrer"}
-
 <div class="clearfix"></div>
 
 ## External Charity Challenge Badges
@@ -99,6 +99,7 @@ EHAAT can offer a tour at either of our Airbases in North Weald and Earls Colne,
 
 ## Previous Challenge Badges - Stock Still Available
 
+- Gold for Georgia 2022 Challenge Badge
 - Eggstraordinary Easter Challenge Badge
 - Snow is Falling Challenge Badge
 - Marathon Challenge Badge
