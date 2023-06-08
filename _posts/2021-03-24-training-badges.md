@@ -1,7 +1,7 @@
 ---
-title: Training Badges
+title: Training badges
 date: 2021-11-04T20:32:45.842Z
-image: /wp-content/uploads/2021/03/Training-badges-1-360x243.png
+image: /assets/images/2023/06/training-badges.webp
 categories:
   - Training
   - Badges
@@ -9,13 +9,14 @@ tags: []
 author:
   display_name: Jenny Maskrey, County Commissioner
 permalink: /training-badges/
-lastmod: 2023-03-09T19:23:11.102Z
+lastmod: 2023-06-08T20:26:52.260Z
 ---
-<p class="lead">As a "thank you" for the time you put into training, we invite you to log the hours of training you complete and claim a pin badge when you reach milestones. </p>
+{:.lead"}
+As a "thank you" for the time you put into training, we invite you to log the hours of training you complete and claim a pin badge when you reach milestones.
 
 You can download the log sheet training record below:
 
-<a href="/wp-content/uploads/2021/03/Training-Record.docx" class="btn btn-primary">Training Record - colour <i class="fa fa-download"></i></a> <a href="/wp-content/uploads/2021/03/Training-Record-BW.docx" class="btn btn-primary">Training Record -  B&amp;W version  <i class="fa fa-download"></i></a>
+[Training record](/assets/docs/2023/training-record.docx){:.btn.btn-primary.download-link}
 
 ## Claiming your limited-edition Owl Training badges
 
@@ -25,6 +26,6 @@ These badges were purchased with money donated to us by Anglia Region to support
 
 Thank you for the time you have invested in training.
 
-<p id="backdate"><small>*Training can be backdated to January 2021</small></p>
+![Quote: The beautiful thing about learning is that nobody can take it away from you - B.B. King](/assets/images/2023/06/training-badges-post.webp){:width="300"}{:height="300"}{:.img-fluid}
 
-<p><img class="alignnone size-medium wp-image-4120" src="/assets/images/2021/03/Training-badges-1-300x251.png" alt="" width="300" height="251" /></p>
+<p id="backdate"><small>*Training can be backdated to January 2021</small></p>
