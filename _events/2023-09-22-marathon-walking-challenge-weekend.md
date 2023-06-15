@@ -22,13 +22,13 @@ event:
     - Trefoil
   location:
     - Norfolk
-lastmod: 2023-06-05T06:46:48.118Z
+lastmod: 2023-06-15T20:49:13.838Z
 ---
 Join the walking team for their challenge event from Friday 22 - Sunday 24 September.  
 
 A walking marathon (26 miles or 42km) along the Norfolk coast from Cromer.
 
-Cost: TBC but approximately £85pp (all minibus travel, accommodation and food included). Final cost depends on numbers.
+Cost: £50pp (all minibus travel, accommodation and food included). Final cost depends on numbers.
 
 Open to all adult members and young leaders and Rangers (with or without their leaders).
 
