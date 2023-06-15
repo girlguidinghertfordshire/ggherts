@@ -177,7 +177,7 @@ class Order {
     }
     updateQuantity(id, value) {
         const item = id.split(".");
-        var section = this.orderItems[item[0]];
+        const section = this.orderItems[item[0]];
         const sku = section.find(i => i.award == item[1] && i.type == item[2]);
         sku.quantity = value;
         this.save();
@@ -405,7 +405,7 @@ function onSubmit(token) { // function is called by Recaptcha callback.
         return;
     }
 
-    var data = {
+    const data = {
         name: order.name,
         email: order.email,
         girls: order.girls,
