@@ -18,7 +18,7 @@ You can submit consent either via the online forms or use the Word versions (upd
 
 This form should be completed by adults submitting their own consent or by parents/carers/guardians for those aged under 14.
 
-[<span class="sr-only">Individual Consent </span>Online Form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwZf5T0i4octErRCYrHkhHVhUNEtGRkdCNTAzSDlJV1ZJNTZLUU9ES1EwQy4u){:target="_blank"}{:rel="noopener"}{:.btn.btn-primary.external-link} [<span class="sr-only">Individual Consent </span>Word form](/assets/docs/2023/individual-photo-permission-form-2023-06.docx){:target="_blank"}{:rel="noopener"}{:.btn.btn-primary.word-link}
+[<span class="sr-only">Individual Consent </span>Online Form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwZf5T0i4octErRCYrHkhHVhUNEtGRkdCNTAzSDlJV1ZJNTZLUU9ES1EwQy4u){:target="_blank"}{:rel="noopener"}{:.btn.btn-primary.external-link} [<span class="sr-only">Individual Consent </span>Word form](/assets/docs/2023/individual-photo-permission-form-2023-06v2.docx){:target="_blank"}{:rel="noopener"}{:.btn.btn-primary.word-link}
 
 ### Group Consent
 
