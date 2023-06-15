@@ -1,5 +1,6 @@
 ---
 title: 2023 Subscriptions
+published: false
 date: 2023-02-02T20:39:55.652Z
 image: /assets/images/2022/11/subscription_23.webp
 categories:
@@ -7,7 +8,7 @@ categories:
 tags: []
 author:
   display_name: The County Office
-lastmod: 2023-02-02T20:40:07.012Z
+lastmod: 2023-06-15T20:46:37.404Z
 ---
 The subscription for members of Girlguiding Hertfordshire for 2023 will be remaining at **£8.50**, which gives a total subscription of **£49.00**.  This [subscription document](/assets/docs/2022/subscriptions-2023.pdf){:.download-link}{:target="_blank"}{:rel="noopener noreferrer"} sets out details of the Girlguiding Hertfordshire subscription, how it was determined and what it will be spent on.  Please note that Girlguiding Hertfordshire is subsidising this by almost £5 per member to ensure we can keep our subscription as low as possible.  Please remember that your division and/or your district may have added their own levy on top of this.  Please speak to your local commissioner for details.
 
