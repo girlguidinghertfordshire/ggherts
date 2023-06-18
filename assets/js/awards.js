@@ -271,6 +271,10 @@ const order = new Order();
     });
     function isValid(fieldName) {
         const field = document.getElementById(fieldName);
+        if (fieldName.includes("girlsNumber")){
+            let number=field.value.replace(/[\D]+/,"");
+            field.value=number;
+        }
         return field.checkValidity();
     }
     function girlsAwards() {
