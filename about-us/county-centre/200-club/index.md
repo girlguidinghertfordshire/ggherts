@@ -39,3 +39,6 @@ April
 
 May
 : Daphne Hynds
+
+June
+: Mandy Challis
