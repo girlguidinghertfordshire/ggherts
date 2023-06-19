@@ -1,5 +1,5 @@
 ---
-title: Rainbows and brownies fun days
+title: Rainbows and Brownies fun days
 date: 2023-05-17T21:06:19.936Z
 event:
   start_date: 2023-07-15
@@ -17,7 +17,7 @@ event:
     - Brownies
   location:
     - Hertfordshire, South East
-lastmod: 2023-05-29T16:55:24.081Z
+lastmod: 2023-06-19T18:44:59.017Z
 ---
 *Bookings now open!*
 
