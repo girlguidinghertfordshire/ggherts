@@ -21,9 +21,9 @@ event:
     - Trefoil
   location:
     - Bedfordshire
-lastmod: 2023-06-05T06:48:37.156Z
+lastmod: 2023-06-19T18:46:32.657Z
 ---
-Calling all young members aged 14+
+Calling all members aged 14+
 
 Come along on Sunday 10 September to St Neots in Bedfordshire from 10.30am-3pm and take up the challenge of a fun water obstacle course as well as a land army assault course.
 
