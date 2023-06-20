@@ -2,27 +2,23 @@
 layout: page-v5
 title: Water activities
 date: 2021-11-21T12:10:26.889Z
+banner_image: /assets/images/2023/06/water-activities-banner.webp
 toc: what-we-do
 lastmod: 2022-09-29T21:15:57.211Z
 ---
-## Paddlesports
+Give your girls an amazing guiding experience with many different types of water-based activities available from raft building, paddleboarding, canoeing and kayaking.
 
-<div class="clearfix" markdown="1">
-![](/assets/images/2021/11/paddlesports1.jpg){:style="float:left; width:37.49%; height:100%; object-fit:cover"}![](/assets/images/2021/11/paddlesports2.jpg){:style="float:left; width:62.51%; height:100%; object-fit:cover"}  
-</div>
+Find out more about water activities you may like to try including:
 
-Each year the team organise paddlesports during either May or June so keep your eyes open for them to appear on the [events pages](/events/).
+- [Bell boating for beginners](https://www.girlguiding.org.uk/what-we-do/our-badges-and-activities/adventure-for-girls/bell-boating/){:target="_blank"}{:rel="noopener noreferrer"}{:.external-link}
+- [Canoeing](https://www.girlguiding.org.uk/what-we-do/our-badges-and-activities/adventure-for-girls/canoeing/){:target="_blank"}{:rel="noopener noreferrer"}{:.external-link}
+- [Jet skiing](https://www.girlguiding.org.uk/what-we-do/our-badges-and-activities/adventure-for-girls/jet-skiing/){:target="_blank"}{:rel="noopener noreferrer"}{:.external-link}
+- [Power boating](https://www.girlguiding.org.uk/what-we-do/our-badges-and-activities/adventure-for-girls/powered-boating/){:target="_blank"}{:rel="noopener noreferrer"}{:.external-link}
+- [Paddleboarding](https://www.girlguiding.org.uk/what-we-do/our-badges-and-activities/adventure-for-girls/stand-up-paddleboarding/){:target="_blank"}{:rel="noopener noreferrer"}{:.external-link}
+- [Sailing](https://www.girlguiding.org.uk/what-we-do/our-badges-and-activities/adventure-for-girls/sailing/){:target="_blank"}{:rel="noopener noreferrer"}{:.external-link}
+- [White water rafting](https://www.girlguiding.org.uk/what-we-do/our-badges-and-activities/adventure-for-girls/white-water-rafting/){:target="_blank"}{:rel="noopener noreferrer"}{:.external-link}
+- [White water inflatables](https://www.girlguiding.org.uk/what-we-do/our-badges-and-activities/adventure-for-girls/white-water-inflatables/){:target="_blank"}{:rel="noopener noreferrer"}{:.external-link}
 
-If you require support with helping your unit to undertake paddlesports, please don’t hesitate to contact us for any support or advice [water@girlguidinghertfordshire.org.uk](mailto:water@girlguidinghertfordshire.org.uk)  
+Plus, many more.  
 
-### British Canoeing Awards
-
-For more information about the types of personal development and skills you can gain, look at [British Canoeing <i class="fa fa-external-link"></i>](https://www.britishcanoeing.org.uk){:target="_blank"}{:rel="noopener noreferrer"}.
-
-Their [Start Awards <i class="fa fa-external-link"></i>](https://gopaddling.info/start-awards/){:target="_blank"}{:rel="noopener noreferrer"} will give you the basic knowledge you need to have confidence out on the water.
-
-Should you wish, you can then progress through the [Discover Award  <i class="fa fa-external-link"></i>](https://gopaddling.info/discover-awards/){:target="_blank"}{:rel="noopener noreferrer"} and onto the [Explore Award <i class="fa fa-external-link"></i>](https://gopaddling.info/explore-award/){:target="_blank"}{:rel="noopener noreferrer"}.  
-
-This and all of the above information can be found at: [britishcanoeing.org.uk/coaching-leadership/guidance-resources/my-pathway <i class="fa fa-external-link"></i>](https://www.britishcanoeing.org.uk/coaching-leadership/guidance-resources/my-pathway){:target="_blank"}{:rel="noopener noreferrer"}
-
-![](/assets/images/2021/11/paddlesports3.jpg)
+Make sure you and the girls are safe on the water by following the tips and regulations on the [Girlguiding UK’s water safety section.](https://www.girlguiding.org.uk/information-for-volunteers/programme-and-activities/guidance-on-activities/water-safety/){:target="_blank"}{:rel="noopener noreferrer"}{:.external-link}
