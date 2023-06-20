@@ -1,6 +1,6 @@
 ---
 layout: page-v5
-title: Watersports
+title: Water activities
 date: 2021-11-21T12:10:26.889Z
 toc: what-we-do
 lastmod: 2022-09-29T21:15:57.211Z

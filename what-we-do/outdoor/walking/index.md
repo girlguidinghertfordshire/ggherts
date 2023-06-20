@@ -6,7 +6,7 @@ date: 2021-11-21T12:10:26.889Z
 toc: what-we-do
 lastmod: 2022-09-05T20:19:32.010Z
 ---
-
+![Walking team logo](/assets/images/2023/06/walking-team-badge.webp){:.float-end.ms-3.mb-3}
 We are an active, friendly & approachable walking team in Hertfordshire and we are available to help you run unit events or come on ours. We can run [geocaching sessions](/news/geocaching/) within units to teach the skills required for these fun treasure hunts, whether to aid the Guides Geocaching badge or just to learn a new skill for any age group. We can also arrange a walk on your unit holiday or camp, so do get in touch for assistance, including with risk assessments.
 
 Rangers often attend walking events without their leaders, such as Mountain Experience, a navigation training event or [The Duke of Edinburgh's Award.](/youth-opportunities/dofe/)
