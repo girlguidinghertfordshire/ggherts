@@ -1,17 +1,17 @@
 ---
-title: A Safe Space Training
+title: A safe space training
 date: 2023-06-19T19:03:56.919Z
 image: /assets/images/2023/06/a-safe-space.webp
 categories:
   - Training
 tags: []
-description: Everyone needs to have the correct level of A Safe Space Training for their role
+description: Everyone needs to have the correct level of a safe space training for their role
 author:
   email: null
   display_name: The County Office
   first_name: ""
   last_name: ""
-lastmod: 2023-06-19T19:05:55.370Z
+lastmod: 2023-06-20T19:06:46.733Z
 ---
 {:.lead}
 Everyone needs to have the correct level of [a safe space training][1] for their role.
@@ -22,7 +22,7 @@ With the introduction of the [Learning Platform][2]{:.external-link}{:rel="noope
 
 Please remember that **membership may be withdrawn** if you do not complete the levels required for your role.
 
-## Completing your Training
+## Completing your training
 
 ### Levels 1 and 2
 
@@ -42,7 +42,7 @@ This session is aimed at commissioners. You can attend a face-to-face training o
 
 ## Renewing your training
 
-When your current a safe space qualification is due to expire you will be given a renewal window. Expiry dates and renewal windows are displayed on your [learning dashboard][3]{:.external-link}{:rel="noopener"}{:target="_blank"} within the Learning Platform.
+When your current a safe space qualification is due to expire you will be given a renewal window. Expiry dates and renewal windows are displayed on your [learning dashboard][3]{:.external-link}{:rel="noopener"}{:target="_blank"} within the learning platform.
 
 It is essential that you do not complete your training before your window opens as completion will not be recognised and you will be required to complete it again.
 
