@@ -1,5 +1,5 @@
 ---
-title: Marathon walking challenge weekend
+title: Norfolk coastal walking challenge
 date: 2023-06-05T06:39:25.943Z
 event:
   start_date: 2023-09-22
@@ -22,7 +22,7 @@ event:
     - Trefoil
   location:
     - Norfolk
-lastmod: 2023-06-19T18:36:33.185Z
+lastmod: 2023-06-26T20:15:10.834Z
 ---
 Join the walking team for their challenge event from Friday 22 - Sunday 24 September.  
 
@@ -36,4 +36,6 @@ Participants will walk in groups of 4-8.
 
 Sunday will be a free day; people can choose to wander local towns, sit on the beach, go on a steam train etc.
 
-Booking and enquiries to <walking@girlguidinghertfordshire.org.uk>
+[Further information](/assets/docs/2023/norfolk-coastal-walking-challenge-june-2023.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
+
+Booking and enquiries to <walking@girlguidinghertfordshire.org.uk>. Please apply before **Friday 21 July.**
