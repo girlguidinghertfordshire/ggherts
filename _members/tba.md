@@ -1,10 +1,16 @@
 ---
 title: TBA
 date: 2022-06-07T19:30:57.560Z
-groups: []
+groups:
+  - group: outdoor
+    roles:
+      - order: 19
+        job_title: County outdoor lead volunteer
+        person_intro: Coordinates the outdoor team, organises and supports outdoor events and trainings, liaising with other advisers, and promoting an enthusiasm for the outdoors.
+        email: outdoor@girlguidinghertfordshire.org.uk
 image: null
 thumbnail: null
 author:
   display_name: Rachel Kemp
-lastmod: 2023-06-02T12:07:10.385Z
+lastmod: 2023-06-26T20:30:19.919Z
 ---

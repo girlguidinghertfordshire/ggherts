@@ -23,7 +23,7 @@ event:
     - Peak District
 lastmod: 2022-01-25T20:32:22.789Z
 ---
-If you’re interested in training to improve your personal skills and get your girls into the hills, Anglia region are offering Girlguiding walking scheme levels 1 and 2 training and assessment over the weekend of **Friday 3 - Sunday 5 November** in the Peak District. 
+If you’re interested in training to improve your personal skills and get your girls into the hills, Anglia region are offering Girlguiding walking scheme levels 1 and 2 training and assessment over the weekend of **Friday 3 - Sunday 5 November** in the Peak District.
 
 Details of the scheme can be found on the Girlguiding UK website's [walking scheme page.](https://www.girlguiding.org.uk/information-for-volunteers/learning-and-development/leading-outdoor-adventures/walking-scheme/)  
 

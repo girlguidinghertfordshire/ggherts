@@ -11,11 +11,6 @@ groups:
         emailx: eastdivision@girlguidinghertfordshire.org.uk
   - group: outdoor
     roles:
-      - order: 19
-        job_title: County Outdoor Lead Volunteer
-        person_intro: Coordinates the Outdoor Team, organises and supports outdoor events and trainings, liaising with other advisers, and promoting an enthusiasm for the outdoors.
-        emailx: outdoor@girlguidinghertfordshire.org.uk
-        vacancyurl: /get-involved/vacancies/#county-outdoor-lead-volunteer
       - order: 20
         job_title: County Outdoor Administration Lead Volunteer
         vacancyurl: /get-involved/vacancies/#county-outdoor-administration-lead-volunteer
@@ -30,5 +25,5 @@ image: null
 thumbnail: null
 author:
   display_name: Rachel Kemp
-lastmod: 2023-06-15T20:41:51.670Z
+lastmod: 2023-06-26T20:31:50.668Z
 ---
