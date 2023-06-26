@@ -9,7 +9,7 @@ event:
   contact_email: events@girlguidinghertfordshire.co.uk
   contact_number: ""
   book_now_link: ""
-  image: /assets/images/2023/05/rangers-plus1.webp
+  image: /assets/images/2023/06/county-fun-day-14plus.webp
   type:
     - Activity
   age-group:
@@ -21,7 +21,7 @@ event:
     - Trefoil
   location:
     - Bedfordshire
-lastmod: 2023-06-19T18:46:32.657Z
+lastmod: 2023-06-26T20:53:18.090Z
 ---
 Calling all members aged 14+
 
