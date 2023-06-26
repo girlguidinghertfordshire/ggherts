@@ -11,12 +11,12 @@ author:
   display_name: The County Office
   first_name: ""
   last_name: ""
-lastmod: 2023-06-20T19:06:46.733Z
+lastmod: 2023-06-26T20:02:30.347Z
 ---
 {:.lead}
 Everyone needs to have the correct level of [a safe space training][1] for their role.
 
-## Training Structure
+## Training structure
 
 With the introduction of the [Learning Platform][2]{:.external-link}{:rel="noopener"}{:target="_blank"} we encourage you to familiarise yourself with the current guidance. This explains all four levels of a safe space training, which may be relevant to your role, as well as the introduction of the young members (14 - 17 years old) e-learning module.
 
