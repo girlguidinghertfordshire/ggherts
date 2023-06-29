@@ -19,10 +19,8 @@ event:
     - Trefoil
   location:
     - Hertfordshire, West
-lastmod: 2023-06-08T20:39:57.027Z
+lastmod: 2023-06-29T20:06:45.656Z
 ---
-Save the date 
-
 Trefoil Guild Hertfordshire are having a craft day in Hemel Hempstead on Saturday 4 November.
 
 If you would be prepared to come along on the day and share your skill with others by putting a craft on, or would simply like to come along and join in, please email <trefoil@girlguidinghertfordshire.org.uk> to show an interest, or for further details.
