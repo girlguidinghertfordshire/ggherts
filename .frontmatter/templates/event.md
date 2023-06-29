@@ -11,19 +11,22 @@ event:
     book_now_link: ''
     image: ''
     type:
-        - Activity Day
-        - Residential
-        - 1st Response
-        - First Aid
-        - Training
-        - Social
+        - 1st response
+        - Activity
+        - Celebration
         - DofE
+        - Finance
+        - First aid
+        - Residential
+        - Skills development
+        - Social
+        - Walking
     age-group:
         - Rainbows
         - Brownies
         - Guides
         - Rangers
-        - Young Leaders
+        - Young leaders
         - Inspire
         - Leaders
         - Adults
@@ -39,11 +42,6 @@ event:
         - 'Hertfordshire, St Albans'
         - 'Hertfordshire, Stevenage'
         - 'Hertfordshire, West'
-author:
-    email: null
-    display_name: null
-    first_name: null
-    last_name: null
 lastmod: '2022-01-25T20:32:22.789Z'
 ---
 
