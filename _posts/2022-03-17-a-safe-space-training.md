@@ -11,7 +11,7 @@ author:
   display_name: The County Office
   first_name: ""
   last_name: ""
-lastmod: 2023-06-26T20:02:30.347Z
+lastmod: 2023-07-01T19:11:50.231Z
 ---
 {:.lead}
 Everyone needs to have the correct level of [a safe space training][1] for their role.
@@ -32,9 +32,11 @@ A safe space levels 1 and 2 e-learning training modules can both be completed vi
 
 ### Level 3
 
-This training is delivered by a live online session with Girlguiding Anglia. Alternatively, you can enrol to attend a national webinar session through the learning platform.
+If you are completing your level 3 training for the first time, training is delivered by a live online session with Girlguiding Anglia. Alternatively, you can enrol to attend a national webinar session through the learning platform.
 
 [View and book with Girlguiding Anglia][4]{:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"} [Enrol on national webinar session][3]{:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
+
+For those renewing their level 3 training a shorter elearning renewal course should be completed on the [Girlguiding learning platform.](https://learning.girlguiding.org.uk/){:.external-link}{:rel="noopener"}{:target="_blank"} This takes approximately 30 minutes to complete. You can renew your training anytime within the 180 days before your current course expires. By doing so, you will keep your original expiry date.
 
 ### Level 4
 
