@@ -20,5 +20,241 @@
       "path": "c:/Users/andre/OneDrive/repos/GitHub/ggherts/_posts"
     }
   ],
-  "frontMatter.templates.enabled": true
+  "frontMatter.templates.enabled": true,
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Content preview",
+          "name": "preview",
+          "type": "image"
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "boolean"
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "Categories",
+          "name": "categories",
+          "type": "categories"
+        }
+      ]
+    },
+    {
+      "name": "Events",
+      "pageBundle": false,
+      "fields": [
+        {
+          "title": "title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "date",
+          "name": "date",
+          "type": "datetime"
+        },
+        {
+          "title": "event",
+          "name": "event",
+          "type": "fields",
+          "fields": [
+            {
+              "title": "start_date",
+              "name": "start_date",
+              "type": "datetime"
+            },
+            {
+              "title": "end_date",
+              "name": "end_date",
+              "type": "datetime"
+            },
+            {
+              "title": "address",
+              "name": "address",
+              "type": "datetime"
+            },
+            {
+              "title": "contact_name",
+              "name": "contact_name",
+              "type": "datetime"
+            },
+            {
+              "title": "contact_email",
+              "name": "contact_email",
+              "type": "datetime"
+            },
+            {
+              "title": "contact_number",
+              "name": "contact_number",
+              "type": "string"
+            },
+            {
+              "title": "book_now_link",
+              "name": "book_now_link",
+              "type": "string"
+            },
+            {
+              "title": "image",
+              "name": "image",
+              "type": "image"
+            },
+            {
+              "title": "type",
+              "name": "type",
+              "type": "choice",
+              "choices": [
+                "Activity"
+              ]
+            },
+            {
+              "title": "age-group",
+              "name": "age-group",
+              "type": "choice",
+              "choices": [
+                "Rainbows",
+                "Brownies",
+                "Guides",
+                "Rangers"
+              ]
+            },
+            {
+              "title": "location",
+              "name": "location",
+              "type": "choice",
+              "choices": [
+                "Buckinghamshire"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "lastmod",
+          "name": "lastmod",
+          "type": "datetime"
+        },
+        {
+          "name": "type",
+          "type": "string",
+          "default": "Events",
+          "hidden": true
+        }
+      ]
+    },
+    {
+      "name": "members",
+      "pageBundle": false,
+      "fields": [
+        {
+          "title": "title",
+          "name": "title",
+          "type": "string",
+        },
+        {
+          "title": "date",
+          "name": "date",
+          "type": "datetime"
+        },
+        {
+          "title": "groups",
+          "name": "groups",
+          "type": "block",
+          "fields": [
+            {
+              "title": "0",
+              "name": "0",
+              "type": "fields",
+              "fields": [
+                {
+                  "title": "group",
+                  "name": "group",
+                  "type": "choice".
+                  "choices":[
+                    "commissioners",
+                    "divcomm",
+                    "youthopp",
+                    "outdoor",
+                    "residential",
+                    "leads",
+                    "vp",
+                    "staff"
+                  ]
+                },
+                {
+                  "title": "roles",
+                  "name": "roles",
+                  "type": "block",
+                  "fields": [
+                    {
+                      "title": "0",
+                      "name": "0",
+                      "type": "fields",
+                      "fields": [
+                        {
+                          "title": "order",
+                          "name": "order",
+                          "type": "number"
+                        },
+                        {
+                          "title": "job_title",
+                          "name": "job_title",
+                          "type": "string"
+                        },
+                        {
+                          "title": "person_intro",
+                          "name": "person_intro",
+                          "type": "string"
+                        },
+                        {
+                          "title": "email",
+                          "name": "email",
+                          "type": "string"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "lastmod",
+          "name": "lastmod",
+          "type": "datetime"
+        },
+        {
+          "name": "type",
+          "type": "string",
+          "default": "members",
+          "hidden": true
+        }
+      ]
+    }
+  ]
 }
