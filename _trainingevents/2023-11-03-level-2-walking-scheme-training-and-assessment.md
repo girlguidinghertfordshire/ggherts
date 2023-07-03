@@ -31,4 +31,6 @@ Cost: **£135**, but this can often be reclaimed from your unit, county or regio
 
 This weekend can also be attended as a [social and log book walking weekend](/event/peak-district-social-walking/). See the event page for details and costs of this option.
 
+[More information](/assets/docs/2023/anglia-november-training-flyer.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
+
 If you'd like to chat about the possibilities, have questions or would like to book a place, email your Anglia walking lead volunteers via <walking@girlguiding-anglia.org.uk>
