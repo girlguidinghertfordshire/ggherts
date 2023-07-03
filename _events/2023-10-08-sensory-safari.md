@@ -19,7 +19,7 @@ event:
     - Brownies
   location:
     - Hertfordshire, South East
-lastmod: 2023-07-01T17:27:11.943Z
+lastmod: 2023-07-03T18:22:25.092Z
 ---
 Join the walking team in the woods for an adventure with scavenger hunt, walking trail and mini den building.
 
@@ -37,4 +37,4 @@ Book before **21 July.**
 
 Email <walking@girlguidinghertfordshire.org.uk>
 
-Please note that there is also a [guided social walk](/event/broxbourne-walk/) taking place in the woods on the same date for those ages 14 plus commencing at 1:30pm if you wish to bring a picnic and enjoy this too.
+Please note that there is also a [guided social walk](/event/broxbourne-walk/) taking place in the woods on the same date for those ages 14 plus commencing at 1.30pm if you wish to bring a picnic and enjoy this too.

@@ -2,7 +2,7 @@
 title: Silver DofE qualifying expedition
 date: 2023-07-01T17:33:35.462Z
 event:
-  start_date: 2023-10-25
+  start_date: 2023-10-26
   end_date: 2023-10-29
   address: null
   contact_name: null
@@ -21,7 +21,7 @@ event:
     - Adults
   location:
     - Peak District
-lastmod: 2023-07-01T17:37:11.307Z
+lastmod: 2023-07-03T18:24:23.206Z
 ---
 This Silver DofE qualifying expedition takes place from Thursday 26 October - Sunday 29 October in the Peak District.
 
