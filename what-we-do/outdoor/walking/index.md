@@ -15,7 +15,7 @@ We also organise social walks and weekends away for leaders, so you can a) relax
 
 Details of social walks and training opportunities can be found on the [Events](/events/) and [Training](/training/) pages.
 
-You can also contact the Walking Team for some friendly advice via :
+You can also contact the walking team for some friendly advice via :
 
 - <i class="fa fa-envelope"></i> <walking@girlguidinghertfordshire.org.uk>
 - <i class="fa fa-facebook-official"></i> [facebook page](https://www.facebook.com/hertsguideswalkingteam){:target="_blank"}{:rel="noopener noreferrer"}
@@ -24,19 +24,20 @@ Alternatively, **Anglia region** offer regular trips - see the [Anglia Events we
 
 ## Newsletter
 
-See what the Walking Team have been up to recently, and what they have planned for the future:
+See what the walking team have been up to recently, and what they have planned for the future:
 
-[December 2022 Newsletter](/assets/docs/2022/walking-team-dec-2022-newsletter.pdf){:.btn.btn-primary.download-link}
+[June 2023 newsletter](/assets/docs/2023/2023-06-walking-newsletter.pdf){:.btn.btn-primary.download-link}
 
 ### Previous editions
 
-- [September 2022 Newsletter](/assets/docs/2022/walking-team-sept-2022-newsletter.pdf){:.download-link}
-- [July 2022 Newsletter](/assets/docs/2022/walking-team-july-2022-newsletter.pdf){:.download-link}
-- [April 2022 Newsletter](/assets/docs/2022/walking-team-april-2022-newsletter.pdf){:.download-link}
-- [February 2022 Newsletter](/assets/docs/2022/walking-team-feb-2022-newsletter.docx){:.download-link}
-- [January 2022 Newsletter](/assets/docs/2022/walking-team-jan-2022-newsletter.docx){:.download-link}
-- [December 2021 Newsletter](/assets/docs/walking-team-december-2021-newsletter.docx){:.download-link}
-- [November 2021 Newsletter](/assets/docs/walking-team-november-2021-newsletter.docx){:.download-link}
+- [December 2022 newsletter](/assets/docs/2022/walking-team-dec-2022-newsletter.pdf){:.download-link}
+- [September 2022 newsletter](/assets/docs/2022/walking-team-sept-2022-newsletter.pdf){:.download-link}
+- [July 2022 newsletter](/assets/docs/2022/walking-team-july-2022-newsletter.pdf){:.download-link}
+- [April 2022 newsletter](/assets/docs/2022/walking-team-april-2022-newsletter.pdf){:.download-link}
+- [February 2022 newsletter](/assets/docs/2022/walking-team-feb-2022-newsletter.docx){:.download-link}
+- [January 2022 newsletter](/assets/docs/2022/walking-team-jan-2022-newsletter.docx){:.download-link}
+- [December 2021 newsletter](/assets/docs/walking-team-december-2021-newsletter.docx){:.download-link}
+- [November 2021 newsletter](/assets/docs/walking-team-november-2021-newsletter.docx){:.download-link}
 
 ## Walking related games
 
