@@ -43,4 +43,4 @@ See what the walking team have been up to recently, and what they have planned f
 
 Download the walking team activity sheet; it is jam packed with fun ideas to do with your units.
 
-[Activity Sheet](/assets/docs/2023/walking-team-activity-sheet.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
+[Activity sheet](/assets/docs/2023/walking-team-activity-sheet.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
