@@ -33,7 +33,19 @@ Round 2 of the Great Patrol Hunt was completed on Saturday 11 March 2023:
 
 [Download round 2 results (PDF)](/assets/docs/2023/great-patrol-hunt-round-2-results-22-23.pdf){:.download-link.btn.btn-primary.btn-sm}{:rel="noopener"}{:target="_blank"}
 
-Round 3 of the Great Patrol Hunt was completed on the weekend of Friday 30 June - Sunday 2nd July 2023. Results will appear here when available.
+Round 3 of the Great Patrol Hunt was completed on the weekend of Friday 30 June - Sunday 2nd July 2023. 
+
+[Download round 3 results (PDF)](/assets/docs/2023/great-patrol-hunt-2023-round3-results.pdf){:.download-link.btn.btn-primary.btn-sm}{:rel="noopener"}{:target="_blank"}
+
+Well done to all those who participated in this year's competition and congratulations to the overall winners:
+
+- **1st place - The Hedgehogs, from 9th Abbey Guides**
+- 2nd place - Asparagii, from 11th Hitchin Guides
+- 3rd place - LLamas in Pyjamas, from 13th St Albans Guides
+
+[Download overall positions for the GPH 2022/2023](/assets/docs/2023/great-patrol-hunt-2023-overall-results.pdf){:.download-link.btn.btn-primary}{:rel="noopener"}{:target="_blank"}
+
+Watch this space for details of next year's GPH events!
 
 ## About the Competition
 
