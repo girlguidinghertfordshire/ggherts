@@ -1,6 +1,7 @@
 ---
 title: Social walk from Letchworth
 date: 2023-06-26T20:04:08.487Z
+published: false
 event:
   start_date: 2023-07-09
   end_date: ""
@@ -21,7 +22,7 @@ event:
     - Trefoil
   location:
     - Hertfordshire, North
-lastmod: 2023-06-26T20:08:05.547Z
+lastmod: 2023-07-12T19:47:03.048Z
 ---
 Starting at 10am from Letchworth train station on Sunday 9 July this social walk passes by Norton Common Nature Reserve and follows the Icknield Way, in part, through the pretty villages of Ickleford and Pirton.
 
