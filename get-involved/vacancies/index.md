@@ -21,6 +21,8 @@ We have fantastic volunteers who look to the county team for guidance, support a
 {% for vacancy in vacancies %}
 {% include vacancy.html title=vacancy.title description=vacancy.content button-text=vacancy.button_text download=vacancy.download img=vacancy.image %}
 {% endfor %}
+{% assign vacancies = site.vacancies | where: "categories","Divisions" | sort: date | reverse %}
+{% if vacancies.size > 0 %}
 
 ## Division commissioners
 
@@ -32,7 +34,7 @@ Make a positive difference to others and improve opportunities for girls and you
 
 The division commissioner role can be done as a job share with the option of a division team created to enable delegation of some of the commissioner tasks.
 
-{% assign vacancies = site.vacancies | where: "categories","Divisions" | sort: date | reverse %}
 {% for vacancy in vacancies %}
 {% include vacancy.html title=vacancy.title description=vacancy.content button-text=vacancy.button_text download=vacancy.download img=vacancy.image %}
 {% endfor %}
+{% endif %}

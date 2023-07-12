@@ -2,13 +2,6 @@
 title: Position open
 date: 2022-06-07T19:30:57.560Z
 groups:
-  - group: divcomm
-    roles:
-      - order: 2
-        job_title: East Division Commissioner
-        person_intro: null
-        vacancyurl: /get-involved/vacancies/#east-division-commissioner
-        emailx: eastdivision@girlguidinghertfordshire.org.uk
   - group: outdoor
     roles:
       - order: 20
@@ -25,5 +18,5 @@ image: null
 thumbnail: null
 author:
   display_name: Rachel Kemp
-lastmod: 2023-06-26T20:31:50.668Z
+lastmod: 2023-07-12T19:42:38.721Z
 ---
