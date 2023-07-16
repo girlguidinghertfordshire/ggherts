@@ -33,7 +33,7 @@ Round 2 of the Great Patrol Hunt was completed on Saturday 11 March 2023:
 
 [Download round 2 results (PDF)](/assets/docs/2023/great-patrol-hunt-round-2-results-22-23.pdf){:.download-link.btn.btn-primary.btn-sm}{:rel="noopener"}{:target="_blank"}
 
-Round 3 of the Great Patrol Hunt was completed on the weekend of Friday 30 June - Sunday 2nd July 2023. 
+Round 3 of the Great Patrol Hunt was completed on the weekend of Friday 30 June - Sunday 2 July 2023.
 
 [Download round 3 results (PDF)](/assets/docs/2023/great-patrol-hunt-2023-round3-results.pdf){:.download-link.btn.btn-primary.btn-sm}{:rel="noopener"}{:target="_blank"}
 
