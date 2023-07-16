@@ -14,7 +14,7 @@ event:
     - Walking
   age-group:
     - Rangers
-    - Young Leaders
+    - Young leaders
     - Inspire
     - Leaders
     - Adults

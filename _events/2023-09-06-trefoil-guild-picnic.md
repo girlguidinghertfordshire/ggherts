@@ -13,13 +13,14 @@ event:
   type:
     - Social
   age-group:
+    - Young leaders
     - Inspire
     - Leaders
     - Adults
     - Trefoil
   location:
     - Hertfordshire, South East
-lastmod: 2023-06-26T20:42:20.116Z
+lastmod: 2023-07-16T08:09:09.336Z
 ---
 Trefoil Guild Hertfordshire would like to invite you to their picnic on Wednesday 6 September at Tolmers Scout camp, Cuffley to celebrate the Trefoil Guild's 80th anniversary.
 

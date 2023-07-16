@@ -14,6 +14,7 @@ event:
     - 1st response
     - Training
   age-group:
+    - Young leaders
     - Leaders
     - Adults
     - Trefoil

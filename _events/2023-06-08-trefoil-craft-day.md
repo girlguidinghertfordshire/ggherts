@@ -13,13 +13,14 @@ event:
   type:
     - Activity
   age-group:
+    - Young leaders
     - Inspire
     - Leaders
     - Adults
     - Trefoil
   location:
     - Hertfordshire, West
-lastmod: 2023-06-29T20:06:45.656Z
+lastmod: 2023-07-16T08:10:54.449Z
 ---
 Trefoil Guild Hertfordshire are having a craft day in Hemel Hempstead on Saturday 4 November.
 

@@ -15,7 +15,7 @@ event:
     - Residential
   age-group:
     - Rangers
-    - Young Leaders
+    - Young leaders
     - Inspire
     - Leaders
     - Adults
@@ -23,7 +23,7 @@ event:
     - Chilterns
 author:
   display_name: The County Office
-lastmod: 2023-07-03T18:25:53.918Z
+lastmod: 2023-07-16T08:11:50.863Z
 ---
 This Silver DofE practice weekend takes place from Friday 29 September - Sunday 1 October in the Chilterns.
 

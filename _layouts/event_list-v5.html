@@ -209,10 +209,11 @@ layout: default-v5
                             </div>
                             <div class="col">
                                 <h5>Section</h5>
-                                {% assign sections = "Rainbows,Brownies,Guides,Rangers,Young
-                                Leaders,Inspire,Adults,Leaders,Trefoil" | split:"," %}
+                                {% assign sections = "Rainbows,Brownies,Guides,Rangers,
+                                ,Young leaders,Inspire,Adults,Leaders,Trefoil" | split:"," %}
                                 <ul class="division age">
                                     {% for section in sections %}
+                                    {% assign section = section | strip %}
                                     {% if all_ages contains section %}
                                     <li><input type="checkbox" name="{{section | slugify }}"" id="age_filter_{{ section
                                             | slugify }}" value="{{ section }}" />
