@@ -64,7 +64,7 @@ Our holiday house is perfect for unit holidays and other indoor residentials, as
 
 ## Risk assessments
 
-[Risk assessment (January 2019)](/assets/docs/2023/risk_assessment_jan_2019.doc){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noreferrer noopener"} [Fire risk assessment (April 2019)](/assets/docs/2023/fire_risk_assessment_for_hertfordshire_guide_centre_april_2019.docx){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noreferrer noopener"}
+See [risk assessments page](../risk-assessments/) for HGC risk assessments.
 
 ## Archives
 
