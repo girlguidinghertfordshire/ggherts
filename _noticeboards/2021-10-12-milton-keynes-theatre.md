@@ -8,7 +8,7 @@ categories:
 tags: []
 author:
   display_name: The County Office
-lastmod: 2023-04-04T09:38:46.031Z
+lastmod: 2023-07-29T16:22:32.899Z
 ---
 Milton Keynes Theatre have lots of fabulous shows coming up, many of which offer group discounts for uniformed groups like Girlguiding.
 
@@ -24,6 +24,12 @@ Please see the below overview of shows which provides more details on upcoming s
 - Shrek the Musical : Tues 27 Feb - Sun 3 Mar 2024
 
 - [Overview of shows](/assets/docs/2023/mk-theatre-flyer-202303.pdf){:.download-link}{:target="_blank"}{:rel="noreferrer noopener"}
+
+Plus, newly announced:
+
+- Fantastically Great Women who changed the World: Wed 24 Jan - Sat 27 Jan 2024
+
+![Fantastically Great Women who changed the World logo](/assets/images/2023/07/fgw-ad-milton-keynes.webp){:.img-fluid}
 
 Groups of 10+ will benefit from an extended pay by date and no transaction fees. There should be one leader per group of 10 and uniforms must be worn.
 
