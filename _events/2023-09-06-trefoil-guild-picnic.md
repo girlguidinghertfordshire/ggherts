@@ -20,14 +20,22 @@ event:
     - Trefoil
   location:
     - Hertfordshire, South East
-lastmod: 2023-07-16T08:09:09.336Z
+lastmod: 2023-08-06T07:10:27.917Z
 ---
-Trefoil Guild Hertfordshire would like to invite you to their picnic on Wednesday 6 September at Tolmers Scout camp, Cuffley to celebrate the Trefoil Guild's 80th anniversary.
+Trefoil Guild Hertfordshire would like to invite you to their picnic on Wednesday 6 September at Tolmers Scout Camp, Cuffley to celebrate the Trefoil Guild’s 80th anniversary.
 
-Various activities will be on offer such as archery and climbing with the evening ending with a campfire.  
+There will be some of the on-site activities to have a go at, or you can wander around the site, or just sit in the pleasant surroundings for a chat and a cup of tea or coffee.  The evening will finish with a campfire.
 
-Arrival is any time from 4.30pm.  Bring a packed tea and chair.  
+Please bring a picnic tea with you and a chair. Drinks will be provided and maybe some cake.
 
-Booking form available soon.
+There will be a solid shelter available with a small kitchen and toilets nearby.
 
-For further details please contact <trefoil@girlguidinghertfordshire.org.uk>
+Arrival is from **4pm** with the event finishing between 8.30pm – 9.00pm.
+
+**Cost:** £5 per person which covers the cost of activities we are hoping to provide (ie quiz, garden games, orienteering, and a photo hunt).
+
+Book your place by **Wednesday 16 August.**
+
+Please wear suitable clothing and shoes for the weather.
+
+[Booking form](/assets/docs/2023/booking-form-picnic.docx){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noopener"}
