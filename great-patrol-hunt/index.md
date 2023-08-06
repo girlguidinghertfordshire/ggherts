@@ -60,18 +60,3 @@ Well done to all those who participated in this year's competition and congratul
 - 3rd place - LLamas in Pyjamas, from 13th St Albans Guides
 
 [Download overall positions for the GPH 2022/2023](/assets/docs/2023/great-patrol-hunt-2023-overall-results.pdf){:.download-link.btn.btn-primary}{:rel="noopener"}{:target="_blank"}
-
-## 2021/22 Event
-
-### Round 1
-
-Round 1 of the Great Patrol Hunt was completed on Saturday 16 October 2021: [Download round 1 results (PDF)](/assets/docs/2021-22-GPH-Round-1-Results.pdf){:.download-link}{:rel="noopener"}{:target="_blank"}
-
-### Round 2
-
-Round 2 of the Great Patrol Hunt was completed on Saturday 26 March 2022: [Download round 2 results and overall standings (PDF)](/assets/docs/2022/great-patrol-hunt-round2-results.pdf){:.download-link}{:rel="noopener"}{:target="_blank"}
-
-### Round 3
-
-Round 3 was completed over Friday 24 - Sunday 26 June.  Congratulations to **Anonymii for 11th Hitchin Guides** on their overall win.  
-[Round 3 results and overall positions for 2021/2022](/assets/docs/2022/great-patrol-hunt-round3-results.pdf){:.download-link}{:rel="noopener"}{:target="_blank"}

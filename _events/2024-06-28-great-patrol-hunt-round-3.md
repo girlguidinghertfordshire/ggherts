@@ -2,8 +2,8 @@
 title: Great Patrol Hunt Round 3
 date: 2023-07-29T07:59:43.627Z
 event:
-  start_date: 2024-03-23
-  end_date: ""
+  start_date: 2024-06-28
+  end_date: 2024-06-30
   address: null
   contact_name: null
   contact_email: null
@@ -18,7 +18,7 @@ event:
     - Guides
   location:
     - Hertfordshire
-lastmod: 2023-07-29T08:47:32.639Z
+lastmod: 2023-08-06T06:58:25.632Z
 permalink: /great-patrol-hunt/round-3/
 ---
 Save the date!
