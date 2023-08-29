@@ -8,7 +8,7 @@ event:
   contact_name: null
   contact_email: null
   contact_number: ""
-  book_now_link: ""
+  book_now_link: "https://www.eventbrite.co.uk/e/anglia-walking-training-assessment-and-social-event-tickets-671392120907"
   image: "/assets/images/2023/06/walking_scheme.webp"
   type:
     - Walking
@@ -27,10 +27,10 @@ If you’re interested in training to improve your personal skills and get your 
 
 Details of the scheme can be found on the Girlguiding UK website's [walking scheme page.](https://www.girlguiding.org.uk/information-for-volunteers/learning-and-development/leading-outdoor-adventures/walking-scheme/)  
 
-Cost: **£135**, but this can often be reclaimed from your unit, county or region, depending on where you will use the qualification.  
+Cost: **£148**, but this can often be reclaimed from your unit, county or region, depending on where you will use the qualification.  
 
 This weekend can also be attended as a [social and log book walking weekend](/event/peak-district-social-walking/). See the event page for details and costs of this option.
 
-[More information](/assets/docs/2023/anglia-november-training-flyer.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
+[More information](/assets/docs/2023/anglia-level-1-and-2-and-social-walk-weekend-flyer.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
 
-If you'd like to chat about the possibilities, have questions or would like to book a place, email your Anglia walking lead volunteers via <walking@girlguiding-anglia.org.uk>
+If you'd like to chat about the possibilities, have questions email your Anglia walking lead volunteers via <walking@girlguiding-anglia.org.uk>

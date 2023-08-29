@@ -8,7 +8,7 @@ event:
   contact_name: null
   contact_email: null
   contact_number: ""
-  book_now_link: ""
+  book_now_link: "https://www.eventbrite.co.uk/e/anglia-walking-training-assessment-and-social-event-tickets-671392120907"
   image: /assets/images/2023/06/social_walk.webp
   type:
     - Walking
@@ -25,7 +25,7 @@ lastmod: 2023-06-26T20:19:57.573Z
 ---
 Anglia region social and log book walking weekend from **Friday 3 - Sunday 5 November** in the Peak District.
 
-Cost: **£80** (includes all food and accommodation).
+Cost: **£90** (includes all food and accommodation).
 
 This is a chance to meet like-minded people and enjoy the famous hills and edges such as the Great Ridge & Mam Tor, Stanage Edge, Derwent Edge, White Edge & Kinder to name but a few.  
 
@@ -33,4 +33,4 @@ Open to all members aged 16+.
 
 This weekend can also be attended by those wanting to complete the [Girlguiding walking scheme levels 1 and 2 training and assessment](/training/level-2-walking-scheme-training-and-assessment/) - see the training page for details of this option.
 
-If you'd like to chat about the possibilities, have questions or would like to book a place, email your Anglia walking lead volunteers via <walking@girlguiding-anglia.org.uk>
+If you'd like to chat about the possibilities, have questions email your Anglia walking lead volunteers via <walking@girlguiding-anglia.org.uk>
