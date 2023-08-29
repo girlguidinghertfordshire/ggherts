@@ -42,3 +42,6 @@ May
 
 June
 : Mandy Challis
+
+July
+: Emily Hakansson
