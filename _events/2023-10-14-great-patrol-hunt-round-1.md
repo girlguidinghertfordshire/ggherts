@@ -4,7 +4,7 @@ date: 2023-07-29T07:59:43.627Z
 event:
   start_date: 2023-10-14
   end_date: ""
-  address: Watford
+  address: Chandler's Cross
   contact_name: null
   contact_email: null
   contact_number: ""
@@ -20,10 +20,14 @@ event:
 lastmod: 2023-07-29T08:47:29.310Z
 permalink: /great-patrol-hunt/round-1/
 ---
-Save the date!
+The Great Patrol Hunt (GPH) team are excited to announce that entries for Round 1 of this year’s highly successful county competition are now open!
 
-The Great Patrol Hunt (GPH) team are excited to announce the date of the first round of this year's highly successful county competition, aimed at Guides aged 10 - 15 years old, taking place in Watford on Saturday 14 October.
+Who will be named the Greatest Patrol in Hertfordshire this year?
 
-Further details to follow soon.
+This annual competition is aimed at Guides aged 10-15 years old.
 
-Find out more about the [Great Patrol Hunt](/great-patrol-hunt/)
+Round 1 is taking place at Lees Wood on Saturday 14 October. Entry is just £5 per person. Postal applications close on Saturday 30 September - so don't delay.
+
+More information regarding the competiton can be found on the [Great Patrol Hunt page](/great-patrol-hunt/) and below:
+
+[GPH R1 Entry Form](/assets/docs/2023/gph-23-24-r1-entry-form.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [GPH R1 Information and Consent](/assets/docs/2023/gph-23-24-r1-info-and-consent.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}

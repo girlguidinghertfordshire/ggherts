@@ -26,4 +26,4 @@ The Great Patrol Hunt (GPH) team are excited to announce the date of the next ro
 
 Further details to follow soon.
 
-Find out more about the [Great Patrol Hunt](/great-patrol-hunt/)
+If you are interest in the GPH please check out [Round 1 details](/great-patrol-hunt/round-1/) as well as the [Great Patrol Hunt page](/great-patrol-hunt/)
