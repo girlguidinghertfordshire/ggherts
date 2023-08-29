@@ -29,9 +29,15 @@ County International Advisers
 
 ## International Permission to Plan/REN Form
 
-The International Permission to plan and REN Form should be completed via [GO](https://go.girlguiding.org.uk/SignIn){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"} and authorised via region. The trip leader should contact region to advise the REN is awaiting authorisation.
+The International Permission to plan and REN Form should be completed via GO and authorised via region.
 
-If you planning an international adventure please make sure you have the appropriate level events administrator role. 
+The trip leader should contact region to advise the REN is awaiting authorisation.
+
+Full details of the Permission to Plan and REN Part 1 Sign-Off Procedure can be found within the below flowchart:
+
+[Permission to plan and REN Part 1 sign-off procedure](/assets/docs/2023/international-planning-flow-chart.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
+
+If you planning an international adventure please make sure you have the appropriate level events administrator role.
 
 If you require advice on international travel or resources within Girlguiding, please do get in touch via <international@girlguidinghertfordshire.org.uk>.
 
