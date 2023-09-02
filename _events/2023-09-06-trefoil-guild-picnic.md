@@ -1,6 +1,7 @@
 ---
 title: Trefoil Guild picnic
 date: 2023-06-08T20:33:09.081Z
+published: false
 event:
   start_date: 2023-09-06
   end_date: ""
