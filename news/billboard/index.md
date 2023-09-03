@@ -23,8 +23,6 @@ _Billboard_ is a monthly e-newsletter sent to all Girlguiding Hertfordshire memb
 
 ### 2023
 
-- August: No edition
-- September: 31 August 2023
 - October: 30 September 2023
 - November: 31 October 2023
 - December: 30 November 2023
