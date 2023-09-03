@@ -45,3 +45,6 @@ June
 
 July
 : Emily Hakansson
+
+August
+: Carole Barker
