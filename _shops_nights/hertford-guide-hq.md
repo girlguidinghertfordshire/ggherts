@@ -18,12 +18,6 @@ shop:
     - Indoor Accommodation
 lastmod: '2022-01-13T22:00:50.352Z'
 ---
-<table width="219">
-<tbody>
-<tr>
-<td width="219">Accommodates 24 girls</td>
-</tr>
-</tbody>
-</table>
-<p>Bookings to: Mrs Helen Cooper, 25 North Road Avenue, Hertford</p>
-<p>&nbsp;</p>
+**Accommodates:** 24 girls
+
+**Bookings to:** Clare Curley on <clarecurley21@gmail.com>
