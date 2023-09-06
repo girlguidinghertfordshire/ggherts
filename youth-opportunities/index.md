@@ -56,6 +56,8 @@ Contact our county peer educator coordination lead volunteer via <peereducators@
 
 You may be wondering, what is Inspire? Inspire is the Girlguiding offering for all 18-30 year olds. It doesn’t matter what your everyday role or level of interaction with Girlguiding is, all members within this age range are automatically part of Inspire. It is a place where you can make new friends, learn new skills and take advantage of the many awards and opportunities on offer. This can include completing Girlguiding qualifications and awards such as the Queens Guide award or Duke of Edinburgh Award, volunteering at events in the future, making your voice heard as a Girlguiding advocate, developing new skills or helping to train other members and share your knowledge and experience.
 
+Checkout the [Inspire blog](inspire/) to see what the future holds for the Inspire community in Hertfordshire county and how you can help shape it.
+
 We’d love to hear from you! Let us know if there’s anything you would like to do at a county or local level – we are keen to grow our local Inspire communities.  You can contact the county Inspire coordination lead volunteer via: <inspire@girlguidinghertfordshire.org.uk> or via the Inspire Hertfordshire County [Facebook page](https://www.facebook.com/Girlguiding-Inspire-Hertfordshire-County-102150821734797){:rel="noopener"}{:target="_blank"}{:.external-link}
 
 ### Find out more

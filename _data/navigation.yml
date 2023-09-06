@@ -62,7 +62,9 @@ what-we-do:
     url: /youth-opportunities/
     items:
       - title: Duke of Edinburgh's Award
-        url: /youth-opportunities/dofe/
+        url: /youth-opportunities/dofe/      
+      - title: Inspire blog
+        url: /youth-opportunities/inspire/
   - title: International adventures
     url: /international-adventures/
     items:
