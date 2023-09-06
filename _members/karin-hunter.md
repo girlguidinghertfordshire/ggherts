@@ -2,6 +2,13 @@
 title: Karin Hunter
 date: 2016-05-19T15:18:52.000Z
 groups:
+  - group: commissioners
+    roles:
+      - order: 4
+        job_title: Assistant County Commissioner
+        person_intro: Undertakes duties assigned to her by the County Commissioner and
+          is her representative.
+        email: karinACC@girlguidinghertfordshire.org.uk
   - group: leads
     roles:
       - order: 8

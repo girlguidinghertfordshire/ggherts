@@ -4,8 +4,8 @@ date: 2019-09-09 08:58:16.000000000 +01:00
 groups:
   - group: commissioners
     roles:
-      - order: 2
-        job_title: Assistant County Commissioner - Members (including Growth and Retention)
+      - order: 5
+        job_title: Assistant County Commissioner
         person_intro: Undertakes duties assigned to her by the County Commissioner and is her representative.
         email: SallyACC@girlguidinghertfordshire.org.uk
   - group: divcomm
