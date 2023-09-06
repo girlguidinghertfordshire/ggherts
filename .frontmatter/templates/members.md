@@ -1,8 +1,6 @@
 ---
-title:
-  "{ title }": null
-date:
-  "{ now }": null
+title: null
+date: null
 groups:
   - group: commissioners
     roles:

@@ -1,8 +1,8 @@
 ---
-title: '{{name}}'
+title: null
 date: null
 event:
-    start_date: '{{startdate}}'
+    start_date: '2000-01-01'
     end_date: ''
     address: null
     contact_name: null
@@ -42,6 +42,5 @@ event:
         - 'Hertfordshire, St Albans'
         - 'Hertfordshire, Stevenage'
         - 'Hertfordshire, West'
-lastmod: '2022-01-25T20:32:22.789Z'
 ---
 
