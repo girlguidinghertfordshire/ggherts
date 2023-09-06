@@ -10,6 +10,8 @@ _Essential News_ is sent to all **Girlguiding Hertfordshire** members by email o
 
 ## 2023
 
+- [September 2023](https://mailchi.mp/cbdf30ab51f0/sept-2023-essential-news-10382151){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
+- August 2023 - no newsletter
 - [July 2023](https://mailchi.mp/688c762302e6/july-2023-essential-news-10378247){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [June 2023](https://mailchi.mp/701ceb80fec0/june-2023-essential-news-10373523){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [May 2023](https://mailchi.mp/d63bc656427b/may-2023-essential-news-10369035){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
