@@ -16,6 +16,7 @@ event:
         - Leaders
     location:
         - 'Hertfordshire, Central'
+        
 ---
 Come along on Tuesday 19 September to Guessens disrict centre 7.30-9.30pm
 
