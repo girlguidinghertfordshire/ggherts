@@ -7,6 +7,8 @@ author:
   email: inspire@girlguidinghertfordshire.org.uk
   display_name: Amy Walczak-Hobbs
 ---
+![Inspire](/assets/images/2023/09/inspire-banner.webp){:.img-fluid}
+
 ## The road to launch #InspireHertfordshire
 
 {:.text-muted}
