@@ -1,6 +1,7 @@
 ---
 title: Fun day for 14+ members
 date: 2023-05-17T21:12:21.741Z
+published: false
 event:
   start_date: 2023-09-10
   end_date: ""
