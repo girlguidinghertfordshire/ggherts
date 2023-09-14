@@ -4,14 +4,12 @@ title: Great Patrol Hunt
 date: 2021-08-18T21:08:03.000Z
 toc: events
 carousel: true
-banner_image: /assets/images/2023/07/gph-banner-aug-23.webp
+banner_image: /assets/images/2023/09/great-patrol-hunt-banner.webp
 description: The Great Patrol Hunt is a competition for Guides. It takes place over three rounds culminating in a residential weekend.
 lastmod: 2022-09-03T10:01:02.547Z
 ---
 {:.lead}
 With the Great Patrol Hunt girls have the best experiences
-
-{% include slider.html slider="gph" %}
 
 ## The History of the Great Patrol Hunt&#8230;
 
