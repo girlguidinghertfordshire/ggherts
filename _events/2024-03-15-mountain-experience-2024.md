@@ -23,7 +23,7 @@ event:
     - Peak District
 lastmod: 2023-07-16T09:28:07.241Z
 ---
-**Save the date**
+## Save the date
 
 The walking team are pleased to announce that the Mountain Experience (MX24) will be returning in 2024, taking place from Friday 15 to Sunday 17 March.
 
@@ -33,9 +33,11 @@ A weekend full of social fun, delicious food and warm indoor accommodation.
 
 Saturday evening is leisure time to get to know new friends, watch a film or play games.
 
-The remainder of this walking weekend aims to teach participants how to navigate in the hills and on remote terrain by using maps and compasses.
+The remainder of this walking weekend aims to teach participants how to navigate in the hills and on remote terrain by using maps and compasses. Whether this be in preparation for Peak Assault, your Silver or Gold DofE, or just to learn new skills, this weekend is designed to teach and inspire you to do more hill and mountain walking.
 
 Are you ready for an adventure?
+
+**Cost:** approx. £70tbc (includes travel, indoor accommodation and food).
 
 Further details to follow or email <walking@girlguidinghertfordshire.org.uk>
 
