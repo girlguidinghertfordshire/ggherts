@@ -9,7 +9,7 @@ event:
   contact_email: dofe@girlguidinghertfordshire.org.uk
   contact_number: ""
   book_now_link: ""
-  image: /assets/images/2023/07/dofesilver.webp
+  image: /assets/images/2023/09/silver.webp
   type:
     - DofE
     - Residential
