@@ -4,6 +4,7 @@ title: Contact Us
 date: 2017-06-28 16:10:51.000000000 +01:00
 type: page_full
 toc: about-us
+accordion: true
 description: >
   Contact us and get involved with Girlguiding Hertfordshire.
   Telephone us, email us, members area or connect us via our Facebook or Twitter
@@ -11,29 +12,47 @@ description: >
 author:
 display_name: The County Office
 ---
+
+<div>
+  <strong>E: </strong><a href="mailto:admin@girlguidinghertfordshire.org.uk?subject=Response from Website">admin@girlguidinghertfordshire.org.uk</a>
+</div>
+<div>
+  <strong>T: </strong><a class="d-inline-block p-2" href="tel:+447918167366">07918 167 366</a> or <a class="d-inline-block p-2" href="tel:+447785274267">07785 274 267</a>
+</div>
+<p>Office opening hours:  (Term time only)</p>
+<ul>
+  <li>Monday: 9.30pm - 5pm</li>
+  <li>Tuesday: 9.30am - 2pm</li>
+  <li>Wednesday: 9.30am - 2pm</li>
+  <li>Thursday: 9.30am - 5pm</li>
+  <li>Friday: 10am - 2pm</li>
+</ul>
+<h2>FAQs</h2>
+<div class="accordion" id="faqlist">
+  {% assign count= 1 %}
+  {% for faq in site.data.faqs %}
+  <div class="accordion-item">
+    <h3 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq{{ count }}">{{ faq.question }}</button>
+    </h3>
+    <div id="faq{{ count }}" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+      <div class="accordion-body">
+{{ faq.answer | markdownify }}
+      </div>
+    </div>
+  </div>
+  {% assign count = count | plus: 1 %}
+  {% endfor %}
+</div>
 <div class="row row-cols-lg-2">
   <div class="col">
-    <h2>Our address</h2>
+    <h2>Postal address</h2>
     <address>c/o Hertfordshire Guide Centre<br />
       Cottered <br />
       Buntingford <br />
       Hertfordshire <br />
       SG9 9QP</address>
   </div>
-  <div class="col">
-    <h2>Our email</h2>
-    <p>
-        <a href="mailto:admin@girlguidinghertfordshire.org.uk?subject=Response from Website"><i
-            class="fa fa-envelope-open-o"></i> admin@girlguidinghertfordshire.org.uk</a>
-      </p>
-    <h2>Our contact numbers</h2>
-    <p>
-        <a class="d-inline-block p-2" href="tel:+447918167366">07918 167 366</a> or <a class="d-inline-block p-2" href="tel:+447785274267">07785 274 267</a>
-      </p>
-  </div>
+  
 </div>
 
-<iframe 
-  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2459.275669251542!2d-0.08255438388217032!3d51.94716427970983!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48762be581be0ac9%3A0x270a82ff6b880eb9!2sGirlguiding+UK!5e0!3m2!1sen!2suk!4v1498666098991"
-  width="100%" height="450" class="border-0" allowfullscreen="allowfullscreen"
-  title="Map of Girlguiding Hertfordshire County Office"></iframe>

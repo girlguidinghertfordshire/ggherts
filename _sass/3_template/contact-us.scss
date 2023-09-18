@@ -1,0 +1,29 @@
+.accordion {
+    --bs-accordion-btn-padding-x: 0.8rem;
+    --bs-accordion-btn-padding-y: 0.8rem;
+    --bs-accordion-border-radius: 0;
+    --bs-accordion-color: black;
+}
+
+.accordion-item {
+    border: none;
+
+    .accordion-header {
+        border-top: $gg-mid-blue 4px solid;
+
+        .accordion-button {
+            color: $gg-mid-blue;
+            font-size: 1.2rem;
+            font-weight: 700;
+
+            &:not(.collapsed) {
+                background-color: white;
+                box-shadow: none;
+            }
+        }
+    }
+    .accordion-collapse {
+        border-top: $gg-mid-blue 4px solid;
+
+    }
+}
