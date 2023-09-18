@@ -1,6 +1,6 @@
 ---
 title: Introduction to the Hills (ITTH)
-date: 2023-05-14T07:30:32.358Z
+date: 2023-09-18
 event:
   start_date: 2024-05-03
   end_date: 2024-05-06
@@ -9,7 +9,7 @@ event:
   contact_email: null
   contact_number: ""
   book_now_link: ""
-  image: /assets/images/2023/05/itth-2024-1.webp
+  image: /assets/images/2023/09/itth-2024.webp
   type:
     - Activity
     - Residential
@@ -18,14 +18,13 @@ event:
   location:
     - Peak District
 permalink: /event/2024/introduction-to-the-hills/
-lastmod: 2023-05-29T16:58:04.720Z
 ---
-**Save the date.**
+Taking place over the bank holiday weekend 3 -6 May, Introduction to the Hills (Itth) is an established trip, organised jointly by Girlguiding and Scouts in Hertfordshire, which has been running successfully for over 40 years.
 
-Introduction to the Hills is an established joint Girlguiding and Scouting event which has been running for over 40 years.
+A jam packed camping weekend in the Peak District involving caving, climbing, cycling and hiking for Guides and Scouts aged 11 -13 years of age, costing £175.00 (food, transport and tents provided).
 
-Following another successful year of ITTH, a jam packed weekend in the Peak District of camping, caving, climbing, cycling and hiking for Guides and Scouts aged 11 -13 years of age, next year's event dates have been released.
+[More information and to how to register](/assets/docs/2023/itth2024flyer.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
 
-More details to follow.
+For further information email <info@itth.org.uk>
 
-If you would be interested in becoming part of the itth team email <info@itth.org.uk>
+Applications close 9 February
