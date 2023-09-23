@@ -14,8 +14,6 @@ Milton Keynes Theatre have lots of fabulous shows coming up, many of which offer
 
 Please see the below overview of shows which provides more details on upcoming shows including:
 
-- Annie: Mon 7 Aug - Sat 12 August 2023
-- 42nd Street: Mon 28 Aug - Sat 2 Sept 2023
 - Life of Pi: Tues 19 Sept - Sat 23 Sept 2023
 - A Ghost Story: Tues 3 Oct - Sat 7 Oct 2023
 - Jesus Christ Superstar: Mon 30 Oct - Sat 4 Nov 2023
