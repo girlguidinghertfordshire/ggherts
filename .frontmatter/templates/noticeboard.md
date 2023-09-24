@@ -6,11 +6,8 @@ categories:
     - Notice
     - Fundraising
     - Badges
+    - Things to do
+    - TV show
 tags: []
-author:
-    display_name: null
-    first_name: null
-    last_name: null
-lastmod: '2022-01-25T19:58:20.249Z'
 ---
 

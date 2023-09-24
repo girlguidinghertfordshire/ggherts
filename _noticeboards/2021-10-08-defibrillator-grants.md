@@ -20,7 +20,7 @@ With every defibrillator, we also provide free online CPR/defibrillator awarenes
 
 Equipment is available now.
 
-If you have any queries please feel free to contact <jess@londonhearts.org> or call 020 7043 2493
+If you have any queries please feel free to contact <cerys@londonhearts.org> or call 020 7043 2493
 
 To receive further information on the defibrillators we supply along with a non-obligatory quote, simply complete our short online application at: [londonhearts.org/apply-for-a-defib](https://londonhearts.org/apply-for-a-defib)
 
