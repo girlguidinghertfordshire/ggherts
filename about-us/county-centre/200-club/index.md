@@ -13,15 +13,9 @@ lastmod: 2022-09-07T20:48:28.022Z
 
 All proceeds from the 200 Club go towards the upkeep of the Girlguiding Hertfordshire County Centre, Cottered.
 
-A one off payment of just £15 gives you the opportunity to join the monthly prize draws, along with a super draw in December*.
+A one off payment of just £15 gives you the opportunity to join the monthly prize draws, along with a super draw in December. This prize pot will be dependant upon supporter numbers.
 
-If you would like to join the 200 Club please use the links below to register online, plus download and read the terms and conditions.
-​
-
-- [2023 Online Registration Form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJUREpYRDhXREFSRVJWU0RPREhSWlhLUFNZUC4u){:.external-link}
 - [2023 Terms and Conditions](/assets/docs/2023/200-club-2023-05-tcs.pdf){:.download-link}{:target="_blank"}{:rel="noreferrer noopener"}
-
-*This prize pot will be dependant upon supporter numbers.
 
 ## 2023 - 200 Club Winners
 
@@ -48,3 +42,6 @@ July
 
 August
 : Carole Barker
+
+September
+: Catherine Johns
