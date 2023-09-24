@@ -46,18 +46,6 @@ Badges cost £1.30 each plus postage. Download the challenge badge pack to find 
 
 [Download <span class="visually-hidden">forest bathing </span>challenge pack](/assets/docs/2023/forest-bathing-challenge-badge_v2.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
 
-## Book challenge badge
-
-![Book challenge badges](/assets/images/2021/12/challenge_badges_book.jpg){:.pull-left.me-2.mb-2}{:width="180}{:height="165"}
-The book badge team have been busy creating a badge for everyone to take part in! This challenge badge is open to all ages and abilities - whether you are a book lover or looking for an opportunity to get back into reading. This is an ongoing badge and with 4 different colours to earn you can do this badge again and again throughout your time in guiding.
-
-Badges cost £1 each plus postage and packaging. Download the challenge badge pack to find out more about the requirements and activities.
-
-[Download challenge pack](/assets/docs/2022/book-challenge-pack-aug-2022.pdf){:.btn.btn-primary.download-link} [Order form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwRrqs7bdo19CnIwI_9Lov51URUpKNTNISEZFWVpCVVlXRUo5NEg0MlFQRC4u){:.btn.btn-primary.download-link}{:target="blank"}{:rel="noopener noreferrer"}
-
-{:.small}
-Challenge pack updated in August 2022
-
 <div class="clearfix"></div>
 
 ## Trefoil Guild 80th anniversary challenge badge
@@ -97,7 +85,7 @@ Badges cost £1.50 each, purchased in packs.
 
 EHAAT can offer a tour at either of our airbases in North Weald and Earls Colne, where you may get to see the helicopter and meet our crew! Alternatively, one of our charity representatives can come and talk about your local Air Ambulance’s life-saving work.
 
-[More information and request your challenge pack](https://ehaat.org/get-involved/schools-groups/challenge-badge/){:target="_blank"}{:.btn.btn-primary.external-link}{:rel="noreferrer noopener"}
+[More information and request your challenge pack](https://ehaat.org/support-us-get-involved/schools-groups/challenge-badge/){:target="_blank"}{:.btn.btn-primary.external-link}{:rel="noreferrer noopener"}
 
 ## Previous challenge badges
 
