@@ -15,9 +15,6 @@ event:
     - Residential
   age-group:
     - Rangers
-    - Young leaders
-    - Leaders
-    - Adults
   location:
     - Peak District
 lastmod: 2022-01-25T20:32:22.789Z
@@ -30,9 +27,9 @@ Whether you are planning to do your Silver or Gold Duke of Edinburgh Award (DofE
 
 This informal course, taking place from Friday 15 - Sunday 17 March, helps Rangers, and young leaders alike, learn how to navigate for themselves and inspire them to do more hill and mountain walking.
 
-Indoor accommodation and food provided.
+ Cost: £70 (includes indoor accommodation and food)
 
-Further details to follow or email <walking@girlguidinghertfordshire.org.uk>
+Email <walking@girlguidinghertfordshire.org.uk> by Sunday 3 December for an application form.
 
 This event is in conjunction with the Scout Explorers.
 
