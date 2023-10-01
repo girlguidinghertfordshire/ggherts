@@ -1,6 +1,7 @@
 ---
 title: Norfolk coastal walking challenge
 date: 2023-06-05T06:39:25.943Z
+published: false
 event:
   start_date: 2023-09-22
   end_date: 2023-09-24

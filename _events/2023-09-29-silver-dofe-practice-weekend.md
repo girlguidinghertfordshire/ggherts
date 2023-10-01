@@ -1,6 +1,7 @@
 ---
 title: Silver DofE Practice weekend
 date: 2023-07-01T17:32:18.378Z
+published: false
 event:
   start_date: 2023-09-29
   end_date: 2023-10-01
