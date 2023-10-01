@@ -1,5 +1,5 @@
 ---
-title: '2023 CUSAGC Marathon Challenge 2023'
+title: 'CUSAGC Marathon Challenge 2023'
 date: 2023-09-24T07:01:00.000Z
 image: /assets/images/2023/09/cusagc.webp
 categories:
@@ -20,7 +20,7 @@ Teams will start and finish their route from Ashdon Village Hall, Crown Hill, As
 
 Entry fee is **£14 per person,** which includes a cooked meal at the end of the challenge and a badge for your camp blanket.  
 
-If you would like to take part, please return the entry form, contained within the entry pack, with payment by **Saturday 28 of October.**  Entries are first come, first served and places are limited.
+If you would like to take part, please return the entry form, contained within the entry pack, with payment by **Saturday 28 October.**  Entries are first come, first served and places are limited.
 
 Confirmation and final details will be sent out soon after entries close.  
 

@@ -10,6 +10,6 @@ Looking for something fun, creative, active and engaging for your girls to try? 
 
 Established in 2009, Popdance runs fun dance workshops, parties and classes across the UK and the globe - making it super simple to book a session for your group.
 
-Find out more at  <https://popdance.co.uk/dance-in-hertfordshire/>
+Find out more at  <https://www.popdance.co.uk/dance-in-welwyn-garden-city/>
 
 Any queries, or to book, email <emmasharp.inbox@gmail.com> or call [07931 910655](tel:07931910655).
