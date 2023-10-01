@@ -6,9 +6,13 @@ banner_image: /assets/images/core/walking-banner.webp
 toc: what-we-do
 lastmod: 2022-09-29T21:17:06.594Z
 ---
-Many town tourist information offices can provide details of local town trails especially at Easter and Christmas. The Walking Team also offers some of their own. There’s a Hertford photo trail and another one from our County Centre in Cottered. Email <walking@girlguidinghertfordshire.org.uk> for a copy. 
+As well as the advertised county walking [Events](/events/), members of the Walking team will gladly help you organise a walk local to your unit meeting place.
 
-Members of the Walking Team will gladly help you organise a walk local to your unit meeting place too.
+Email <walking@girlguidinghertfordshire.org.uk> for assistance and advise.
+
+Did you know there is even a [Cottered Photo Trail](/about-us/county-centre/local-area/#cottered-village-photo-trail) centred around the Hertfordshire Guide Centre (HGC)?
+
+Many tourist information offices can also provide details of local town trails, especially at Easter and Christmas.
 
 ## Hertford Photo Trail
 
@@ -16,11 +20,12 @@ This also starts and finishes at the Sainsbury’s car park and takes around 1-1
 
 Email <walking@girlguidinghertfordshire.org.uk> for a copy of the trail.
 
-![](/assets/images/2021/11/walking.jpg)
+![Walking in Hertfordshire](/assets/images/2021/11/walking.jpg)
 
 ## The walking team's favourite walks
 
 A selection of the Walking Team’s favourite Division-Specific Walks
+
 ### East Hertfordshire
 
 - <https://www.hertford.gov.uk/uploads/cms/document/10/hertford-heritage-trail-document.pdf>{:target="_blank"}{:rel="noopener noreferrer"}

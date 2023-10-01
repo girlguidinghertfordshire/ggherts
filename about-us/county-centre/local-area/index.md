@@ -36,7 +36,7 @@ There is an [infrequent bus service](https://www.intalink.org.uk/services/cf5c5d
 
 Starting from the Guide Centre follow the trail through Cottered village and locate the buildings and items shown in the photos.  
 
-[Download the Cottered Village Photo Trail](/assets/docs/2023/cottered_photo_trail_-_july_2018.pdf){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noreferrer noopener"}
+[Download the Cottered Village Photo Trail](/assets/docs/2023/cottered-photo-trail-2023-06.pdf){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noreferrer noopener"} (updated June 2023)
 
 ## Geocaching in Cottered
 
