@@ -15,19 +15,13 @@ event:
     - Residential
   age-group:
     - Rangers
-    - Young leaders
-    - Inspire
-    - Leaders
-    - Adults
   location:
     - Peak District
 lastmod: 2023-07-16T09:28:07.241Z
 ---
-## Save the date
+The walking team are pleased to announce that the Mountain Experience (MX24) will be returning in 2024, taking place from Friday 15 to Sunday 17 March in the Peak District.
 
-The walking team are pleased to announce that the Mountain Experience (MX24) will be returning in 2024, taking place from Friday 15 to Sunday 17 March.
-
-This weekend is aimed primarily at Rangers and young leaders but adults and leaders are also welcome.
+This weekend is aimed at Rangers and run in conjunction with the Scout Explorers.
 
 A weekend full of social fun, delicious food and warm indoor accommodation.
 
@@ -37,10 +31,10 @@ The remainder of this walking weekend aims to teach participants how to navigate
 
 Are you ready for an adventure?
 
-**Cost:** approx. £70tbc (includes travel, indoor accommodation and food).
+**Cost:** £70 (includes travel, indoor accommodation and food). Financial assistance can be given if needed and some kit can be borrowed.
 
-Further details to follow or email <walking@girlguidinghertfordshire.org.uk>
+[More information](/assets/docs/2023/mountain-experience-2024.pdf){:.btn.btn-primary.download-link}
 
-This event is in conjunction with the Scout Explorers.
+Email <walking@girlguidinghertfordshire.org.uk> by Sunday 3 December for application form.
 
 [Navigation training](/training/mountain-experience-2024/) is also available during this weekend - see the training page for details of this option.
