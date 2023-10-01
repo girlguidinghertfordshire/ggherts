@@ -38,6 +38,8 @@ collections:
       permalink: /big-help-out/:title
     vacancies:
       output: false
+    inspire:
+      output: false
 defaults:
   - scope:
       path: ""

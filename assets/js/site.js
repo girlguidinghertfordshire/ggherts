@@ -172,7 +172,7 @@ const breakpoint = { xs: 0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400 };
 
 // Add in-page links for long pages
 (function ($) {
-    const pages = ["challenge-badges", "forms", "thanks-awards-and-recognition","share-with-us","your-county-team","volunteer-vacancies"]; //classes added to main-content section used to filter which pages this runs on
+    const pages = ["challenge-badges", "forms", "thanks-awards-and-recognition","share-with-us","your-county-team","volunteer-vacancies","inspire-blog"]; //classes added to main-content section used to filter which pages this runs on
     const page = pages.find(pageClass => $(".main-content").hasClass(pageClass));
     if (typeof (page) === "undefined" || page == null) {
         return;
