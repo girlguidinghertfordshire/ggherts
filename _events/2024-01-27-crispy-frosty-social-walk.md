@@ -9,7 +9,7 @@ event:
     contact_email: null
     contact_number: ''
     book_now_link: ''
-    image: '/assets/images/2023/10/01/crisp-frosty.webp'
+    image: '/assets/images/2023/10/crisp-frosty.webp'
     type:
         - Social
         - Walking
