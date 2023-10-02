@@ -29,10 +29,6 @@ All members aged 14+ are invited to this guided social walk through beautiful de
 
 A great opportunity to learn and practise your navigation skills too, if you wish.
 
-**£5 refundable deposit** required
-
-Book before **21 July.**
-
 Email <walking@girlguidinghertfordshire.org.uk>
 
 Why not combine this with the [Sensory Safari](/event/sensory-safari/) taking place on the morning of the same day.

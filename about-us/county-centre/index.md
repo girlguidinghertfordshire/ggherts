@@ -25,7 +25,7 @@ Offering [indoor accommodation](indoor-accommodation/), a [campsite](campsite/),
 
 ## 200 Club
 
-Support the Hertfordshire Guide Centre by joining its [200 Club](200-club/). You can win prizes in the monthly prize draw and the additional super draw in December.
+The 2023 200 Club prize draw winners, supporting the Hertfordshire Guide Centre, can be found on the [200 club page](200-club/).
 
 ## Availability and booking
 

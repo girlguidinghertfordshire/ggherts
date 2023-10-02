@@ -7,15 +7,12 @@ location_map: false
 showMap: false
 banner_image: /assets/images/core/hgc_outdoorview.webp
 description: All proceeds from the 200 Club go towards the upkeep of the Girlguiding Hertfordshire County Centre, Cottered.
-lastmod: 2022-09-07T20:48:28.022Z
 ---
 ![200 club logo](/assets/images/2023/05/200-club.webp){:loading="lazy"}{:.float-end.ms-3.mb-3}
 
-All proceeds from the 200 Club go towards the upkeep of the Girlguiding Hertfordshire County Centre, Cottered.
+Due to a reduction in membership over the last few years the difficult decision has been made that December 2023 draw of the 200 Club will be the final one.
 
-A one off payment of just £15 gives you the opportunity to join the monthly prize draws, along with a super draw in December. This prize pot will be dependant upon supporter numbers.
-
-- [2023 Terms and Conditions](/assets/docs/2023/200-club-2023-05-tcs.pdf){:.download-link}{:target="_blank"}{:rel="noreferrer noopener"}
+On behalf of the HGC management committee, past and present, we would like to take this opportunity to thank you for your support over the years, we are very grateful to each and every one of you.
 
 ## 2023 - 200 Club Winners
 

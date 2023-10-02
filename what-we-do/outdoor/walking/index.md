@@ -26,10 +26,11 @@ Alternatively, **Anglia region** offer regular trips - see the [Anglia Events we
 
 See what the walking team have been up to recently, and what they have planned for the future:
 
-[June 2023 newsletter](/assets/docs/2023/2023-06-walking-newsletter.pdf){:.btn.btn-primary.download-link}
+[October 2023 newsletter](/assets/docs/2023/2023-10-walking-newsletter.pdf){:.btn.btn-primary.download-link}
 
 ### Previous editions
 
+- [June 2023 newsletter](/assets/docs/2023/2023-06-walking-newsletter.pdf){:.download-link}
 - [December 2022 newsletter](/assets/docs/2022/walking-team-dec-2022-newsletter.pdf){:.download-link}
 - [September 2022 newsletter](/assets/docs/2022/walking-team-sept-2022-newsletter.pdf){:.download-link}
 - [July 2022 newsletter](/assets/docs/2022/walking-team-july-2022-newsletter.pdf){:.download-link}
