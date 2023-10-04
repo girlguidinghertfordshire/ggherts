@@ -41,16 +41,22 @@ Details are on the [DofE page](https://www.girlguidinghertfordshire.org.uk/youth
 
 Any forthcoming county [training](/training/) and [expedition events](/events/) will be advertised on this site.
 
-## Peer Educators
+## Peer educators
 
-![Peer Educator Poster](/assets/images/2023/06/peer-educator.webp){:.pull-right.m-3}{:width="250"}{:height="250"}
-Calling all our 14-25 year old members - would you like to make a difference as a Peer Educator?
+![Peer educator logo](/assets/images/2023/10/peer-ed.webp){:.pull-right.m-3}{:width="250"}{:height="250"}
+Calling all our 14-25 year old members - would you like to make a difference as a peer educator?
 
 You will be trained how to create a safe space for girls to discuss subjects like self-esteem, mental wellbeing and challenging gender stereotypes. You will visit units and run activities which teach invaluable life tools.
 
 To find out more visit: <https://www.girlguiding.org.uk/information-for-volunteers/programme-and-activities/peer-education/become-a-peer-educator/>{:rel="noopener"}{:target="_blank"}{:.external-link}. Complete the e-learning to discover if this is for you!
 
 Contact our county peer educator coordination lead volunteer via <peereducators@girlguidinghertfordshire.org.uk> to register your interest.
+
+On **Thursday 9 November** we are hosting a [Peer education UK Parliament Week](/event/peer-eduction-uk-parliament/) session to spread information about what peer education is, the opportunities it brings and how it relates to the wider world.
+
+For more information and to attend please see the events page.
+
+Any questions contact <peereducators@girlguidinghertfordshire.org.uk>.
 
 ## Inspire
 
