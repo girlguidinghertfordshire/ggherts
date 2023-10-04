@@ -28,7 +28,9 @@ Where photos feature groups of girls, this form should be completed by leaders c
 
 ## Grant applications
 
-### Individual member grant
+### Member grants
+
+This form can be used to apply for subscriptions assistance for one or more girls.
 
 [Grant Application Form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwRrqs7bdo19CnIwI_9Lov51UMEs3SDFBNk1XVUE1NERQTEVQT0lES1VVVy4u){:target="_blank"}{:rel="noopener"}{:.external-link.btn.btn-primary}
 

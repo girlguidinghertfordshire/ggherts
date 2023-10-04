@@ -16,7 +16,7 @@ Please note:
 
 - Girlguiding Hertfordshire is subsidising this by over £5 per member to ensure we can keep our subscription as low as possible.
 - Your division and/or district may have added their own levy on top of this.  Please speak to your local commissioner for details.
-- Financial support is available via the online [Assistance with subscriptions grant application form](/about-us/resources/#individual-member-grant). Grant applications should be submitted by Friday 12 January.
+- Financial support is available via the online [Assistance with subscriptions grant application form](/about-us/resources/#member-grants). Grant applications should be submitted by Friday 12 January.
 
 ## Important dates
 
