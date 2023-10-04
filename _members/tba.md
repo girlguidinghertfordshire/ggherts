@@ -7,7 +7,12 @@ groups:
       - order: 19
         job_title: County outdoor lead volunteer
         person_intro: Coordinates the outdoor team, organises and supports outdoor events and trainings, liaising with other advisers, and promoting an enthusiasm for the outdoors.
-        email: outdoor@girlguidinghertfordshire.org.uk
+        email: outdoor@girlguidinghertfordshire.org.uk      
+      - order: 21
+        job_title: County walking lead volunteer
+        person_intro: Promotes all forms of walking activities from scavenger hunts to mountaineering. Supports members undertaking Walking Scheme training and advises on walking events.
+        vacancyurl: /get-involved/vacancies/#county-walking-lead-volunteer
+        emailx: walking@girlguidinghertfordshire.org.uk
 image: null
 thumbnail: null
 author:

@@ -5,14 +5,14 @@ groups:
   - group: outdoor
     roles:
       - order: 20
-        job_title: County Outdoor Administration Lead Volunteer
+        job_title: County outdoor administration lead volunteer
         vacancyurl: /get-involved/vacancies/#county-outdoor-administration-lead-volunteer
         person_intro: null
         emailx: outdoor@girlguidinghertfordshire.org.uk
-      - order: 21
-        job_title: County Walking Lead Volunteer
-        person_intro: Promotes all forms of walking activities from scavenger hunts to mountaineering. Supports members undertaking Walking Scheme training and advises on walking events.
-        vacancyurl: /get-involved/vacancies/#county-walking-lead-volunteer
+      - order: 22
+        job_title: County walking administration lead volunteer
+        person_intro: Provides administrative support to the members of the county walking team
+        vacancyurl: /get-involved/vacancies/#county-walking-administration-lead-volunteer
         emailx: walking@girlguidinghertfordshire.org.uk
 image: null
 thumbnail: null
