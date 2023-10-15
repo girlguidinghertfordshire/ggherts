@@ -1,6 +1,7 @@
 ---
 title: Guided social walk in Broxbourne Woods
 date: 2023-07-01T17:14:42.312Z
+published: false
 event:
   start_date: 2023-10-08
   end_date: ""

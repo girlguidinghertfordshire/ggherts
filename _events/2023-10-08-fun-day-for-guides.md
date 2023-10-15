@@ -1,6 +1,7 @@
 ---
 title: Fun day for Guides
 date: 2023-05-17T21:18:58.712Z
+published: false
 event:
   start_date: 2023-10-08
   end_date: ""

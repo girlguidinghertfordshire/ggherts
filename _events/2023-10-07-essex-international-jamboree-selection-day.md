@@ -1,6 +1,7 @@
 ---
 title: 'Essex International Jamboree selection day'
 date: 2023-09-03
+published: false
 event:
     start_date: '2023-10-07'
     end_date: ''
