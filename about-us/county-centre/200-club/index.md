@@ -42,3 +42,6 @@ August
 
 September
 : Catherine Johns
+
+October
+: Karen Smale
