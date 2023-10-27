@@ -14,20 +14,13 @@ Milton Keynes Theatre have lots of fabulous shows coming up, many of which offer
 
 Please see the below overview of shows which provides more details on upcoming shows including:
 
-- Life of Pi: Tues 19 Sept - Sat 23 Sept 2023
-- A Ghost Story: Tues 3 Oct - Sat 7 Oct 2023
 - Jesus Christ Superstar: Mon 30 Oct - Sat 4 Nov 2023
 - The King and I: Tues 7 Nov - Sat 11 Nov 2023
 - Cinderella : Sat 9 Dec 2023 - Sun 14 Jan 2024
 - Shrek the Musical : Tues 27 Feb - Sun 3 Mar 2024
-
-- [Overview of shows](/assets/docs/2023/mk-theatre-flyer-202303.pdf){:.download-link}{:target="_blank"}{:rel="noreferrer noopener"}
-
-Plus, newly announced:
-
 - Fantastically Great Women who changed the World: Wed 24 Jan - Sat 27 Jan 2024
 
-![Fantastically Great Women who changed the World logo](/assets/images/2023/07/fgw-ad-milton-keynes.webp){:.img-fluid}
+- [Overview of shows](/assets/docs/2023/mk-theatre-flyer-202303.pdf){:.download-link}{:target="_blank"}{:rel="noreferrer noopener"}
 
 Groups of 10+ will benefit from an extended pay by date and no transaction fees. There should be one leader per group of 10 and uniforms must be worn.
 
