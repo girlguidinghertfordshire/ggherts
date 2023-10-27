@@ -17,9 +17,15 @@ It began in 1968, Hertfordshire Scout Patrols competed annually in various ways,
 
 ## Our Events
 
-- [Round 1: Saturday 14 October 2023 \| Chandler's Cross](round-1/)
+- Round 1: Saturday 14 October 2023 \| Chandler's Cross - **completed**
 - [Round 2: Saturday 23 March 2024 \| St Albans](round-2/)
 - [Round 3: Friday 21 June - Sunday 23 June 2024 \| TBC](round-3/)
+
+### 2023/24 results
+
+Round 1 of the Great Patrol Hun was completed on Saturday 14 October 2023:
+
+[Download round 1 results (PDF)](/assets/docs/2023/great-patrol-hunt-round1-23-24.pdf){:.download-link.btn.btn-primary.btn-sm}{:rel="noopener"}{:target="_blank"}
 
 ## About the Competition
 
