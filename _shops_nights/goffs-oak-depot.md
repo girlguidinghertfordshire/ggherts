@@ -9,9 +9,9 @@ shop:
     Potters Bar  
     EN6 4JH
   division: South East
-  contact_name: Mrs Barbara Tweed
-  contact_email: barbara.tweed@ntlworld.com
-  contact_number: 01707 873067
+  contact_name: 
+  contact_email: 
+  contact_number: 
   latlng: "51.71523939999999,-0.11761820000003809"
   type:
     - Shop
