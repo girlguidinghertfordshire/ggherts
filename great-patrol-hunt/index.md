@@ -23,7 +23,7 @@ It began in 1968, Hertfordshire Scout Patrols competed annually in various ways,
 
 ### 2023/24 results
 
-Round 1 of the Great Patrol Hun was completed on Saturday 14 October 2023:
+Round 1 of the Great Patrol Hunt was completed on Saturday 14 October 2023:
 
 [Download round 1 results (PDF)](/assets/docs/2023/great-patrol-hunt-round1-23-24.pdf){:.download-link.btn.btn-primary.btn-sm}{:rel="noopener"}{:target="_blank"}
 

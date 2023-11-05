@@ -2,19 +2,15 @@
 title: Goffs Oak Depot
 date: 2016-03-17 12:12:01.000000000 +00:00
 shop:
-  mapaddress: "5 High Ridge, Cuffley, Potters Bar EN6 4JH"
+  mapaddress: "TBA"
   location: |
-    5 High Ridge  
-    Cuffley  
-    Potters Bar  
-    EN6 4JH
+    TBA
   division: South East
   contact_name: 
   contact_email: 
   contact_number: 
-  latlng: "51.71523939999999,-0.11761820000003809"
+  latlng: "51.71423939999999,-0.12761820000003809"
   type:
     - Shop
 author:
 ---
-<p>Mondays during term time 7.00-8.00pm</p>
