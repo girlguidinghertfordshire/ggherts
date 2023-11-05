@@ -1,6 +1,7 @@
 ---
 title: "Walking scheme level 1 and 2 training and assessment"
 date: 2023-06-02T11:39:25.670Z
+published: false
 event:
   start_date: "2023-11-03"
   end_date: "2023-11-05"
