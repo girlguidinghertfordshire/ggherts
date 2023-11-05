@@ -20,8 +20,12 @@ event:
     - Hertfordshire, Stevenage
 lastmod: 2022-01-25T20:32:22.789Z
 ---
-SAVE THE DATE
+Our county training day is taking place on Saturday 20 January 2024 from 10am – 4.30pm in Stevenage.
 
-Our county training day will be taking place on Saturday 20 January 2024 from 10am - 4.30pm in Stevenage.
+As well as training sessions a marketplace will be available throughout the day.
 
-Details of sessions available and how to book which will be available soon.
+The day is free to attend and refreshments and cake will be offered but attendees should bring their own lunch.
+
+Register to attend via the online form, selecting the sessions you would like training on.
+
+[Register](https://forms.office.com/pages/responsepage.aspx?id=3yob_CzTykeMNWNnWM6OwRrqs7bdo19CnIwI_9Lov51URFhBTDhWMktMMEFVNVNXVTlWR09SRzBGSC4u){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
