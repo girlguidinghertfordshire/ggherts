@@ -1,6 +1,7 @@
 ---
 title: Silver DofE qualifying expedition
 date: 2023-07-01T17:33:35.462Z
+published: false
 event:
   start_date: 2023-10-26
   end_date: 2023-10-29

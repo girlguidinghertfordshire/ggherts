@@ -22,7 +22,7 @@ event:
     location:
         - 'Hertfordshire, St Albans'
 ---
-This weekend, taking place in Colney Heath, is for everyone who is planning on undertaking a practice or assessed DofE expedition with Girlguiding Hertfordshire during 2024.
+This weekend, taking place in Colney Heath, is for all those in school year 9 or above who are registered, or interested, in taking part in DofE expeditions through Girlguiding in 2024.
 
 All the main areas of Bronze expedition training will be covered, and in relation to Silver DofE you will learn to use eDofE and OS maps and plan your practice expedition, revise higher level navigation skills, first aid, food and expedition aims.
 

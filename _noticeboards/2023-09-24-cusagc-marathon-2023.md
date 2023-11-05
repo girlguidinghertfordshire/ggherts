@@ -1,6 +1,7 @@
 ---
 title: 'CUSAGC Marathon Challenge 2023'
 date: 2023-09-24T07:01:00.000Z
+published: false
 image: /assets/images/2023/09/cusagc.webp
 categories:
     - Things to do
