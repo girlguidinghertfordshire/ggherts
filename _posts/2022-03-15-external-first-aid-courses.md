@@ -23,8 +23,6 @@ Please allow adequate time for this process.
 
 If your training fulfils the criteria, the region verifier will advise the county administrators who will then add the qualification to your GO record accordingly.
 
-If you have undertaken external first aid training and wish this to be used within your Girlguiding role your external course must have been delivered on a **face-to-face** basis and last at least **6 hours**. It must have included both **child and adult CPR** and covered all the same elements _Girlguiding 1st response_ courses.  
-
 **Please note:** To be a recognised first aider in Girlguiding you **must** also complete the 1st response e-learning via the [Girlguiding Learning Platform][2]{:.external-link}{:target="_blank"}{:rel="noopener"}.
 
 **Completion of this e-learning module must show on your GO record before an external first aid qualification can be added.**

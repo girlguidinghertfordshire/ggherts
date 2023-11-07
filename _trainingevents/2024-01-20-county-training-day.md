@@ -20,12 +20,16 @@ event:
     - Hertfordshire, Stevenage
 lastmod: 2022-01-25T20:32:22.789Z
 ---
-Our county training day is taking place on Saturday 20 January 2024 from 10am – 4.30pm in Stevenage.
+Our county training day is taking place on Saturday 20 January 2024 from 10am – 4.30pm in Stevenage ([what3words///chase.estate.hobby](https://w3w.co/chase.estate.hobby){:.external-link}{:rel="noopener"}{:target="_blank"}). Parking is available on site.
 
-As well as training sessions a marketplace will be available throughout the day.
+As well as training sessions, a marketplace will be available during the lunch break.
 
 The day is free to attend and refreshments and cake will be offered but attendees should bring their own lunch.
 
-Register to attend via the online form, selecting the sessions you would like training on.
+Please wear your uniform if you have one.
+
+Register to attend and select the sessions you would like training on, via the online form, by Wednesday 10 January.
 
 [Register](https://forms.office.com/pages/responsepage.aspx?id=3yob_CzTykeMNWNnWM6OwRrqs7bdo19CnIwI_9Lov51URFhBTDhWMktMMEFVNVNXVTlWR09SRzBGSC4u){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
+
+Please contact <guidingdev@girlguidinghertfordshire.org.uk> with any queries.
