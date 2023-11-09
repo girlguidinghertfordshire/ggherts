@@ -1,6 +1,7 @@
 ---
 title: 'Festival of the Girl 2023'
 date: 2023-09-24T07:19:00.000Z
+published: false
 image: /assets/images/2023/09/festival-of-the-girl.webp
 categories:
     - Things to do

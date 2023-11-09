@@ -1,6 +1,7 @@
 ---
 title: "1st response course"
 date: 2023-09-14T07:43:41.128Z
+published: false
 event:
   start_date: "2023-11-01"
   end_date: "2023-11-08"

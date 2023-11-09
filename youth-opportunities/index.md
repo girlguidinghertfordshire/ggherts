@@ -52,12 +52,6 @@ To find out more visit: <https://www.girlguiding.org.uk/information-for-voluntee
 
 Contact our county peer educator coordination lead volunteer via <peereducators@girlguidinghertfordshire.org.uk> to register your interest.
 
-On **Thursday 9 November** we are hosting a [Peer education UK Parliament Week](/event/peer-eduction-uk-parliament/) session to spread information about what peer education is, the opportunities it brings and how it relates to the wider world.
-
-For more information and to attend please see the events page.
-
-Any questions contact <peereducators@girlguidinghertfordshire.org.uk>.
-
 ## Inspire
 
 You may be wondering, what is Inspire? Inspire is the Girlguiding offering for all 18-30 year olds. It doesn’t matter what your everyday role or level of interaction with Girlguiding is, all members within this age range are automatically part of Inspire. It is a place where you can make new friends, learn new skills and take advantage of the many awards and opportunities on offer. This can include completing Girlguiding qualifications and awards such as the Queens Guide award or Duke of Edinburgh Award, volunteering at events in the future, making your voice heard as a Girlguiding advocate, developing new skills or helping to train other members and share your knowledge and experience.
