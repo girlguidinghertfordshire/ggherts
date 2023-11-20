@@ -13,5 +13,3 @@ lastmod: 2022-07-05T20:05:09.767Z
 Guide and Ranger members aged 14-18 who want to travel the world with Girlguiding should be encouraged to attend the county international opportunities day, held each year in the autumn term.  The international leadership team have a day of activities and team challenges to allow them to get to know everyone. After successful completion, the team offer places on county trips for the next year and offer a small number of girls the opportunity to attend Anglia region selection. In recent years county trips have visited Ireland, The Gambia, Mexico, USA, India and the World Scout Jamboree.
 
 If you have any queries please contact the International team via <international@girlguidinghertfordshire.org.uk>
-
-{% include international-county-jamboree.html %}
