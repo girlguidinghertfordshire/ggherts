@@ -2,6 +2,7 @@
 title: London Pulse Netball
 date: 2022-09-20T19:04:38.526Z
 image: /assets/images/2022/01/london-pulse.jpg
+published: false
 categories:
   - Things to do
 tags: []
@@ -14,7 +15,7 @@ lastmod: 2023-04-04T09:39:03.888Z
 
 Bring your unit to watch a London Pulse Superleague netball match at the Copperbox Arena on the Olympic Park East London.
 
-We provide a great sporting spectacle for young girls to see female elite athletes compete at the highest professional level. 
+We provide a great sporting spectacle for young girls to see female elite athletes compete at the highest professional level.
 
 We are also the most diverse club in the Superleague with over 30 languages spoken. Our elite team is made up of a diverse player cohort which hopefully means that our role models will be familiar to the children watching and therefore truly inspiring.
 

@@ -2,6 +2,7 @@
 title: The Dog Academy
 date: 2023-06-20T19:14:07.688Z
 image: /assets/images/2023/06/dog-academy.webp
+published: false
 categories:
   - TV show
 tags: []
@@ -18,4 +19,3 @@ The series will be filmed later in the summer, but you can apply now at [dogsatf
 ![Scan the QR code](/assets/images/2023/06/dog-academy-qr.webp)
 
 Please email <dogacademy@fivemilefilms.co.uk> with any queries regarding the application process.
-

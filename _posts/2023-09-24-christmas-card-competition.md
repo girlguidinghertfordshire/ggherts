@@ -2,6 +2,7 @@
 title: "County Christmas ecard design competition"
 date: 2023-09-24
 image: /assets/images/2023/09/christmas-ecard-design.webp
+published: false
 categories:
   - Announcements
   - Badges
