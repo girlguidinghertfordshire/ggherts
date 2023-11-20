@@ -14,8 +14,6 @@ Milton Keynes Theatre have lots of fabulous shows coming up, many of which offer
 
 Please see the below overview of shows which provides more details on upcoming shows including:
 
-- Jesus Christ Superstar: Mon 30 Oct - Sat 4 Nov 2023
-- The King and I: Tues 7 Nov - Sat 11 Nov 2023
 - Cinderella : Sat 9 Dec 2023 - Sun 14 Jan 2024
 - Shrek the Musical : Tues 27 Feb - Sun 3 Mar 2024
 - Fantastically Great Women who changed the World: Wed 24 Jan - Sat 27 Jan 2024
