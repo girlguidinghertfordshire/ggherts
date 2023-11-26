@@ -23,7 +23,5 @@ Below you’ll find some Girlguiding wellness resources that you may find benefi
 - Papyrus UK (suicide prevention) &#8211; [papyrus-uk.org](https://papyrus-uk.org/){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - Papyrus UK Hopeline &#8211; [0800 068 41 41](tel:08000684141)
 - SelfharmUK &#8211; [selfharm.co.uk](https://selfharm.co.uk/){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
-
-Hertfordshire Community NHS Trust School Nursing Service have provided some information which is contained on the [county noticeboard](/noticeboard/information-from-school-nursing-team-at-hertfordshire-community-nhs-trust/){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
-
-Herts Haven Café (emotional wellbeing support for children and young people aged 10 – 18) [withyouth.org/herts-haven-cafes/](http://www.withyouth.org/herts-haven-cafes/){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
+- Hertfordshire Community NHS Trust School Nursing Service have provided some information which is contained on the [county noticeboard](/noticeboard/information-from-school-nursing-team-at-hertfordshire-community-nhs-trust/){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
+- Herts Haven Café (emotional wellbeing support for children and young people aged 10 – 18) [withyouth.org/herts-haven-cafes/](http://www.withyouth.org/herts-haven-cafes/){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
