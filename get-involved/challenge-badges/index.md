@@ -9,7 +9,6 @@ author:
   first_name: Andrew
   last_name: Settle
 permalink: /get-involved/challenge-badges/
-lastmod: 2022-09-10T14:38:25.750Z
 ---
 ## Love Life challenge badge
 
@@ -51,9 +50,11 @@ Badges cost £1 each plus postage.  Download the challenge badge pack to find ou
 ![Forest bathing challenge badge](/assets/images/2023/04/forest-badge.webp){:.float-end.mb-2.ms-2}
 Forest bathing, or ‘shinrin-yoku,’ was first developed in Japan in the 1980s as a form of mindfulness.
 
-What better way to enjoy the summer months than a relaxing walk in the forest or woods whilst reducing stress levels and improving your concentration and memory.
+The woods and forests can be just as beautiful in the winter months so why not wrap up warm and go for a relaxing walk to reduce stress levels and improving your concentration and memory. Either alone, with friends or family, or a four legged companion, this badge contains ideas to help you immense yourself with nature.
 
-Badges cost £1.30 each plus postage. Download the challenge badge pack to find out more about the requirements and activities.
+Badges cost £1.30 each plus postage.
+
+Download the challenge badge pack to find out more about the requirements and activities.
 
 [Download <span class="visually-hidden">forest bathing </span>challenge pack](/assets/docs/2023/forest-bathing-challenge-badge_v2.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
 
@@ -102,7 +103,7 @@ EHAAT can offer a tour at either of our airbases in North Weald and Earls Colne,
 
 - Gold for Georgia 2022 challenge badge
 - Eggstraordinary Easter challenge badge
-- Snow is Falling challenge badge
+- Flower Power challenge badge
 - Marathon challenge badge
 - Raise West Hertfordshire NHS Trust charity badge
 - Uganda Friendship challenge badge
