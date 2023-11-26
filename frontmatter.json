@@ -2,24 +2,7 @@
   "$schema": "https://frontmatter.codes/frontmatter.schema.json",
   "frontMatter.framework.id": "other",
   "frontMatter.content.publicFolder": "",
-  "frontMatter.content.pageFolders": [
-    {
-      "title": "Events",
-      "path": "c:/Users/andre/OneDrive/repos/GitHub/ggherts/_events"
-    },
-    {
-      "title": "County Team",
-      "path": "c:/Users/andre/OneDrive/repos/GitHub/ggherts/_members"
-    },
-    {
-      "title": "Noticeboard",
-      "path": "c:/Users/andre/OneDrive/repos/GitHub/ggherts/_noticeboards"
-    },
-    {
-      "title": "News",
-      "path": "c:/Users/andre/OneDrive/repos/GitHub/ggherts/_posts"
-    }
-  ],
+  "frontMatter.content.pageFolders": [],
   "frontMatter.templates.enabled": true,
   "frontMatter.taxonomy.contentTypes": [
     {
@@ -173,7 +156,7 @@
         {
           "title": "title",
           "name": "title",
-          "type": "string",
+          "type": "string"
         },
         {
           "title": "date",
@@ -193,8 +176,8 @@
                 {
                   "title": "group",
                   "name": "group",
-                  "type": "choice".
-                  "choices":[
+                  "type": "choice",
+                  "choices": [
                     "commissioners",
                     "divcomm",
                     "youthopp",
