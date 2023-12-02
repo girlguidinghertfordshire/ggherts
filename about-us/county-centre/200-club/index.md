@@ -45,3 +45,6 @@ September
 
 October
 : Karen Smale
+
+November
+: Ricksmansworth Trefoil Guild

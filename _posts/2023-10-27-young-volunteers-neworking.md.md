@@ -16,6 +16,4 @@ Refreshments provided.
 
 Please wear your uniform, if you have one, and if you are undertaking the YLQ, bring your book together with any supporting evidence.
 
-Deadline for booking: Friday 24 November
-
 [Book place](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwZj-g9JL5lpMiAybQMCV5zxUN0JCNFhEN1FCTE9YVVJNWDMxQkxKWFQxWC4u){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
