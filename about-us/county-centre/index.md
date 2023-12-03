@@ -19,7 +19,7 @@ The Hertfordshire Guide Centre, owned by Girlguiding Hertfordshire, is situated 
 
 ## Facilities
 
-Offering [indoor accommodation](indoor-accommodation/), a [campsite](campsite/), [pond](nature-pond/) and [campfire](campsite/#campfire-circle), it is suitable for meetings, trainings, sleepovers, camps, pond dipping sessions and camp fire circles.
+Offering [indoor accommodation](indoor-accommodation/), a [campsite](campsite/) and [campfire](campsite/#campfire-circle), it is suitable for meetings, trainings, sleepovers, camps, pond dipping sessions and camp fire circles.
 
 {% include tagged-news-post.html tag="HGC" %}
 
