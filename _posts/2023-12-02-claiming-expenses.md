@@ -1,5 +1,5 @@
 ---
-title: "Deadline for claiming 2023 expenses from county treasurers"
+title: "Deadline for claiming 2023 expenses from county treasurer"
 date: 2023-12-02T15:05:00Z
 image: /assets/images/2023/12/claim-exp.webp
 categories:

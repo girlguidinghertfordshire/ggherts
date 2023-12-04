@@ -50,7 +50,7 @@ Badges cost £1 each plus postage.  Download the challenge badge pack to find ou
 ![Forest bathing challenge badge](/assets/images/2023/04/forest-badge.webp){:.float-end.mb-2.ms-2}
 Forest bathing, or ‘shinrin-yoku,’ was first developed in Japan in the 1980s as a form of mindfulness.
 
-The woods and forests can be just as beautiful in the winter months so why not wrap up warm and go for a relaxing walk to reduce stress levels and improving your concentration and memory. Either alone, with friends or family, or a four legged companion, this badge contains ideas to help you immense yourself with nature.
+The woods and forests can be just as beautiful in the winter months so why not wrap up warm and go for a relaxing walk to reduce stress levels and improve your concentration and memory. Either alone, with friends or family, or a four legged companion, this badge contains ideas to help you immerse yourself with nature.
 
 Badges cost £1.30 each plus postage.
 
