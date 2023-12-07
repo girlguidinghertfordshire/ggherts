@@ -1,6 +1,7 @@
 ---
 title: "Young volunteers networking and support meet"
 date: 2023-10-27T20:08:00Z
+published: false
 image: /assets/images/2023/10/young-vol-harp.webp
 categories:
   - Come along

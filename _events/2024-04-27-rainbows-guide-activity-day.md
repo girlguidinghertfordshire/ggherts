@@ -35,4 +35,6 @@ Please register your unit's/group's interest now to attend this county fun day a
 
 [Register interest](https://forms.office.com/e/HJB0NS3dL9){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
 
-Watch this space for news of a special county 110th birthday badge design competition coming soon!
+To mark this special milestone why not enter our [county birthday badge competition](/news/birthday-badge-comp/) and see if your design could be the winner!
+
+These badges will be presented to those attending this, and other, birthday activity days and available throughout the year.

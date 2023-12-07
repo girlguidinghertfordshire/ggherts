@@ -1,6 +1,7 @@
 ---
 title: County treasurer
 date: 2023-07-01T17:55:00.000Z
+published: false
 download: "/assets/docs/2023/vacancies/county-treasurer-role-description.pdf"
 image: "/assets/images/2023/07/county-treasurer.webp"
 categories: 

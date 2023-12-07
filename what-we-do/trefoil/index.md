@@ -5,7 +5,7 @@ date: 2022-06-23T20:40:59.883Z
 toc: what-we-do
 lastmod: 2022-09-08T20:09:39.694Z
 ---
-![Trefoil Guild Logo](/assets/images/2023/06/trefoil.webp){:.float-start.m-3}
+![Trefoil Guild Logo](/assets/images/2023/12/trefoil-herts.webp){:.float-start.m-3}
 Trefoil members are adults who enjoy life, make friends, support others, and value making time to do something ‘for them’ – and if it’s a challenge, so much the better! In this pressured world where wellness is vital, what could be better than growing and learning with like-minded individuals.
 
 Every Trefoil is different. Some have all ages from 18 to 90; but whichever Trefoil you join, everyone decides on a programme together that provides the fun and friendship that gives Trefoil its central ethos.
@@ -13,6 +13,24 @@ Every Trefoil is different. Some have all ages from 18 to 90; but whichever Tref
 If you were ever involved in Guiding, either as a Rainbow, Brownie, Guide, or Ranger, or just wish you had been then it is never too late to join in the fun! The Trefoil Guild is open to anyone who supports Girlguiding.
 
 [Find a guild](guilds/){:.btn.btn-primary} [Activities and challenges](activities/){:.btn.btn-primary}
+
+## Hertfordshire Trefoil events
+
+### Trefoil Guild Thinking Day Lunch
+
+Thursday 29 February in Welwyn Garden City.
+
+If you would like to come along and join us for lunch to celebrate World Girlguiding Thinking Day please email <trefoil@girlguidinghertfordshire.org.uk>
+
+### Trefoil Guild Annual Review
+
+Saturday 27 April 2024 in Welwyn Garden City
+
+Everyone is welcome to come along and attend our AGM with guest speaker Tracey Foster, chief guide.
+
+For further details email <trefoil@girlguidinghertfordshire.org.uk>
+
+## Hertfordshire Trefoil team
 
 The Hertfordshire County Trefoil Team are:
 
