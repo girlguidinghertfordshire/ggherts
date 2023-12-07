@@ -1,7 +1,7 @@
 ---
 title: "110th birthday badge competition"
 date: 2023-12-07T18:45:00Z
-image: null
+image: /assets/images/2023/12/110-birthday-badge-comp1.webp
 categories:
   - Announcements
   - Badges
