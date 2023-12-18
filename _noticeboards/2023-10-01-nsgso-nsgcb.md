@@ -1,6 +1,7 @@
 ---
 title: 'NSGSO and NSGCB 2024'
 date: 2023-10-01T14:28:00.000Z
+published: false
 image: /assets/images/2023/10/nsgso-nsgcb.webp
 categories:
     - Notice
