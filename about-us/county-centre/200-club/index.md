@@ -48,3 +48,9 @@ October
 
 November
 : Ricksmansworth Trefoil Guild
+
+December
+: Vicky Willson
+
+December super draw winner
+: Trefoil Guild Hitchen Evening
