@@ -15,15 +15,15 @@ Guide and Ranger members aged 14-18 who want to travel the world with Girlguidin
 If you have any queries please contact the International team via <international@girlguidinghertfordshire.org.uk>
 
 <div class="alert alert-info" markdown="1">
-## 2024 trip: Our Chalet
-  
-Guides/Rangers who will be aged 14 -18 by 26 July 2024 are invited to apply for county international selection for the trip.  
+## Could you help to lead and inspire our members on an international adventure in 2025?
 
-They need to be available for the trip dates, Saturday 17 - Saturday 24 August, as well as a get to know you weekend from Saturday 3 - Sunday 4 February.  
+The international team are looking for adult leaders interested in either taking our young members away on county international trips, both within the UK and abroad, or being part of the leadership team for an adult only international adventure.
 
-The total cost of the trip is £1,300.  If offered the place a deposit of £200 needs to be paid by 5 January 2024.
+Applications for this opportunity will close on **Friday 12 January.**  
 
-Applications and references need to be returned to <international@girlguidinghertfordshire.org.uk> by Friday 15 December 2023. Forms can be downloaded via the buttons below.
+Please contact the international team on <international@girlguidinghertfordshire.org.uk> with any questions.
 
-[Application form](/assets/docs/2023/our-chalet-2024-application-form.docx){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [Reference form](/assets/docs/2023/our-chalet-2024-reference-form.docx){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
+[Application form](https://forms.office.com/e/rR0YwtRsyB){:.btn.btn-primary.external-link}{:target="blank"}{:rel="noopener"}
+
+If you are unable to take part in an international trip in 2025 but would be interested in being a part of the leadership team for future county internationals please get in touch with the international team.
 </div>
