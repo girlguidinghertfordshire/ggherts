@@ -10,6 +10,21 @@ author:
   last_name: Settle
 permalink: /get-involved/challenge-badges/
 ---
+## Eggstraordinary Easter challenge badge
+
+![Eggstraordinary Easter challenge badge](/assets/images/2023/12/egg-challenge-badge-v4.webp){:.ms-3.mb-3.float-end}
+Make your's a hoppy Easter with the newly rebranded Eggstraordinatory Easter challenge badge.
+
+This can be completed in unit meetings if you are planning an egg-citing term ahead or equally introduced to the girls for them to work towards at home independently or with their friends and family over the Easter holidays.  
+
+To earn this Eggstraordinatory Easter challenge badge you will need to complete various Easter themed cookery, craft and nature activities.  There are activities suitable for each section and many are linked to skills builders (SB), unit meeting activities and interest badges.
+
+You can also use this challenge badge to complete the whole of *Take Action Make a Change* Stage 2 or 3.
+
+Badges cost £1.30 each plus postage and can be ordered from within the challenge pack.  Download the challenge badge pack to find out more about the requirements and activities.
+
+[Download <span class="visually-hidden">Eggstraordinary Easter</span> challenge pack](/assets/docs/2023/eggstraordinary-easter-challenge-badge_v4.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
+
 ## Love Life challenge badge
 
 ![Love life challenge badge](/assets/images/2023/10/love-life-challenge-badge.webp){:.ms-3.mb-3.float-end}
@@ -102,7 +117,6 @@ EHAAT can offer a tour at either of our airbases in North Weald and Earls Colne,
 ## Previous challenge badges
 
 - Gold for Georgia 2022 challenge badge
-- Eggstraordinary Easter challenge badge
 - Flower Power challenge badge
 - Marathon challenge badge
 - Raise West Hertfordshire NHS Trust charity badge
