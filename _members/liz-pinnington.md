@@ -5,7 +5,7 @@ groups:
   - group: residential
     roles:
       - order: 24
-        job_title: County Residential Lead Volunteer - Outdoor
+        job_title: County residential lead volunteer - outdoor
         person_intro: null
         email: residential@girlguidinghertfordshire.org.uk
 image: null

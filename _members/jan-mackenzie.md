@@ -5,7 +5,7 @@ groups:
   - group: leads
     roles:
       - order: 27
-        job_title: County Wellbeing Lead Volunteer
+        job_title: County wellbeing lead volunteer
         person_intro: ""
         email: inclusions@girlguidinghertfordshire.org.uk
 image: null

@@ -5,7 +5,7 @@ groups:
   - group: divcomm
     roles:
       - order: 7
-        job_title: South West Division Commissioner
+        job_title: South West division commissioner
         person_intro: null
         email: southwestdivision@girlguidinghertfordshire.org.uk
 image: null

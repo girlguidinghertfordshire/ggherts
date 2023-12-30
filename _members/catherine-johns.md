@@ -5,7 +5,7 @@ groups:
   - group: leads
     roles:
       - order: 6
-        job_title: County Enquiry Coordination Lead Volunteer
+        job_title: County enquiry coordination lead volunteer
         person_intro: null
         email: joinus@girlguidinghertfordshire.org.uk
 image: null

@@ -5,15 +5,15 @@ groups:
   - group: commissioners
     roles:
       - order: 4
-        job_title: Assistant County Commissioner
-        person_intro: Undertakes duties assigned to her by the County Commissioner and
+        job_title: Assistant county commissioner
+        person_intro: Undertakes duties assigned to her by the county commissioner and
           is her representative.
         email: karinACC@girlguidinghertfordshire.org.uk
   - group: leads
     roles:
       - order: 8
         job_title: County training administration lead volunteer
-        person_intro: Coordinates and organises the training and ongoing development of Leaders.
+        person_intro: Coordinates and organises the training and ongoing development of leaders.
         email: Guidingdev@girlguidinghertfordshire.org.uk
   - group: divcomm
     roles:

@@ -6,7 +6,7 @@ groups:
     roles:
       - order: 5
         job_title: County treasurer
-        person_intro: Monitors and maintains the financial administration of the County.
+        person_intro: Monitors and maintains the financial administration of the county.
         email: CTreasurer@girlguidinghertfordshire.org.uk
 image: /wp-content/uploads/2019/01/Wilson-Elaine_BW2-1.jpg
 thumbnail: /wp-content/uploads/2019/01/Wilson-Elaine_BW2-1-268x243.jpg

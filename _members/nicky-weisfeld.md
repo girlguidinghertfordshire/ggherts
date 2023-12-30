@@ -5,7 +5,7 @@ groups:
   - group: divcomm
     roles:
       - order: 1
-        job_title: Central Division Commissioner
+        job_title: Central division commissioner
         person_intro: null
         email: centraldivision@girlguidinghertfordshire.org.uk
 image: null

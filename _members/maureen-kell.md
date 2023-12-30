@@ -5,7 +5,7 @@ groups:
   - group: leads
     roles:
       - order: 10
-        job_title: County Leadership Qualification Lead Volunteer
+        job_title: County leadership qualification lead volunteer
         person_intro: ""
         email: Mentors@girlguidinghertfordshire.org.uk
 image: /wp-content/uploads/2016/04/MKell.jpg

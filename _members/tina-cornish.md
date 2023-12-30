@@ -5,7 +5,7 @@ groups:
   - group: leads
     roles:
       - order: 26
-        job_title: County Inclusion Lead Volunteer
+        job_title: County inclusion lead volunteer
         person_intro: Supports members regarding adults and girls who have special and
           complex needs.
         email: Inclusions@girlguidinghertfordshire.org.uk

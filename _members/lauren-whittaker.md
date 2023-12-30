@@ -5,7 +5,7 @@ groups:
   - group: leads
     roles:
       - order: 7
-        job_title: County Media and Communications Lead Volunteer
+        job_title: County media and communications lead volunteer
         person_intro: Promotes Girlguiding Hertfordshire and advising members about
           marketing and communications.
         email: communications@girlguidinghertfordshire.org.uk

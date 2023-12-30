@@ -5,7 +5,7 @@ groups:
   - group: youthopp
     roles:
       - order: 16
-        job_title: County Duke of Edinburgh Award Lead Volunteer
+        job_title: County Duke of Edinburgh Award lead volunteer
         person_intro: Advises and supports Ranger members working towards the Duke of
           Edinburgh Award
         email: dofe@girlguidinghertfordshire.org.uk

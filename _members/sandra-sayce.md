@@ -5,7 +5,7 @@ groups:
   - group: divcomm
     roles:
       - order: 8
-        job_title: St Albans Division Commissioner
+        job_title: St Albans division commissioner
         person_intro: null
         email: stalbansdivision@girlguidinghertfordshire.org.uk
 image: null

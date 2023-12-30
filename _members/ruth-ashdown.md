@@ -5,7 +5,7 @@ groups:
   - group: commissioners
     roles:
       - order: 2
-        job_title: Assistant County Commissioner
+        job_title: Assistant county commissioner
         person_intro: Undertakes duties assigned to her by the county commissioner and
           is her representative. 
         email: RuthACC@girlguidinghertfordshire.org.uk

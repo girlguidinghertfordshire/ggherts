@@ -5,7 +5,7 @@ groups:
   - group: leads
     roles:
       - order: 31
-        job_title: Trefoil Guild Chair
+        job_title: Trefoil Guild chair
         person_intro: ""
         email: trefoil@girlguidinghertfordshire.org.uk
 image: /wp-content/uploads/2019/06/Janice-Hyde.jpg

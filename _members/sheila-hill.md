@@ -5,15 +5,15 @@ groups:
   - group: leads
     roles:
       - order: 30
-        job_title: County Archivist Lead Volunteer
-        person_intro: Maintains the County Archives covering the history of guiding in
+        job_title: County archivist lead volunteer
+        person_intro: Maintains the county archives covering the history of guiding in
           Hertfordshire.
         email: Archives@girlguidinghertfordshire.org.uk
   - group: staff
     roles:
       - is_employee: true
         order: 9
-        job_title: County Membership Systems Coordinator
+        job_title: County membership systems coordinator
         person_intro: Coordinates the membership systems management in Hertfordshire
         email: membership@girlguidinghertfordshire.org.uk
 image: /wp-content/uploads/2018/06/SHill.jpg

@@ -5,7 +5,7 @@ groups:
   - group: divcomm
     roles:
       - order: 6
-        job_title: South East Division Commissioner
+        job_title: South East division commissioner
         person_intro: null
         email: southeastdivision@girlguidinghertfordshire.org.uk
 image: null

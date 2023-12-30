@@ -5,8 +5,8 @@ groups:
   - group: commissioners
     roles:
       - order: 3
-        job_title: Assistant County Commissioner
-        person_intro: Undertakes duties assigned to her by the County Commissioner and
+        job_title: Assistant county commissioner
+        person_intro: Undertakes duties assigned to her by the county commissioner and
           is her representative.
         email: AnneACC@girlguidinghertfordshire.org.uk
 image: /wp-content/uploads/2020/10/Anne-Johns-1.jpg

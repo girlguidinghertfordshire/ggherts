@@ -4,7 +4,7 @@ date: 2016-05-20T16:15:44.000Z
 groups:
   - group: youthopp
     roles:
-      - job_title: County Ranger Lead Volunteer
+      - job_title: County Ranger lead volunteer
         order: 3
         person_intro: Advises and supports Ranger unit leaders within the county and encourages the transition from Guides to Rangers.
         email: rangers@girlguidinghertfordshire.org.uk

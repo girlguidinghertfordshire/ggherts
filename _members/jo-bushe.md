@@ -5,7 +5,7 @@ groups:
   - group: divcomm
     roles:
       - order: 10
-        job_title: West Division Commissioner
+        job_title: West division commissioner
         person_intro: null
         email: westdivision@girlguidinghertfordshire.org.uk
 image: null

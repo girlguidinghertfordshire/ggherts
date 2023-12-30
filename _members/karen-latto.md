@@ -5,8 +5,8 @@ groups:
   - group: residential
     roles:
       - order: 23
-        job_title: County Residential Lead Volunteer - Indoor
-        person_intro: Supports volunteers with their Going Away With licences and
+        job_title: County residential lead volunteer - indoor
+        person_intro: Supports volunteers with their going away with licences and
           promotes and encourages all aspects of residentials.
         email: residential@girlguidinghertfordshire.org.uk
 image: null

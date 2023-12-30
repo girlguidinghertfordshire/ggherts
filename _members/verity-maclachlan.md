@@ -5,7 +5,7 @@ groups:
   - group: leads
     roles:
       - order: 9
-        job_title: County First Aid Lead Volunteer
+        job_title: County first aid lead volunteer
         person_intro: null
         email: Guidingdev@girlguidinghertfordshire.org.uk
 image: null

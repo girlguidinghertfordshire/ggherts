@@ -5,7 +5,7 @@ groups:
   - group: leads
     roles:
       - order: 28
-        job_title: County Awards Lead Volunteer
+        job_title: County awards lead volunteer
         person_intro: ""
         email: awards@girlguidinghertfordshire.org.uk
 image: null

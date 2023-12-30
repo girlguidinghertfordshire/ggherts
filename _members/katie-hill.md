@@ -5,9 +5,9 @@ groups:
   - group: leads
     roles:
       - order: 29
-        job_title: County Badge Secretary Lead Volunteer
+        job_title: County badge secretary lead volunteer
         person_intro: "Liaises with Girlguiding nationally with regard to badges and
-          certificates, and Chairs the County Depots Annual General Meeting "
+          certificates, and chairs the county depots annual general meeting "
         email: Badges@girlguidinghertfordshire.org.uk
 image: /wp-content/uploads/2018/06/KHill.jpg
 thumbnail: /wp-content/uploads/2018/06/KHill-360x243.jpg
