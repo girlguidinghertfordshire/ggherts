@@ -11,4 +11,4 @@ lastmod: 2022-09-01T19:35:10.039Z
 
 ## Claim form
 
-[Girlguiding Hertfordshire expenses claim form](/wp-content/uploads/2021/05/Girlguiding-Hertfordshire-Expenses-Claim-Form-2021.xlsx){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noopener"}
+[Girlguiding Hertfordshire expenses claim form](/assets/docs/2023/Girlguiding-Hertfordshire-Expenses-Claim-Form-2023.xlsx){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noopener"}
