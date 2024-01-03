@@ -8,7 +8,7 @@ groups:
         order: 8
         job_title: County administrator
         person_intro: Provides administrative support to the county commissioner, team
-          and advisers
+          and lead volunteers.
         email: admin@girlguidinghertfordshire.org.uk
 image: /assets/images/2021/10/donna-groves-county-administrator.jpg
 thumbnail: /assets/images/2021/10/donna-groves-county-administrator_237v2.jpg

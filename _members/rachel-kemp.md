@@ -8,7 +8,7 @@ groups:
         order: 7
         job_title: County administrator
         person_intro: "Provides administrative support for the county commissioner, team
-          and advisers. "
+          and lead volunteers. "
         email: admin@girlguidinghertfordshire.org.uk
 image: /wp-content/uploads/2018/06/RKemp.jpg
 thumbnail: /wp-content/uploads/2018/06/RKemp-360x243.jpg
