@@ -14,8 +14,6 @@ event:
         - Social
         - Walking
     age-group:
-        - Rangers
-        - Young leaders
         - Inspire
         - Leaders
         - Adults
@@ -23,6 +21,14 @@ event:
     location:
         - 'Hertfordshire, St Albans'
 ---
-Starting at 10am on Saturday 27 January in St Albans come along for the Walking team's first event of the new year. Enjoy a 2-3 hours walk with other like minded Rangers, young leaders and adults. Optional pub lunch.
+Starting at 10am on Saturday 27 January from Verulamium Park in St Albans come along for the Walking team’s first event of the new year.
+
+Enjoy an 8km walk, which includes Watercress Farm and Sopwell Nunnery, with other like minded people. Expected to take approx 2.5 hours.
+
+Refreshments will be available both before and after the walk.
 
 To book, email <walking@girlguidinghertfordshire.org.uk>
+
+No charge.
+
+For adults.

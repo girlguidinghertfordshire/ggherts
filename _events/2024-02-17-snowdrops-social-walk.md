@@ -23,8 +23,12 @@ event:
     location:
         - 'Hertfordshire, Stevenage'
 ---
-Starting at 10.30am on Saturday 17 February in Benington, near Stevenage, enjoy a 2-3 hours walk surrounded by nature's seasonal white carpet of snowdrops.
+Starting at 11am on Saturday 17 February in Benington, near Stevenage, enjoy a walk surrounded by nature’s seasonal white carpet.  The snowdrop walk is approx. 7 miles/11 km and should take about 3-3.5 hours.
 
-For Rangers, young leaders and adults.
+Bring your own hot drink and snacks.
+
+The village hall might be open for tea and cake too, as the Lordship will be open to show off their snowdrops. (Lordship optional extra but there is an entrance fee)
+
+For adults.
 
 To book, email <walking@girlguidinghertfordshire.org.uk>

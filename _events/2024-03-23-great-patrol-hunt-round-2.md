@@ -18,13 +18,14 @@ event:
     - Guides
   location:
     - Hertfordshire, St Albans
-lastmod: 2023-07-29T08:47:30.538Z
 permalink: /great-patrol-hunt/round-2/
 ---
-Save the date!
+We are delighted to announce that bookings are now open for Round 2 of this year's Great Patrol Hunt. taking place on Saturday 23 March in St Albans.
 
-The Great Patrol Hunt (GPH) team are excited to announce the date of the next round 2 of this successful county competition, aimed at Guides aged 10 - 15 years old, taking place in St Albans on Saturday 23 March.
+Whether you took part in Round 1 of would like to join the fun for the first time further details and how to apply can be found below.
 
-Further details to follow soon.
+Bookings close 2 March.
 
-If you are interest in the GPH please check out [Round 1 details](/great-patrol-hunt/round-1/) as well as the [Great Patrol Hunt page](/great-patrol-hunt/)
+[GPH round 2 entry form](/assets/docs/2024/gph-2024-r2-entry-form.docx){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [Information and consent form](/assets/docs/2024/gph-2024-r2-info-consent.docx){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
+
+Check out the [Great Patrol Hunt page](/great-patrol-hunt/) for more information.

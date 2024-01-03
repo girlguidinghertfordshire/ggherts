@@ -17,8 +17,8 @@ It began in 1968, Hertfordshire Scout Patrols competed annually in various ways,
 
 ## Our Events
 
-- Round 1: Saturday 14 October 2023 \| Chandler's Cross - **completed**
-- [Round 2: Saturday 23 March 2024 \| St Albans](round-2/)
+- Round 1: Saturday 14 October 2023 \| Chandler's Cross - *completed*
+- [Round 2: Saturday 23 March 2024 \| St Albans](round-2/) - **bookings now open**
 - [Round 3: Friday 21 June - Sunday 23 June 2024 \| TBC](round-3/)
 
 ### 2023/24 results
