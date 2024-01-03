@@ -33,8 +33,10 @@ Are you ready for an adventure?
 
 **Cost:** £70 (includes travel, indoor accommodation and food). Financial assistance can be given if needed and some kit can be borrowed.
 
-[More information](/assets/docs/2023/mountain-experience-2024.pdf){:.btn.btn-primary.download-link}
+[More information](/assets/docs/2024/mountain-experience-2024.pdf){:.btn.btn-primary.download-link} (Updated Jan 2024)
 
-Email <walking@girlguidinghertfordshire.org.uk> by Sunday 3 December for application form.
+Email <walking@girlguidinghertfordshire.org.uk>.
+
+Limited spaces remaining.
 
 [Navigation training](/training/mountain-experience-2024/) is also available during this weekend - see the training page for details of this option.

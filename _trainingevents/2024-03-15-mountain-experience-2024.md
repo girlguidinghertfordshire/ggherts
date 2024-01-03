@@ -17,7 +17,6 @@ event:
     - Rangers
   location:
     - Peak District
-lastmod: 2022-01-25T20:32:22.789Z
 ---
 Learn how to navigate in the hills and on remote terrain using maps and compasses.
 
@@ -27,7 +26,9 @@ This informal course, taking place from Friday 15 - Sunday 17 March, helps Range
 
  Cost: £70 (includes indoor accommodation and food)
 
-Email <walking@girlguidinghertfordshire.org.uk> by Sunday 3 December for an application form.
+Email <walking@girlguidinghertfordshire.org.uk>.
+
+Limited places remaining.
 
 This event is in conjunction with the Scout Explorers.
 
