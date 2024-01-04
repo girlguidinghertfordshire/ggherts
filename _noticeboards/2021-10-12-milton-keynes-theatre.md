@@ -20,6 +20,10 @@ Please see the below overview of shows which provides more details on upcoming s
 
 - [Overview of shows](/assets/docs/2023/mk-theatre-flyer-202303.pdf){:.download-link}{:target="_blank"}{:rel="noreferrer noopener"}
 
+![2024-25 Panto: Peter Pan](/assets/images/2024/01/mktheatre-panto.webp){:.img-fluid.my-3}
+
+Tickets are on sale now for the 2024-25 Panto, Peter Pan staring the fab-u-lous Craig Revel Horwood.  Running from Friday 6 December - Sunday 5 January 2025.
+
 Groups of 10+ will benefit from an extended pay by date and no transaction fees. There should be one leader per group of 10 and uniforms must be worn.
 
 Please contact the Group Bookings team via <groupsales@atgtickets.com> quoting UNIFORM GROUPS and provide the name of the group, the performance date and time and number of tickets required or call 020 7206 1174 (local rate call) for further information or to discuss seating information etc.
