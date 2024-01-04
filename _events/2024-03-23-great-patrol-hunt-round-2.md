@@ -22,7 +22,7 @@ permalink: /great-patrol-hunt/round-2/
 ---
 We are delighted to announce that bookings are now open for Round 2 of this year's Great Patrol Hunt. taking place on Saturday 23 March in St Albans.
 
-Whether you took part in Round 1 of would like to join the fun for the first time further details and how to apply can be found below.
+Whether you took part in Round 1 or would like to join the fun for the first time further details and how to apply can be found below.
 
 Bookings close 2 March.
 
