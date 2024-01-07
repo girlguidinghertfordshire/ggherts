@@ -53,4 +53,4 @@ December
 : Vicky Willson
 
 December super draw winner
-: Trefoil Guild Hitchen Evening
+: Trefoil Guild Hitchin Evening
