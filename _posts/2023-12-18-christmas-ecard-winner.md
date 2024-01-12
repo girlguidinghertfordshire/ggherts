@@ -1,6 +1,7 @@
 ---
 title: "Christmas ecard design winner"
 date: 2023-12-18T07:56:00Z
+published: false
 image: /assets/images/2023/12/christmas-ecard-winning-design.webp
 categories:
   - Announcements
