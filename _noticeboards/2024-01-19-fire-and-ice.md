@@ -1,6 +1,7 @@
 ---
 title: 'Fire and Ice 2024'
 date: 2023-11-26T20:27:00Z
+published: false
 image: /assets/images/2023/11/fire-and-ice.webp
 categories:
     - Notice

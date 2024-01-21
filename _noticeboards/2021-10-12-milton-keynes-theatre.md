@@ -14,11 +14,11 @@ Milton Keynes Theatre have lots of fabulous shows coming up, many of which offer
 
 Please see the below overview of shows which provides more details on upcoming shows including:
 
-- Cinderella : Sat 9 Dec 2023 - Sun 14 Jan 2024
-- Shrek the Musical : Tues 27 Feb - Sun 3 Mar 2024
 - Fantastically Great Women who changed the World: Wed 24 Jan - Sat 27 Jan 2024
+- Shrek the Musical : Tues 27 Feb - Sun 3 Mar 2024
+- The Wizard of Oz: Tues 16 - Sat 20 July
 
-- [Overview of shows](/assets/docs/2023/mk-theatre-flyer-202303.pdf){:.download-link}{:target="_blank"}{:rel="noreferrer noopener"}
+- [Overview of shows](/assets/docs/2024/mk-theatre-flyer-2024-01.pdf){:.download-link}{:target="_blank"}{:rel="noreferrer noopener"}
 
 ![2024-25 Panto: Peter Pan](/assets/images/2024/01/mktheatre-panto.webp){:.img-fluid.my-3}
 
