@@ -15,15 +15,7 @@ Guide and Ranger members aged 14-18 who want to travel the world with Girlguidin
 If you have any queries please contact the International team via <international@girlguidinghertfordshire.org.uk>
 
 <div class="alert alert-info" markdown="1">
-## Could you help to lead and inspire our members on an international adventure in 2025?
+## Help lead and inspire our members on an international adventure
 
-The international team are looking for adult leaders interested in either taking our young members away on county international trips, both within the UK and abroad, or being part of the leadership team for an adult only international adventure.
-
-Applications for this opportunity will close on **Friday 12 January.**  
-
-Please contact the international team on <international@girlguidinghertfordshire.org.uk> with any questions.
-
-[Application form](https://forms.office.com/e/rR0YwtRsyB){:.btn.btn-primary.external-link}{:target="blank"}{:rel="noopener"}
-
-If you are unable to take part in an international trip in 2025 but would be interested in being a part of the leadership team for future county internationals please get in touch with the international team.
+If you are unable to take part in an international trip in 2025 but would be interested in being a part of the leadership team for future county internationals please get in touch with the [international team](mailto:international@girlguidinghertfordshire.org.uk).
 </div>
