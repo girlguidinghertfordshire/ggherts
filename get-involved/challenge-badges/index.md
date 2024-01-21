@@ -36,17 +36,6 @@ Badges cost £1 each plus postage and can be ordered from within the challenge p
 
 [Download <span class="visually-hidden">love life</span> challenge pack](/assets/docs/2023/love-life-challenge-badge.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
 
-## Nigeria 2023 GOLD challenge badge
-
-![Nigeria 2023 GOLD challenge badge](/assets/images/2023/06/nigeria-badge.webp){:.ms-3.mb-3.float-end}
-The Girlguiding Overseas Linked with Development (GOLD) Team are excited to share with you this new challenge badge.
-
-This year the Nigeria 2023 GOLD team are working alongside the Nigerian Girl Guides Association to develop peer education tools and techniques around wellbeing, decision making, leadership and confidence.
-
-Badges cost £1 each plus postage. Download the challenge badge pack to find out more about the requirements and activities.
-
-[Download <span class="visually-hidden">Nigeria 2023 GOLD</span> challenge pack](/assets/docs/2023/nigeria-2023-activity-pack.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
-
 ## Girls Golf challenge badge
 
 ![Badge for Girls Golf Challenge](/assets/images/2022/11/girls-golf.webp){:.ms-3.mb-3.float-end}
@@ -75,16 +64,16 @@ Download the challenge badge pack to find out more about the requirements and ac
 
 <div class="clearfix"></div>
 
-## Trefoil Guild 80th anniversary challenge badge
+## Nigeria 2023 GOLD challenge badge
 
-![80th Anniversary challenge Badge](/assets/images/2023/02/80th_badge.webp){:.float-end.ms-3.mb-3}
-*"From small acorns to giant oaks"*
+![Nigeria 2023 GOLD challenge badge](/assets/images/2023/06/nigeria-badge.webp){:.ms-3.mb-3.float-end}
+The Girlguiding Overseas Linked with Development (GOLD) Team are excited to share with you this new challenge badge.
 
-Running from 1 January until 31 December 2023 to commemorate the Trefoil Guild celebrating it's 80th anniversary.
+This year the Nigeria 2023 GOLD team are working alongside the Nigerian Girl Guides Association to develop peer education tools and techniques around wellbeing, decision making, leadership and confidence.
 
-Their challenge pack is filled with ideas for all to complete.
+Badges cost £1 each plus postage. Download the challenge badge pack to find out more about the requirements and activities.
 
-[Download challenge pack](https://cdn.trefoilguild.co.uk/userfiles/files/National/Initiatives/80th%20anniversary/TG_80thAnniversary_challenge_pack.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [Record sheet](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcdn.trefoilguild.co.uk%2Fuserfiles%2Ffiles%2FNational%2FInitiatives%2F80th%2520anniversary%2F80th_recordsheet.docx&wdOrigin=BROWSELINK){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [Order badges](https://www.girlguidingshop.co.uk/products/adults/trefoil-guild/trefoil-guild-80th-anniversary-challenge-woven-badge--7788/){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
+[Download <span class="visually-hidden">Nigeria 2023 GOLD</span> challenge pack](/assets/docs/2023/nigeria-2023-activity-pack.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
 
 ## Lifesaver challenge badge {#lifesaver}
 
@@ -116,6 +105,7 @@ EHAAT can offer a tour at either of our airbases in North Weald and Earls Colne,
 
 ## Previous challenge badges
 
+- Trefoil Guild 80th anniversary challenge badge
 - Gold for Georgia 2022 challenge badge
 - Flower Power challenge badge
 - Marathon challenge badge
