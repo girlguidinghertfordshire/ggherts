@@ -1,6 +1,7 @@
 ---
 title: "County training day"
 date: 2023-07-29T16:12:33.308Z
+published: false
 event:
   start_date: "2024-01-20"
   end_date: ""

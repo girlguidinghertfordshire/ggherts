@@ -13,22 +13,22 @@ If you are looking to arrange a 1st response course for your district or divisio
 2. Before completing the online booking form, ensure you have a date (or dates if over two nights, both nights must be attended) and a venue address.
 3. Confirmation of who the training is booked with will be given to the training organiser, along with a reference number, once confirmed.
 4. In the unlikely event that we are unable to support the training request with a Girlguiding 1st response trainer, we will confirm details of the external company.
-5. **8 weeks** prior to the training the following details need to be supplied to the county administration lead volunteer, via the online Training attendees’ details form: 
+5. **8 weeks** prior to the training the following details need to be supplied to the county administration lead volunteer, via the online training attendees’ details form:
     1. Full name of volunteers attending
     2. GO numbers for each volunteer
     3. Division / district
-    4. Confirmation that volunteers have been advised that the 1st response elearning also needs to be completed, ideally before attending the course, to be recognised as a first aider within Girlguiding.
-6. Confirmation of those who attended must be sent via the trainer to the county admin team via <admin@girlguidinghertfordshire.org.uk>, who will update GO.  In the case where a course has been provided by an external company, the elearning must be completed and showing on the attendees’ GO records before the course can be added to GO.
+    4. Confirmation that attendees have been advised that the mandatory 1st response elearning element of this training must be completed via the learning platform and showing on their GO record **before** the external first aid/1st response course can be added to their GO record.
+6. Confirmation of those who attended must be sent via the trainer to the county admin team via <admin@girlguidinghertfordshire.org.uk>, who will update each attendees GO record when the elearning element has been completed.
 
 ## Please note the following important details
 
-1. A minimum of 12 attendees is required. County can publish your training event on the Hertfordshire county website with bookings available via Eventbrite, if you are unable to reach these numbers.  
+1. A minimum of 12 attendees is required. County can advertise your training to other members in the county, with bookings available via Eventbrite, if you are unable to reach these numbers.  
 2. Cost per attendee will be £20 to be paid by BACS to:  
 Girlguiding Hertfordshire  
 Sort code: 40-52-40  
 Account number: 00013524  
 Ref: GO number + initials of lead volunteer booking the course
-3. Cost of venue (if applicable i.e., division or district is not covering this out of funds) will be paid by Girlguiding Hertfordshire on production of an invoice, emailed to the county treasurer on <ctreasurer@girlguidnghertfordshire.org.uk>) after the training event. The cost of this will be covered by the attendees attending.
+3. Cost of venue (if applicable i.e., division or district are not covering this out of funds) will be paid by Girlguiding Hertfordshire on production of an invoice, emailed to the county treasurer on <ctreasurer@girlguidnghertfordshire.org.uk>) after the training event. The cost of this will be covered by the attendees attending.
 
 Please contact <guidingdev@girlguidinghertfordshire.org.uk> with any queries.
 
