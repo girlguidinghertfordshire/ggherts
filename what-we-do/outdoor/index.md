@@ -10,7 +10,7 @@ There are many outdoor [social events](/events/) and [training courses](/trainin
 
 ## Walking
 
-The [walking scheme courses](https://www.girlguiding.org.uk/information-for-volunteers/learning-and-development/leading-outdoor-adventures/walking-scheme/walking-scheme-level-2/){:target="_blank"}{:rel="noopener noreferrer"}{:.external-link} will develop your skills so you can lead fun walking expeditions.  There are 3 types of courses available:
+The [walking scheme courses](https://www.girlguiding.org.uk/information-for-volunteers/learning-and-development/leading-outdoor-adventures/walking-scheme/){:target="_blank"}{:rel="noopener noreferrer"}{:.external-link} will develop your skills so you can lead fun walking expeditions.  There are 3 types of courses available:
 
 - [**Level 1**](https://www.girlguiding.org.uk/making-guiding-happen/learning-and-development/leading-outdoor-adventures/walking-scheme/walking-scheme-level-1/){:target="_blank"}{:rel="noopener noreferrer"}{:.external-link} training covers walks in your local area, for example, parks, woods and local countryside. Water Safety training helps with this too as our county has many canals, rivers & lakes
 - [**Level 2**](https://www.girlguiding.org.uk/making-guiding-happen/learning-and-development/leading-outdoor-adventures/walking-scheme/walking-scheme-level-2/){:target="_blank"}{:rel="noopener noreferrer"}{:.external-link} training allows you to take girls into the hills
