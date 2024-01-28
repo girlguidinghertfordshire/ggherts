@@ -5,6 +5,8 @@ image: /assets/images/2023/09/subs.webp
 categories:
   - Announcements
 tags: []
+author:
+  display_name: the County Office
 ---
 The subscription for members of Girlguiding Hertfordshire for **2024** will be increasing by 50p to **£9.**  This gives a total subscription of **£54.**
 

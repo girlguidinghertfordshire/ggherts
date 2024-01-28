@@ -6,6 +6,8 @@ categories:
   - Policies
   - Training
 tags: []
+author:
+  display_name: the County Office
 lastmod: 2022-02-06T20:37:04.129Z
 ---
 If you are planning on hiring and driving a small bus or minibus, as well as Girlguiding’s requirement of a [Small Bus Permit](https://www.girlguiding.org.uk/information-for-volunteers/programme-and-activities/guidance-on-activities/transport/coaches-and-minibuses/){:.external-link}{:rel="noopener"}{:target="_blank"} it is important to check whether the company you are hiring the vehicle from has any other requirements you need to fulfil, for example, holding the [Minibus Driver Awareness Scheme (MIDAS) qualification](https://ctauk.org/training/midas/){:.external-link}{:rel="noopener"}{:target="_blank"} (administered by the Community Transport Association) or a Hertfordshire County Council minibus permit.

@@ -5,6 +5,8 @@ image: /assets/images/2023/07/mediacomms.webp
 categories:
   - Volunteers
 tags: []
+author:
+  display_name: the County Office
 lastmod: 2023-07-16T09:34:37.533Z
 ---
 Are you a Ranger or young leader, or do you know any, who would be interested in getting involved in our county media and communications team?

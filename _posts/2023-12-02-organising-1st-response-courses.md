@@ -5,6 +5,8 @@ image: /assets/images/2023/12/1st-response.webp
 categories:
   - Training
 tags: []
+author:
+  display_name: the County Office
 lastmod: 2022-02-06T20:37:04.129Z
 ---
 If you are looking to arrange a 1st response course for your district or division, either a 1 x 6 hour full day training or a 2 x 3 hour training, please follow the procedure as set out below.

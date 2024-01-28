@@ -5,6 +5,8 @@ image: /assets/images/2023/09/awards-vacancy.webp
 categories:
   - Volunteers
 tags: []
+author:
+  display_name: the County Office
 ---
 We are seeking new members, at any level, who would like to join the Hertfordshire awards committee.
 

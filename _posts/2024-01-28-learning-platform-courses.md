@@ -5,6 +5,8 @@ image: /assets/images/2024/01/learning-platform.webp
 categories:
   - Training
 tags: []
+author:
+  display_name: the County Office
 lastmod: 2022-02-06T20:37:04.129Z
 ---
 Explore the wide range of courses available to you via the learning platform, to help build upon your skills as a volunteer through flexible learning opportunities.

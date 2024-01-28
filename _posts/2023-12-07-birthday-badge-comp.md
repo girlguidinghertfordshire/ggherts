@@ -6,6 +6,8 @@ categories:
   - Announcements
   - Badges
 tags: []
+author:
+  display_name: the County Office
 lastmod: 2022-02-06T20:37:04.129Z
 ---
 ![Birthday badge competition announcement](/assets/images/2023/12/110-birthday-badge-comp.webp){:.img-fluid.my-4}
