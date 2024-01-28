@@ -33,9 +33,18 @@ The division commissioner role can be done as a job share with the option of a d
 
 ## County team
 
-We have fantastic volunteers who look to the county team for guidance, support and vision. We are looking for new lead volunteers and trainers to fully embrace the programme, spread passion and enthusiasm for guiding to help the county move forward.
+We have fantastic volunteers who look to the county team for guidance, support and vision. We are looking for new lead volunteers to fully embrace the programme, spread passion and enthusiasm for guiding to help the county move forward.
 
 {% assign vacancies = site.vacancies | where: "categories","County team" | sort: date | reverse %}
+{% for vacancy in vacancies %}
+{% include vacancy.html title=vacancy.title description=vacancy.content button-text=vacancy.button_text download=vacancy.download img=vacancy.image %}
+{% endfor %}
+
+## Trainers
+
+Covering Hertfordshire*, regional trainers specialising in 1st response courses are essential to giving our members the skills they need to conduct their Guiding responsibilities.
+
+{% assign vacancies = site.vacancies | where: "categories","Trainers" | sort: date | reverse %}
 {% for vacancy in vacancies %}
 {% include vacancy.html title=vacancy.title description=vacancy.content button-text=vacancy.button_text download=vacancy.download img=vacancy.image %}
 {% endfor %}

@@ -3,7 +3,12 @@ title: Position open
 date: 2022-06-07T19:30:57.560Z
 groups:
   - group: outdoor
-    roles:
+    roles:    
+      - order: 19
+        job_title: County outdoor lead volunteer
+        person_intro: Coordinates the outdoor team, organises and supports outdoor events and trainings, liaising with other advisers, and promoting an enthusiasm for the outdoors.
+        vacancyurl: /get-involved/vacancies/#county-outdoor-lead-volunteer
+        emailx: outdoor@girlguidinghertfordshire.org.uk
       - order: 20
         job_title: County outdoor administration lead volunteer
         vacancyurl: /get-involved/vacancies/#county-outdoor-administration-lead-volunteer
