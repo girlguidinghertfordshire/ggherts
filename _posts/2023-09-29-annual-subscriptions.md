@@ -6,11 +6,11 @@ categories:
   - Announcements
 tags: []
 ---
-The subscription for members of Girlguiding Hertfordshire for **2024** will be increasing by 50p to **£9.**  This gives a total subscription of **£55.**
+The subscription for members of Girlguiding Hertfordshire for **2024** will be increasing by 50p to **£9.**  This gives a total subscription of **£54.**
 
 The subscription information document sets out details of the Girlguiding Hertfordshire subscription, how it was determined and what it will be spent on.
 
-[Subscription information](/assets/docs/2023/subscriptions-2024.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
+[Subscription information](/assets/docs/2024/subscriptions-2024.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
 
 Please note:
 
