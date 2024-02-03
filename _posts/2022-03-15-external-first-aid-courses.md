@@ -18,6 +18,8 @@ Details of what your course needs to have covered can be found here:
 
 [Accepted first aid qualifications](https://www.girlguiding.org.uk/information-for-volunteers/learning-and-development/first-aid-training/accepted-first-aid-qualifications/){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
 
+Check that all elements of the [Girlguiding 1st response syllabus](/assets/docs/2024/1st-response-syllabusv.2.docx){:.download-link}{:rel="noopener"}{:target="_blank"} were covered, paying particular attention to those that must be demonstrated both in practice, as well as in theory.
+
 To be a recognised first aider in Girlguiding you **must** also complete the 1st response e-learning module via the [Girlguiding Learning Platform][2]{:.external-link}{:target="_blank"}{:rel="noopener"}.
 
 If you want to apply for your qualification to be accepted within your Girlguiding role **you must completed the short e-learning module first.**
