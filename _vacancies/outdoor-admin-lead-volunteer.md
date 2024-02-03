@@ -1,12 +1,11 @@
 ---
 title: County outdoor administration lead volunteer
-date: 2023-04-22T16:24:00.000Z
+date: 2024-01-28T14:47:00.000Z
 download: "/assets/docs/2023/vacancies/county-outdoor-administration-lead-volunteer.pdf"
 image: "/assets/images/2023/05/county-outdoor-admin.webp"
 categories: 
     - County team
 tags: []
-lastmod: 2023-04-22T16:24:00.000Z
 ---
 Our outdoor team are looking for a well organised individual to provide administrative support to the county outdoor lead volunteer and team. This newly created role would suit someone with a love of the outdoors whilst possessing excellent administration skills.  You will play a vital role in the team, ensuring events are organised and advertised efficiently and effectively.
 
