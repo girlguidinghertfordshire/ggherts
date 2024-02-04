@@ -6,6 +6,5 @@ toc: membership
 year: 2024
 author:
   display_name: Rachel Kemp
-permalink: /membership-system-updates/
 lastmod: 2022-03-31T10:14:44.489Z
 ---
