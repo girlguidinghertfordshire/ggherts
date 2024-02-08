@@ -25,17 +25,6 @@ Badges cost £1.30 each plus postage and can be ordered from within the challeng
 
 [Download <span class="visually-hidden">Eggstraordinary Easter</span> challenge pack](/assets/docs/2023/eggstraordinary-easter-challenge-badge_v4.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
 
-## Love Life challenge badge
-
-![Love life challenge badge](/assets/images/2023/10/love-life-challenge-badge.webp){:.ms-3.mb-3.float-end}
-Designed to give girls the opportunity to learn ways to support their physical and mental health as individuals and within groups. Coping and calming ideas from worry monsters to dancing, healthy smoothies to crawling under branches; there is something for all sections and ages.
-
-To earn your Love Life challenge badge you will need to complete various activities, as detailed within the challenge pack, with many linked to skills builders (SB) and unit meeting activities (UMA).
-
-Badges cost £1 each plus postage and can be ordered from within the challenge pack. Download the challenge badge pack to find out more about the requirements and activities.
-
-[Download <span class="visually-hidden">love life</span> challenge pack](/assets/docs/2023/love-life-challenge-badge.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
-
 ## Girls Golf challenge badge
 
 ![Badge for Girls Golf Challenge](/assets/images/2022/11/girls-golf.webp){:.ms-3.mb-3.float-end}

@@ -1,6 +1,7 @@
 ---
 title: "Join the county awards committee"
 date: 2023-09-24
+published: false
 image: /assets/images/2023/09/awards-vacancy.webp
 categories:
   - Volunteers

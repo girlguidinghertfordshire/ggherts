@@ -20,7 +20,7 @@ You can also contact the walking team for some friendly advice via :
 - <i class="fa fa-envelope"></i> <walking@girlguidinghertfordshire.org.uk>
 - <i class="fa fa-facebook-official"></i> [facebook page](https://www.facebook.com/hertsguideswalkingteam){:target="_blank"}{:rel="noopener noreferrer"}
 
-![Anglia walking team](/assets/images/2024/01/anglia-walking.webp){.mx-auto.mb-3}
+![Anglia walking team](/assets/images/2024/01/anglia-walking.webp){:.mx-auto.mb-3.d-block}
 
 Alternatively, **Anglia region** offer regular trips - see the [Anglia Events webpage](https://www.girlguiding-anglia.org.uk/events/walking-events/2024-walking-events) for details, **other regions&rsquo;** trips can be found on the [Girlguiding UK website](https://www.girlguiding.org.uk/making-guiding-happen/learning-and-development/leading-outdoor-adventures/walking-scheme/)
 

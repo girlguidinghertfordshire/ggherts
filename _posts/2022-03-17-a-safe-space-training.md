@@ -52,6 +52,14 @@ The online level 3 renewal e-learning course can only be accessed if your level 
 
 How the renewals process works is explained in depth on the [Girlguiding UK, a safe space training webpage.][5]{:.external-link}{:rel="noopener"}{:target="_blank"}
 
+## Badges
+
+Once you have completed your a safe space training (any level) you can request your a safe space badge for the relevant level from your district commissioner.  
+
+District commissioners can request stock of a safe space badges (levels 1 - 4) and obtain assistance, if they are having trouble verifying a member has completed their training on their GO record, by contacting the county badge secretary by emailing <badges@girlguidinghertfordshire.org.uk>.
+
+![A safe space badges](/assets/images/2024/02/safe-space.webp){:.img-fluid}
+
 [1]: https://www.girlguiding.org.uk/making-guiding-happen/learning-and-development/a-safe-space-training/
 [2]: https://www.girlguiding.org.uk/making-guiding-happen/learning-and-development/how-to-use-the-learning-platform/
 [3]: https://learning.girlguiding.org.uk/
