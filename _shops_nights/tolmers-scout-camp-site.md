@@ -1,10 +1,10 @@
 ---
-title: Tolmers Scout Camp & Activity Centre
+title: Tolmers Activity Centre
 date: 2016-05-19 15:13:06.000000000 +01:00
 shop:
-  mapaddress: "Tolmers Scout Camp, Tolmers Road, Cuffley, EN6 4JS"
+  mapaddress: "Tolmers Activity Centre, Tolmers Road, Cuffley, EN6 4JS"
   location: |
-    Tolmers Scout Camp & Activity Centre,  
+    Tolmers Activity Centre,  
     Tolmers Road,  
     Cuffley,  
     EN6 4JS
@@ -17,7 +17,17 @@ shop:
     - Campsite
     - Indoor Accommodation
 ---
-<p>Norfolk Lodge accomodates up to 60 people with large hall and professsional catering equipment.  Pembrook building sleeps 36 people in 8 bedrooms.   Sleepover Centre accomodates 15 people.  Consists of large hall with kitchen</p>
-<p>Accommodates 50+ Campers with toilet and shower facilities</p>
-<p>Situated around a mile from the historic village of Cuffley, the site comprises of some 100 acres (30 acres being woodland).  There are a wide range of activities which include archery, a vertical climbing wall, trampolining, canoeing and much more</p>
-<p><a href="http://www.tolmers.org.uk">www.tolmers.org.uk</a></p>
+Tolmers has 2 accommodation buildings sleeping a total of 74 people.
+
+- Norfolk Lodge sleeping 46 (1 bedroom sleeping 2, 2 bedrooms sleeping 4 & 6 bedrooms sleeping 6).
+- Pembrook Lodge sleeping 28 (2 bedrooms sleeping 2 & 6 bedrooms sleeping 4).
+
+All accommodation buildings consist of a full equipped kitchen, hall and toilet facilities. Each lodge also has its own camping plot and campfire circle.
+
+The Sleepover Centre is a fully equipped kitchen and hall with camping facilities alongside. A kitchen and hall ideal for indoor activities.
+
+Drinking water available around the site – Firewood available.
+
+Variety of activities available onsite self-led or instructor led.
+
+[www.tolmers.org.uk](https://www.tolmers.org.uk){:.external-link}{:target="_blank"}{:rel="noopener"}
