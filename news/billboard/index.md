@@ -13,6 +13,7 @@ _Billboard_ is a monthly e-newsletter sent to all Girlguiding Hertfordshire memb
 
 ## Recent editions
 
+- [February 2024](https://mailchi.mp/1729a512c664/feb-2024-billboard-13670628){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [January 2024](https://mailchi.mp/66cabdb89c1f/jan-2024-billboard-13668740){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [December 2023](https://mailchi.mp/3d791462e45c/dec-2023-billboard-13666388){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [November 2023](https://mailchi.mp/00a36f06f706/nov-2023-billboard-13663776){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
@@ -24,7 +25,6 @@ _Billboard_ is a monthly e-newsletter sent to all Girlguiding Hertfordshire memb
 
 ### 2024
 
-- February: 31 January 2024
 - March: 29 February 2024
 - April: 29 March 2024
 - May: 30 April 2024
