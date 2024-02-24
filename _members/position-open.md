@@ -19,6 +19,12 @@ groups:
         person_intro: Provides administrative support to the members of the county walking team
         vacancyurl: /get-involved/vacancies/#county-walking-administration-lead-volunteer
         emailx: walking@girlguidinghertfordshire.org.uk
+  - group: divcomm
+    roles:
+      - order: 5
+        job_title: North division commissioner
+        person_intro: null
+        email: northdivision@girlguidinghertfordshire.org.uk
 image: null
 thumbnail: null
 author:
