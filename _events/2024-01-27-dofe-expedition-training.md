@@ -1,6 +1,7 @@
 ---
 title: DofE indoor expedition training
 date: 2023-09-23
+published: false
 event:
     start_date: '2024-01-27'
     end_date: '2024-01-28'

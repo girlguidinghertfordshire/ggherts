@@ -18,6 +18,10 @@ event:
     location:
         - Buckinghamshire
 ---
+**Please note that bookings for this event have now closed and tickets allocated.**
+
+**If you have any queries in relation to this activity day please email <events@girlguidinghertfordshire.org.uk>**
+
 Help us celebrate 110 years of Guiding in Hertfordshire at one of our county activity days being held at PACCAR Scout camp to mark the occasion.
 
 This Sunday is for **Brownies** and **Rangers** only and will include at least 1 instructor led activity plus lots of other activity bases.
@@ -34,7 +38,3 @@ Spaces are limited so don't miss out - tickets will be allocated at the **end of
 Please register your unit’s/group's interest now to attend this county fun day at PACCAR campsite.
 
 [Register interest](https://forms.office.com/e/HJB0NS3dL9){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
-
-To mark this special milestone why not enter our [county birthday badge competition](/news/birthday-badge-comp/) and see if your design could be the winner!
-
-These badges will be presented to those attending this, and other, birthday activity days and available throughout the year.

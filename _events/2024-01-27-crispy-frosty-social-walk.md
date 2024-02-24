@@ -1,6 +1,7 @@
 ---
 title: Crisp and frosty social walk
 date: 2023-10-01T15:19:00.000Z
+published: false
 event:
     start_date: '2024-01-27'
     end_date: ''

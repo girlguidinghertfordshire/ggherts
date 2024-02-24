@@ -1,6 +1,7 @@
 ---
 title: Snowdrops social walk
 date: 2023-10-01T16:04:00.000Z
+published: false
 event:
     start_date: '2024-02-17'
     end_date: ''
