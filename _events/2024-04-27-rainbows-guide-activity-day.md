@@ -38,4 +38,3 @@ Spaces are limited so don't miss out. Tickets will be allocated at the end of Ja
 Please register your unit's/group's interest now to attend this county fun day at PACCAR campsite via the Register interest form.
 
 [Register interest](https://forms.office.com/e/HJB0NS3dL9){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
-
