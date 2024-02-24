@@ -1,7 +1,7 @@
 ---
 title: "Organising 1st response courses"
 date: 2023-12-02T15:23:00Z
-image: /assets/images/2023/12/1st-response.webp
+image: /assets/images/2024/02/1st-response.webp
 categories:
   - Training
 tags: []
