@@ -1,12 +1,28 @@
 ---
 layout: page-v5
-title: Going Away With Scheme
+title: Going away with scheme
 toc: for-volunteers
-description: How to obtain branded stationery and resources.
+description: Forms for the Going away with scheme
 ---
-- [Advice for Completing and Checking REN Forms](/wp-content/uploads/2016/03/AdviceforCompletingandCheckingRENForms.pdf){:target="_blank"}{:rel="noopener noreferrer"}{:.download-link}
-- [Advice to Commissioners for Leaders Requiring Assessment](/wp-content/uploads/2016/03/CommissionersAdvicetoLeaders.pdf){:target="_blank"}{:rel="noopener noreferrer"}{:.download-link}
-- [Going Away With Assessment Request Form](/wp-content/uploads/2016/03/Going-Away-With-Assessment-Request-Form.pdf){:target="_blank"}{:rel="noopener"}{:.download-link}
-- [The Senior Section Permit Assessment Request Form](/wp-content/uploads/2017/05/The-Senior-Section-Permit-Assessment-Request-Form.pdf){:target="_blank"}{:rel="noopener"}{:.download-link}
-- [Guide Camp Permit Assessment Request Form](/wp-content/uploads/2017/05/Guide-Camp-Permit-Assessment-Request-Form.pdf){:target="_blank"}{:rel="noopener"}{:.download-link}
+## Assessment request forms
+
+- [Going away with assessment request form](/assets/docs/2024/going-away-with/going-away-with-assess-request-form.pdf){:target="_blank"}{:rel="noopener"}{:.download-link}
+- [Guide camp permit and Ranger lead away assessment request form](/assets/docs/2024/going-away-with/camp-permit-lead-away-assess-request-form.pdf){:target="_blank"}{:rel="noopener"}{:.download-link}
+
+## Digital resources
+
+- [Camp permit resource - Guides](/assets/docs/2024/going-away-with/digital-camp-permit-guides.pdf){:target="_blank"}{:rel="noopener"}{:.download-link}
+- [Lead away permit resource - Rangers](/assets/docs/2024/going-away-with/digital-lead-away-rangers.pdf){:target="_blank"}{:rel="noopener"}{:.download-link}
+
+## Guidance for leaders, mentors and commissioners:
+
+- [Guide camp permit guidance](/assets/docs/2024/going-away-with/guide-camp-permit-guidance.pdf){:target="_blank"}{:rel="noopener"}{:.download-link}
+- [Ranger lead away guidance](/assets/docs/2024/going-away-with/rangers-lead-away-guidance.pdf){:target="_blank"}{:rel="noopener"}{:.download-link}
+
+## Fire safety
+
 - [Fire safety guidance for leaders and Girlguiding venue managers for residentials](/assets/docs/2023/fire-safety-guidance.pdf){:target="_blank"}{:rel="noopener"}{:.download-link}
+
+Guidance on completing and checking REN forms and Guidance for commissioners on leaders requiring assessment will be available soon.  
+
+Please contact the county joint residential lead volunteers on <residential@girlguidinghertfordshire.org.uk> with any questions.
