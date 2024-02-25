@@ -10,7 +10,35 @@ author:
   last_name: Settle
 permalink: /get-involved/challenge-badges/
 ---
-## Eggstraordinary Easter challenge badge
+## County challenge badges
+
+### Girls Golf challenge badge
+
+![Badge for Girls Golf Challenge](/assets/images/2022/11/girls-golf.webp){:.ms-3.mb-3.float-end}
+Golf is a fun, friendly activity for everyone, whatever their ability.  
+
+This award winning joint project with Hertfordshire Golf won the Women & Girls' Trailblazer award in the 2023 England Golf Awards and introduces golf to girls and young woman across Hertfordshire county and beyond.
+
+To earn your Golf challenge badge you will need to complete activities from each of the five sections detailed within the challenge pack.  There are a variety of activities and skill levels, which means members from all sections can take part.  
+
+Badges cost £1 each plus postage.  Download the challenge badge pack to find out more about the requirements and activities.
+
+[Download <span class="visually-hidden">Golf </span>challenge pack](/assets/docs/2022/challenge-badge-girls-golf.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [<span class="visually-hidden">Golf </span>Badge order form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJURFY2T09OMjQ4Q0JCTlpCWUtQM1I5N0xYMC4u){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
+
+### Nigeria 2023 GOLD challenge badge
+
+![Nigeria 2023 GOLD challenge badge](/assets/images/2023/06/nigeria-badge.webp){:.ms-3.mb-3.float-end}
+The Girlguiding Overseas Linked with Development (GOLD) Team are excited to share with you this new challenge badge.
+
+This year the Nigeria 2023 GOLD team are working alongside the Nigerian Girl Guides Association to develop peer education tools and techniques around wellbeing, decision making, leadership and confidence.
+
+Badges cost £1 each plus postage. Download the challenge badge pack to find out more about the requirements and activities.
+
+[Download <span class="visually-hidden">Nigeria 2023 GOLD</span> challenge pack](/assets/docs/2023/nigeria-2023-activity-pack.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
+
+## 1st Baldock Brownies challenge badges
+
+### Eggstraordinary Easter challenge badge
 
 ![Eggstraordinary Easter challenge badge](/assets/images/2023/12/egg-challenge-badge-v4.webp){:.ms-3.mb-3.float-end}
 Make your's a hoppy Easter with the newly rebranded Eggstraordinatory Easter challenge badge.
@@ -25,20 +53,21 @@ Badges cost £1.30 each plus postage and can be ordered from within the challeng
 
 [Download <span class="visually-hidden">Eggstraordinary Easter</span> challenge pack](/assets/docs/2023/eggstraordinary-easter-challenge-badge_v4.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
 
-## Girls Golf challenge badge
+### Flower Power challenge badge
 
-![Badge for Girls Golf Challenge](/assets/images/2022/11/girls-golf.webp){:.ms-3.mb-3.float-end}
-Golf is a fun, friendly activity for everyone, whatever their ability.  
+![Flower Power challenge badge](/assets/images/2024/02/flower-power-badge.webp){:.float-end.mb-2.ms-2}This badge is great for Spring and Summer terms with programme links throughout the pack.  
 
-This award winning joint project with Hertfordshire Golf won the Women & Girls' Trailblazer award in the 2023 England Golf Awards and introduces golf to girls and young woman across Hertfordshire county and beyond.
+As the seasons change learn about flowers and celebrate all things floral. 
 
-To earn your Golf challenge badge you will need to complete activities from each of the five sections detailed within the challenge pack.  There are a variety of activities and skill levels, which means members from all sections can take part.  
+A perfect chance to get outdoors and learn about nature. Back home, grow your own, make edible versions, or be inspired to write a poem. Many more ideas and activities included.
 
-Badges cost £1 each plus postage.  Download the challenge badge pack to find out more about the requirements and activities.
+Badges cost £1.20 each plus postage and can be ordered from within the challenge pack.  
 
-[Download <span class="visually-hidden">Golf </span>challenge pack](/assets/docs/2022/challenge-badge-girls-golf.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [<span class="visually-hidden">Golf </span>Badge order form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJURFY2T09OMjQ4Q0JCTlpCWUtQM1I5N0xYMC4u){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
+Download the challenge badge pack to find out more about the requirements and activities.
 
-## Forest bathing challenge badge
+[Download <span class="visually-hidden">Flower Power</span> challenge pack](/assets/docs/2024/flower-power-badge-challenge-pack_v4.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
+
+### Forest bathing challenge badge
 
 ![Forest bathing challenge badge](/assets/images/2023/04/forest-badge.webp){:.float-end.mb-2.ms-2}
 Forest bathing, or ‘shinrin-yoku,’ was first developed in Japan in the 1980s as a form of mindfulness.
@@ -53,50 +82,21 @@ Download the challenge badge pack to find out more about the requirements and ac
 
 <div class="clearfix"></div>
 
-## Nigeria 2023 GOLD challenge badge
-
-![Nigeria 2023 GOLD challenge badge](/assets/images/2023/06/nigeria-badge.webp){:.ms-3.mb-3.float-end}
-The Girlguiding Overseas Linked with Development (GOLD) Team are excited to share with you this new challenge badge.
-
-This year the Nigeria 2023 GOLD team are working alongside the Nigerian Girl Guides Association to develop peer education tools and techniques around wellbeing, decision making, leadership and confidence.
-
-Badges cost £1 each plus postage. Download the challenge badge pack to find out more about the requirements and activities.
-
-[Download <span class="visually-hidden">Nigeria 2023 GOLD</span> challenge pack](/assets/docs/2023/nigeria-2023-activity-pack.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
-
-## Lifesaver challenge badge {#lifesaver}
-
-![](/wp-content/uploads/2021/01/Lifesaver-badge.png){: .pull-right}{:width="187"}{:height="167"}{:loading="lazy"}
-This badge has been designed to encourage everyone to learn first aid and to raise awareness of how essential the actions of those first at the scene are.
-
-Once learnt new skills can also be passed on to parents and beyond.
-
-[Download challenge pack <i class="fa fa-download"></i>](/assets/docs/2022/challenge-badge-lifesaver-clauses.docx){:.btn.btn-primary} [Order form <i class="fa fa-download"></i>](/assets/docs/2022/challenge-badge-lifesaver-order-form.docx){:.btn.btn-primary}{:target="blank"}{:rel="noopener noreferrer"}
-
-<div class="clearfix"></div>
-
-## External Charity challenge badges
+## External Charity challenge badge
 
 {:.mt-4}
 ### Essex & Herts Air Ambulance challenge Badge
 
-![Essex & Herts Air Ambulance challenge Badge design](/assets/images/2022/09/essex-herts-air-ambulance-challenge.webp){:.pull-right.m-2}Essex & Herts Air Ambulance (EHAAT) is a charity, not part of the NHS, and therefore relies on the public to keep it operational.  By completing this challenge badge you will be helping to raise awareness of the charity and the vital funds that allow it to continue it's life-saving work.
-
-The challenge badge is packed with ideas and activities for a range of ages and encourages you to take part in a variety of activities – whether that’s gaining a valuable life skills such as learning CPR, how to make an emergency call, researching helicopters, or visiting an Essex & Herts Air Ambulance base – with the final stage being a fundraiser for the charity.
-
-The challenge is divided into four sections:  Essex & Herts Air Ambulance (EHAAT), Helicopters, Air, and Fundraising. You can decide whether your group completes the pack collectively or individually and all they need to do is to complete at least one challenge from each section in order to earn a badge.
-
-Badges cost £1.50 each, purchased in packs.
-
-EHAAT can offer a tour at either of our airbases in North Weald and Earls Colne, where you may get to see the helicopter and meet our crew! Alternatively, one of our charity representatives can come and talk about your local Air Ambulance’s life-saving work.
+![Essex & Herts Air Ambulance challenge Badge design](/assets/images/2024/02/essex-herts-air-ambulance-challenge.webp){:.pull-right.m-2}Essex & Herts Air Ambulance (EHAAT) is a charity, not part of the NHS, and therefore relies on the public to keep it operational.  By completing this challenge badge you will be helping to raise awareness of the charity and the vital funds that allow it to continue it's life-saving work.
 
 [More information and request your challenge pack](https://ehaat.org/support-us-get-involved/schools-groups/challenge-badge/){:target="_blank"}{:.btn.btn-primary.external-link}{:rel="noreferrer noopener"}
 
+<div class="clearfix"></div>
+
 ## Previous challenge badges
 
-- Trefoil Guild 80th anniversary challenge badge
 - Gold for Georgia 2022 challenge badge
-- Flower Power challenge badge
+- Lifesaver challenge badge
 - Marathon challenge badge
 - Raise West Hertfordshire NHS Trust charity badge
 - Uganda Friendship challenge badge
