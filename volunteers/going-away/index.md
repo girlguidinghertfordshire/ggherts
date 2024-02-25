@@ -14,7 +14,7 @@ description: Forms for the Going away with scheme
 - [Camp permit resource - Guides](/assets/docs/2024/going-away-with/digital-camp-permit-guides.pdf){:target="_blank"}{:rel="noopener"}{:.download-link}
 - [Lead away permit resource - Rangers](/assets/docs/2024/going-away-with/digital-lead-away-rangers.pdf){:target="_blank"}{:rel="noopener"}{:.download-link}
 
-## Guidance for leaders, mentors and commissioners:
+## Guidance for leaders, mentors and commissioners
 
 - [Guide camp permit guidance](/assets/docs/2024/going-away-with/guide-camp-permit-guidance.pdf){:target="_blank"}{:rel="noopener"}{:.download-link}
 - [Ranger lead away guidance](/assets/docs/2024/going-away-with/rangers-lead-away-guidance.pdf){:target="_blank"}{:rel="noopener"}{:.download-link}
