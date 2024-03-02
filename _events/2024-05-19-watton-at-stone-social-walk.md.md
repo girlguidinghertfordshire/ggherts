@@ -21,10 +21,8 @@ event:
     location:
         - 'Hertfordshire, Stevenage'
 ---
-**Save the date** - Sunday 19 May 10am - TBC
+This 6.5 mile (10.4km) adults only social walk is taking place on Sunday 19 May in Watton-at-Stone. Meet at 9.20am for a 9.30am start.
 
-Details regarding this future county walking team event to follow soon.
+The walk will take approximately 3 hours and there is a pub where participants can choose to have lunch or light refreshments afterwards.
 
-Adults only
-
-Email: <walking@girlguidinghertfordshire.org.uk>
+Contact <walking@girlguidinghertfordshire.org.uk> with queries or to book.

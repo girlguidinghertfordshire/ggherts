@@ -10,7 +10,7 @@ shop:
     WD6 5NZ
   division: Central
   contact_name: 
-  contact_email: warden@wellend.org.uk
+  contact_email: info@wellend.org.uk
   contact_number: 020 8236 0040
   latlng: "51.6735868,-0.26134219999994457"
   type:
@@ -19,9 +19,9 @@ shop:
 ---
 Well End has 1 accommodation building called The Jim Day Lodge, sleeping a total of 22 people (4 bedrooms of 4 and 1 bedroom of 6).
 
-A large hall area including a fully equiped kitchen and toilet facilities.
+A large hall area including a fully equipped kitchen and toilet facilities.
 
-The Grahan Wallis buiding comprises a large hall with optional kichen facilities, ideal for Scout meetings or Community Groups.
+The Grahan Wallis buiding comprises a large hall with optional kitchen facilities, ideal for Scout meetings or Community Groups.
 
 Drinking water available around the site and firewood available.
 

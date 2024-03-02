@@ -12,13 +12,13 @@ shop:
   division: West
   contact_name: 
   contact_email: info@phaselswood.org.uk
-  contact_number: 01442 236 0040
+  contact_number: 020 8236 0040
   latlng: "51.72649800000001,-0.47527900000000045"
   type:
     - Campsite
     - Indoor Accommodation
 ---
-Phasels Wood has 3 accomodation buildings sleeping a total of 82 people.
+Phasels Wood has 3 accommodation buildings sleeping a total of 82 people.
 
 - Avenue Lodge sleeping 16 (2 bedrooms sleeping 6 & 2 bedrooms sleeping 2).
 - Rowan Lodge sleeping 38 (2 bedrooms sleeping 3 & 8 bedrooms sleeping 4).
