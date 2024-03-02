@@ -16,12 +16,6 @@ If you were ever involved in Guiding, either as a Rainbow, Brownie, Guide, or Ra
 
 ## Hertfordshire Trefoil events
 
-### Trefoil Guild Thinking Day Lunch
-
-Thursday 29 February in Welwyn Garden City.
-
-If you would like to come along and join us for lunch to celebrate World Girlguiding Thinking Day please email <trefoil@girlguidinghertfordshire.org.uk>
-
 ### Trefoil Guild Annual Review
 
 Saturday 27 April 2024 in Welwyn Garden City
