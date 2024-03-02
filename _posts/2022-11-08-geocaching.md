@@ -1,6 +1,7 @@
 ---
 title: Geocaching
 date: 2022-11-08T19:58:52.974Z
+published: false
 image: /assets/images/2022/11/geocaching.webp
 categories:
   - Training

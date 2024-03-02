@@ -7,13 +7,26 @@ toc: what-we-do
 lastmod: 2022-09-05T20:19:32.010Z
 ---
 ![Walking team logo](/assets/images/2023/06/walking-team-badge.webp){:.float-end.ms-3.mb-3}
-We are an active, friendly & approachable walking team in Hertfordshire and we are available to help you run unit events or come on ours. We can run [geocaching sessions](/news/geocaching/) within units to teach the skills required for these fun treasure hunts, whether to aid the Guides Geocaching badge or just to learn a new skill for any age group. We can also arrange a walk on your unit holiday or camp, so do get in touch for assistance, including with risk assessments.
+We are an active, friendly and approachable walking team in Hertfordshire and we are available to help you run unit events or you can come on ours. We can arrange walks and activities for your unit as part of a meet, camp or holiday, so do get in touch for assistance (help will be provided with risk assessments).
 
-Rangers often attend walking events without their leaders, such as Mountain Experience, a navigation training event or [The Duke of Edinburgh's Award.](/youth-opportunities/dofe/)
+Details of social walks and training opportunities can be found on the Events and Training pages. These include the annual Mountain Experience  (MX), a navigation training event aimed at Rangers (without leaders attending)  or The Duke of Edinburgh’s Award events.
 
-We also organise social walks and weekends away for leaders, so you can a) relax without the girls and b) build up a log book if you wish to, with a view to doing some training and taking part in the Girlguiding Walking Scheme. So why not join us on one of our training or social weekends.  
+Relaxing social walks and weekends away for leaders are also available, so you can mix with like minded adults, or train for the [Girlguiding walking scheme](https://www.girlguiding.org.uk/information-for-volunteers/learning-and-development/leading-outdoor-adventures/walking-scheme/){:.external-link}{:target="_blank"}{:rel="noopener noreferrer"} and build up a log book.
 
-Details of social walks and training opportunities can be found on the [Events](/events/) and [Training](/training/) pages.
+## ![Map with geocache points](/assets/images/2022/11/geocaching.webp){:.float-end.ms-3.mb-3}{:width="250"}Geocaching
+
+Herts walking team are able to take you and your unit on a Geocaching adventure. Geocaching is a treasure hunt that uses coordinates to direct you to hidden containers called caches.
+
+A fun activity to get your unit out and about exploring your local environment in many locations throughout Hertfordshire. Suitable for Brownies, Guides and Rangers alike.
+
+The county walking team can offer to run this activity with you on any week day evening, except Tuesdays, or half days on weekends by arrangement.
+
+![Geocaching badge](/assets/images/2022/11/guides-geocaching.webp){:.float-end.ms-3.mb-3}
+Units need to provide appropriate adult/child supervision, a risk assessment (which the walking team can help with) and consent forms. The walking team will provide you with 1 or 2 leaders to support your group to locate and record local caches. The activity is best done in light hours (e.g summer term or until sunset in autumn term), or will require torches and additional adult supervision in the darker evenings.
+
+Whether you wish to help your Guides undertake their Geocaching interest badge, or just want to have a fun event and learn a new skill with your unit, please contact <walking@girlguidinghertfordshire.org.uk> to arrange a session.
+
+## Contact the walking team
 
 You can also contact the walking team for some friendly advice via :
 
