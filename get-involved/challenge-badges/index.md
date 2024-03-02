@@ -45,10 +45,6 @@ Make your's a hoppy Easter with the newly rebranded Eggstraordinatory Easter cha
 
 This can be completed in unit meetings if you are planning an egg-citing term ahead or equally introduced to the girls for them to work towards at home independently or with their friends and family over the Easter holidays.  
 
-To earn this Eggstraordinatory Easter challenge badge you will need to complete various Easter themed cookery, craft and nature activities.  There are activities suitable for each section and many are linked to skills builders (SB), unit meeting activities and interest badges.
-
-You can also use this challenge badge to complete the whole of *Take Action Make a Change* Stage 2 or 3.
-
 Badges cost £1.30 each plus postage and can be ordered from within the challenge pack.  Download the challenge badge pack to find out more about the requirements and activities.
 
 [Download <span class="visually-hidden">Eggstraordinary Easter</span> challenge pack](/assets/docs/2023/eggstraordinary-easter-challenge-badge_v4.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
@@ -57,7 +53,7 @@ Badges cost £1.30 each plus postage and can be ordered from within the challeng
 
 ![Flower Power challenge badge](/assets/images/2024/02/flower-power-badge.webp){:.float-end.mb-2.ms-2}This badge is great for Spring and Summer terms with programme links throughout the pack.  
 
-As the seasons change learn about flowers and celebrate all things floral. 
+As the seasons change learn about flowers and celebrate all things floral.
 
 A perfect chance to get outdoors and learn about nature. Back home, grow your own, make edible versions, or be inspired to write a poem. Many more ideas and activities included.
 
@@ -80,18 +76,13 @@ Download the challenge badge pack to find out more about the requirements and ac
 
 [Download <span class="visually-hidden">forest bathing </span>challenge pack](/assets/docs/2023/forest-bathing-challenge-badge_v2.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
 
-<div class="clearfix"></div>
-
 ## External Charity challenge badge
 
-{:.mt-4}
-### Essex & Herts Air Ambulance challenge Badge
+### ![Essex & Herts Air Ambulance challenge Badge design](/assets/images/2024/02/essex-herts-air-ambulance-challenge.webp){:.pull-right.m-2}Essex & Herts Air Ambulance challenge Badge
 
-![Essex & Herts Air Ambulance challenge Badge design](/assets/images/2024/02/essex-herts-air-ambulance-challenge.webp){:.pull-right.m-2}Essex & Herts Air Ambulance (EHAAT) is a charity, not part of the NHS, and therefore relies on the public to keep it operational.  By completing this challenge badge you will be helping to raise awareness of the charity and the vital funds that allow it to continue it's life-saving work.
+Essex & Herts Air Ambulance (EHAAT) is a charity, not part of the NHS, and therefore relies on the public to keep it operational.  By completing this challenge badge you will be helping to raise awareness of the charity and the vital funds that allow it to continue it's life-saving work.
 
 [More information and request your challenge pack](https://ehaat.org/support-us-get-involved/schools-groups/challenge-badge/){:target="_blank"}{:.btn.btn-primary.external-link}{:rel="noreferrer noopener"}
-
-<div class="clearfix"></div>
 
 ## Previous challenge badges
 

@@ -1,13 +1,15 @@
 // styles for challenge badge page
 .challenge-badges .content { 
     h2 {
-        border-top: 3px solid $gg-light-blue;
+        //border-top: 3px solid $gg-light-blue;
         padding-top: 1rem;
+        padding-bottom: 1rem;
         margin-top: 1rem;
-        &:first-of-type {
-            border-top: none;
-            padding-top: 0;
-        }
+        margin-bottom: 1rem;
+        background: var(--gg-dark-blue);
+        color: white;
+        text-align: center;
+        clear: both;
     }
     img { 
         max-width: 100%;
