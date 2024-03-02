@@ -129,7 +129,7 @@ layout: default-v5
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
+                            <div class="col" data-type="|First aid|">
                                 <div class="card gg-event-card h-100">
                                     <figure style="background-image: url('/assets/images/2024/02/1st-response.webp');"
                                         class="card-img-top">
@@ -147,7 +147,7 @@ layout: default-v5
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
+                            <div class="col" data-type="|First aid|">
                                 <div class="card gg-event-card h-100">
                                     <figure style="background-image: url('/assets/images/2023/09/firstaid.webp');"
                                         class="card-img-top">
@@ -165,7 +165,7 @@ layout: default-v5
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
+                            <div class="col" data-type="|A safe space|">
                                 <div class="card gg-event-card h-100">
                                     <figure
                                         style="background-image: url('/assets/images/2023/03/a-safe-space.webp');"
@@ -211,7 +211,7 @@ layout: default-v5
                         <h4>Filter results</h4>
                         <div class="d-md-none small js-selected-filters"></div>
                     </div>
-                    {% assign all_types= '' | split: '' %}
+                    {% assign all_types= 'First aid|Gift aid|A safe space' | split: '|' %}
                     {% assign all_ages = '' | split: '' %}
                     {% assign all_locations = '' | split: '' %}
                     {% for event in eventlist %}
