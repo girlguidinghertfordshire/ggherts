@@ -24,7 +24,8 @@ groups:
       - order: 5
         job_title: North division commissioner
         person_intro: null
-        email: northdivision@girlguidinghertfordshire.org.uk
+        emailx: northdivision@girlguidinghertfordshire.org.uk
+        vacancyurl: /get-involved/vacancies/#division-commissioners
 image: null
 thumbnail: null
 author:

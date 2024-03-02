@@ -6,8 +6,9 @@ groups:
     roles:
       - order: 10
         job_title: West division commissioner
-        person_intro: null
+        person_intro: Successor being sought.
         email: westdivision@girlguidinghertfordshire.org.uk
+        vacancyurl: /get-involved/vacancies/#division-commissioners
 image: null
 thumbnail: null
 author:
