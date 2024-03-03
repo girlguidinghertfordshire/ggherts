@@ -21,6 +21,7 @@ event:
     - Trefoil
   location:
     - Hertfordshire, Central
+permalink: /training/may-1st-response-course
 ---
 This 1st response course in **Radlett** (venue TBC) is taking place over two sessions, **Monday 13 and Monday 20 May** (7pm - 10pm both evenings).  Both sessions must be attended.
 
