@@ -14,7 +14,7 @@ Would you like to pass on your knowledge and experience to other volunteers?
 
 As a [Girlguiding trainer](https://www.girlguiding.org.uk/information-for-volunteers/learning-and-development/helping-others-to-learn/becoming-a-trainer/){:.external-link}{:rel="noopener"}{:target="_blank"} you will be supported with the aid of a tutor, through your flexible learning and provided with resources to acquire the skills to become a vital role model.  You will then specialise on the delivery of first aid in a practical environment, ensuring excellence and consistency by delivering high quality first aid courses to Girlguiding's syllabus requirements.
 
-If you are interested in this vital role you can find out more and apply via email <guidingdev@girlguidinghertfordshire.co.uk>
+If you are interested in this vital role you can find out more and apply via email <guidingdev@girlguidinghertfordshire.org.uk>
 
 {:.small}
 *You may be asked to assist with training volunteers from other counties within the Anglia region.

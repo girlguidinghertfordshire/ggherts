@@ -9,7 +9,7 @@ event:
     contact_email: null
     contact_number: ''
     book_now_link: ''
-    image: ''
+    image: '/assets/images/2024/03/south-downs-walk.webp'
     type:
         - Residential
         - Social

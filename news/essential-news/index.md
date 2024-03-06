@@ -10,6 +10,7 @@ _Essential News_ is sent to all **Girlguiding Hertfordshire** members by email o
 
 ## 2024
 
+- [March 2024](https://mailchi.mp/9c01c356775a/mar-2024-essential-news-10923259){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [February 2024](https://mailchi.mp/e1a6a4995d45/feb-2024-essential-news-10919943){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [January 2024](https://mailchi.mp/2d96f68b32f8/jan-2024-essential-news-10917367){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 

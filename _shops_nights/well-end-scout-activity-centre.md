@@ -21,7 +21,7 @@ Well End has 1 accommodation building called The Jim Day Lodge, sleeping a total
 
 A large hall area including a fully equipped kitchen and toilet facilities.
 
-The Grahan Wallis buiding comprises a large hall with optional kitchen facilities, ideal for Scout meetings or Community Groups.
+The Graham Wallis buiding comprises a large hall with optional kitchen facilities, ideal for Scout meetings or Community Groups.
 
 Drinking water available around the site and firewood available.
 

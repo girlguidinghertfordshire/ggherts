@@ -23,10 +23,6 @@ Offering [indoor accommodation](indoor-accommodation/), a [campsite](campsite/) 
 
 {% include tagged-news-post.html tag="HGC" %}
 
-## 200 Club
-
-The 2023 200 Club prize draw winners, supporting the Hertfordshire Guide Centre, can be found on the [200 club page](200-club/).
-
 ## Availability and booking
 
 Please use the calendar to check availability.  Booking requests can be submitted directly via the calendar or by contacting the Bookings Secretary on <hgcbookings@girlguidinghertfordshire.org.uk>

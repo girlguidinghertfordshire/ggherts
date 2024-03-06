@@ -22,7 +22,7 @@ event:
     location:
         - Bedfordshire
 ---
-This 2 day Anglia region essential training on the hill, for those with outdoor activity qualifications and suitable for members aged 16+, is taking place from **Fri 10 - Sun 12 May** in Whipsnade, Bedfordshire.
+This 2 day Anglia region essential training on the hill, for those with outdoor activity qualifications and suitable for members aged 16+, is taking place from **Sat 11 - Sun 12 May** in Whipsnade, Bedfordshire.
 
 Cost: £149 per person. Transport is not included.
 

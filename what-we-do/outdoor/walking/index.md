@@ -9,7 +9,7 @@ lastmod: 2022-09-05T20:19:32.010Z
 ![Walking team logo](/assets/images/2023/06/walking-team-badge.webp){:.float-end.ms-3.mb-3}
 We are an active, friendly and approachable walking team in Hertfordshire and we are available to help you run unit events or you can come on ours. We can arrange walks and activities for your unit as part of a meet, camp or holiday, so do get in touch for assistance (help will be provided with risk assessments).
 
-Details of social walks and training opportunities can be found on the Events and Training pages. These include the annual Mountain Experience  (MX), a navigation training event aimed at Rangers (without leaders attending)  or The Duke of Edinburgh’s Award events.
+Details of social walks and training opportunities can be found on the [Events](/events/) and [Training](/training/) pages. These include the annual Mountain Experience  (MX), a navigation training event aimed at Rangers (without leaders attending)  or The Duke of Edinburgh’s Award events.
 
 Relaxing social walks and weekends away for leaders are also available, so you can mix with like minded adults, or train for the [Girlguiding walking scheme](https://www.girlguiding.org.uk/information-for-volunteers/learning-and-development/leading-outdoor-adventures/walking-scheme/){:.external-link}{:target="_blank"}{:rel="noopener noreferrer"} and build up a log book.
 
