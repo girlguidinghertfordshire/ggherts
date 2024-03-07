@@ -22,6 +22,11 @@ about-us:
   - title: County centre
     url: /about-us/county-centre/
     items:
+      - title: Fundraising
+        url: /about-us/county-centre/fundraising/
+        items:
+          - title: Fundraising ideas
+            url: /about-us/county-centre/fundraising/ideas/
       - title: Indoor accommodation
         url: /about-us/county-centre/indoor-accommodation/
       - title: Campsite

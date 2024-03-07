@@ -1,0 +1,27 @@
+---
+layout: page-v5
+title: HGC Fundraising ideas
+date: 2024-03-07T22:13
+toc: about-us
+description: Ideas for fundraising for the refurbishment of Hertfordshire Guide Centre.
+---
+<div class="row">
+    <div class="col-8">
+        <div class="row row-cols-2">
+            {% for idea in site.fundraising_ideas %}
+            <div class="col">
+                <h3 class="h4">{{ idea.title }}</h3>
+                <p>{{ idea.excerpt }}</p>
+                <div><a href="{{ idea.url }}" class="btn btn-sm btn-primary">Read more <span
+                            class="visually-hidden">about {{ idea.title }}</span></a></div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    <div class="col-4">
+        <div class="gfm-embed"
+            data-url="https://www.gofundme.com/f/hertfordshire-guide-centre-refurbishment/widget/medium?sharesheet=CAMPAIGN_PAGE">
+        </div>
+        <script defer src="https://www.gofundme.com/static/js/embed.js"></script>
+    </div>
+</div>

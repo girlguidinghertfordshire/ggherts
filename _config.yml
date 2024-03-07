@@ -17,6 +17,9 @@ collections:
       output: true
       permalink: /event/:title/
       sort_by: event.start_date
+    fundraising_ideas:
+      output: true
+      permalink: /about-us/county-centre/fundraising/ideas/:title/
     trainingevents:
       output: true
       permalink: /training/:title/
@@ -54,6 +57,12 @@ defaults:
     values:
       layout: "event-v5"
       toc: "events"
+  - scope:
+      path: ""
+      type: "fundraising_ideas"
+    values:
+      layout: "page-v5"
+      toc: "about-us"
   - scope:
       path: ""
       type: "trainingevents"

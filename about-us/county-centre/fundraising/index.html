@@ -1,0 +1,34 @@
+---
+layout: page-v5
+title: Hertfordshire Guide Centre Fundraising
+date: 2024-03-07T22:13
+toc: about-us
+description: Help us raise funds for the refurbishment of Hertfordshire Guide Centre.
+---
+<div class="row">
+    <div class="col">
+        <p class="lead">We are pleased to announce the launch of our fundraising campaign to enable the refurbishment of the county centre and would like every member of Girlguiding Hertfordshire to be involved.</p>
+        <p>The Hertfordshire Guide Centre (HGC) at Cottered has been the county headquarters since 1996 and the time has come to give it a new lease of life, bring it up to date, ensure that it is accessible and inclusive for everyone, create an environmentally friendly building and make it a centre to be proud of.</p>
+        <h2>Our vision</h2>
+        <p>We want the centre to become a flagship venue which appeals to units across Hertfordshire as well as neighbouring counties. By upgrading HGC we will enhance our reputation locally within Cottered village as well as with our members and their families.</p>
+        <p>HGC currently has a wealth of opportunity waiting to be unlocked, with its amazing grounds and camping facilities, we aim to build on this to create a venue with many activities for visitors to enjoy both from within and outside of Girlguiding Hertfordshire.</p>
+        <p>Looking after the leaders is an important part of the upgrade. The leader's accommodation will be improved along with the washroom facilities for everyone.</p>
+        <h3>Accessible to all</h3>
+        <p>We want the centre to be fully inclusive. The refurbishment will ensure that we can accommodate visitors with all types of disabilities, including a separate washroom that will allow enough space to accommodate a changing table. The new sleeping accommodation will be changed to dormitories that will allow all mixed groups to stay at HGC. The dormitories will also be being built to allow easy access to all and fitting extra equipment such as a hoist, to assist all.</p>
+        <h3>Environmental impact</h3>
+        <p>Currently the centre is very inefficient with regards to our environmental impact. The heating system will be upgraded using a sustainable heat pump system, LED lights will be fitted along with double glazed windows and doors. In time we would like to install solar panels which could not only meet our own electricity demands but provide income by selling excess to the grid. All of this will reduce our carbon footprint and we can make a positive impact on the environment whilst reducing the centre running costs.</p>
+        <p>By upgrading the centre, we aim to make it a self-funding enterprise that meets the needs of all units in Hertfordshire and neighbouring counties, a flagship venue, and the venue of choice for events and activities.</p>
+        <h2>Our target</h2>
+        <p>We need your help to raise £300,000 to make the vision a reality.</p>
+    </div>
+    <div class="col"><div class="gfm-embed" data-url="https://www.gofundme.com/f/hertfordshire-guide-centre-refurbishment/widget/large?sharesheet=dashboard"></div>
+<script defer src="https://www.gofundme.com/static/js/embed.js"></script>
+<h2>Fundraising ideas</h2>
+{% for idea in site.fundraising_ideas %}
+<h3 class="h4">{{ idea.title }}</h3>
+<p>{{ idea.excerpt }}</p>
+<div><a href="{{ idea.url }}" class="btn btn-sm btn-primary">Read more <span class="visually-hidden">about {{ idea.title }}</span></a></div>
+<hr/>
+{% endfor %}
+</div>
+</div>
