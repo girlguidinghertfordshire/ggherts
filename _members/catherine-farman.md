@@ -7,7 +7,7 @@ groups:
       - job_title: County Commonwealth award lead volunteer
         order: 4
         person_intro: Provides advice and support to both those undertaking the Commonwealth award and their local leadership team
-        email: youthops@girlguidinghertfordshire.org.uk
+        email: commonwealth@girlguidinghertfordshire.org.uk
 image: /wp-content/uploads/2020/01/CFarman.jpg
 thumbnail: /wp-content/uploads/2020/01/CFarman-360x243.jpg
 author:

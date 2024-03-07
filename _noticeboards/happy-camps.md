@@ -1,6 +1,7 @@
 ---
 title: HAPpy Camps
 date: 2023-10-04T09:29:29.523Z
+published: false
 image: /assets/images/2023/04/happy-partner-logo.webp
 categories:
   - Notice
