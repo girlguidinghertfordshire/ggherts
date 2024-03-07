@@ -22,3 +22,5 @@ You could link the items they need to collect to a theme or leave it open.
 - Entries to please be returned to your unit in 3 weeks.
 - Please place your name on your entry.
 - You are welcome to decorate your matchbox if you would like to.
+
+[Matchbox challenge sponsorship form](/assets/docs/2024/matchbox-part2.docx){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
