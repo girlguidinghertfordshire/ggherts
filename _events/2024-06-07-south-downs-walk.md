@@ -28,7 +28,7 @@ The hostel is surrounded by the beautiful hills of the South Downs National Park
 
 Both days will consist of 4/5 hours walking at an easy pace.  Participants will need packed lunches.
 
-**Cost:** accommodation £60 per night in shared rooms with facilities (Girlguiding members).
+**Cost:** accommodation £60 for the weekend in shared rooms with facilities (Girlguiding members).
 
 Guests can make full use of shared spaces in the hostel's main farmhouse building, including the reception, self-catering kitchen, laundry room and a cosy lounge.  There is also a cafe available in the Interpretation Centre building.
 
