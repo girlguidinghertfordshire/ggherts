@@ -13,7 +13,7 @@ groups:
     roles:
       - order: 8
         job_title: County training administration lead volunteer
-        person_intro: Coordinates and organises the training and ongoing development of leaders.
+        person_intro: Coordinates and organises the training and ongoing development of volunteers.
         email: Guidingdev@girlguidinghertfordshire.org.uk
   - group: divcomm
     roles:

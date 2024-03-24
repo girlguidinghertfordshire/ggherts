@@ -1,6 +1,7 @@
 ---
 title: "Trooping the Colour 2024"
 date: 2024-02-08T21:28:00Z
+published: false
 image: /assets/images/2024/02/trooping-the-colour.webp
 categories:
   - Announcements
