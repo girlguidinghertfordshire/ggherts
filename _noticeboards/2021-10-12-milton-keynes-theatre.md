@@ -14,12 +14,15 @@ Milton Keynes Theatre have lots of fabulous shows coming up, many of which offer
 
 Please see the below overview of shows which provides more details on upcoming shows including:
 
-- Shrek the Musical : Tues 27 Feb - Sun 3 Mar
-- The Woman in Black: Tues 2 - Sat 6 April - Suitable for ages 12+. 
+- The Woman in Black: Tues 2 - Sat 6 April - Suitable for ages 12+.
   - Exclusive uniform group offer of £17. See [flyer for more details](/assets/docs/2024/mk-theatre-the-woman-in-black.pdf){:.download-link}{:target="_blank"}{:rel="noreferrer noopener"}
+- Everybody's Talking About Jamie: Mon 10 - Sat 15 June
+  - Exclusive uniform group rate £20 plus 1 free leader for every 10 paid tickets.
+Bonnie and Clyde: Tues 18 - Sat 22 June - suitable for ages 12+
+  - Exclusive uniform group rate £17.50 plus 1 free leader for every 10 paid tickets.
 - The Wizard of Oz: Tues 16 - Sat 20 July
 
-[Overview of shows](/assets/docs/2024/mk-theatre-flyer-2024-01.pdf){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noreferrer noopener"}
+[Overview of shows](/assets/docs/2024/mk-theatre-flyer-2024-03.pdf){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noreferrer noopener"}
 
 ![2024-25 Panto: Peter Pan](/assets/images/2024/01/mktheatre-panto.webp){:.img-fluid.my-3}
 
