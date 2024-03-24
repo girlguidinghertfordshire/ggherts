@@ -1,6 +1,7 @@
 ---
 title: "Navigation training - Mountain Experience 2024"
 date: 2023-07-16T09:15:27.510Z
+published: false
 event:
   start_date: "2024-03-15"
   end_date: "2024-03-17"
