@@ -1,6 +1,7 @@
 ---
 title: "Annual subscriptions"
 date: 2023-09-29T18:46:00.000Z
+published: false
 image: /assets/images/2023/09/subs.webp
 categories:
   - Announcements
