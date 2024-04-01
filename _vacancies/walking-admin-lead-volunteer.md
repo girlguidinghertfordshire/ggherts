@@ -1,8 +1,8 @@
 ---
-title: County walking administration lead volunteer
+title: County walking administration volunteer
 date: 2023-10-04T16:32:00.000Z
-image: /assets/images/2023/10/walking-admin-lead-volunteer.webp
-download: /assets/docs/2023/vacancies/county-walking-administration-lead-volunteer-oct23.pdf
+image: /assets/images/2024/04/county-walking-admin.webp
+download: /assets/docs/2024/vacancies/county-walking-administration-volunteer.pdf
 categories: 
     - County team
 tags: []
