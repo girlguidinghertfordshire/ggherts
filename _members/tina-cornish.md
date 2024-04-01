@@ -6,8 +6,7 @@ groups:
     roles:
       - order: 26
         job_title: County inclusion lead volunteer
-        person_intro: Supports members regarding adults and girls who have special and
-          complex needs.
+        person_intro: An advocate for diversity, equity, inclusion and belonging (DEIB) providing support to Hertfordshire county volunteers to enable them to create a diverse and supportive space that promotes understanding, celebrates differences and empowers everyone to thrive.
         email: Inclusions@girlguidinghertfordshire.org.uk
 image: /wp-content/uploads/2016/05/GGH-Logo1.jpg
 thumbnail: /wp-content/uploads/2016/05/GGH-Logo1-360x243.jpg
