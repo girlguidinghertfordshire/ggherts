@@ -11,8 +11,15 @@ about-us:
   title: About us
   url: /about-us/
   items:
-  - title: Mission statement
-    url: /about-us/mission-statement/
+  - title: Governance
+    url: /governance/
+    items:
+    - title: Constitutions
+      url: /governance/constitutions/
+    - title: Mission statement
+      url: /governance/mission-statement/
+    - title: Charity Commission reports
+      url: /governance/charity-commission-reports/
   - title: Your county team
     url: /about-us/county-team/
   - title: Divisions
@@ -37,8 +44,7 @@ about-us:
         url: /about-us/county-centre/risk-assessments/
       - title: Contact us
         url: /about-us/county-centre/contact-us/
-  - title: Charity Commission reports
-    url: /about-us/charity-commission-reports/
+  
   - title: County archives
     url: /about-us/county-archives/
 get-involved:
