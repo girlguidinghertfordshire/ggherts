@@ -10,12 +10,12 @@ groups:
         vacancyurl: /get-involved/vacancies/#county-outdoor-lead-volunteer
         emailx: outdoor@girlguidinghertfordshire.org.uk
       - order: 20
-        job_title: County outdoor administration lead volunteer
+        job_title: County outdoor administration volunteer
         vacancyurl: /get-involved/vacancies/#county-outdoor-administration-lead-volunteer
         person_intro: null
         emailx: outdoor@girlguidinghertfordshire.org.uk
       - order: 22
-        job_title: County walking administration lead volunteer
+        job_title: County walking administration volunteer
         person_intro: Provides administrative support to the members of the county walking team
         vacancyurl: /get-involved/vacancies/#county-walking-administration-lead-volunteer
         emailx: walking@girlguidinghertfordshire.org.uk

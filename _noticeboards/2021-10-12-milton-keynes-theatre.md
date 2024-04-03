@@ -18,7 +18,7 @@ Please see the below overview of shows which provides more details on upcoming s
   - Exclusive uniform group offer of £17. See [flyer for more details](/assets/docs/2024/mk-theatre-the-woman-in-black.pdf){:.download-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - Everybody's Talking About Jamie: Mon 10 - Sat 15 June
   - Exclusive uniform group rate £20 plus 1 free leader for every 10 paid tickets.
-Bonnie and Clyde: Tues 18 - Sat 22 June - suitable for ages 12+
+- Bonnie and Clyde: Tues 18 - Sat 22 June - suitable for ages 12+
   - Exclusive uniform group rate £17.50 plus 1 free leader for every 10 paid tickets.
 - The Wizard of Oz: Tues 16 - Sat 20 July
 

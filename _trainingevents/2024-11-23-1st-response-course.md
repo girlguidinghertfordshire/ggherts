@@ -25,7 +25,7 @@ permalink: /training/nov-1st-response-course
 ---
 Spaces on this district organised 1st response course, provided by a Girlguiding 1st response trainer, have been opened up to all members across Hertfordshire county.
 
-The course is taking place on **Saturday 23 November** from **10am - 4pm** in **Leverstock Green, Hemel Hempstead.**
+The course is taking place on **Saturday 23 November** from **10am - 4.30pm** in **Leverstock Green, Hemel Hempstead.**
 
 Cost: £20 payable by BACS. Payment details available via the booking system.
 
@@ -33,4 +33,4 @@ Uniform is optional.
 
 Tea and coffee will be provided but you will need to bring your own lunch.
 
-**Please note:** This externally provided first aid course cannot be added to your GO record until the elearning has been completed and is showing on your record.
+**Please note:** This 1st response course cannot be added to your GO record until the elearning has been completed and is showing on your record.

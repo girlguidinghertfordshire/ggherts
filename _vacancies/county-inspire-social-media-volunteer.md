@@ -3,7 +3,7 @@ title: County Inspire social media volunteer
 date: 2024-04-01T07:44:00 +01:00
 published: true
 image: /assets/images/2024/04/social_media.webp
-download: "/assets/docs/2024/inspire-social-media-volunteer-role-description.pdff"
+download: "/assets/docs/2024/inspire-social-media-volunteer-role-description.pdf"
 categories: 
     - County team
 tags: []

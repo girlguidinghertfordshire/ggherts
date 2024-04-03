@@ -25,7 +25,7 @@ This course is now **fully booked**.
 
 Spaces on this division organised first aid course, provided by Kings First Aid Training, have been opened up to members across Hertfordshire county.  
 
-This course is taking place on **Saturday 20 April** from **10am - 4pm** in **Stevenage**
+This course is taking place on **Saturday 20 April** from **10am - 4.30pm** in **Stevenage**
 
 Cost: £20 payable by BACS. Payment details available on Eventbrite.
 
@@ -34,3 +34,5 @@ Uniform is optional.
 Tea and coffee will be provided but you will need to bring your own lunch.
 
 Booking via Eventbrite. Spaces are limited.
+
+**Please note:** This externally provided first aid course cannot be added to your GO record until the 1st response elearning has been completed and is showing on your record.
