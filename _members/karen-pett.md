@@ -1,7 +1,6 @@
 ---
-title: Sandra Sayce
-date: 2022-06-08T20:02:18.697Z
-published: false
+title: Karen Pett
+date: 2024-04-14T07:53:00 +01:00
 groups:
   - group: divcomm
     roles:
@@ -11,7 +10,4 @@ groups:
         email: stalbansdivision@girlguidinghertfordshire.org.uk
 image: null
 thumbnail: null
-author:
-  display_name: Rachel Kemp
-lastmod: 2023-05-20T13:26:37.111Z
 ---
