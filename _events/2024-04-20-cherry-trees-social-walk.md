@@ -1,6 +1,7 @@
 ---
 title: Cherry trees and bluebells social walk
 date: 2024-02-24T14:25
+published: false
 event:
     start_date: '2024-04-20'
     end_date: ''

@@ -1,6 +1,7 @@
 ---
 title: Silver DofE practice expedition
 date: 2023-09-23
+published: false
 event:
     start_date: '2024-04-12'
     end_date: '2024-04-14'

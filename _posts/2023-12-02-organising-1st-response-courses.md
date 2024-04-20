@@ -30,7 +30,7 @@ Girlguiding Hertfordshire
 Sort code: 40-52-40  
 Account number: 00013524  
 Ref: GO number + initials of lead volunteer booking the course
-3. Cost of venue (if applicable i.e., division or district are not covering this out of funds) will be paid by Girlguiding Hertfordshire on production of an invoice, emailed to the county treasurer on <ctreasurer@girlguidnghertfordshire.org.uk>) after the training event. The cost of this will be covered by the attendees attending.
+3. Cost of venue (if applicable i.e., division or district are not covering this out of funds) will be paid by Girlguiding Hertfordshire on production of an invoice, emailed to the county treasurer on <ctreasurer@girlguidinghertfordshire.org.uk>) after the training event. The cost of this will be covered by the attendees attending.
 
 Please contact <guidingdev@girlguidinghertfordshire.org.uk> with any queries.
 

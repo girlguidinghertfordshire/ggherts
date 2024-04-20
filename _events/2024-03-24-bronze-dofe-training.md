@@ -1,6 +1,7 @@
 ---
 title: Bronze DofE training
 date: 2023-09-23
+published: false
 event:
     start_date: '2024-03-23'
     end_date: '2024-03-24'

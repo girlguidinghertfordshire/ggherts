@@ -1,6 +1,7 @@
 ---
 title: Bronze DofE assessed expedition
 date: 2023-09-23
+published: false
 event:
     start_date: '2024-04-13'
     end_date: '2024-04-14'

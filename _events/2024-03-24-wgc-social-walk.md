@@ -1,6 +1,7 @@
 ---
 title: Welwyn Garden City social walk
 date: 2024-01-21T08:12:00Z
+published: false
 event:
     start_date: '2024-03-24'
     end_date: ''

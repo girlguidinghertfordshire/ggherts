@@ -26,7 +26,7 @@ Come and join the county walking team in the South Downs for a relaxed walking w
 
 The hostel is surrounded by the beautiful hills of the South Downs National Park and enjoys substantial grounds of it's own.  
 
-Both days will consist of 4/5 hours walking at an easy pace.  Participants will need packed lunches.
+Both days will consist of 4-5 hours walking at an easy pace - These are level 1 lowland walks. Adults only. Participants will need packed lunches.
 
 **Cost:** accommodation £60 for the weekend in shared rooms with facilities (Girlguiding members).
 

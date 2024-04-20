@@ -1,6 +1,7 @@
 ---
 title: Easter Egg Hunt
 date: 2023-12-30T15:15:00Z
+published: false
 event:
     start_date: '2024-03-24'
     end_date: ''
