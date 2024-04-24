@@ -6,7 +6,7 @@ categories:
     - Things to do
 tags: []
 ---
-Marathon is CUSAGC’s annual day/night incident hike for members of the Scouting, Girlguiding and SSAGO aged 14 and over (that includes leaders!).  
+Marathon is Cambridge University Scouts and Guides Club (CUSAGC)'s annual day/night incident hike for members of the Scouting, Girlguiding and Student Scout and Guides Organissation (SSAGO) aged 14 and over (that includes leaders!).
 
 This year's event is taking place on Saturday 16 November. Previously this event has been held within the Cambridge area.
 

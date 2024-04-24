@@ -16,4 +16,4 @@ Monopoly Run 'Live' is a real-time version of the popular Monopoly Run (London) 
 
 Enjoyed by many Guides in March.  Use a Travelcard to visit as many sites as possible and test your problem solving skills as you go.
 
-For more information and to book visit [Monopoly Run "Live" 2024](https://monopoly-run.co.uk) - The best day out around London for Scouts & Guides - 2nd March 2024.
+For more information and to book visit [Monopoly Run "Live" 2024](https://monopoly-run.co.uk) - The best day out around London for Scouts & Guides.
