@@ -14,16 +14,6 @@ If you were ever involved in Guiding, either as a Rainbow, Brownie, Guide, or Ra
 
 [Find a guild](guilds/){:.btn.btn-primary} [Activities and challenges](activities/){:.btn.btn-primary}
 
-## Hertfordshire Trefoil events
-
-### Trefoil Guild Annual Review
-
-Saturday 27 April 2024 in Welwyn Garden City
-
-Everyone is welcome to come along and attend our AGM with guest speaker Tracey Foster, chief guide.
-
-For further details email <trefoil@girlguidinghertfordshire.org.uk>
-
 ## Hertfordshire Trefoil team
 
 The Hertfordshire County Trefoil Team are:
@@ -31,7 +21,7 @@ The Hertfordshire County Trefoil Team are:
 - Janice Hyde, County Chair
 - Gill Oxtoby, Vice Chair
 - Val Kewley, Secretary
-- Barbara Tulley, Treasurer
+- Myra Austen, Treasurer
 - Margaret Saunders, PR
 
 They can be contacted by email: <trefoil@girlguidinghertfordshire.org.uk>
