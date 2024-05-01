@@ -1,18 +1,16 @@
 ---
 title: County walking lead volunteer
-date: 2023-04-22T16:36:00.000Z
-published: false
+date: 2024-05-01T21:06:00 +01:00
+published: true
 image: /assets/images/2023/05/county-walking-leader-lead-volunteer.webp
-download: /assets/docs/2023/vacancies/county-walking-lead-volunteer.pdf
+download: /assets/docs/2024/county-walking-lead-volunteer-role-description1.pdf
 categories: 
     - County team
 tags: []
 lastmod: 2023-04-22T16:36:00.000Z
 ---
-We are lucky enough to have a very active and successful county walking team who organise social walks and weekends away, help our leaders run unit events, and assist those working towards their Girlguiding walking scheme qualifications, to name just a few.
+We are very fortunate to have an active and successful county walking team who organise social walks and weekends away, help our leaders run unit events, and assist those working towards their Girlguiding walking scheme qualifications, to name just a few.
 
-Do you have a passion for adventurous walking and walking related activities and feel you could inspire and lead the county walking team?
+We are looking for a new county walking lead volunteer.  Do you have a passion for adventurous walking and walking related activities and feel you could inspire and lead the county walking team?
 
-We are looking for a new county walking lead volunteer, if you think this could be you, please apply by emailing <cc@girlguidinghertfordshire.org.uk>.
-
-You can find out more about what the role entails below and why not have a look at our dedicated [walking webpage.](/what-we-do/outdoor/walking/)
+You can find out more about what the role entails below and apply via <cc@girlguidinghertfordshire.org.uk>.

@@ -1,7 +1,7 @@
 ---
 title: County outdoor administration volunteer
 date: 2024-01-28T14:47:00.000Z
-download: "/assets/docs/2024/vacancies/county-outdoor-administration-volunteer.pdf"
+download: "/assets/docs/2024/county-outdoor-administration-volunteer-role-description.pdf"
 image: "/assets/images/2024/04/county-outdoor-administration-volunteer.webp"
 categories: 
     - County team
