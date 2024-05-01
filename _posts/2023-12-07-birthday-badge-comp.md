@@ -1,5 +1,6 @@
 ---
 title: "110th birthday badge competition"
+published: false
 date: 2023-12-07T18:45:00Z
 image: /assets/images/2023/12/110-birthday-badge-comp1.webp
 categories:
@@ -8,7 +9,6 @@ categories:
 tags: []
 author:
   display_name: the County Office
-lastmod: 2022-02-06T20:37:04.129Z
 ---
 ![Birthday badge competition announcement](/assets/images/2023/12/110-birthday-badge-comp.webp){:.img-fluid.my-4}
 Why not use your creativity skills and help design our 110th county birthday badge.
