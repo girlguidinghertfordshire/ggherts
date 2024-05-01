@@ -14,6 +14,8 @@ Guide and Ranger members aged 14-18 who want to travel the world with Girlguidin
 
 If you have any queries please contact the International team via <international@girlguidinghertfordshire.org.uk>
 
+{% include international-selectionday.html %}
+
 <div class="alert alert-info" markdown="1">
 ## Help lead and inspire our members on an international adventure
 
