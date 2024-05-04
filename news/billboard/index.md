@@ -23,7 +23,6 @@ _Billboard_ is a monthly e-newsletter sent to all Girlguiding Hertfordshire memb
 
 ### 2024
 
-- May: 30 April 2024
 - June: 31 May 2024
 - July: 28 June 2024
 - August: No edition
