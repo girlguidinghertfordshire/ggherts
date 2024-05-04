@@ -21,7 +21,7 @@ event:
         - Trefoil
     location:
         - Bedfordshire
-        - Buckinghamshire
+        - The Chilterns
 ---
 This 2 day Anglia region essential training on the hills is for those with outdoor activity qualifications but useful for anyone leading outdoor activities.  Participants must be aged 16+.
 
