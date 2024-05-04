@@ -60,6 +60,12 @@ Hertfordshire county has many items available to borrow from the county store.
 
 [Inventory](/assets/docs/2023/cottered-county-store-inventory-2023-06.pdf){:target="_blank"}{:rel="noopener"}{:.download-link.btn.btn-primary}
 
+## Queen's Guide award registration form
+
+Members should complete this form to undertake their Queen's Guide award.
+
+[Registration form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwZj-g9JL5lpMiAybQMCV5zxUODZaV0RHR1ZPSlRQMFE0MzQwNFJDOFdYSC4u){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
+
 ## Unit registration
 
 This form is for requests to open a new unit, reopen a closed unit, or amend unit name or section.

@@ -33,6 +33,19 @@ You can find out all you need to know about becoming a leader on the [Girlguidin
 
 [How to register as a leader in training](/assets/docs/2022/how-to-register-as-a-lit.pdf){:.download-link.btn.btn-primary}{:rel="noopener"}{:target="_blank"}
 
+## Queen's Guide award
+
+![Queen's Guide award logo](/assets/images/2024/05/qga.webp){:.float-end.ms-3.mb-3.me-3}
+The Queen's Guide award is the highest award you can work towards in guiding.  As well as developing your skills, it gives you the opportunity to support your local community and give back to guiding.
+
+Outside of guiding, this award is valued by employers and further education establishments.
+
+Any member aged 16-30 years old can undertake this award, but must be completed within 3 years from the start date, or before your 31st birthday, whichever is soonest.
+
+The [Queen's Guide award webpage](https://www.girlguiding.org.uk/what-we-do/our-badges-and-activities/badge-finder/queens-guide-award/){:.external-link} on the Girlguiding UK website contains lots more information about this award.
+
+If you have any questions about the Queen's Guide award, please contact our county Queen's Guide award coordination lead volunteer on <queensguide@girlguidinghertfordshire.org.uk>
+
 ## ![Duke of Edinburgh's Award Scheme logo](/assets/images/2023/06/duke-of-edinburgh.webp){:.float-end.mb-4.me-3}Duke of Edinburgh's Award
 
 Girlguiding has joined forces with DofE so this age group (14-24) can complete this fantastic challenge as part of their guiding experience.
