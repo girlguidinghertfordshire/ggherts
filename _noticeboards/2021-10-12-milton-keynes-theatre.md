@@ -14,13 +14,18 @@ Milton Keynes Theatre have lots of fabulous shows coming up, many of which offer
 
 Please see the below overview of shows which provides more details on upcoming shows including:
 
-- The Woman in Black: Tues 2 - Sat 6 April - Suitable for ages 12+.
-  - Exclusive uniform group offer of £17. See [flyer for more details](/assets/docs/2024/mk-theatre-the-woman-in-black.pdf){:.download-link}{:target="_blank"}{:rel="noreferrer noopener"}
+
 - Everybody's Talking About Jamie: Mon 10 - Sat 15 June
   - Exclusive uniform group rate £20 plus 1 free leader for every 10 paid tickets.
 - Bonnie and Clyde: Tues 18 - Sat 22 June - suitable for ages 12+
   - Exclusive uniform group rate £17.50 plus 1 free leader for every 10 paid tickets.
 - The Wizard of Oz: Tues 16 - Sat 20 July
+- Dear Evan Hansen: Tues 28 Jan - Sat 1 Feb 2025 
+  - Exclusive uniform group rate £15 (Tues-Fri Bands B-D*), plus 1 free leader for every 10 paid tickets.
+- Swan Lake The Next Generation: Tues 15 - Sat 19 April 2025 
+  - Exclusive uniform group rate £20 (Tues-Thurs Bands C-D*), plus 1 free leader for every 10 paid tickets.
+
+*subject to availability and change
 
 [Overview of shows](/assets/docs/2024/mk-theatre-flyer-2024-03.pdf){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noreferrer noopener"}
 
