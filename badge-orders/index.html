@@ -7,9 +7,8 @@ author:
     display_name: the County Office
 lastmod: 2022-07-20T19:45:50.229Z
 ---
-<p><strong>Following changes to requirements by HQ, please do not use this online form at present to order badges and certificates.  The online form will be updated shortly, but in the meantime please contact the badge secretary on <a href="mailto:badges@girlguidinghertfordshire.org.uk">badges@girlguidinghertfordshire.org.uk</a> directly to place an order.</strong></p>
 <p class="lead">Order badges and certificates for Bronze, Silver and Gold awards</p>
-<p>Please contact the Badge Secretary via <a href="mailto:badges@girlguidinghertfordshire.org.uk">badges@girlguidinghertfordshire.org.uk</a> if you have any questions or trouble completing your order.</p>
+<p>If you are ordering over <strong>£150</strong> worth of items and want them posted, have any questions or are having trouble completing the form, please contact the county badge secretary via <a href="mailto:badges@girlguidinghertfordshire.org.uk">badges@girlguidinghertfordshire.org.uk</a></p>
 <form novalidate class="needs-validation">
     <div class="row">
         <div class="col-8" id="customer">
@@ -27,42 +26,39 @@ lastmod: 2022-07-20T19:45:50.229Z
                     Please provide a valid email address.
                 </div>
             </div>
+            <div class="mb-3">
+                <label for="order_unit" class="form-label">Unit(s) name (in full):</label>
+                <input type="text" name="order_unit" id="order_unit" class="form-control"/>
+            </div>
+            <div class="mb-3">
+                <label for="order_district" class="form-label">District:</label>
+                <input type="text" name="order_district" id="order_district" class="form-control"/>
+            </div>
+            <div class="mb-3">
+                <label for="order_shop" class="form-label">Shop/depot name:</label>
+                <input type="text" name="order_shop" id="order_shop" class="form-control"/>
+            </div>
         </div>
     </div>
-    <h2>Award recipients</h2>
-    <div id="awardRecipients">
-
-    </div>
-    <div class="mb-3"><input type="button" class="btn btn-secondary" id="addGirl" value="Add another recipient"
-            disabled /></div>
-    <div class="mb-3 d-none" id="incompleteNote"><strong>NOTE:</strong> You have ordered badges for girls who have not
-        yet
-        completed their award. If they don't complete, you must notify <a
-            href="mailto:badges@girlguidinghertfordshire.org.uk">badges@girlguidinghertfordshire.org.uk</a> of both the
-        girl who did not complete and who it is subsequently awarded to, so that county records can be kept up to date!
-    </div>
-    <div class="mb-3 d-none" id="goldAward"><strong>Gold awards:</strong> Once a girl has completed their Gold award and 
-        has had it presented, their name can be published in the county&rsquo;s Share magazine.  If you would like a 
-        girl&rsquo;s name to appear in the magazine, please email their first name and unit to 
-        <a href="mailto:badges@girlguidinghertfordshire.org.uk">badges@girlguidinghertfordshire.org.uk</a>.</div>
+    
     <h2>Order</h2>
     <div id="orderDetails">
-        <p class="js-no-girls">Please add an award recipient first.</p>
-        <p class="js-has-girls d-none">It is recommended that a metal badge and certificate is awarded at minimum with woven badge
-            being optional - this has been selected for you below. <em>Please add all recipients above before amending any badge quantities.</em></p>
-        <table class="table d-none" aria-label="Badges and certificates to be ordered">
+        <p>It is recommended that a metal badge and certificate is awarded at minimum with woven badge
+            being optional.</p>
+        <p>If you are ordering over £150 worth of items and require the order to be posted, please contact the county badge secretary on <a href="mailto:badges@girlguidinghertfordshire.org.uk">badges@girlguidinghertfordshire.org.uk</a> before completing the form.</p>
+        <table class="table" aria-label="Badges and certificates to be ordered">
             <thead>
                 <tr>
                     <th scope="col">Items</th>
-                    <th scope="col" class="text-right">Price each</th>
-                    <th scope="col" class="text-right">Quantity</th>
-                    <th scope="col" class="text-right">Subtotal</th>
+                    <th scope="col" class="text-end">Price each</th>
+                    <th scope="col" class="text-end">Quantity</th>
+                    <th scope="col" class="text-end">Subtotal</th>
                 </tr>
             </thead>
             <tfoot>
                 <tr>
                     <th scope="row" colspan="3">ORDER TOTAL (excl any postage costs)</th>
-                    <td class="text-right" id="orderTotal">£0.00</td>
+                    <td class="text-end" id="orderTotal">£0.00</td>
                 </tr>
             </tfoot>
             <tbody id="orderItems">
@@ -71,29 +67,28 @@ lastmod: 2022-07-20T19:45:50.229Z
     </div>
     <h2>Delivery</h2>
     <div id="deliveryDetails">
-        <p class="js-no-girls">Please add an award recipient first.</p>
-        <div class="js-has-girls d-none">
+        <div>
             <div class="mb-3">
                 <p>Please select how you would like to receive the items:</p>
                 <div class="form-check">
                     <input type="radio" class="form-check-input" name="delivery" id="deliveryOption3" value="Posted1"
                         required checked />
-                    <label for="deliveryOption3" class="form-check-label">Posted 1st Class</label>
+                    <label for="deliveryOption3" class="form-check-label">Posted 1st Class (for orders up to £20)</label>
                 </div>
                 <div class="form-check">
                     <input type="radio" class="form-check-input" name="delivery" id="deliveryOption4" value="Posted2"
                         required />
-                    <label for="deliveryOption4" class="form-check-label">Posted 2nd Class</label>
+                    <label for="deliveryOption4" class="form-check-label">Posted 2nd Class (for orders up to £20)</label>
                 </div>
                 <div class="form-check">
                     <input type="radio" class="form-check-input" name="delivery" id="deliveryOption5" value="Posted3"
                         required />
-                    <label for="deliveryOption5" class="form-check-label">Posted - Track 24</label>
+                    <label for="deliveryOption5" class="form-check-label">Posted - Track 24 (for orders up to £150)</label>
                 </div>
                 <div class="form-check">
                     <input type="radio" class="form-check-input" name="delivery" id="deliveryOption6" value="Posted4"
                         required />
-                    <label for="deliveryOption6" class="form-check-label">Posted - Track 48</label>
+                    <label for="deliveryOption6" class="form-check-label">Posted - Track 48 (for orders up to £150)</label>
                 </div>
                 <div class="form-check">
                     <input type="radio" class="form-check-input" name="delivery" id="deliveryOption1"
@@ -119,9 +114,13 @@ lastmod: 2022-07-20T19:45:50.229Z
                     final order total. Payment must be made before the items are dispatched. Packages
                     are sent out weekly on Wednesdays.</p>
             </div>
+            <div class="col-sm-12">
+                <label for="message">Any other information (optional)</label>
+                <textarea name="message" id="message" cols="40" rows="3" class="form-control"></textarea>
+            </div>
             <div class="col-sm-12 d-none">
                 <label for="enquirydetail">Detailed message:</label>
-                <textarea name="enquirydetail" id="enquirydetail" cols="40" rows="10" class="form-control"></textarea></span>
+                <textarea name="enquirydetail" id="enquirydetail" cols="40" rows="10" class="form-control"></textarea>
             </div>
         </div>
     </div>
