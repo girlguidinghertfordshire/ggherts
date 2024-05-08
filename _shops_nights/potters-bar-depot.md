@@ -5,15 +5,15 @@ shop:
   mapaddress: "Potters Bar, United Kingdom"
   location: Potters Bar District
   division: Central
-  contact_name: Mrs Susan Weaver
-  contact_email: susan.weaver4@ntlworld.com
-  contact_number: 01707 850147
+  contact_name: 
+  contact_email: 
+  contact_number: 
   latlng: "51.696636,-0.17594800000006217"
   type:
     - Shop
-author:
-  display_name: GGH-Admin1
-  first_name: ''
-  last_name: ''
 ---
+Potters Bar district
 
+For leaders only.
+
+Please ask your local commissioner for details.

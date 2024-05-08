@@ -10,8 +10,8 @@ shop:
     HP2 5DF
   division: West
   contact_name: Mrs Pamela Boughton
-  contact_email: pamboughton719@gmail.com
-  contact_number: 01442 265188
+  contact_email: westhertsdepot@yahoo.com
+  contact_number: 
   latlng: "51.7591115,-0.4638142000000016"
   type:
     - Shop
