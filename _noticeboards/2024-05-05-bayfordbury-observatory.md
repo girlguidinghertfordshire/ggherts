@@ -1,5 +1,5 @@
 ---
-title: 'Bayford Observatory - astronomy experiences'
+title: 'Bayfordbury Observatory - astronomy experiences'
 date: 2024-05-05T08:45:00 +01:00
 image: /assets/images/2024/05/bayfordbury-observatory.webp
 categories:
