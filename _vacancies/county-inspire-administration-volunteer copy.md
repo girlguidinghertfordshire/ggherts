@@ -1,6 +1,6 @@
 ---
 title: County Inspire administration volunteer
-date: 2024-04-01T07:46:00 +01:00
+date: 2024-05-08T21:00 +01:00
 published: true
 image: /assets/images/2024/04/inspire_admin.webp
 download: "/assets/docs/2024/inspire-administration-volunteer-role-description.pdf"
