@@ -1,6 +1,6 @@
 ---
 title: Easyfundraising
-date: 2024-03-07T20:44
+date: 2024-02-07T20:44
 ---
 Sign up for Easyfundraising, select Hertfordshire Guide Centre as your chosen charity. Use this link to access us: <http://efraising.org/DN1n03cgt6>
 
