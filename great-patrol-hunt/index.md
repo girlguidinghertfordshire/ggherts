@@ -19,7 +19,7 @@ It began in 1968, Hertfordshire Scout Patrols competed annually in various ways,
 
 - Round 1: Saturday 14 October 2023 \| Chandler's Cross - *completed*
 - Round 2: Saturday 23 March 2024 \| St Albans - *completed*
-- [Round 3: Friday 21 June - Sunday 23 June 2024 \| TBC](round-3/)
+- [Round 3: Friday 21 June - Sunday 23 June 2024 \| Letchworth Garden City](round-3/)
 
 ### 2023/24 results
 
@@ -35,7 +35,7 @@ Round 1 of the Great Patrol Hunt was completed on Saturday 14 October 2023:
 
 The competition spans over a year and comprises of 3 rounds. Each round has different and diverse challenges that encourage patrols to work together as a team. Marks are awarded for team work, presentation, effort, etiquette, good deeds and achievement throughout the challenges and the event.
 
-There are two inexpensive activity days finishing with a camp that _Guides can attend without Unit Leaders_, giving an opportunity to make new friends with other Guides from across Hertfordshire whilst developing new skills.
+There are two inexpensive activity days finishing with a camp that *Guides can attend without Unit Leaders*, giving an opportunity to make new friends with other Guides from across Hertfordshire whilst developing new skills.
 
 Unit leaders are not required to accompany Patrols to this event, which is run by a team of qualified Girlguiding leaders, however if you would like to offer your help, please let us know.  New leaders are always more than welcome.
 
@@ -44,7 +44,7 @@ Unit leaders are not required to accompany Patrols to this event, which is run b
 - Participants are aged between 10-15 years and an active member of a Guide Unit.
 - Teams need not be regular weekly Patrols, but they must choose a unique name for themselves in order to enter.
 - Patrols **must consist of 4-6 Guides** and should not include more than 10 different patrol members throughout the three rounds.
-- To participate in Round 3, a patrol and at least 2 members must have competed in one of the previous rounds, _or a new patrol must be accompanied by one of its unit leaders._
+- To participate in Round 3, a patrol and at least 2 members must have competed in one of the previous rounds, *or a new patrol must be accompanied by one of its unit leaders.*
 - If you are unable to make a full Patrol in Rounds 1 &amp; 2,  then  join the &#8216;GPH Mavericks&#8217;, a patrol made of Guides from different units.
 
 ### 2022/23 results
