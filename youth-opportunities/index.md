@@ -46,6 +46,8 @@ The [Queen's Guide award webpage](https://www.girlguiding.org.uk/what-we-do/our-
 
 If you have any questions about the Queen's Guide award, please contact our county Queen's Guide award coordination lead volunteer on <queensguide@girlguidinghertfordshire.org.uk>
 
+Let us know you are undertaking your Queen's Guide award by completing the online registration form, which can be found on the [forms page](/about-us/resources/#queens-guide-award-registration-form).
+
 ## ![Duke of Edinburgh's Award Scheme logo](/assets/images/2023/06/duke-of-edinburgh.webp){:.float-end.mb-4.me-3}Duke of Edinburgh's Award
 
 Girlguiding has joined forces with DofE so this age group (14-24) can complete this fantastic challenge as part of their guiding experience.
