@@ -11,7 +11,7 @@ We are delighted to announce that the commemorative county birthday badge can no
 
 Our winning badge design from Guide, Maia, has now been made into our new county badge marking 110 years of guiding within Hertfordshire county.
 
-All profits from this special badge go towards the [Hertfordshire Guide Centre's reburbishment campaign.](/about-us/county-centre/fundraising/)
+All profits from this special badge go towards the [Hertfordshire Guide Centre's refurbishment campaign.](/about-us/county-centre/fundraising/)
 
 Badges cost £1 plus postage and packaging.
 
