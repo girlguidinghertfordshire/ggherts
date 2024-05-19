@@ -1,5 +1,5 @@
 ---
-title: Level 1 Walking scheme
+title: Level 1 Walking scheme and water safety training
 date: 2024-05-01T20:34 +01:00
 event:
     start_date: '2024-09-29'
@@ -9,7 +9,7 @@ event:
     contact_email: null
     contact_number: ''
     book_now_link: ''
-    image: '/assets/images/2024/01/walking-scheme.webp'
+    image: '/assets/images/2024/05/walking-scheme1.webp'
     type:
         - Walking
     age-group:
@@ -20,12 +20,16 @@ event:
         - Adults
         - Trefoil
     location:
-        - 'Hertfordshire, Central'
+        - 'Hertfordshire'
 ---
-If you'd like to gain more confidence in taking your girls out to explore nature reserves, local woodland, canal walks, orienteering or night hikes, this walking scheme level 1 training for those aged 16+ will give you the skills you need, as well as a support network to assist you.
+If you’d like to gain more confidence in taking your girls out to explore nature reserves, local woodland, canal walks, visit the Chiltern Hills, try an incident hike, orienteering or night hikes, this training is ideal.  
 
-Taking place on Saturday 29 September in Central Hertfordshire (exact location tbc), you will learn about kit, route planning, risks and hazards, Girlguiding rules and easy navigation.
+For members aged 16+ it will give you the skills you need, as well as a support network to assist you.
+
+Taking place on **Saturday 29 September** in Watton-at-Stone you will learn about kit, map reading and basic compass skills, route planning, safety and risk assessments, signs and information, environment and water rescue techniques such as how to use a throw line, Girlguiding rules and easy navigation.
 
 **Cost:** £15 (can be reclaimed from your unit).
 
-Email <walking@girlguidinghertfordshire.org.uk> to book your place.
+In order to fit the training in to a single day there will also be an online Zoom session in the week commencing 9 September, and a little home learning.
+
+Email <walking@girlguidinghertfordshire.org.uk> to book your place or with any queries.
