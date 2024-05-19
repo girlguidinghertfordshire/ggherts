@@ -38,26 +38,13 @@ Badges cost £1 each plus postage. Download the challenge badge pack to find out
 
 ## 1st Baldock Brownies challenge badges
 
-### Eggstraordinary Easter challenge badge
-
-![Eggstraordinary Easter challenge badge](/assets/images/2023/12/egg-challenge-badge-v4.webp){:.ms-3.mb-3.float-end}
-Make your's a hoppy Easter with the newly rebranded Eggstraordinatory Easter challenge badge.
-
-This can be completed in unit meetings if you are planning an egg-citing term ahead or equally introduced to the girls for them to work towards at home independently or with their friends and family over the Easter holidays.  
-
-Badges cost £1.30 each plus postage and can be ordered from within the challenge pack.  Download the challenge badge pack to find out more about the requirements and activities.
-
-[Download <span class="visually-hidden">Eggstraordinary Easter</span> challenge pack](/assets/docs/2023/eggstraordinary-easter-challenge-badge_v4.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
-
 ### Flower Power challenge badge
 
-![Flower Power challenge badge](/assets/images/2024/02/flower-power-badge.webp){:.float-end.mb-2.ms-2}This badge is great for Spring and Summer terms with programme links throughout the pack.  
+![Flower Power challenge badge](/assets/images/2024/02/flower-power-badge.webp){:.float-end.mb-2.ms-2}This badge is great for the Summer term as you learn about flowers and celebrate all things floral.
 
-As the seasons change learn about flowers and celebrate all things floral.
+The perfect chance to get outdoors and learn about nature. Back home, grow your own, make edible versions, or be inspired to write a poem. Many more ideas and activities are included, with programme links throughout the pack.
 
-A perfect chance to get outdoors and learn about nature. Back home, grow your own, make edible versions, or be inspired to write a poem. Many more ideas and activities included.
-
-Badges cost £1.20 each plus postage and can be ordered from within the challenge pack.  
+Badges cost £1.20 each plus postage and can be ordered from within the challenge pack.
 
 Download the challenge badge pack to find out more about the requirements and activities.
 
@@ -86,6 +73,7 @@ Essex & Herts Air Ambulance (EHAAT) is a charity, not part of the NHS, and there
 
 ## Previous challenge badges
 
+- Eggstraordinary Easter
 - Gold for Georgia 2022 challenge badge
 - Lifesaver challenge badge
 - Marathon challenge badge
