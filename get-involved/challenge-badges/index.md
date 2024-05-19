@@ -65,9 +65,21 @@ Download the challenge badge pack to find out more about the requirements and ac
 
 ## External Charity challenge badge
 
-### ![Essex & Herts Air Ambulance challenge Badge design](/assets/images/2024/02/essex-herts-air-ambulance-challenge.webp){:.pull-right.m-2}Essex & Herts Air Ambulance challenge Badge
+### ![Stroke challenge badge](/assets/images/2024/05/stroke-badge.webp){:.float-end.m-2}Stroke challenge badge
+
+Someone in the UK has a stroke every 5 minutes and over 400 young people every year in the UK have one. We believe it’s important that everyone is aware of them and knows how they can help.
+
+This badge helps each section learn invaluable skills and gain a better understanding of strokes.
+
+Badges are available for a suggested donation of £1.50 each and can be ordered by emailing <amy.spencer@stroke.org.uk>.
+
+[Download <span class="visually-hidden">stroke </span>challenge pack](/assets/docs/2024/stroke-association-challenge-pack-2024.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
+
+### ![Essex & Herts Air Ambulance challenge badge design](/assets/images/2024/02/essex-herts-air-ambulance-challenge.webp){:.pull-right.m-2}Essex & Herts Air Ambulance challenge badge
 
 Essex & Herts Air Ambulance (EHAAT) is a charity, not part of the NHS, and therefore relies on the public to keep it operational.  By completing this challenge badge you will be helping to raise awareness of the charity and the vital funds that allow it to continue it's life-saving work.
+
+Challenge badges are £1.50 per badge, purchased in packs and can be ordered by contacting <contactus@ehaat.org>.
 
 [More information and request your challenge pack](https://ehaat.org/support-us-get-involved/schools-groups/challenge-badge/){:target="_blank"}{:.btn.btn-primary.external-link}{:rel="noreferrer noopener"}
 
