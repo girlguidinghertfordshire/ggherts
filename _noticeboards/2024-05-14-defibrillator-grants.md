@@ -14,4 +14,4 @@ If a heart defibrillator is used within **3-5mins** of a **cardiac arrest,** the
 
 With every defibrillator, free online CPR/defibrillator awareness training is also provided.
 
-To receive further information on the defibrillators London Heart supplies, along with a non-obligatory quote, simply complete the short online application at:  <https://londonhearts.org/defibrillator-apply>
+To receive further information on the defibrillators London Heart supplies, along with a non-obligatory quote, simply complete the short online application at:  <https://www.londonhearts.org/apply-for-a-defib>
