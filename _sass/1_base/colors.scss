@@ -24,6 +24,11 @@ $gg-mid-blue-border-hover: tint-color($gg-mid-blue, 20%);
 $gg-mid-blue-active: shade-color($gg-mid-blue, 20%);
 $gg-mid-blue-border-active: shade-color($gg-mid-blue, 25%);
 
+$gg-light-blue-hover: tint-color($gg-light-blue, 15%);
+$gg-light-blue-border-hover: tint-color($gg-light-blue, 20%);
+$gg-light-blue-active: shade-color($gg-light-blue, 20%);
+$gg-light-blue-border-active: shade-color($gg-light-blue, 25%);
+
 $gg-blue: $gg-mid-blue;
 $gg-blue-link: #337ab7;
 
@@ -42,6 +47,10 @@ $gg-rangers-light-pink: #fbdfe7;
     --gg-mid-blue: #{$gg-mid-blue};
     --gg-light-blue: #{$gg-light-blue};
     --gg-rainbows-light-blue: #{$gg-rainbows-light-blue};
+    --gg-rainbows-red: #{$gg-rainbows-red};
+    --gg-brownies-yellow: #{$gg-brownies-yellow};
+    --gg-guides-mid-blue: #{$gg-guides-mid-blue};
+    --gg-rangers-purple: #{$gg-rangers-purple};
     --bs-primary:var(--gg-dark-blue);
     --bs-link-color: var(--gg-mid-blue);
     --bs-link-hover-color: var(--gg-dark-blue);

@@ -50,18 +50,18 @@
 }
 .btn-secondary {
     --bs-btn-color: #fff;
-    --bs-btn-bg: #{$gg-mid-blue};
-    --bs-btn-border-color: #{$gg-mid-blue};
-    --bs-btn-hover-color: var(--bs-white);
-    --bs-btn-hover-bg: #{$gg-mid-blue-hover};
-    --bs-btn-hover-border-color: #{$gg-mid-blue-border-hover};
-    --bs-btn-active-color: #{$gg-mid-blue-active};
+    --bs-btn-bg: #{$gg-light-blue};
+    --bs-btn-border-color: #{$gg-light-blue};
+    --bs-btn-hover-color: #{$gg-light-blue};
+    --bs-btn-hover-bg: var(--bs-white);
+    --bs-btn-hover-border-color: var(--gg-mid-blue);
+    --bs-btn-active-color: #{$gg-dark-blue-active};
     --bs-btn-active-bg: var(--bs-white);
     --bs-btn-active-border-color: #{$gg-mid-blue-border-active};
     --bs-btn-focus-shadow-rgb: var(--bs-primary-rgb);
     --bs-btn-disabled-color: var(--bs-white);
-    --bs-btn-disabled-bg: #{$gg-mid-blue};
-    --bs-btn-disabled-border-color: #{$gg-mid-blue};
+    --bs-btn-disabled-bg: #{$gg-light-blue};
+    --bs-btn-disabled-border-color: #{$gg-light-blue};
     
     &:focus{
         background-color: $gg-dark-blue-hover;

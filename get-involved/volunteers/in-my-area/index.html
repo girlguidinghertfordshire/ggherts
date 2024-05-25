@@ -1,0 +1,236 @@
+---
+layout: page-v5
+title: Find volunteer opportunities
+date: 2024-05-25
+toc: get-involved
+modal: true
+includes:
+- Events
+- News
+lastmod: 2023-03-20
+---
+<style>
+    .rainbows .text-bg-primary {
+        background-color: var(--gg-rainbows-red) !important;
+    }
+
+    .brownies .text-bg-primary {
+        background-color: var(--gg-brownies-yellow) !important;
+        color: #000 !important;
+    }
+
+    .guides .text-bg-primary {
+        background-color: var(--gg-guides-mid-blue) !important;
+        color: #000 !important;
+    }
+
+    .rangers .text-bg-primary {
+        background-color: var(--gg-rangers-purple) !important;
+    }
+
+    @media (min-width: 992px) {
+        h3.h5 {
+            font-size: 0.95rem !important;
+        }
+    }
+</style>
+<p>In Hertfordshire, we are looking for adult volunteers in the following areas. Days/times show when the volunteers are
+    needed.</p>
+<p>If you would like to volunteer, tick against any times you are available to volunteer and click enquire now to
+    provide your name, email and phone number. Our volunteer coordinator will call you back at the earliest opportunity.
+</p>
+<form>
+    <div class="js-volunteer-availability">
+        {% assign postDistricts = site.data.volunteers | group_by:"postdistrict" | sort_natural %}
+        {% for postDistrict in postDistricts %}
+        {% assign sections = postDistrict.items | group_by:"section" %}
+        <div class="card mb-2">
+            <div class="card-header">
+                <div class="row">
+                    <div class="col-lg-2">
+                        <h2>{{ postDistrict.name }}</h2>
+                    </div>
+                    <div class="col-lg-10 d-none d-lg-block">
+                        <ul class="row list-unstyled">
+                            <li class="col-2">Mon<span class="d-lg-none">day</span></li>
+                            <li class="col-2">Tue<span class="d-lg-none">sday</span></li>
+                            <li class="col-2">Wed<span class="d-lg-none">nesday</span></li>
+                            <li class="col-2">Thu<span class="d-lg-none">rsday</span></li>
+                            <li class="col-2">Fri<span class="d-lg-none">day</span></li>
+                            <li class="col-2">Sat /Sun</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="card-body">
+
+                {% assign sectionList = "Rainbows,Brownies,Guides,Rangers" | split:"," %}
+                <div class="row row-cols-2 row-cols-lg-1">
+                    {% for selectedSection in sectionList %}
+                    {% assign section = sections | where: "name",selectedSection %}
+                    {% for sectionEntry in section %}
+                    <div class="col">
+                        <div class="row {{ selectedSection | slugify }}">
+                            <div class="col-lg-2">
+                                <h3 class="h5 mb-0">{{ selectedSection }} </h3>
+                            </div>
+                            <div class="col-lg-10">
+                                <ul class="row list-unstyled">
+                                    {% assign daysOfWeek = "Monday,Tuesday,Wednesday,Thursday,Friday" | split:"," %}
+                                    {% for dayOfWeek in daysOfWeek %}
+                                    {% assign days = sectionEntry.items | where: "day",dayOfWeek %}
+                                    {% if days.size>0 %}
+                                    <li class="col-lg-2">
+                                        <div class="d-lg-none"><strong>{{ dayOfWeek }}</strong></div>
+                                        {% for day in days %}
+                                        <span class="badge text-bg-primary mb-1">
+                                            <label><input type="checkbox" name="unit_preference"
+                                                    value="{{ postDistrict.name }}|{{selectedSection}}|{{ dayOfWeek}}|{{ day.starttime}}-{{ day.endtime }}" />
+                                                {{ day.starttime | replace: "pm","" }}<span
+                                                    class="d-none d-lg-inline d-xxl-none"><br /></span> - {{ day.endtime
+                                                | replace: "pm",""
+                                                }}<span class="d-lg-none d-xxl-inline">pm</span></label>
+                                        </span>
+                                        {% endfor %}
+                                    </li>
+                                    {% else %}
+                                    <li class="col-2"> </li>
+                                    {% endif %}
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    {% endfor %}
+                    {% endfor %}
+                </div>
+            </div>
+            <div class="card-footer d-lg-none"><button type="button" class="btn btn-primary d-block w-100"
+                    data-bs-toggle="modal" data-bs-target="#enquiryDetails">Enquire now</button></div>
+        </div>
+        {% endfor %}
+    </div>
+    <div class="position-sticky bg-white border-top border-primary border-3 p-4 bottom-0 d-none d-lg-block"><button type="button" class="btn btn-primary d-block w-100"
+            data-bs-toggle="modal" data-bs-target="#enquiryDetails">Enquire now</button></div>
+    <div class="modal fade" id="enquiryDetails" tabindex="-1" aria-labelledby="enquiryDetailsLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title" id="enquiryDetailsLabel">Enquire about volunteering</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="mb-3">
+                        <label for="age" class="form-label">Your age:</label>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="age" id="age1" value="Under 18"
+                                required />
+                            <label class="form-check-label" for="age1">
+                                Under 18</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="age" id="age2" value="Over 18"
+                                required />
+                            <label class="form-check-label" for="age2">
+                                18 or over</label>
+                        </div>
+                    </div>
+                    <div class="mb-3">
+                        <label for="name" class="form-label">Your name</label>
+                        <input type="text" class="form-control" name="name" id="name" required maxlength="100" />
+                    </div>
+                    <div class="mb-3">
+                        <label for="email" class="form-label">Email:</label>
+                        <input type="email" class="form-control" name="email" id="email" required />
+                    </div>
+                    <div class="mb-3">
+                        <label for="phone" class="form-label">Phone number:</label>
+                        <input type="tel" class="form-control" name="phone" id="phone" required />
+                    </div>
+                    <div class="mb-3">
+                        <label for="message" class="form-label">Any other information you want to add about your
+                            enquiry: (optional)</label>
+                        <textarea class="form-control" name="message" id="message" rows="3"></textarea>
+                    </div>
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="submit" id="sendEnquiry" class="g-recaptcha btn btn-primary"
+                        data-sitekey="{{ site.recaptcha.sitekey }}" data-action="submit" data-callback="onSubmit" data-bs-dismiss="modal">Send
+                        enquiry</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+<script>
+    const baseUrl = '{{site.email.base_url}}';
+    const apikey = encodeURIComponent('{{ site.email.apikey }}');
+    function updateForm(msg, canHideForm, isError) {
+        if (canHideForm) {
+            $("form").hide();
+        }
+        $("form").before(`<div class="alert alert-${(isError ? "danger" : "success")}">${msg}</div>`);
+    }
+    function onSubmit(token) {
+        console.log("Prepare to send");
+        var formData = new FormData(document.querySelector("form"));
+        var data = {};
+        data.unitPreference = [];
+        data.recaptchaToken = token;
+        formData.forEach(function (value, key) {
+            if (key=="g-recaptcha-response") 
+                return;
+            if (key === "unit_preference") {
+                data.unitPreference.push(value);
+            } else {
+                data[key] = value;
+            }
+        });
+        console.log(JSON.stringify(data));
+        fetch(`${baseUrl}volunteerenquiry?apikey=${apikey}`, {
+            method: "POST",
+            body: JSON.stringify(data),
+            headers: {
+                "Content-Type": "application/json"
+            }
+        }).then(function (response) {
+                console.log(response);
+            if (response.ok) {
+                return response.json();
+            } else {
+                console.log(response);
+                if (Object.prototype.hasOwnProperty.call(response, "status")) {
+                    switch (response.status) {
+                        case 400:
+                            if (Object.prototype.hasOwnProperty.call(response, "responseJSON") && Object.prototype.hasOwnProperty.call(response.responseJSON, "hasValidationError")) {
+                                updateForm(`An error occurred when processing your form: <ul><li>${response.responseJSON.statusMessage}</li></ul>`, false, true);
+                                break;
+                            }
+                        // eslint-disable-next-line no-fallthrough
+                        case 401:
+                        case 404:
+                            updateForm("Sorry, an error is preventing us from sending your form. Please contact us by email. We apologise for any inconvenience caused.", true, true);
+                            break;
+                        default:
+                            alert(`${response.status}: ${response.statusText}`);
+                    }
+                    if (Object.prototype.hasOwnProperty.call(response, "responseJSON") && Object.prototype.hasOwnProperty.call(response.responseJSON, "statusMessage")) {
+                        console.log(`${response.status}: ${response.statusText} - ${response.responseJSON.statusMessage}`);
+                    } else {
+                        console.log(`${response.status}: ${response.statusText}`);
+                    }
+                }
+            }
+        }).then(data=>{
+            console.log(data);            
+            updateForm(data.statusMessage, true, false);
+        }).catch(error=> {
+            console.error("Error:", error);
+            updateForm("Sorry, an error is preventing us from sending your form. Please contact us by email. We apologise for any inconvenience caused.", true, true);
+        });
+    }
+
+</script>
+<script src="https://www.google.com/recaptcha/api.js"></script>
