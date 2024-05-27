@@ -20,13 +20,13 @@ event:
         - Adults
         - Trefoil
     location:
-        - 'Hertfordshire'
+        - 'Hertfordshire, East'
 ---
 If you’d like to gain more confidence in taking your girls out to explore nature reserves, local woodland, canal walks, visit the Chiltern Hills, try an incident hike, orienteering or night hikes, this training is ideal.  
 
 For members aged 16+ it will give you the skills you need, as well as a support network to assist you.
 
-Taking place on **Saturday 29 September** in Watton-at-Stone you will learn about kit, map reading and basic compass skills, route planning, safety and risk assessments, signs and information, environment and water rescue techniques such as how to use a throw line, Girlguiding rules and easy navigation.
+Taking place on **Saturday 29 September** in Watton at Stone you will learn about kit, map reading and basic compass skills, route planning, safety and risk assessments, signs and information, environment and water rescue techniques such as how to use a throw line, Girlguiding rules and easy navigation.
 
 **Cost:** £15 (can be reclaimed from your unit).
 
