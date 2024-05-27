@@ -48,6 +48,8 @@ If you have any questions about the Queen's Guide award, please contact our coun
 
 Let us know you are undertaking your Queen's Guide award by completing the online registration form, which can be found on the [forms page](/about-us/resources/#queens-guide-award-registration-form).
 
+Queen's Guide award participants may be interested in the [region Inspire challenge project](#inspirechallenge).  Details can be found under the Inspire section at the bottom of this page.
+
 ## ![Duke of Edinburgh's Award Scheme logo](/assets/images/2023/06/duke-of-edinburgh.webp){:.float-end.mb-4.me-3}Duke of Edinburgh's Award
 
 Girlguiding has joined forces with DofE so this age group (14-24) can complete this fantastic challenge as part of their guiding experience.
@@ -70,6 +72,8 @@ Contact our county peer educator coordination lead volunteer via <peereducators@
 ## Inspire
 
 You may be wondering, what is Inspire? Inspire is the Girlguiding offering for all 18-30 year olds. It doesn’t matter what your everyday role or level of interaction with Girlguiding is, all members within this age range are automatically part of Inspire. It is a place where you can make new friends, learn new skills and take advantage of the many awards and opportunities on offer. This can include completing Girlguiding qualifications and awards such as the Queens Guide award or Duke of Edinburgh Award, volunteering at events in the future, making your voice heard as a Girlguiding advocate, developing new skills or helping to train other members and share your knowledge and experience.
+
+{% include region-inspire-challenge.html %}
 
 Checkout the [Inspire blog](inspire/) to see what the future holds for the Inspire community in Hertfordshire county and how you can help shape it.
 
