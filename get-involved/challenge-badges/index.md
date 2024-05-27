@@ -12,6 +12,19 @@ permalink: /get-involved/challenge-badges/
 ---
 ## County challenge badges
 
+### UK Greece 2024 GOLD challenge badge
+
+![GOLD challenge badge](/assets/images/2024/05/GOLD2024.webp){:.ms-3.mb-3.float-end}
+The Girlguiding Overseas Linked with Development (GOLD) Team are excited to share with you this new challenge badge.
+
+This year the Greece UK 2024 GOLD team are working alongside the Greek Guiding Association, Soma Hellindon Odigon (SEO)) to develop young members' understanding and identity as global citizens as well as increasing members' understanding of WAGGGS.
+
+Badges cost £1.50 each plus postage. 
+
+Download the challenge badge pack to find out more about the requirements and activities.
+
+[Download <span class="visually-hidden">Gold </span>challenge pack](/assets/docs/2024/gold-greece-challenge-badge-2024.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [<span class="visually-hidden">Gold </span>Badge order form](https://docs.google.com/forms/d/1rD9cz88SeuSKAVGj-YPxIwNQ7eqiKHmQEc415ywNNmE/viewform?edit_requested=true&pli=1){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
+
 ### Girls Golf challenge badge
 
 ![Badge for Girls Golf Challenge](/assets/images/2022/11/girls-golf.webp){:.ms-3.mb-3.float-end}
@@ -24,17 +37,6 @@ To earn your Golf challenge badge you will need to complete activities from each
 Badges cost £1 each plus postage.  Download the challenge badge pack to find out more about the requirements and activities.
 
 [Download <span class="visually-hidden">Golf </span>challenge pack](/assets/docs/2022/challenge-badge-girls-golf.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [<span class="visually-hidden">Golf </span>Badge order form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJURFY2T09OMjQ4Q0JCTlpCWUtQM1I5N0xYMC4u){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
-
-### Nigeria 2023 GOLD challenge badge
-
-![Nigeria 2023 GOLD challenge badge](/assets/images/2023/06/nigeria-badge.webp){:.ms-3.mb-3.float-end}
-The Girlguiding Overseas Linked with Development (GOLD) Team are excited to share with you this new challenge badge.
-
-This year the Nigeria 2023 GOLD team are working alongside the Nigerian Girl Guides Association to develop peer education tools and techniques around wellbeing, decision making, leadership and confidence.
-
-Badges cost £1 each plus postage. Download the challenge badge pack to find out more about the requirements and activities.
-
-[Download <span class="visually-hidden">Nigeria 2023 GOLD</span> challenge pack](/assets/docs/2023/nigeria-2023-activity-pack.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
 
 ## 1st Baldock Brownies challenge badges
 
@@ -86,7 +88,6 @@ Challenge badges are £1.50 per badge, purchased in packs and can be ordered by 
 ## Previous challenge badges
 
 - Eggstraordinary Easter
-- Gold for Georgia 2022 challenge badge
 - Lifesaver challenge badge
 - Marathon challenge badge
 - Raise West Hertfordshire NHS Trust charity badge
