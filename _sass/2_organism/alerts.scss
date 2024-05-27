@@ -1,0 +1,8 @@
+.alert-info {
+    --bs-alert-bg: var(--gg-mid-blue);
+    --bs-alert-border-color: var(--gg-mid-blue);
+    --bs-alert-color: var(--bs-white);
+    .alert-link {
+        color: var(--bs-white);
+    }
+}

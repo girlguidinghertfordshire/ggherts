@@ -42,7 +42,7 @@ Outside of guiding, this award is valued by employers and further education esta
 
 Any member aged 16-30 years old can undertake this award, but must be completed within 3 years from the start date, or before your 31st birthday, whichever is soonest.
 
-The [Queen's Guide award webpage](https://www.girlguiding.org.uk/what-we-do/our-badges-and-activities/badge-finder/queens-guide-award/){:.external-link} on the Girlguiding UK website contains lots more information about this award.
+The [Queen's Guide award webpage](https://www.girlguiding.org.uk/what-we-do/our-badges-and-activities/badge-finder/queens-guide-award/){:.external-link}{:rel="noopener"}{:target="_blank"} on the Girlguiding UK website contains lots more information about this award.
 
 If you have any questions about the Queen's Guide award, please contact our county Queen's Guide award coordination lead volunteer on <queensguide@girlguidinghertfordshire.org.uk>
 
