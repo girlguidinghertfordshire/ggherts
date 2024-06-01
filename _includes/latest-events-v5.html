@@ -1,6 +1,6 @@
 <section class="latest-events">
     <div class="container">
-        <h2>Latest Events</h2>
+        <h2>Latest events</h2>
         <div class="event-list">
             {% assign events = site.events | sort: 'date' | reverse %}
             {% assign today = 'now' | date: '%s' | plus: 0 %}
