@@ -24,7 +24,7 @@ If you are looking to arrange a 1st response course for your district or divisio
 
 ## Please note the following important details
 
-1. A minimum of 12 attendees is required. County can advertise your training to other members in the county, with bookings available via Eventbrite, if you are unable to reach these numbers.  
+1. A minimum of 12 attendees is required. County can advertise your training to other members in the county, with bookings available via Eventbrite, if you are unable to reach these numbers. **Once a training is advertised on Eventbrite all bookings must be made via the Eventbrite system.**
 2. Cost per attendee will be £20 to be paid by BACS to:  
 Girlguiding Hertfordshire  
 Sort code: 40-52-40  
