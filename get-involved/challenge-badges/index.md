@@ -17,7 +17,7 @@ permalink: /get-involved/challenge-badges/
 ![GOLD challenge badge](/assets/images/2024/05/GOLD2024.webp){:.ms-3.mb-3.float-end}
 The Girlguiding Overseas Linked with Development (GOLD) Team are excited to share with you this new challenge badge.
 
-This year the Greece UK 2024 GOLD team are working alongside the Greek Guiding Association, Soma Hellindon Odigon (SEO)) to develop young members' understanding and identity as global citizens as well as increasing members' understanding of WAGGGS.
+This year the Greece UK 2024 GOLD team are working alongside the Greek Guiding Association (Soma Hellindon Odigon (SEO)) to develop young members' understanding and identity as global citizens as well as increasing members' understanding of WAGGGS.
 
 Badges cost £1.50 each plus postage. 
 

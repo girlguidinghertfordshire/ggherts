@@ -1,5 +1,5 @@
 ---
-title: Geocache for leaders
+title: Geocaching for leaders
 date: 2024-05-26T11:46:00 +01:00
 event:
     start_date: '2024-07-13'

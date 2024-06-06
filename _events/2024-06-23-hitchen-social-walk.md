@@ -1,5 +1,5 @@
 ---
-title: Hitchen social walk for adults
+title: St Paul's Walden social walk for adults
 date: 2024-05-26T12:40:00 +01:00
 event:
     start_date: '2024-06-23'
