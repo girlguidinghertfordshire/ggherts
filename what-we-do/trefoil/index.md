@@ -18,7 +18,7 @@ If you were ever involved in Guiding, either as a Rainbow, Brownie, Guide, or Ra
 
 The Hertfordshire County Trefoil Team are:
 
-- Janice Hyde, County Chair
+- Maureen Kell, county chair
 - Gill Oxtoby, Vice Chair
 - Val Kewley, Secretary
 - Myra Austen, Treasurer
