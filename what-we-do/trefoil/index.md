@@ -19,9 +19,9 @@ If you were ever involved in Guiding, either as a Rainbow, Brownie, Guide, or Ra
 The Hertfordshire County Trefoil Team are:
 
 - Maureen Kell, county chair
-- Gill Oxtoby, Vice Chair
-- Val Kewley, Secretary
-- Myra Austen, Treasurer
+- Gill Oxtoby, vice chair
+- Val Kewley, secretary
+- Myra Austen, treasurer
 - Margaret Saunders, PR
 
 They can be contacted by email: <trefoil@girlguidinghertfordshire.org.uk>
