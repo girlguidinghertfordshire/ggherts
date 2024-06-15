@@ -9,9 +9,9 @@ shop:
     Stevenage,  
     SG1 1NA
   division: Stevenage
-  contact_name: Mrs Marilyn Drake
-  contact_email: stevenageguideshop@hotmail.co.uk
-  contact_number: 01438 350568
+  contact_name: TBC
+  contact_email: TBC
+  contact_number: TBC
   latlng: 51.9022447,-0.18898960000001352
   type:
     - Shop

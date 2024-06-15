@@ -7,7 +7,7 @@ shop:
   division: North
   contact_name: Joanna Abrams
   contact_email: ggroystondepot@gmail.com
-  contact_number: 01763 248040
+  contact_number: null
   latlng: '52.048142,-0.024065999999947962'
   type:
     - Shop

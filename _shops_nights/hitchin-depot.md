@@ -1,5 +1,5 @@
 ---
-title: Hitchin Depot
+title: Hitchin East and West Shop
 date: 2016-03-17 12:11:57.000000000 +00:00
 shop:
   mapaddress: The Scout HQ, Grove Road, Hitchin SG5 1SG
@@ -19,7 +19,5 @@ author: null
 lastmod: 2022-07-13T20:30:16.384Z
 ---
 Mondays during term time 6.00-8.00pm
-
-Also open around one Saturday a term – contact Jo Clinch for details
 
 - [Shop website](https://hitchinguideshop.wixsite.com/shop){:.external-link}{:rel="noopener"}{:target="_blank"}

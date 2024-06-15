@@ -7,10 +7,10 @@ shop:
   division: South West
   contact_name: Mrs Catherine Farman
   contact_email: watfordguideshop@farman.org
-  contact_number: '07958 365008'
+  contact_number: null
   latlng: "51.65537610000001,-0.408080899999959"
   type:
     - Shop
 author:
 ---
-
+Collection by arrangement when ordering.

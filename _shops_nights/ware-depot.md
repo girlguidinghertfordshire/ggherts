@@ -11,15 +11,9 @@ shop:
   division: East
   contact_name: Mrs Alison Phillips
   contact_email: Alisonj.phillips@btinternet.com
-  contact_number: '01992 505938 or 07703 067890'
+  contact_number: '07703 067890'
   latlng: "51.808710938133075,-0.03254055976867676"
   type:
     - Shop
-author:
-  login: GGH-Admin1
-  email: share@girlguidinghertfordshire.org.uk
-  display_name: GGH-Admin1
-  first_name: ''
-  last_name: ''
 ---
-<p>Wednesday during term time 7.30-9.00pm</p>
+Wednesday during term time 7.30-9.00pm
