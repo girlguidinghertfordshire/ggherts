@@ -1,6 +1,6 @@
 ---
 title: Milton Keynes Theatre shows
-date: 2023-01-23T20:04:13.716Z
+date: 2024-06-15T07:22:00 +01:00
 image: /assets/images/2021/10/miltonkeynestheatre.webp
 image_filter: false
 categories:
@@ -8,21 +8,19 @@ categories:
 tags: []
 author:
   display_name: The County Office
-lastmod: 2023-07-29T16:22:32.899Z
 ---
 Milton Keynes Theatre have lots of fabulous shows coming up, many of which offer group discounts for uniformed groups like Girlguiding.
 
 Please see the below overview of shows which provides more details on upcoming shows including:
 
-
-- Everybody's Talking About Jamie: Mon 10 - Sat 15 June
-  - Exclusive uniform group rate £20 plus 1 free leader for every 10 paid tickets.
-- Bonnie and Clyde: Tues 18 - Sat 22 June - suitable for ages 12+
-  - Exclusive uniform group rate £17.50 plus 1 free leader for every 10 paid tickets.
 - The Wizard of Oz: Tues 16 - Sat 20 July
-- Dear Evan Hansen: Tues 28 Jan - Sat 1 Feb 2025 
+- A Yaw Asiamah Double Bill (featuring 2 Tour of Duty and Ladies Who Do Pizza): Thurs 19 Sept
+  - Exclusive uniform group rate £10 (Band B) plus 1 free leader for every 10 paid tickets
+- Dear Evan Hansen: Tues 28 Jan - Sat 1 Feb 2025
   - Exclusive uniform group rate £15 (Tues-Fri Bands B-D*), plus 1 free leader for every 10 paid tickets.
-- Swan Lake The Next Generation: Tues 15 - Sat 19 April 2025 
+- Eur-Me Ahn - Dragons: Fri 7 - Sat 8 March 2025
+  - Exclusive uniform group rate £15 (bands B/C) plus 1 free leader for every 10 tickets sold.
+- Swan Lake The Next Generation: Tues 15 - Sat 19 April 2025
   - Exclusive uniform group rate £20 (Tues-Thurs Bands C-D*), plus 1 free leader for every 10 paid tickets.
 
 *subject to availability and change
