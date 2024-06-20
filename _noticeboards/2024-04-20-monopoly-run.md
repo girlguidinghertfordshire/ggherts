@@ -8,7 +8,7 @@ tags: []
 ---
 Monopoly Run "Live" is back!
 
-**Saturday 14 September** - bookings opening June 24.
+**Saturday 14 September** - bookings now open. Closing 23 August.
 
 Welcome to the country’s largest Monopoly themed event for Scouts and Guides, using the real streets of London as your game board.
 
