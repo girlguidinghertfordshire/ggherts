@@ -18,11 +18,13 @@ All elements of the [Girlguiding 1st response syllabus](https://www.girlguiding.
 
 [Check your course suitability](https://www.girlguiding.org.uk/information-for-volunteers/learning-and-development/first-aid-training/accepted-first-aid-qualifications/){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
 
+If you think your course meets Girlguiding requirements follow the steps below to upload your evidence to the learning platform.
+
 ## Step 1
 
 You **must** have completed the 1st response e-learning module within the first aid section of the [learning platform][2]{:.external-link}{:target="_blank"}{:rel="noopener"} to unlock step 2.
 
-this can be done now and takes approximately 20 minutes.
+![E learning completion](/assets/images/2024/06/step1.webp)
 
 ## Step 2
 
