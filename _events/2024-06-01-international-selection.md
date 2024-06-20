@@ -1,6 +1,7 @@
 ---
 title: International selection day
 date: 2024-05-01T20:51:00 +01:00
+published: false
 event:
     start_date: '2024-06-01'
     end_date: ''

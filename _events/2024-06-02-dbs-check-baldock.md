@@ -1,6 +1,7 @@
 ---
 title: DBS check clinic
 date: 2024-05-26T10:13 +01:00
+published: false
 event:
     start_date: '2024-06-09'
     end_date: ''

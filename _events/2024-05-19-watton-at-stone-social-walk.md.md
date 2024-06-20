@@ -1,6 +1,7 @@
 ---
 title: Watton-at-Stone social walk
 date: 2024-02-24T14:25
+published: false
 event:
     start_date: '2024-05-19'
     end_date: ''

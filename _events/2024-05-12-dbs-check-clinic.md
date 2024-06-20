@@ -1,6 +1,7 @@
 ---
 title: Disclosure and Barring Service check clinic
 date: 2024-05-04T07:50:00 +01:00
+published: false
 event:
     start_date: '2024-05-12'
     end_date: ''

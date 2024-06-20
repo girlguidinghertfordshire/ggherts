@@ -1,6 +1,7 @@
 ---
 title: Introduction to the Hills (ITTH)
 date: 2023-09-18
+published: false
 event:
   start_date: 2024-05-03
   end_date: 2024-05-06
