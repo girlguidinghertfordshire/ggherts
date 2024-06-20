@@ -9,12 +9,6 @@ groups:
         person_intro: Undertakes duties assigned to her by the county commissioner and
           is her representative.
         email: karinACC@girlguidinghertfordshire.org.uk
-  - group: leads
-    roles:
-      - order: 8
-        job_title: County training administration lead volunteer
-        person_intro: Coordinates and organises the training and ongoing development of volunteers.
-        email: Guidingdev@girlguidinghertfordshire.org.uk
   - group: divcomm
     roles:
       - order: 9
