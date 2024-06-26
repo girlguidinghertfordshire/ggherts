@@ -19,9 +19,15 @@ It began in 1968, Hertfordshire Scout Patrols competed annually in various ways,
 
 - Round 1: Saturday 14 October 2023 \| Chandler's Cross - *completed*
 - Round 2: Saturday 23 March 2024 \| St Albans - *completed*
-- [Round 3: Friday 21 June - Sunday 23 June 2024 \| Letchworth Garden City](round-3/)
+- Round 3: Friday 21 June - Sunday 23 June 2024 \| Letchworth Garden City - *completed*
 
 ### 2023/24 results
+
+Round 3 of the Great Patrol Hunt was completed over the weekend of 21 - 23 June 2024. This concludes this year's competition.
+
+Congratulations to our winning team "The Leaky Tents" from 4th Goffs Oak Guides.
+
+[Download round 3 and overall competition results](/assets/docs/2024/gph-2004-r3-overall-results.pdf){:.download-link.btn.btn-primary.btn-sm}{:rel="noopener"}{:target="_blank"}
 
 Round 2 of the Great Patrol Hunt was completed on Saturday 23 March 2024.
 
@@ -30,6 +36,14 @@ Round 2 of the Great Patrol Hunt was completed on Saturday 23 March 2024.
 Round 1 of the Great Patrol Hunt was completed on Saturday 14 October 2023:
 
 [Download round 1 results (PDF)](/assets/docs/2023/great-patrol-hunt-round1-23-24.pdf){:.download-link.btn.btn-primary.btn-sm}{:rel="noopener"}{:target="_blank"}
+
+## Save the dates
+
+We are delighted to announce that the Great Patrol Hunt will be back again next year:
+
+- [Round 1: Saturday 19 October 2024](/event/gph-r1/)
+- [Round 2: Saturday 29 March 2025](/event/gph-r2/)
+- [Round 3: Friday 27 - Sunday 29 June 2025](/event/gph-r3/)
 
 ## About the Competition
 
