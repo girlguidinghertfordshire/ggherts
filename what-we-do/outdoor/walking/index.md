@@ -13,7 +13,7 @@ Details of social walks and training opportunities can be found on the [Events](
 
 Relaxing social walks and weekends away for leaders are also available, so you can mix with like minded adults, or train for the [Girlguiding walking scheme](https://www.girlguiding.org.uk/information-for-volunteers/learning-and-development/leading-outdoor-adventures/walking-scheme/){:.external-link}{:target="_blank"}{:rel="noopener noreferrer"} and build up a log book.
 
-## ![Map with geocache points](/assets/images/2022/11/geocaching.webp){:.float-end.ms-3.mb-3}{:width="250"}Geocaching
+## ![Map with geocache points](/assets/images/2024/05/geocaching.webp){:.float-end.ms-3.mb-3}{:width="250"}Geocaching
 
 Herts walking team are able to take you and your unit on a Geocaching adventure. Geocaching is a treasure hunt that uses coordinates to direct you to hidden containers called caches.
 
