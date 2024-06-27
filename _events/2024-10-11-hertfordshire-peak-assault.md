@@ -21,7 +21,7 @@ event:
     location:
         - Hertfordshire
 ---
-This year's Peak Assault, an upland orienteering event run by Hertfordshire Scouts, is taking place from Friday 11 - Sunday 13 October.  
+Bookings are now open for this year’s Peak Assault; an upland orienteering event run by Hertfordshire Scouts, taking place on Friday 11 - Sunday 13 October.  
 
 This super fun, but tough weekend, is for Rangers, young leaders and adults with prior experience of remote terrain walking, ideal for those who've done Mountain Experience, Gold Duke of Edinburgh or lots of personal walking.
 

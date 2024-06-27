@@ -7,7 +7,7 @@ categories:
     - Divisions
 tags: []
 ---
-3 fantastic opportunities to influence and create real change have become available and we are looking for division commissioners in the following areas:
+Two fantastic opportunities to influence and create real change have become available and we are looking for division commissioners in the following areas:
 
 - **North division**  - covering Baldock, Hitchin, Letchworth, Royston and Stotfold.
 - **West division** - covering Berkhamsted, Hemel Hempstead North East, Hemel Hempstead North West, Hemel Hempstead South, Kings Langley and Tring
