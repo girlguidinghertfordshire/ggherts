@@ -3,83 +3,30 @@ layout: page-v5
 title: Youth opportunities
 date: 2020-05-12T11:00:15.000Z
 toc: what-we-do
-author:
-  login: rachelkempis
-  email: rachelkempis@hotmail.com
-  display_name: Rachel Kemp
-  first_name: Rachel
-  last_name: Kemp
-lastmod: 2022-03-28T19:22:43.705Z
 ---
-Welcome to the youth opportunities webpage, the contents of which we hope will support and assist Leaders, Guides (aged 13 and over), Rangers and young leaders and members of the Inspire community, as well as providing information about opportunities available.
+Whether you are a Ranger, young leader, peer educator, undertaking your Commonwealth award, Duke of Edinburgh (DofE) Award, Queen’s Guide award or aged 18 – 30, and therefore part of the Girlguiding Inspire community, you can find relevant information and opportunities available to you here.
 
-{% include youth-opps-visits.html %}
+Leaders supporting girls in these roles, or with their awards, will also find useful information in this section.
+
+The county youth opportunities lead volunteer can be contacted on <youthops@girlguidinghertfordshire.org.uk> for guidance and assistance.
+
+## Unit meeting visits - Inspire and Queen's Guide award
+
+![INSPIRE](/assets/images/2024/06/inspire.webp){:.float-end.mb-3.ms-3}
+Our county lead volunteers for Inspire and the Queen's Guide award are keen to visit your units to meet you and the girls.
+
+They would like to find out more about what Rangers and young leaders want from Girlguiding when they turn 18 to ensure the inspire community, for ages 18-30, remains relevant and interesting.
+
+In addition, any units with Rangers and young leaders who may be interested in the Queen's Guide award are encouraged to contact our Queen's Guide award coordination lead volunteer to come along to their unit meeting and talk to the girls about the award and recent changes.
+
+Please contact our lead volunteers on <inspire@girlguidinghertfordshire.org.uk> or <queensguide@girlguidinghertfordshire.org.uk> to arrange a visit, either virtually or in person.
+
+Any leaders falling into the 18-30 age bracket who would like to discuss what is in store for Inspire Hertfordshire are encouraged to email the county Inspire coordination lead volunteer.
+
+If you are a leader who falls just outside the 30 bracket (aged 31-32) but are interested in being involved in the Inspire community please let our county Inspire coordination lead volunteer know.
 
 ## Events
 
 Information about forthcoming opportunites for this age group can be found on the county's [events](/events/) and [training](/training/) pages
 
 Young Leaders can also find information on the [Girlguiding Anglia's website](https://www.girlguiding-anglia.org.uk/young-leader-opportunities){:.external-link}{:rel="noopener"}{:target="_blank"} about various opportunities available.
-
-## Young leader and young leader qualification registration process
-
-For more details on adding the young leader role to GO and how the young leader qualification can be registered please visit the [Member System Updates page May 2021 section](/membership-system-updates/2021/#change-in-young-leader-and-ylq-registration-process).
-
-## Leader in training
-
-If you think you might enjoy running your own unit you can work towards becoming a leader once you turn 16.  You will need to hold a leader in training role in order to commence the becoming a leader training, which forms part of the leader development programme.
-
-You can find out all you need to know about becoming a leader on the [Girlguiding UK website](https://www.girlguiding.org.uk/making-guiding-happen/learning-and-development/leadership-skills/become-a-girlguiding-leader/){:.external-link}{:rel="noopener"}{:target="_blank"} and instructions on how to register as a leader in training can be found below.  
-
-[How to register as a leader in training](/assets/docs/2022/how-to-register-as-a-lit.pdf){:.download-link.btn.btn-primary}{:rel="noopener"}{:target="_blank"}
-
-## Queen's Guide award
-
-![Queen's Guide award logo](/assets/images/2024/05/qga.webp){:.float-end.ms-3.mb-3.me-3}
-The Queen's Guide award is the highest award you can work towards in guiding.  As well as developing your skills, it gives you the opportunity to support your local community and give back to guiding.
-
-Outside of guiding, this award is valued by employers and further education establishments.
-
-Any member aged 16-30 years old can undertake this award, but must be completed within 3 years from the start date, or before your 31st birthday, whichever is soonest.
-
-The [Queen's Guide award webpage](https://www.girlguiding.org.uk/what-we-do/our-badges-and-activities/badge-finder/queens-guide-award/){:.external-link}{:rel="noopener"}{:target="_blank"} on the Girlguiding UK website contains lots more information about this award.
-
-If you have any questions about the Queen's Guide award, please contact our county Queen's Guide award coordination lead volunteer on <queensguide@girlguidinghertfordshire.org.uk>
-
-Let us know you are undertaking your Queen's Guide award by completing the online registration form, which can be found on the [forms page](/about-us/resources/#queens-guide-award-registration-form).
-
-Queen's Guide award participants may be interested in the [region Inspire challenge project](#inspirechallenge).  Details can be found under the Inspire section at the bottom of this page.
-
-## ![Duke of Edinburgh's Award Scheme logo](/assets/images/2023/06/duke-of-edinburgh.webp){:.float-end.mb-4.me-3}Duke of Edinburgh's Award
-
-Girlguiding has joined forces with DofE so this age group (14-24) can complete this fantastic challenge as part of their guiding experience.
-
-Details are on the [DofE page](https://www.girlguidinghertfordshire.org.uk/youth-opportunities/dofe/)
-
-Any forthcoming county [training](/training/) and [expedition events](/events/) will be advertised on this site.
-
-## Peer educators
-
-![Peer educator logo](/assets/images/2023/10/peer-ed.webp){:.pull-right.m-3}{:width="250"}{:height="250"}
-Calling all our 14-25 year old members - would you like to make a difference as a peer educator?
-
-You will be trained how to create a safe space for girls to discuss subjects like self-esteem, mental wellbeing and challenging gender stereotypes. You will visit units and run activities which teach invaluable life tools.
-
-To find out more visit: <https://www.girlguiding.org.uk/information-for-volunteers/programme-and-activities/peer-education/become-a-peer-educator/>{:rel="noopener"}{:target="_blank"}{:.external-link}. Complete the e-learning to discover if this is for you!
-
-Contact our county peer educator coordination lead volunteer via <peereducators@girlguidinghertfordshire.org.uk> to register your interest.
-
-## Inspire
-
-You may be wondering, what is Inspire? Inspire is the Girlguiding offering for all 18-30 year olds. It doesn’t matter what your everyday role or level of interaction with Girlguiding is, all members within this age range are automatically part of Inspire. It is a place where you can make new friends, learn new skills and take advantage of the many awards and opportunities on offer. This can include completing Girlguiding qualifications and awards such as the Queens Guide award or Duke of Edinburgh Award, volunteering at events in the future, making your voice heard as a Girlguiding advocate, developing new skills or helping to train other members and share your knowledge and experience.
-
-{% include region-inspire-challenge.html %}
-
-Checkout the [Inspire blog](inspire/) to see what the future holds for the Inspire community in Hertfordshire county and how you can help shape it.
-
-We’d love to hear from you! Let us know if there’s anything you would like to do at a county or local level – we are keen to grow our local Inspire communities.  You can contact the county Inspire coordination lead volunteer via: <inspire@girlguidinghertfordshire.org.uk> or via the Inspire Hertfordshire County [Facebook page](https://www.facebook.com/Girlguiding-Inspire-Hertfordshire-County-102150821734797){:rel="noopener"}{:target="_blank"}{:.external-link}
-
-### Find out more
-
-- [Inspire Anglia Region Facebook group](https://www.facebook.com/groups/472146129995847){:rel="noopener"}{:target="_blank"}{:.external-link}
-- [Girlguiding Inspire website](https://www.girlguiding.org.uk/what-we-do/inspire/){:.external-link}{:rel="noopener"}{:target="_blank"}

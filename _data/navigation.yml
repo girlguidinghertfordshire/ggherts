@@ -71,10 +71,21 @@ what-we-do:
   - title: Youth opportunities
     url: /youth-opportunities/
     items:
+      - title: Commonwealth Award
+        url: /youth-opportunities/commonwealth-award/
       - title: Duke of Edinburgh's Award
         url: /youth-opportunities/dofe/      
-      - title: Inspire blog
+      - title: Inspire
         url: /youth-opportunities/inspire/
+        items:
+        - title: Blog
+          url: /youth-opportunities/inspire/blog/
+      - title: Peer educators
+        url: /youth-opportunities/peer-educators/
+      - title: Queen's Guide award
+        url: /youth-opportunities/queens-guide/
+      - title: Young leaders
+        url: /youth-opportunities/young-leaders/
   - title: International adventures
     url: /international-adventures/
     items:
