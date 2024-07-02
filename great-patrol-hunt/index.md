@@ -41,9 +41,9 @@ Round 1 of the Great Patrol Hunt was completed on Saturday 14 October 2023:
 
 We are delighted to announce that the Great Patrol Hunt will be back again next year:
 
-- [Round 1: Saturday 19 October 2024](/event/gph-r1/)
-- [Round 2: Saturday 29 March 2025](/event/gph-r2/)
-- [Round 3: Friday 27 - Sunday 29 June 2025](/event/gph-r3/)
+- [Round 1: Saturday 19 October 2024 | Wheathampstead](/event/gph-r1/)
+- [Round 2: Saturday 29 March 2025 | St Albans](/event/gph-r2/)
+- [Round 3: Friday 27 - Sunday 29 June 2025 | TBC](/event/gph-r3/)
 
 ## About the Competition
 
