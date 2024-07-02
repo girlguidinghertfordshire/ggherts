@@ -4,7 +4,7 @@ title: Queen's Guide
 date: 2024-06-30T13:00:00 +01:00
 toc: what-we-do
 ---
-![Queen's Guide award logo](/assets/images/2024/05/qga.webp){:.float-end.ms-3.mb-3.me-3}
+![Queen's Guide award logo](/assets/images/2024/05/qga.webp){:.float-md-end.ms-md-3.mb-3.mx-auto.d-block}
 The Queen's Guide award is the highest award you can work towards in guiding.  As well as developing your skills, it gives you the opportunity to support your local community and give back to guiding.
 
 Outside of guiding, this award is valued by employers and further education establishments.

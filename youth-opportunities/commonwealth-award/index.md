@@ -4,7 +4,7 @@ title: Commonwealth award
 date: 2024-06-30T13:00:00 +01:00
 toc: what-we-do
 ---
-![Commonwealth award badge](/assets/images/2024/06/commonwealth-award.webp){:.float-end.ms-3.mb-3}
+![Commonwealth award badge](/assets/images/2024/06/commonwealth-award.webp){:.float-md-end.ms-md-3.mb-3.d-block.mx-auto}
 The Commonwealth award is open to Guides aged 13+ and Rangers, young leaders and adult members aged 18-25.
 
 Members keen to learn more about Girlguiding’s rich history and explore countries and cultures unfamiliar to them will discover more about their home country as well as the other 53 states in the Commonwealth.

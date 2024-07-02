@@ -1,5 +1,6 @@
 ---
 title: Hertfordshire Guide Centre - refurbishment survey
+published: false
 date: 2024-06-06T19:11:00 +01:00
 image: /assets/images/2024/06/hgc-survey-website.webp
 categories:

@@ -15,7 +15,7 @@ The county youth opportunities lead volunteer can be contacted on <youthops@girl
 ![INSPIRE](/assets/images/2024/06/inspire.webp){:.float-end.mb-3.ms-3}
 Our county lead volunteers for Inspire and the Queen's Guide award are keen to visit your units to meet you and the girls.
 
-They would like to find out more about what Rangers and young leaders want from Girlguiding when they turn 18 to ensure the inspire community, for ages 18-30, remains relevant and interesting.
+They would like to find out more about what Rangers and young leaders want from Girlguiding when they turn 18 to ensure the Inspire community, for ages 18-30, remains relevant and interesting.
 
 In addition, any units with Rangers and young leaders who may be interested in the Queen's Guide award are encouraged to contact our Queen's Guide award coordination lead volunteer to come along to their unit meeting and talk to the girls about the award and recent changes.
 
