@@ -22,7 +22,7 @@ event:
     location:
         - 'Hertfordshire, East'
 ---
-Come and join the walking team on **Saturday 29 September** in Watton at Stone for a fun day learning some new skills so you can take your girls out with confidence to explore nature reserves, local woodland, canal walks, complete an incident hike/orienteering/night hike or even visit the Chiltern Hills.
+Come and join the walking team on **Sunday 29 September** in Watton at Stone for a fun day learning some new skills so you can take your girls out with confidence to explore nature reserves, local woodland, canal walks, complete an incident hike/orienteering/night hike or even visit the Chiltern Hills.
 
 You will learn some simple map and compass skills, route planning, how to use a throw line, what kit to take, which Girlguiding Hertfordshire rules apply, what to put in a risk assessment and lots more.
 
