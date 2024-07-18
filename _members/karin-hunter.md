@@ -9,12 +9,6 @@ groups:
         person_intro: Undertakes duties assigned to her by the county commissioner and
           is her representative.
         email: karinACC@girlguidinghertfordshire.org.uk
-  - group: divcomm
-    roles:
-      - order: 9
-        job_title: Stevenage division commissioner
-        person_intro: null
-        email: stevenagedivision@girlguidinghertfordshire.org.uk
 image: /wp-content/uploads/2021/06/Karin-Hunter1-445x507.jpg
 thumbnail: /wp-content/uploads/2021/06/Karin-Hunter1-360x243.jpg
 author:
