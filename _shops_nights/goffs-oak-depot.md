@@ -1,5 +1,5 @@
 ---
-title: Goffs Oak Depot
+title: Goffs Oak shop
 date: 2016-03-17 12:12:01.000000000 +00:00
 shop:
   mapaddress: "TBA"

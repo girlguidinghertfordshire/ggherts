@@ -1,5 +1,5 @@
 ---
-title: Royston Depot
+title: Royston shop
 date: 2016-05-29T10:48:07.000Z
 shop:
   mapaddress: 'Royston, Hertfordshire, United Kingdom'
@@ -20,4 +20,4 @@ author:
 lastmod: '2021-11-01T20:32:29.200Z'
 ---
 
-Details for collection of orders will be provided by the depot manager.
+Details for collection of orders will be provided by the shop manager.

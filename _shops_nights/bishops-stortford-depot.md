@@ -1,5 +1,5 @@
 ---
-title: Bishop’s Stortford Depot
+title: Bishop’s Stortford shop
 date: 2016-03-17 12:12:02.000000000 +00:00
 shop:
   mapaddress: 90 Havers Lane, Bishop's Stortford CM23 3PD

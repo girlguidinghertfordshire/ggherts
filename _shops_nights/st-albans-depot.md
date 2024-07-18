@@ -1,5 +1,5 @@
 ---
-title: St Albans Depot
+title: St Albans shop
 date: 2016-03-17 12:11:28.000000000 +00:00
 shop:
   mapaddress: "Oak Yard Chene Drive, off Waverley Road, St. Albans AL3 5QP"

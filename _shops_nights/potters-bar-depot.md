@@ -1,5 +1,5 @@
 ---
-title: Potters Bar Depot
+title: Potters Bar shop
 date: 2016-05-29 11:45:05.000000000 +01:00
 shop:
   mapaddress: "Potters Bar, United Kingdom"

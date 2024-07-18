@@ -1,5 +1,5 @@
 ---
-title: Ware Depot
+title: Ware shop
 date: 2016-05-29 11:59:12.000000000 +01:00
 shop:
   mapaddress: "54-59 Broadmeads, Ware, Hertfordshire SG12, UK"
