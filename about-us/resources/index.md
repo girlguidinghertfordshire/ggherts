@@ -58,7 +58,7 @@ This is to identify any areas where there may be competing interests and should 
 
 Hertfordshire county has many items available to borrow from the county store.
 
-[Inventory](/assets/docs/2023/cottered-county-store-inventory-2023-06.pdf){:target="_blank"}{:rel="noopener"}{:.download-link.btn.btn-primary}
+If you wish to find our what items are available to borrow and arrange hire please email <volunteer@girlguidinghertfordshire.org.uk>.
 
 ## Queen's Guide award registration form
 
