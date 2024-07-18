@@ -1,6 +1,7 @@
 ---
 title: Geocaching for leaders
 date: 2024-05-26T11:46:00 +01:00
+published: false
 event:
     start_date: '2024-07-13'
     end_date: ''
