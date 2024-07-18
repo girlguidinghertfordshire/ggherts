@@ -20,9 +20,12 @@ If you would like to find out more about what the future holds for the Inspire c
 [Sign up to the Inspire Hertfordshire mailing list](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwczGfA2WEfJBqWr-IKbcP0lUNUUwMThRV0VFNDRBMTdKNUtUV1BGRU5BUS4u){:rel="noopener"}{:target="_blank"}{:.external-link.btn.btn-primary}
 
 - Check out the Hertfordshire county [Inspire blog](blog/)
+- Hertfordshire county Inspire Instagram [@gginspireherts](https://www.instagram.com/gginspireherts/){:rel="noopener"}{:target="_blank"}{:.external-link}
+- Hertfordshire county Inspire X  [@gginspireherts](https://x.com/gginspireherts){:rel="noopener"}{:target="_blank"}{:.external-link}
+- Hertfordshire county Inspire Tiktok @girlguidinginspireherts
 - [Inspire Anglia Region Facebook group](https://www.facebook.com/groups/472146129995847){:rel="noopener"}{:target="_blank"}{:.external-link}
 
-![Inspire Anglia logo](/assets/images/2024/06/inspire-anglia.webp){:.float-md-end.ms-md-3.mb-3.mx-auto.d-block}
+![Inspire Anglia logo](/assets/images/2024/06/inspireanglia.webp){:.float-md-end.ms-md-3.mb-3.mx-auto.d-block}
 You can also become a member of the Anglia region Inspire WhatsApp community. As well as a general channel for Anglia users, there’s also a dedicated Hertfordshire channel.
 
 [Join the Anglia region Inspire WhatsApp](https://chat.whatsapp.com/LLHzY6KdmhpFETHuyqZBkL){:.external-link.btn.btn-primary}{:rel="noopener"}{:target="_blank"}
