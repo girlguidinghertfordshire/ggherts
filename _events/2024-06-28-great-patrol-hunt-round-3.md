@@ -1,6 +1,7 @@
 ---
 title: Great Patrol Hunt Round 3
 date: 2023-07-29T07:59:43.627Z
+published: false
 banner_image: /assets/images/2023/09/great-patrol-hunt-banner.webp
 event:
   start_date: 2024-06-21

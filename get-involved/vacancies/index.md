@@ -20,7 +20,7 @@ lastmod: 2022-04-24T07:01:49.097Z
 
 The assistant county commissioner role undertakes duties assigned to them by the county commissioner and is their representative.
 
-Coud you be the right person to help and support the new county commissioner continue building on the great work that has been done over the previous 5 years?
+Could you be the right person to help and support the new county commissioner continue building on the great work that has been done over the previous 5 years?
 
 {% for vacancy in vacancies %}
 {% include vacancy.html title=vacancy.title description=vacancy.content button-text=vacancy.button_text download=vacancy.download img=vacancy.image %}
