@@ -35,7 +35,7 @@ Please see the below overview of shows which provides more details on upcoming s
 
 [Overview of shows](/assets/docs/2024/mk-theatre-flyer-2024-03.pdf){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noreferrer noopener"}
 
-![2024-25 Panto: Peter Pan](/assets/images/2024/01/mktheatre-panto.webp){:.img-fluid.my-3}
+![2024-25 Panto: Peter Pan](/assets/images/2024/08/peterpan.webp){:.img-fluid.my-3}
 
 Tickets for the 2024-25 panto, Peter Pan running from Friday 6 December 2024 - Sunday 5 January 2025 are limited.
 
