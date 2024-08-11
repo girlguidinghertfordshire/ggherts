@@ -1,5 +1,5 @@
 ---
-title: Letchworth and Baldock Guide Shop
+title: Letchworth and Baldock Guide shop
 date: 2016-03-17T12:11:30.000Z
 shop:
   mapaddress: '1st/3rd Scout HQ, Icknield Way, Letchworth Garden City, SG6 4GY'

@@ -1,5 +1,5 @@
 ---
-title: Stevenage Guide Shop
+title: Stevenage Guide shop
 date: 2016-03-17 12:11:27.000000000 +00:00
 shop:
   mapaddress: Room 1 The Bedwell Community Centre, Bedwell Crescent, Stevenage, SG1 1NA

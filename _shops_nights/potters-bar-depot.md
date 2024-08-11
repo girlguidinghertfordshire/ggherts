@@ -3,7 +3,7 @@ title: Potters Bar shop
 date: 2016-05-29 11:45:05.000000000 +01:00
 shop:
   mapaddress: "Potters Bar, United Kingdom"
-  location: Potters Bar District
+  location: Potters Bar district
   division: Central
   contact_name: 
   contact_email: 

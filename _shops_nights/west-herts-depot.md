@@ -1,5 +1,5 @@
 ---
-title: West Hertfordshire Division shop
+title: West Hertfordshire division shop
 date: 2016-03-17 12:11:22.000000000 +00:00
 shop:
   mapaddress: "Hemel Hempstead Guide HQ, Queensway, Hemel Hempstead HP2 5DF"

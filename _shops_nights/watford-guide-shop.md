@@ -1,5 +1,5 @@
 ---
-title: Watford Guide Shop
+title: Watford Guide shop
 date: 2016-03-17 12:11:25.000000000 +00:00
 shop:
   address: "Littlebury Hall Mildred Avenue, Watford WD18 7DY"

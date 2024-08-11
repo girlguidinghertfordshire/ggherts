@@ -3,8 +3,7 @@ title: Goffs Oak shop
 date: 2016-03-17 12:12:01.000000000 +00:00
 shop:
   mapaddress: "TBA"
-  location: |
-    TBA
+  location: 
   division: South East
   contact_name: 
   contact_email: depotgoffs@outlook.com

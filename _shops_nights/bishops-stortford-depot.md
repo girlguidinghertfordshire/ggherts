@@ -2,7 +2,7 @@
 title: Bishop’s Stortford shop
 date: 2016-03-17 12:12:02.000000000 +00:00
 shop:
-  mapaddress: 90 Havers Lane, Bishop's Stortford CM23 3PD
+  mapaddress: 1 Glebe Court, Bishop's Stortford CM23 5AB
   location: |
     1 Glebe Court,  
     Bishop's Stortford,  
@@ -12,7 +12,7 @@ shop:
   contact_name: Mrs Edna Scott
   contact_email: bsguidedepot@googlemail.com
   contact_number: '01279 492041'
-  latlng: "51.8619195,0.15693190000001778"  
+  latlng: "51.875359,0.1709776"  
   type:
     - Shop
 author:
