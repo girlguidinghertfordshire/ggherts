@@ -23,7 +23,7 @@ event:
 ---
 West Herts Trefoil Guild are planning a trip to Lorne, in Northern Ireland, from Monday 7 - Saturday 12 July 2025*, flying from Luton and have opened this opportunity up to Girlguiding Hertfordshire members aged 18+.
 
-Staying in the Brownie house at Lorne Estate on a self catering basis for 5 night, just 8 miles from Belfast, this is the perfect base for exploring the scenic beauty of Northern Ireland and enjoying the onsite adventure activities (these will require prebooking nearer the time).
+Staying in the Brownie house at Lorne Estate on a self catering basis for 5 nights, just 8 miles from Belfast, this is the perfect base for exploring the scenic beauty of Northern Ireland and enjoying the onsite adventure activities (these will require prebooking nearer the time).
 
 One of the days will be spent exploring Belfast, including a visit to the Titanic Museum with meal out.  There will also be a trip to the Giants Causeway. Other trips will be announced at a future date.
 
