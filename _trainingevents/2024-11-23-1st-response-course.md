@@ -9,7 +9,7 @@ event:
   contact_email: null
   contact_number: ""
   book_now_link: "https://www.eventbrite.co.uk/e/girlguiding-hertfordshire-1st-response-course-tickets-834625666837"
-  image: "/assets/images/2024/03/external-first-aid-booked.webp"
+  image: /assets/images/2024/04/1st-response-full.webp
   type:
     - First aid
     - Training
