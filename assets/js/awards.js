@@ -13,7 +13,12 @@ class Order {
         { "award": "silver", "type": "metal", "description": "Silver Award - Metal Badge", "price": 2.15, "quantity": 0 },
         { "award": "gold", "type": "certificate", "description": "Gold Award - Certificate", "price": 0.7, "quantity": 0 },
         { "award": "gold", "type": "woven", "description": "Gold Award - Woven Badge", "price": 1.1, "quantity": 0 },
-        { "award": "gold", "type": "metal", "description": "Gold Award - Metal Badge", "price": 2.15, "quantity": 0 }
+        { "award": "gold", "type": "metal", "description": "Gold Award - Metal Badge", "price": 2.15, "quantity": 0 }        
+    ]);
+    #countyItems = JSON.stringify([
+        { "award": "county", "type": "silks", "description": "County badges - silks", "price": 0.15, "quantity": 0 },
+        { "award": "county", "type": "woven", "description": "County badges - woven (standard)", "price": 1.6, "quantity": 0 },
+        { "award": "county", "type": "metal", "description": "County badges - metal", "price": 2, "quantity": 0 }
     ]);
     orderItems;
     deliveryOption = "Posted1";
@@ -40,7 +45,11 @@ class Order {
         return order;
     }
     sectionRow(section) {
+        if (section==="county") {
+            section="County badges";
+        }else{
         section = section[0].toUpperCase() + section.slice(1);
+    }
         return `
         <tr>
             <th colspan="4" scope="colspan" class="bg-light-blue">${section}</th>
@@ -121,7 +130,8 @@ class Order {
             "rainbows": JSON.parse(this.#items),
             "brownies": JSON.parse(this.#items),
             "guides": JSON.parse(this.#items),
-            "rangers": JSON.parse(this.#items)
+            "rangers": JSON.parse(this.#items),
+            "county": JSON.parse(this.#countyItems)
         };
         this.save();
     }
@@ -142,12 +152,13 @@ const order = new Order();
         return field.checkValidity();
     }
     function girlsAwards() {
-        const awardCount = { bronze: 0, silver: 0, gold: 0 };
+        const awardCount = { bronze: 0, silver: 0, gold: 0, county:0 };
         const sections = {
             "rainbows": Object.assign({}, awardCount),
             "brownies": Object.assign({}, awardCount),
             "guides": Object.assign({}, awardCount),
-            "rangers": Object.assign({}, awardCount)
+            "rangers": Object.assign({}, awardCount),
+            "county": Object.assign({}, awardCount)
         };
         $(".js-award").each(function () {
             sections[$(this).closest(".row").find(".js-section").val()][$(this).val()]++;
