@@ -3,8 +3,10 @@ layout: page-v5
 ---
 <section class="map-details">
     <div class="row">
-        <div class="col">
+        <div class="col">{% if page.shop.type contains "Shop" %}
+            {% else %}
             <h2 class="text-muted">{{ page.shop.type | join: ' & '}}</h2>
+            {% endif %}
         </div>
         <div class="col-lg-3 text-right">
             {% if page.shop.type contains "Shop" %}

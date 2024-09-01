@@ -12,7 +12,7 @@ shop:
   contact_name: Mrs Edna Scott
   contact_email: bsguidedepot@googlemail.com
   contact_number: '01279 492041'
-  latlng: "51.875359,0.1709776"  
+  latlng: "51.875356,0.1735525"  
   type:
     - Shop
 author:

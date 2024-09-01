@@ -3,7 +3,7 @@ title: Welwyn Garden City Guide shop
 date: 2016-03-17 12:11:24.000000000 +00:00
 shop:
   mapaddress: 'Online shop'
-  location: 'Online Shop: <https://wgcguideshop.wordpress.com/>'
+  location: 'Online shop: <https://wgcguideshop.wordpress.com/>'
   division: Central
   contact_name: Mrs Jean Dossett
   contact_email: 'wgcguideshop@gmail.com'
@@ -14,4 +14,3 @@ shop:
 showmap: false
 author:
 ---
-Welwyn Garden City Shop is now an “eShop” which can be visited via the following website: <https://wgcguideshop.wordpress.com/>{:target="_blank"}{:rel="noopener noreferrer"}
