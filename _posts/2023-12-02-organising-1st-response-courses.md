@@ -11,7 +11,7 @@ lastmod: 2022-02-06T20:37:04.129Z
 ---
 If you are looking to arrange a 1st response course for your district or division, either a 1 x 6 hour full day training or a 2 x 3 hour training, please follow the procedure as set out below.
 
-Please note that from **1 September 2024** the training organiser, i.e. the person requesting the training, will be responsible for collecting the £20 per person fee from those booked on to the training course.
+Please note that from **1 September 2024** the training organiser, i.e. the person requesting the training, will be responsible for collecting the £20 per person fee from those booked on to the training course (this fee is non refundable) as well as providing a receipt.
 
 1. Training organiser to contact the county training administration lead volunteer a minimum of **3 months** before the training is required by completing the online booking form.
 2. Before completing the online booking form, ensure you have a date (or dates if over two nights, both nights must be attended) and a venue address.
@@ -28,7 +28,12 @@ Please note that from **1 September 2024** the training organiser, i.e. the pers
 
 1. A minimum of 12 attendees is required. County can advertise your training to other members in the county, with bookings available via Eventbrite, if you are unable to reach these numbers. **Once a training is advertised on Eventbrite all bookings must be made via the Eventbrite system.**
 2. Cost per attendee is £20 to be collected by the training organiser.
-3. Cost of venue (if applicable i.e., division or district are not covering this out of funds) will be paid by Girlguiding Hertfordshire on production of an invoice, emailed to the county treasurer on <ctreasurer@girlguidinghertfordshire.org.uk>) after the training event. The cost of this will be covered by the attendees attending.
+3. Training organiser to provide a receipt for each payment, which can be by way of an email acknowledging receipt, and should include the following information:  
+  a) name and date of the course  
+  b) amount received  
+  c) payment method e.g. cheque or bank transfer  
+  d) name of person(s) payment covers  
+4. Cost of venue (if applicable i.e., division or district are not covering this out of funds) will be paid by Girlguiding Hertfordshire on production of an invoice, emailed to the county treasurer on <ctreasurer@girlguidinghertfordshire.org.uk>) after the training event. The cost of this will be covered by the attendees attending.
 
 Please contact <guidingdev@girlguidinghertfordshire.org.uk> with any queries.
 
