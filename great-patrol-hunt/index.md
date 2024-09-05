@@ -17,33 +17,9 @@ It began in 1968, Hertfordshire Scout Patrols competed annually in various ways,
 
 ## Our Events
 
-- Round 1: Saturday 14 October 2023 \| Chandler's Cross - *completed*
-- Round 2: Saturday 23 March 2024 \| St Albans - *completed*
-- Round 3: Friday 21 June - Sunday 23 June 2024 \| Letchworth Garden City - *completed*
-
-### 2023/24 results
-
-Round 3 of the Great Patrol Hunt was completed over the weekend of 21 - 23 June 2024. This concludes this year's competition.
-
-Congratulations to our winning team "The Leaky Tents" from 4th Goffs Oak Guides.
-
-[Download round 3 and overall competition results](/assets/docs/2024/gph-2004-r3-overall-results.pdf){:.download-link.btn.btn-primary.btn-sm}{:rel="noopener"}{:target="_blank"}
-
-Round 2 of the Great Patrol Hunt was completed on Saturday 23 March 2024.
-
-[Download round 2 results (PDF)](/assets/docs/2024/gph-2024-r2-results.pdf){:.download-link.btn.btn-primary.btn-sm}{:rel="noopener"}{:target="_blank"}
-
-Round 1 of the Great Patrol Hunt was completed on Saturday 14 October 2023:
-
-[Download round 1 results (PDF)](/assets/docs/2023/great-patrol-hunt-round1-23-24.pdf){:.download-link.btn.btn-primary.btn-sm}{:rel="noopener"}{:target="_blank"}
-
-## Save the dates
-
-We are delighted to announce that the Great Patrol Hunt will be back again next year:
-
-- [Round 1: Saturday 19 October 2024 \| Wheathampstead](/event/gph-r1/)
-- [Round 2: Saturday 29 March 2025 \| St Albans](/event/gph-r2/)
-- [Round 3: Friday 27 - Sunday 29 June 2025 \| TBC](/event/gph-r3/)
+- Round 1: [Saturday 19 October 2024 \| Wheathampstead](/event/gph-r1/)
+- Round 2: [Saturday 29 March 2025 \| St Albans](/event/gph-r2/)
+- Round 3: [Friday 27 - Sunday 29 June 2025 \| TBC](/event/gph-r3/)
 
 ## About the Competition
 
@@ -61,24 +37,24 @@ Unit leaders are not required to accompany Patrols to this event, which is run b
 - To participate in Round 3, a patrol and at least 2 members must have competed in one of the previous rounds, *or a new patrol must be accompanied by one of its unit leaders.*
 - If you are unable to make a full Patrol in Rounds 1 &amp; 2,  then  join the &#8216;GPH Mavericks&#8217;, a patrol made of Guides from different units.
 
-### 2022/23 results
+### 2023/24 results
 
-Round 1 of the Great Patrol Hunt was completed on Saturday 15 October 2022:
+Round 1 of the Great Patrol Hunt was completed on Saturday 14 October 2023:
 
-[Download round 1 results (PDF)](/assets/docs/2022/gph-2022-23-round1-results.pdf){:.download-link.btn.btn-primary.btn-sm}{:rel="noopener"}{:target="_blank"}
+[Download round 1 results (PDF)](/assets/docs/2023/great-patrol-hunt-round1-23-24.pdf){:.download-link.btn.btn-primary.btn-sm}{:rel="noopener"}{:target="_blank"}
 
-Round 2 of the Great Patrol Hunt was completed on Saturday 11 March 2023:
+Round 2 of the Great Patrol Hunt was completed on Saturday 23 March 2024.
 
-[Download round 2 results (PDF)](/assets/docs/2023/great-patrol-hunt-round-2-results-22-23.pdf){:.download-link.btn.btn-primary.btn-sm}{:rel="noopener"}{:target="_blank"}
+[Download round 2 results (PDF)](/assets/docs/2024/gph-2024-r2-results.pdf){:.download-link.btn.btn-primary.btn-sm}{:rel="noopener"}{:target="_blank"}
 
-Round 3 of the Great Patrol Hunt was completed on the weekend of Friday 30 June - Sunday 2 July 2023.
+Round 3 of the Great Patrol Hunt was completed over the weekend of 21 - 23 June 2024. 
 
-[Download round 3 results (PDF)](/assets/docs/2023/great-patrol-hunt-2023-round3-results.pdf){:.download-link.btn.btn-primary.btn-sm}{:rel="noopener"}{:target="_blank"}
+[Download round 3 and overall competition results](/assets/docs/2024/gph-2024-r3-results.pdf){:.download-link.btn.btn-primary.btn-sm}{:rel="noopener"}{:target="_blank"}
 
 Well done to all those who participated in this year's competition and congratulations to the overall winners:
 
-- **1st place - The Hedgehogs, from 9th Abbey Guides**
-- 2nd place - Asparagii, from 11th Hitchin Guides
-- 3rd place - LLamas in Pyjamas, from 13th St Albans Guides
+- **1st place - Leaky Tents, from 4th Goffs Oak Guides**
+- 2nd place - The Hedgehogs, from 9th Abbey Guides
+- 3rd place - Goofy Lemons, from 3rd Baldock
 
-[Download overall positions for the GPH 2022/2023](/assets/docs/2023/great-patrol-hunt-2023-overall-results.pdf){:.download-link.btn.btn-primary}{:rel="noopener"}{:target="_blank"}
+[Download overall positions for the GPH 2023/2024](/assets/docs/2024/gph-2024-overall-results.pdf){:.download-link.btn.btn-primary}{:rel="noopener"}{:target="_blank"}

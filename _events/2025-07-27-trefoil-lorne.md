@@ -1,6 +1,7 @@
 ---
 title: Trefoil Guild trip to Lorne, Northern Ireland
 date: 2024-07-27 06:58 +01:00
+published: false
 event:
   start_date: '2025-07-07'
   end_date: '2025-07-12'

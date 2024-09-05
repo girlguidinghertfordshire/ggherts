@@ -21,12 +21,16 @@ event:
     location:
         - Hertfordshire
 ---
-Bookings are now open for this year’s Peak Assault; an upland orienteering event run by Hertfordshire Scouts, taking place on Friday 11 - Sunday 13 October.  
+Bookings are now open for this year’s Peak Assault (Hertfordshire Scouts camping, hiking, orienteering competition), taking from Friday 11 - Sunday 13 October.
 
-This super fun, but tough weekend, is for Rangers, young leaders and adults with prior experience of remote terrain walking, ideal for those who've done Mountain Experience, Gold Duke of Edinburgh or lots of personal walking.
+Normally this event takes place in the mountains, but for this year only it is in Hertfordshire! This change has been made to enable more people to participate because costs are lower. So why not take the opportunity to have a go?
 
-If you are interested get in touch and we will put people together to make up a team.
+This super fun weekend is open to all Rangers and young leaders.
 
-Full kit must be carried, including tents and stoves for overnight camping.
+Leaders with teams or individuals wanting to take part should let the walking team know as there may be some funding available. They can also assist with putting individuals together to form a team, and provide support during the event.
 
-For more information contact <walking@girlguidinghertfordshire.org.uk>
+Some tents, stove, rucksacks etc are available to borrow.
+
+Contact the walking team on <walking@girlguidinghertfordshire.org.uk>
+
+More information about this exciting event can be found here: <https://www.14-25.hertfordshirescouts.org.uk/peak-assault-2024>{:.external-link}{:rel="noopener"}{:target="_blank"}
