@@ -11,7 +11,6 @@ event:
     book_now_link: 'https://www.eventbrite.co.uk/e/girlguiding-hertfordshire-1st-response-course-2-x-3-hour-sessions-tickets-1002218260797'
     image: '/assets/images/2024/02/1st-response.webp'
     type:
-        - 1st response
         - First aid
     age-group:
         - Young leaders

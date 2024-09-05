@@ -3,15 +3,14 @@ title: External first aid course
 date: 2024-08-31T17:16:00 +01:00
 event:
     start_date: '2024-09-29'
-    end_date: null
+    end_date: ''
     address: null
     contact_name: null
     contact_email: null
     contact_number: ''
     book_now_link: 'https://www.eventbrite.co.uk/e/girlguiding-hertfordshire-external-first-aid-course-tickets-1003652590917'
-    image: '/assets/images/2024/02/1st-response.webp'
+    image: '/assets/images/2024/09/external-first-aid.webp'
     type:
-        - 1st response
         - First aid
     age-group:
         - Young leaders
