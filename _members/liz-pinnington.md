@@ -2,6 +2,13 @@
 title: Liz Pinnington
 date: 2019-09-11T10:09:01.000Z
 groups:
+  - group: commissioners
+    roles:
+      - order: 2
+        job_title: Assistant county commissioner
+        person_intro: Undertakes duties assigned to her by the county commissioner and
+          is her representative.
+        email: lizacc@girlguidinghertfordshire.org.uk
   - group: outdoor
     roles:
       - order: 19
@@ -13,8 +20,4 @@ groups:
         person_intro: null
         email: residential@girlguidinghertfordshire.org.uk
 image: null
-thumbnail: /
-author:
-  display_name: Rachel Kemp
-lastmod: 2023-03-11T18:17:14.083Z
 ---

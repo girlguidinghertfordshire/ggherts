@@ -8,7 +8,7 @@ categories:
 ---
 Inspire is Girlguiding's offering for all 18-30 year olds. It doesn’t matter what your everyday role or level of interaction with Girlguiding is, all members within this age range are automatically part of Inspire. It is a place where you can make new friends, learn new skills and take advantage of the many awards and opportunities on offer.
 
-This exciting opportunity has arisien to lead our county Inspire team and help empower our young women within this demongraphic.
+This exciting opportunity has arisien to lead our county Inspire team and help empower our young women within this demographic.
 
 Do you have what it takes to lead as a partnership and support these individuals?
 
