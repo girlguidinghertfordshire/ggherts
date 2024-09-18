@@ -21,7 +21,7 @@ event:
     location:
         - 'Hertfordshire, Central'
 ---
-Come along on the morning of Saturday 6 October and join the walking team for their circular autumn social walk for adults, starting and ending in Radlett.
+Come along on the morning of Sunday 6 October and join the walking team for their circular autumn social walk for adults, starting and ending in Radlett.
 
 This 11k walk, which will take approximately 3 1/2 hours, will take you via Aldenham and the Munden House Estate, then continues along the River Ver.
 
