@@ -1,6 +1,7 @@
 ---
 title: 'Rose Ladies Open'
 date: 2024-06-27T20:37:00 +01:00
+published: false
 image: /assets/images/2024/06/jack-rose.webp
 categories:
     - Things to do
