@@ -16,4 +16,4 @@ Find out more about Inspire in Hertfordshire on the county website's [Inspire pa
 
 If this role is of interest, further details of what it entails can be found below.
 
-Please apply via <cc@girlguidinghertfordshire.org.uk>
+Please apply via <vacancies@girlguidinghertfordshire.org.uk>

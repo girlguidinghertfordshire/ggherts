@@ -16,4 +16,4 @@ Help promote all aspects of awards and plan the annual county celebration event.
 
 Find out more about Girlguiding awards on the county's dedicated [awards page.](/get-involved/thanks/)
 
-You can find out more about what the role entails below and apply via <cc@girlguidinghertfordshire.org.uk>.
+You can find out more about what the role entails below and apply via <vacancies@girlguidinghertfordshire.org.uk>.

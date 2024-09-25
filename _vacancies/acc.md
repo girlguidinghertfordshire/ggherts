@@ -21,4 +21,4 @@ Specifically covering the aspects of overseeing the marketing adviser, websi
 
 This is a fantastic role for someone with a can-do attitude who is passionate about guiding.  Further details of what the role entails can be found below.
 
-Please apply, or enquire, by email to <cc@girlguidinghertfordshire.org.uk>.
+Please apply, or enquire, by email to <vacancies@girlguidinghertfordshire.org.uk>.

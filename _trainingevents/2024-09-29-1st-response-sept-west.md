@@ -32,3 +32,5 @@ Uniform is optional.
 Please bring lunch with you.
 
 Book your space by **Sunday 22 September.**
+
+If there are spaces still available in the 2 weeks leading up to the course, members from other counties are welcome to book on to this training.

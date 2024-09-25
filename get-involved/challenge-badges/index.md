@@ -36,7 +36,15 @@ To earn your Golf challenge badge you will need to complete activities from each
 
 Badges cost £1 each plus postage.  Download the challenge badge pack to find out more about the requirements and activities.
 
-[Download <span class="visually-hidden">Golf </span>challenge pack](/assets/docs/2022/challenge-badge-girls-golf.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [<span class="visually-hidden">Golf </span>Badge order form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJURFY2T09OMjQ4Q0JCTlpCWUtQM1I5N0xYMC4u){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
+<div class="alert alert-info" markdown="1">
+This highly successful badge is currently out of stock, but please don't let that stop you starting the challenge. 
+
+A rebranded badge is on its way and the order form will be reopened once they are available.
+
+There is the potential for home made tea and cake at the end of the walk!
+</div>
+
+[Download <span class="visually-hidden">Golf </span>challenge pack](/assets/docs/2022/challenge-badge-girls-golf.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [<span class="visually-hidden">Golf </span>Badge order form (temporarily closed)](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJURFY2T09OMjQ4Q0JCTlpCWUtQM1I5N0xYMC4u){:.btn.btn-primary.external-link.disabled}{:rel="noopener"}{:target="_blank"}
 
 ## 1st Baldock Brownies challenge badges
 

@@ -15,4 +15,4 @@ Acting as the main point of contact for members undertaking, or looking to start
 
 To apply for this role you must be aged over 18 years and it would be beneficial to have previously completed the DofE Award or have demonstrable knowledge of the DofE programme (Bronze, Silver and Gold), hold the Going Away with licence including the camping module as well as having walking experience.
 
-You can find out more about what the role entails below and apply via <cc@girlguidinghertfordshire.org.uk>.
+You can find out more about what the role entails below and apply via <vacancies@girlguidinghertfordshire.org.uk>.

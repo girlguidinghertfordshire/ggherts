@@ -34,3 +34,5 @@ Uniform is optional.
 Tea and coffee will be provided but you will need to bring your own lunch.
 
 **Please note:** This 1st response course cannot be added to your GO record until the elearning has been completed and is showing on your record.
+
+If there are spaces still available in the 2 weeks leading up to the course, members from other counties are welcome to book on to this training.

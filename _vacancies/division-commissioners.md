@@ -16,4 +16,4 @@ Make a positive difference to others and improve opportunities for girls and you
 
 Further details of what the role entails can be found below.
 
-Please apply via <cc@girlguidinghertfordshire.org.uk>
+Please apply via <vacancies@girlguidinghertfordshire.org.uk>
