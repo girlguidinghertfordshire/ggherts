@@ -1,6 +1,7 @@
 ---
 title: St Albans shop
 date: 2016-03-17 12:11:28.000000000 +00:00
+showmap: false
 shop:
   mapaddress: "Now closed"
   location: |
