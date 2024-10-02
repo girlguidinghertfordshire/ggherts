@@ -15,3 +15,5 @@ If you are planning on hiring and driving a small bus or minibus, as well as Gir
 Hertfordshire County Council are in the process of relaunching their Minibus Scheme. The information document below sets out some of the changes to their driving assessment scheme.
 
 [Hertfordshire County Council information](/assets/docs/2023/hcc-driving-assessment-process.pdf){:.download-link}{:rel="noopener"}{:target="_blank"}
+
+Find out more about the Hertfordshire County Council [minibus assessment scheme](https://www.hertfordshire.gov.uk/services/highways-roads-and-pavements/speed-awareness-and-driver-training/minibuses-in-hertfordshire/minibus-driver-assessment-scheme.aspx){:.external-link}{:rel="noopener"}{:target="_blank"}.
