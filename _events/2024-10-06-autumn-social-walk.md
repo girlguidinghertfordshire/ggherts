@@ -1,6 +1,7 @@
 ---
 title: Autumn social walk for adults
 date: 2024-09-05T20:02:00 +01:00
+published: false
 event:
     start_date: '2024-10-06'
     end_date: ''

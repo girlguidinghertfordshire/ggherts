@@ -1,6 +1,7 @@
 ---
 title: 1st response course over 2 sessions
 date: 2024-08-31T17:11:00 +01:00
+published: false
 event:
     start_date: '2024-09-26'
     end_date: '2024-10-03'

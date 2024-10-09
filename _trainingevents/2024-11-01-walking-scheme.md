@@ -26,7 +26,7 @@ This weekend at Whiteley Woods Outdoor Activity Centre in Sheffield will focus o
 
 Depending on demand night navigation will be offered.
 
-**Cost:** approximately £130 for training or assessment (includes accommodation at a bunk house and full catering). Final costs will be confirmed nearer the date.
+**Cost:** £140 for training/assessment (includes  accommodation at a bunk house and full catering).
 
 This weekend can also be attended for a purely social walking experience, providing a great opportunity to build up your logbook.  More details on this option can be found on the Girlguiding Anglia website's walking events page: <https://www.girlguiding-anglia.org.uk/events/walking-events/2024-walking-events>
 

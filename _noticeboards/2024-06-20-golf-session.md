@@ -14,3 +14,7 @@ Alternatively, you may prefer to take your girls out and about to a local golf c
 Contact Hertfordshire Golf via <cdo@hertfordshiregolf.org> who will be happy to help arrange a session and introduce your girls to a fantastic new sport.
 
 Why not complete the county [girls golf challenge badge](/get-involved/challenge-badges/#girls-golf-challenge-badge) at the same time.
+
+## October 2024 - Please note
+
+Hertfordshire Golf have been really busy delivering free golf introduction sessions to the many units who have been in touch with them.  They have been overwhelmed by the interest and thank you.  If you have contacted Herts Golf but have not yet heard back, please be patient and they will be in touch as soon as they can.

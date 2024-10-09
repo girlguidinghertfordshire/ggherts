@@ -1,6 +1,7 @@
 ---
 title: Level 1 Walking scheme and water safety training
 date: 2024-05-01T20:34 +01:00
+published: false
 event:
     start_date: '2024-09-29'
     end_date: ''

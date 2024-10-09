@@ -9,11 +9,5 @@ groups:
         person_intro: Undertakes duties assigned to her by the county commissioner and
           is her representative.
         email: lizacc@girlguidinghertfordshire.org.uk
-  - group: divcomm
-    roles:
-      - order: 7
-        job_title: South West division commissioner
-        person_intro: null
-        email: southwestdivision@girlguidinghertfordshire.org.uk
 image: null
 ---

@@ -1,6 +1,7 @@
 ---
 title: External first aid course
 date: 2024-08-31T17:16:00 +01:00
+published: false
 event:
     start_date: '2024-09-29'
     end_date: ''
