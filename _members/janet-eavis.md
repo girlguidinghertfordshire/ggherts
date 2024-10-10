@@ -8,6 +8,6 @@ groups:
         job_title: Assistant county commissioner
         person_intro: Undertakes duties assigned to her by the county commissioner and
           is her representative.
-        email: lizacc@girlguidinghertfordshire.org.uk
+        email: janetacc@girlguidinghertfordshire.org.uk
 image: null
 ---
