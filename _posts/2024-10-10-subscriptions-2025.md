@@ -4,6 +4,8 @@ date: 2024-10-10T21:24:00 +01:00
 image: /assets/images/2024/10/subscription.webp
 categories:
   - Announcements
+author:
+  display_name: the County Office
 ---
 The subscription for members of Girlguiding Hertfordshire for **2025** will be increasing by £1.00 to **£10.00**. This gives a total subscription of **£57.50**.
 

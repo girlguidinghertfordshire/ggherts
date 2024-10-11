@@ -5,6 +5,8 @@ image: /assets/images/2024/10/growth-retention.webp
 categories:
   - Announcements
   - Volunteers
+author:
+  display_name: the County Office
 ---
 We are looking for creative and passionate individuals to join the new county growth and retention team.
 
