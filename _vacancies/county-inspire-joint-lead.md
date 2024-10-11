@@ -1,6 +1,7 @@
 ---
 title: Joint county Inspire coordination lead volunteers
 date: 2024-09-05T22:06:00 +01:00
+published: false
 image: /assets/images/2024/09/inspire-vacancy.webp
 download: "/assets/docs/2024/joint-county-inspire-coordination-lead-volunteer-role-description.pdf"
 categories: 
