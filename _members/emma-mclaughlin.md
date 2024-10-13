@@ -7,5 +7,5 @@ groups:
       - order: 5
         job_title: Harpenden and Redbourn division commissioner
         person_intro: null
-        email: handr@girlguidinghertfordshire.org.uk
+        email: handrdivision@girlguidinghertfordshire.org.uk
 ---
