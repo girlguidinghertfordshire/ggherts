@@ -1,7 +1,6 @@
 ---
-title: Alison Tuch
-date: 2023-11-26T20:21:00Z
-published: false
+title: Grace Bantin
+date: 2024-10-16T21:49:00 +01:00
 groups:
   - group: outdoor
     roles:         
@@ -9,6 +8,4 @@ groups:
         job_title: Region joint walking lead volunteer
         person_intro: Promotes all forms of walking activities from scavenger hunts to mountaineering. Supports members undertaking walking scheme training and advises on walking events.
         email: walking@girlguidinghertfordshire.org.uk
-lastmod: 2023-06-02T12:08:01.444Z
-type: members
 ---
