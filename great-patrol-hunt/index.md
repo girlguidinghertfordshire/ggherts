@@ -17,7 +17,7 @@ It began in 1968, Hertfordshire Scout Patrols competed annually in various ways,
 
 ## Our Events
 
-- Round 1: [Saturday 19 October 2024 \| Wheathampstead - bookings now open](/event/gph-r1/)
+- Round 1: [Saturday 19 October 2024 \| Wheathampstead - bookings closed](/event/gph-r1/)
 - Round 2: [Saturday 29 March 2025 \| St Albans](/event/gph-r2/)
 - Round 3: [Friday 27 - Sunday 29 June 2025 \| TBC](/event/gph-r3/)
 

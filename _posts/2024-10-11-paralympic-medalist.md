@@ -5,7 +5,7 @@ image: /assets/images/2024/10/bronze-medal.webp
 categories:
   - Announcements
 author:
-  display_name: the County Office
+  display_name: media and communications team
 ---
 Congratulations to Mari Akhurst, a former member of 2nd Radlett Guides, who has recently won a bronze medal at the Paralympics!
 
