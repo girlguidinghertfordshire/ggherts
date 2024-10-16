@@ -35,6 +35,7 @@ Please note that from **1 September 2024** the training organiser, i.e. the pers
   c) payment method e.g. cheque or bank transfer  
   d) name of person(s) payment covers  
 5. Cost of venue (if applicable i.e., division or district are not covering this out of funds) will be paid by Girlguiding Hertfordshire on production of an invoice, emailed to the county treasurer on <ctreasurer@girlguidinghertfordshire.org.uk>) after the training event. The cost of this will be covered by the attendees attending.
+6. Where an external first aid training company undertakes training for Girlguiding Hertfordshire attendees the training organiser must advise attendees that the county office will add their qualification to GO and they must not use the external first aid verification process via the learning platform.
 
 Please contact <guidingdev@girlguidinghertfordshire.org.uk> with any queries.
 

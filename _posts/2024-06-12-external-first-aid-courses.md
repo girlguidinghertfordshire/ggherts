@@ -20,6 +20,8 @@ All elements of the [Girlguiding 1st response syllabus](https://www.girlguiding.
 
 If you think your course meets Girlguiding requirements follow the steps below to upload your evidence to the learning platform.
 
+If you have attended an external first aid training course, organised through Girlguiding, please do not follow the process below. The county office will be informed of your attendee on the course by either the course organiser or trainer and will add the relevant qualification to your GO record.
+
 ## Step 1
 
 You **must** have completed the 1st response e-learning module within the first aid section of the [learning platform][2]{:.external-link}{:target="_blank"}{:rel="noopener"} to unlock step 2.
