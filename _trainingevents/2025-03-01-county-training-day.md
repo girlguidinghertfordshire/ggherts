@@ -1,6 +1,7 @@
 ---
 title: County training day
 date: 2024-10-09T21:54:00 +01:00
+published: false
 event:
     start_date: '2025-03-01'
     end_date: ''
