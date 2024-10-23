@@ -10,6 +10,14 @@ author:
   last_name: Settle
 permalink: /get-involved/challenge-badges/
 ---
+Who doesn't love a badge!
+
+If you have a challenge badge you would like added to this page please get in touch with the county office on <admin@girlguidinghertfordshire.org.uk> sending a copy of the challenge pack, order form and badge image, along with its HQ branding approval.
+
+Any badge you design must meet Girlguiding's branding and be approved in advance of production by the branding team at HQ.
+
+Further details can be found here: [Badges and bespoke - Brand guidelines (foleon.com)](https://girlguiding.foleon.com/girlguiding-brand-guidelines/brand-guidelines/badges-and-bespoke#Designing-a-badge){:external-link}{:rel="noopener"}{:target="_blank"}
+
 ## County challenge badges
 
 ### UK Greece 2024 GOLD challenge badge
@@ -19,7 +27,7 @@ The Girlguiding Overseas Linked with Development (GOLD) Team are excited to shar
 
 This year the Greece UK 2024 GOLD team are working alongside the Greek Guiding Association (Soma Hellindon Odigon (SEO)) to develop young members' understanding and identity as global citizens as well as increasing members' understanding of WAGGGS.
 
-Badges cost £1.50 each plus postage. 
+Badges cost £1.50 each plus postage.
 
 Download the challenge badge pack to find out more about the requirements and activities.
 
@@ -37,7 +45,7 @@ To earn your Golf challenge badge you will need to complete activities from each
 Badges cost £1 each plus postage.  Download the challenge badge pack to find out more about the requirements and activities.
 
 <div class="alert alert-info" markdown="1">
-This highly successful badge is currently out of stock, but please don't let that stop you starting the challenge. 
+This highly successful badge is currently out of stock, but please don't let that stop you starting the challenge.
 
 A rebranded badge is on its way and the order form will be reopened once they are available.
 </div>
@@ -48,9 +56,9 @@ A rebranded badge is on its way and the order form will be reopened once they ar
 
 ### Flower Power challenge badge
 
-![Flower Power challenge badge](/assets/images/2024/02/flower-power-badge.webp){:.float-end.mb-2.ms-2}This badge is great for the Summer term as you learn about flowers and celebrate all things floral.
+![Flower Power challenge badge](/assets/images/2024/02/flower-power-badge.webp){:.float-end.mb-2.ms-2}This badge is the perfect chance to get outdoors and learn about nature.
 
-The perfect chance to get outdoors and learn about nature. Back home, grow your own, make edible versions, or be inspired to write a poem. Many more ideas and activities are included, with programme links throughout the pack.
+Back home, grow your own flowers and plants, make edible versions, or be inspired by nature to write your own poem. Many more ideas and activities are included, with programme links, throughout the pack.
 
 Badges cost £1.20 each plus postage and can be ordered from within the challenge pack.
 
