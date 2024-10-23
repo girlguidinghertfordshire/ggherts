@@ -1,5 +1,6 @@
 ---
 title: County awards lead volunteer
+published: false
 date: 2024-06-27T20:54:00 +01:00
 image: /assets/images/2024/06/county-award-lead-volunteer-vacancy.webp
 download: "/assets/docs/2024/awards-lead-volunteer-role-description.pdf"
