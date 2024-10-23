@@ -1,6 +1,7 @@
 ---
 title: Young leader drop in session
 date: 2024-09-05T19:46:00 +01:00
+published: false
 event:
     start_date: '2024-10-23'
     end_date: ''
