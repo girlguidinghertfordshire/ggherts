@@ -31,6 +31,6 @@ This will be a wonderful opportunity to meet like-minded people and to exchange 
 
 A day of fun, reuniting with others from across the county, and making new connections with volunteers of all ages and levels.
 
-Please let our [county training administration lead volunteer](guidingdev@girlguidinghertfordshire.org.uk) know what you would like to see included in this day and any personal development you require.
+Please let our [county training administration lead volunteer](mailto:guidingdev@girlguidinghertfordshire.org.uk) know what you would like to see included in this day and any personal development you require.
 
 Further details to follow.
