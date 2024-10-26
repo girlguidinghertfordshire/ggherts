@@ -27,6 +27,8 @@ Offering [indoor accommodation](indoor-accommodation/), a [campsite](campsite/) 
 
 Please use the calendar to check availability.  Booking requests can be submitted directly via the calendar or by contacting the Bookings Secretary on <hgcbookings@girlguidinghertfordshire.org.uk>
 
+If you are looking to book use of the site in 2025 please contact the bookings secretary on h<gcbookings@girlguidinghertfordshire.org.uk> in the first instance. Please do not use the booking facility via the availability calendar.
+
 [Availability Calendar](https://v2.hallmaster.co.uk/Diary/ViewWeeklyDiary/11336){:.external-link.btn.btn-primary}{:target="_blank"}{:rel="noreferrer noopener"}
 
 Please email your signed and dated Booking Terms and Conditions to the Bookings Secretary via <HGCbookings@girlguidinghertfordshire.org.uk> within 14 days of confirmation that your provisional booking has been accepted.
