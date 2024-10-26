@@ -23,6 +23,8 @@ event:
     - Hertfordshire, West
 permalink: /training/nov-1st-response-course
 ---
+This course is now **fully booked.**
+
 Spaces on this district organised 1st response course, provided by a Girlguiding 1st response trainer, have been opened up to all members across Hertfordshire county.
 
 The course is taking place on **Saturday 23 November** from **10am - 4.30pm** in **Leverstock Green, Hemel Hempstead.**
