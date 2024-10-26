@@ -18,20 +18,7 @@ Any badge you design must meet Girlguiding's branding and be approved in advance
 
 Further details can be found here: [Badges and bespoke - Brand guidelines (foleon.com)](https://girlguiding.foleon.com/girlguiding-brand-guidelines/brand-guidelines/badges-and-bespoke#Designing-a-badge){:external-link}{:rel="noopener"}{:target="_blank"}
 
-## County challenge badges
-
-### UK Greece 2024 GOLD challenge badge
-
-![GOLD challenge badge](/assets/images/2024/05/GOLD2024.webp){:.ms-3.mb-3.float-end}
-The Girlguiding Overseas Linked with Development (GOLD) Team are excited to share with you this new challenge badge.
-
-This year the Greece UK 2024 GOLD team are working alongside the Greek Guiding Association (Soma Hellindon Odigon (SEO)) to develop young members' understanding and identity as global citizens as well as increasing members' understanding of WAGGGS.
-
-Badges cost £1.50 each plus postage.
-
-Download the challenge badge pack to find out more about the requirements and activities.
-
-[Download <span class="visually-hidden">Gold </span>challenge pack](/assets/docs/2024/gold-greece-challenge-badge-2024.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [<span class="visually-hidden">Gold </span>Badge order form](https://docs.google.com/forms/d/1rD9cz88SeuSKAVGj-YPxIwNQ7eqiKHmQEc415ywNNmE/viewform?edit_requested=true&pli=1){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
+## County challenge badge
 
 ### Girls Golf challenge badge
 
@@ -54,30 +41,39 @@ A rebranded badge is on its way and the order form will be reopened once they ar
 
 ## 1st Baldock Brownies challenge badges
 
-### Flower Power challenge badge
+### It's Christmas challenge badge
 
-![Flower Power challenge badge](/assets/images/2024/02/flower-power-badge.webp){:.float-end.mb-2.ms-2}This badge is the perfect chance to get outdoors and learn about nature.
+![Christmas challenge badge](/assets/images/2024/10/christmas-badge.webp){:.float-end.ms-3.mb-3}
+This wonderfully festive challenge badge is back, newly rebranded!
 
-Back home, grow your own flowers and plants, make edible versions, or be inspired by nature to write your own poem. Many more ideas and activities are included, with programme links, throughout the pack.
+With 50 challenges to choose from, covering 6 different themes, including giving and sharing, natural Christmas, and Christmas cookery, there's something to suit every age range and section.
+
+There is no set number of challenges to be completed - It's up to you.
+
+Why not use this badge as part of a Christmas themed sleepover, or even a craft day.
+
+Badges cost £1.30 each (plus postage) and can be ordered from within the challenge pack.
+
+Download the challenge badge pack to find out more about the activities.
+
+[Download challenge pack](/assets/docs/2024/challenge-badge-its-christmas-v2.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
+
+### Snow is falling challenge badge
+
+![Snow is falling badge](/assets/images/2024/10/snow-falling.webp){:.float-end.ms-3.mb-3}
+With the temperature dropping and winter upon us, this is the perfect time of year to complete this challenge badge.
+
+There are 8 snowy themed sections to completed, including snow science, snow survival and cooking - in the cold and with the cold. Within each section there are a variety of activities to choose from, with something to suit all ages and sections.
 
 Badges cost £1.20 each plus postage and can be ordered from within the challenge pack.
 
 Download the challenge badge pack to find out more about the requirements and activities.
 
-[Download <span class="visually-hidden">Flower Power</span> challenge pack](/assets/docs/2024/flower-power-badge-challenge-pack_v4.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
+[Download challenge badge](/assets/docs/2024/challenge-badge-snow-is-falling-v3-1.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
 
-### Forest bathing challenge badge
+### Other 1st Baldock Brownies challenge badges
 
-![Forest bathing challenge badge](/assets/images/2023/04/forest-badge.webp){:.float-end.mb-2.ms-2}
-Forest bathing, or ‘shinrin-yoku,’ was first developed in Japan in the 1980s as a form of mindfulness.
-
-The woods and forests can be just as beautiful in the winter months so why not wrap up warm and go for a relaxing walk to reduce stress levels and improve your concentration and memory. Either alone, with friends or family, or a four legged companion, this badge contains ideas to help you immerse yourself with nature.
-
-Badges cost £1.30 each plus postage.
-
-Download the challenge badge pack to find out more about the requirements and activities.
-
-[Download <span class="visually-hidden">forest bathing </span>challenge pack](/assets/docs/2023/forest-bathing-challenge-badge_v2.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
+1st Baldock Brownies also have the previously featured Forest bathing, Flower power and Eggstraordinary Easter challenge badges to choose from. Please email the county office if you are interested in any of these.   Please hyperlink the words county office to <admin@girlguidinghertfordshire.org.uk>
 
 ## External Charity challenge badge
 
@@ -101,10 +97,9 @@ Challenge badges are £1.50 per badge, purchased in packs and can be ordered by 
 
 ## Previous challenge badges
 
-- Eggstraordinary Easter
+- UK Greece 2024 GOLD challenge badge
 - Lifesaver challenge badge
 - Marathon challenge badge
-- Raise West Hertfordshire NHS Trust charity badge
 - Uganda Friendship challenge badge
 
 If you are interested in any of these challenge badges, please contact <admin@girlguidinghertfordshire.org.uk> for further details and to enquire about stock availability.
