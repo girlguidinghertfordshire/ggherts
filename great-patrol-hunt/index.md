@@ -41,7 +41,7 @@ Unit leaders are not required to accompany Patrols to this event, which is run b
 
 Round 1 of this year's Great Patrol Hunt saw 170 Guides navigate Wheathampstead on Saturday 19 October whilst getting creative and completing various activites.
 
-Great fun was had by all and the results of this round will be available soon.
+[Download round 1 results](/assets/docs/2024/gph-2425-r1-results.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
 
 [Round 2](/event/gph-r2/) will be open for bookings soon, so it's not too late to join in.
 

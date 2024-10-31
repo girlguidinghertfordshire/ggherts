@@ -28,3 +28,5 @@ Cost: approx £70 (indoor accommodation, transport and all food provided).
 [Event flyer](/assets/docs/2024/mountain-experience-flyer2025.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
 
 Please email the walking team on <walking@girlguidinghertfordshire.org.uk> to apply.
+
+Bookings close **Saturday 30 November**
