@@ -8,7 +8,7 @@ event:
     contact_name: null
     contact_email: null
     contact_number: ''
-    book_now_link: ''
+    book_now_link: 'https://forms.office.com/e/F2UiX5dQeH'
     image: '/assets/images/2024/07/brownies-outdoors.webp'
     type:
         - Activity
@@ -24,12 +24,10 @@ This jam packed fun day will consist of 3 instructor led activities, other games
 
 Groups will not complete the same activities, but will all complete 3 activites from an extensive list of outdoor activities, such as crate stacking, leap of faith, climbing wall, zip line, fire-lighting, construction, orienteering, tomahawks and archery
 
-Bookings will open here on **Friday 8 November**
-
 **Limited to 300 spaces** on a first-come-first-served basis.
 
 A deposit of £15pp will be required to secure the places, and you will be contacted by e-mail to make this payment.
 
 Leaders will need to attend with their Brownies to maintain a ratio of 1:8.
 
-More details will follow in due course.
+Bookings open from 8 November.

@@ -73,9 +73,9 @@ Download the challenge badge pack to find out more about the requirements and ac
 
 ### Other 1st Baldock Brownies challenge badges
 
-1st Baldock Brownies also have the previously featured Forest bathing, Flower power and Eggstraordinary Easter challenge badges to choose from. Please email the county office if you are interested in any of these.   Please hyperlink the words county office to <admin@girlguidinghertfordshire.org.uk>
+1st Baldock Brownies also have the previously featured Forest bathing, Flower power and Eggstraordinary Easter challenge badges to choose from. Please email the [county office](mailto:admin@girlguidinghertfordshire.org.uk) if you are interested in any of these.
 
-## External Charity challenge badge
+## External Charity challenge badges
 
 ### ![Stroke challenge badge](/assets/images/2024/05/stroke-badge.webp){:.float-end.m-2}Stroke challenge badge
 
