@@ -23,6 +23,6 @@ event:
 ---
 Save the date!
 
-This weekend is being held at Cherry Green Trees from Saturday 17 - Sunday 18 May and is aimed at those wishing to complete their [Guide camp permit](https://www.girlguiding.org.uk/what-we-do/our-badges-and-activities/badge-finder/guide-camp-permit/){:.external-link}{:rel="noopener"}{:target="_blank"} or [Lead Away permit](https://www.girlguiding.org.uk/what-we-do/our-badges-and-activities/badge-finder/lead-away-permit/){:.external-link}{:rel="noopener"}{:target="_blank"}.
+This weekend, aimed at those wishing to complete their [Guide camp permit](https://www.girlguiding.org.uk/what-we-do/our-badges-and-activities/badge-finder/guide-camp-permit/){:.external-link}{:rel="noopener"}{:target="_blank"} or [Lead Away permit](https://www.girlguiding.org.uk/what-we-do/our-badges-and-activities/badge-finder/lead-away-permit/){:.external-link}{:rel="noopener"}{:target="_blank"} is taking place from Saturday 7 - Sunday 8 June and is
 
-Further details to follow.
+Further details, including location, to follow.
