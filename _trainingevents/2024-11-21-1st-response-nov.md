@@ -22,7 +22,7 @@ event:
     location:
         - 'Hertfordshire, Central'
 ---
-This 1st response course in Radlett (venue tbc) is taking place over two sessions, Thursday 21 and Thursday 28 November (7pm - 10pm both evenings).  Both sessions must be attended.
+This 1st response course in Radlett is taking place over two sessions, Thursday 21 and Thursday 28 November (7pm - 10pm both evenings).  Both sessions must be attended.
 
 Mannequins will be used to practice on so if you have difficulty getting on the floor etc please let the course organiser know and arrangements will be made for you to practice on a mannequin on a table.
 
