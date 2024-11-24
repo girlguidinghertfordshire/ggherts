@@ -8,12 +8,16 @@ groups:
         job_title: Flexible division commissioner
         person_intro: null
         email: flexibledivision@girlguidinghertfordshire.org.uk
-  - group: leads
+  - group: promote-grow
     roles:
-      - order: 5
+      - order: 4
         job_title: County growth and retention lead volunteer
         person_intro: Works to grow volunteer membership numbers and retain existing volunteers within the county. Supports existing volunteers to develop into qualified leaders. 
         email: volunteer@girlguidinghertfordshire.org.uk
-image: /wp-content/uploads/2019/10/Sally-Settle.jpg
-thumbnail: /wp-content/uploads/2019/10/Sally-Settle-290x243.jpg
+  - group: membership-support
+    roles:
+      - order: 2
+        job_title: County commissioner mentor
+        person_intro: Supports and guides division commissioners to develop the knowledge and skills needed to carry out their role effectively.
+        email: mentors@girlguidinghertfordshire.org.uk
 ---

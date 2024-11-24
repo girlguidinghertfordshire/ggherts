@@ -2,14 +2,14 @@
 title: Position open
 date: 2022-06-07T19:30:57.560Z
 groups:
-  - group: outdoor
+  - group: adventure
     roles:  
       - order: 20
         job_title: County outdoor administration volunteer
         vacancyurl: /get-involved/vacancies/#county-outdoor-administration-lead-volunteer
         person_intro: null
         emailx: outdoor@girlguidinghertfordshire.org.uk
-      - order: 22
+      - order: 13
         job_title: County walking administration volunteer
         person_intro: Provides administrative support to the members of the county walking team
         vacancyurl: /get-involved/vacancies/#county-walking-administration-lead-volunteer
@@ -21,6 +21,12 @@ groups:
         person_intro: null
         emailx: northdivision@girlguidinghertfordshire.org.uk
         vacancyurl: /get-involved/vacancies/#division-commissioners
+  - group: promote-grow
+    roles:
+      - order: 3
+        job_title: County environment and sustainability lead volunteer
+        person_intro: Works with members and volunteers across the county to make Girlguiding Hertfordshire more sustainable and environmentally friendly.
+        vacancyurl: /get-involved/vacancies/#county-environment-and-sustainability-lead-volunteer
 image: null
 thumbnail: null
 author:

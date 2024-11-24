@@ -9,39 +9,58 @@ description: >
   as providing trainings, events, and much more. Find out more about the County
   Team here.
 ---
-<p class="lead">The county team is here to support local guiding, as well as providing training, events, and much more.
-</p>
+<p class="lead">The county team is here to support local guiding, as well as providing training, events and much more.</p>
+<p>The team is led by the county commissioner and 3 assistant county commissioners. </p>
 
-<p>There are currently some vacancies in the county team which are detailed on our <a href="/get-involved/vacancies/"
-    target="_blank" rel="noopener">vacancies page</a>. For more information or if you have any other skills that you
-  would like to offer, please email <a href="mailto:admin@girlguidinghertfordshire.org.uk" target="_blank"
-    rel="noopener">county office</a></p>
-<h2 id="commissioners">Commissioners</h2>
-<h3>County</h3>
-{% include county-team-section.html group="commissioners" %}
-<h3>Divisions</h3>
-<p>Each division commissioner leads a team of dedicated and skilled volunteers to ensure that quality guiding is delivered throughout a division. Promotes and encourages opportunities within Girlguiding to volunteers and members. Promotes a positive image of Girlguiding and be an ambassador for its values.</p>
-{% include county-team-section.html group="divcomm" %}
-<h2 id="leads">Lead volunteers</h2>
-<h3 class="mt-4">Youth opportunities team</h3>
-  <p>See the <a href="/youth-opportunities/">youth opportunities team</a> pages for more information about the work they
-    do for Hertfordshire.</p>
-  {% include county-team-section.html group="youthopp" %}
-  <h3>Outdoor team</h3>
-  <p>See the <a href="/what-we-do/outdoor/">outdoor team</a> pages for more information about outdoor activities.</p>
-  {% include county-team-section.html group="outdoor" %}
+<h2 id="commissioners">County commissioners</h2>
+<div class="row justify-content-center row-cols-1 row-cols-lg-2 row-cols-xxl-3 mb-4 mb-xxl-0">
+  {% assign cc = site.members | where: "title", "Karin Hunter" | first %}
+  {% assign group = cc.groups | first %}
+  {% assign role = group.roles | first %}
+  {% include county-team-card.html member=cc role=role %}
+</div>
+<div class="d-none d-xxl-block">
+<div class="row my-0 justify-content-center">
+  <div class="col text-center my-0 lh-1">
+    |
+  </div>
+</div>
+<div class="row my-0 justify-content-center">
   
-  <h3 id="international">International team</h3>
-  <p>See the <a href="/international-adventures/">international adventures</a> pages for more information about international opportunities.</p>
-  {% include county-team-section.html group="international" %}
-  <h3 id="lead-volunteers">Other lead volunteers</h3>
-  {% include county-team-section.html group="leads" %}
-  <h2 id="vp">County vice presidents</h2>
+<hr class="m-0" style="border-top-width: 2px; max-width: 67%; opacity: .5;">
+</div>
+<div class="row my-0">
+  <div class="col text-center my-0 lh-1">
+    |
+  </div>
+  <div class="col text-center my-0 lh-1">
+    |
+  </div>
+  <div class="col text-center my-0 lh-1">
+    |
+  </div>
+</div>
+</div>
+{% include county-team-section.html group="acc" %}
+<p>Contact details for the lead volunteers within the adventure and opportunity, membership support and promote and grow teams can be found on the relevant subpages.</p>
+<h2 id="administrators">County administrators</h2>
+{% include county-team-section.html group="administrators" %}
+<p>For county office opening hours please see the <a href="/contact-us/">contact us page</a></p>
+<p>County team vacancies can be found on the <a href="/get-involved/vacancies/#county-team">vacancies webpage</a></p>
+<h2>Division commissioners</h2>
+<p>Girlguiding Hertfordshire is divided into <a href="divisions/">10 divisions</a>. Each being overseen by a division commissioner who leads a team of dedicated and skilled volunteers to ensure quality guiding is delivered locally.</p>
+<p>With the exception of the flexible division, each division contains many districts which support local units and events.</p>
+<p>Division commissioner vacancies can be found on the <a href="/get-involved/vacancies/#division-commissioners">vacancies webpage</a></p>
+<h2 id="vp">County vice presidents</h2>
+<p>County vice presidents act as ambassadors for Girlguiding in Hertfordshire county.</p>
   {% include county-team-section.html group="vp" %}
-  <h2 id="staff">
-    County staff
-  </h2>
-  {% include county-team-section.html group="staff" %}
+<h2 id="trefoil">Trefoil Guild</h2>
+<p>Trefoil Guild is a branch of the Guide Association for everyone aged 18+ which is administered independently.</p>
+<p>It is a registered charity in its own right, which aims to carry the spirit of guiding into the community.</p>
+
+{% include county-team-section.html group="trefoil" %}
+<p>Find more information about <a href="/what-we-do/trefoil/">Trefoil Guild Hertfordshire</a></p>
+
   <script type="text/javascript">
     (function () {
       function comparator(a, b) {

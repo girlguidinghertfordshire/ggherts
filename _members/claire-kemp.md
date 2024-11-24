@@ -4,18 +4,19 @@ date: 2023-05-06T09:14:35.068Z
 image: null
 thumbnail: null
 groups:
-  - group: commissioners
+  - group: acc
     roles:
       - order: 3
         job_title: Assistant county commissioner
-        person_intro: Undertakes duties assigned to her by the county commissioner and
-          is her representative.
+        sub_title: Promote and grow
+        sub_title_url: promote-and-grow/
+        person_intro: Oversees all aspects of growth and retention, marketing, website management, media, social media, and communications, training and badges.
         email: claireacc@girlguidinghertfordshire.org.uk
-  - group: youthopp
+  - group: membership-support
     roles:
-      - order: 2
+      - order: 10
         job_title: County young leader lead volunteer
-        person_intro: Advises and supports young leaders within the county
+        person_intro: Supports young leaders within the county with the young leader qualification (YLQ) and helps them develop into future adult leaders. 
         email: YL@girlguidinghertfordshire.org.uk
   - group: divcomm
     roles:

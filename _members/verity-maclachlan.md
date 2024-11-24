@@ -8,9 +8,9 @@ groups:
         job_title: County first aid lead volunteer
         person_intro: null
         email: Guidingdev@girlguidinghertfordshire.org.uk
-image: null
-thumbnail: null
-author:
-  display_name: GGH-Admin1
-lastmod: 2023-03-11T21:38:50.783Z
+  - group: vp
+    roles:
+      - order: 3
+        job_title: County vice president
+        email: admin@girlguidinghertfordshire.org.uk
 ---

@@ -2,9 +2,9 @@
 title: Katie Wright
 date: 2016-05-19T15:23:30.000Z
 groups:
-  - group: youthopp
+  - group: adventure
     roles:
-      - order: 16
+      - order: 2
         job_title: County Duke of Edinburgh Award lead volunteer
         person_intro: Advises and supports Ranger members working towards the Duke of
           Edinburgh Award. [Successor being sought](/get-involved/vacancies/#county-duke-of-edinburgh-award-lead-volunteer)

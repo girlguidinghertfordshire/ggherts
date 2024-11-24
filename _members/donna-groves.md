@@ -2,7 +2,7 @@
 title: Donna Groves
 date: 2017-11-16T14:00:50.000Z
 groups:
-  - group: staff
+  - group: administrators
     roles:
       - is_employee: true
         order: 8

@@ -2,9 +2,9 @@
 title: Karen Latto
 date: 2023-01-21T10:00:17.625Z
 groups:
-  - group: outdoor
+  - group: adventure
     roles:
-      - order: 23
+      - order: 9
         job_title: County residential lead volunteer - indoor
         person_intro: Supports volunteers with their going away with licences and
           promotes and encourages all aspects of residentials.

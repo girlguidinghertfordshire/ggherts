@@ -88,7 +88,12 @@ $gg-dark-gray: #3a3535;
 .bg-light-blue {
   background-color: $gg-light-blue !important;
 }
+.border-light-blue {
+  border-color: $gg-light-blue !important;
+}
 .border-thick {
   border-width: 3px;
 }
-
+.rounded-none {
+  border-radius: 0;
+}

@@ -8,6 +8,10 @@ groups:
         job_title: South West division commissioner
         person_intro: null
         email: southwestdivision@girlguidinghertfordshire.org.uk
-image: /wp-content/uploads/2020/10/Anne-Johns-1.jpg
-thumbnail: /wp-content/uploads/2020/10/Anne-Johns-1-327x243.jpg
+  - group: membership-support
+    roles:
+      - order: 3
+        job_title: Hertfordshire Guide Centre chair
+        person_intro: Chairs the Hertfordshire Guide Centre (HGC) management committee and oversees all aspects of running and maintaining the county centre in Cottered.
+        email: HGCchair@girlguidinghertfordshire.org.uk
 ---

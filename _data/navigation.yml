@@ -22,8 +22,15 @@ about-us:
       url: /governance/charity-commission-reports/
   - title: Your county team
     url: /about-us/county-team/
-  - title: Divisions
-    url: /about-us/divisions/
+    items:
+    - title: Adventure and opportunity team
+      url: /about-us/county-team/adventure-and-opportunity/
+    - title: Membership support team
+      url: /about-us/county-team/membership-support/
+    - title: Promote and grow team
+      url: /about-us/county-team/promote-and-grow/
+    - title: Divisions
+      url: /about-us/county-team/divisions/
   - title: Contact us
     url: /contact-us/
   - title: County centre
