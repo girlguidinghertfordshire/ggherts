@@ -19,7 +19,7 @@ event:
         - Rangers
         - Young leaders
     location:
-        - 'Hertfordshire, St Albans'
+        - TBC
 ---
 Save the date!
 
