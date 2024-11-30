@@ -1,5 +1,6 @@
 ---
 title: 'CUSAGC Marathon 2024'
+published: false
 date: 2024-09-29T09:36:00 +01:00
 image: /assets/images/2024/09/cusagc-marathon.webp
 categories:
