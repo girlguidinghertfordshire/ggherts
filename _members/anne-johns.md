@@ -6,7 +6,7 @@ groups:
     roles:
       - order: 7
         job_title: South West division commissioner
-        person_intro: null
+        person_intro: Covering Bushey and Oxhey, Croxley Green, Rickmansworth and Chorleywood, Watford Central and West and Watford North.
         email: southwestdivision@girlguidinghertfordshire.org.uk
   - group: membership-support
     roles:

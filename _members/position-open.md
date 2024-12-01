@@ -16,9 +16,9 @@ groups:
         emailx: walking@girlguidinghertfordshire.org.uk
   - group: divcomm
     roles:
-      - order: 5
+      - order: 4
         job_title: North division commissioner
-        person_intro: null
+        person_intro: Covering Baldock, Hitchin, Letchworth and Royston.
         emailx: northdivision@girlguidinghertfordshire.org.uk
         vacancyurl: /get-involved/vacancies/#division-commissioners
   - group: promote-grow

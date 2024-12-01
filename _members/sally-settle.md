@@ -6,7 +6,7 @@ groups:
     roles:
       - order: 3
         job_title: Flexible division commissioner
-        person_intro: null
+        person_intro: Covering the whole of Hertfordshire county.
         email: flexibledivision@girlguidinghertfordshire.org.uk
   - group: promote-grow
     roles:

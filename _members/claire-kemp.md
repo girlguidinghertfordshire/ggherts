@@ -22,6 +22,6 @@ groups:
     roles:
       - order: 9
         job_title: Stevenage division commissioner
-        person_intro: null
+        person_intro: Covering Knebworth, Stevenage East, Stevenage North, Stevenage Pin Green and Stevenage South.
         email: stevenagedivision@girlguidinghertfordshire.org.uk
 ---
