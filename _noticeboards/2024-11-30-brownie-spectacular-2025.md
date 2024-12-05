@@ -13,12 +13,13 @@ Take part in an exciting weekend full of adventurous activities during the day a
 
 2 dates* available:
 
-Mon 18 - Wed 20 August
-Thurs 21 - Sun 23 August
+- Mon 18 - Wed 20 August
+- Thurs 21 - Sun 23 August
 
 You choose which weekend you would like to attend.
+
 On-site activities, breakfast, lunch and dinners and accommodation all included in price.
 
-For more information and ticket sales please visit Brownie Spectacular 2025 - Hautbois Activity Centre
+For more information and ticket sales please visit [Brownie Spectacular 2025 - Hautbois Activity Centre](https://www.hautbois.org.uk/brownie-spectacular-2025/){:.external-link}{:rel="noopener"}{:target="_blank"}
 
 *Both dates will run the exact same event programme

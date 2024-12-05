@@ -27,7 +27,7 @@ Golf is a fun, friendly activity for everyone, whatever their ability.
 
 This award winning joint project with Hertfordshire Golf won the Women & Girls' Trailblazer award in the 2023 England Golf Awards and introduces golf to girls and young woman across Hertfordshire county and beyond.
 
-To earn your Golf challenge badge you will need to complete activities from each of the five sections detailed within the challenge pack. Details about a visit from, or to, Hertfordshire Golf to complete the skills section can be found on the [county noticeboard.](/noticeboard/) There are a variety of activities and skill levels, which means members from all sections can take part.  
+To earn your Golf challenge badge you will need to complete activities from each of the five sections detailed within the challenge pack. Details about a visit from, or to, Hertfordshire Golf to complete the skills section can be found on the [county noticeboard.](/noticeboard/golf-session/) There are a variety of activities and skill levels, which means members from all sections can take part.  
 
 Badges cost £1.20 each plus postage.  Download the challenge badge pack to find out more about the requirements and activities.
 
