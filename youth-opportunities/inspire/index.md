@@ -11,17 +11,6 @@ author:
 
 You may be wondering, what is Inspire? [Inspire](https://www.girlguiding.org.uk/what-we-do/inspire/){:rel="noopener"}{:target="_blank"}{:.external-link} is the Girlguiding offering for all 18-30 year olds. It doesn’t matter what your everyday role or level of interaction with Girlguiding is, all members within this age range are automatically part of Inspire. It is a place where you can make new friends, learn new skills and take advantage of the many awards and opportunities on offer. This can include completing Girlguiding qualifications and awards such as the Queens Guide award or Duke of Edinburgh Award, volunteering at events in the future, making your voice heard as a Girlguiding advocate, developing new skills or helping to train other members and share your knowledge and experience.
 
-## Inspire winter badge day
-
-![Winter badge day](/assets/images/2024/09/inspire-winter-badge.webp){:.float-md-end.ms-md-3.mb-3.mx-auto.d-block}
-Come along to Anglia region's festive event for Inspire community members on Saturday 2 November in Cambridge.  
-
-See how many Christmas themed challenge badges you can complete in a day.
-
-Cost: £25 (includes all activity materials and badges).
-
-[Find out more and book your space](https://www.girlguiding-anglia.org.uk/events/inspire-winter-badge-day){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
-
 {% include region-inspire-challenge.html %}
 
 ## Find out more
