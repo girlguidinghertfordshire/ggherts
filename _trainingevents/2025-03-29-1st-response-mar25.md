@@ -2,7 +2,7 @@
 title: '1st response course'
 date: 2024-12-05T19:46:00Z
 event:
-    start_date: '2025-03-01'
+    start_date: '2025-03-29'
     end_date: ''
     address: null
     contact_name: null
