@@ -8,7 +8,7 @@ groups:
         job_title: Assistant county commissioner
         sub_title: Adventure and opportunity
         sub_title_url: /about-us/county-team/adventure-and-opportunity/
-        person_intro: Oversees all aspects of outdoors, international and opportunities for younger members.
+        person_intro: Coordinates the outdoor team. Organises and supports outdoor events and trainings whilst promoting an enthusiasm for the outdoors.
         email: lizacc@girlguidinghertfordshire.org.uk
   - group: adventure
     roles:
@@ -18,7 +18,7 @@ groups:
         email: outdoor@girlguidinghertfordshire.org.uk
       - order: 10
         job_title: County residential lead volunteer - outdoor
-        person_intro: null
+        person_intro: Specialises in overnight camping experiences and outdoor residential offerings to our young members.
         email: residential@girlguidinghertfordshire.org.uk
 image: null
 ---

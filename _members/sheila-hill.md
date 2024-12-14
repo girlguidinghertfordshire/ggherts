@@ -5,7 +5,7 @@ groups:
   - group: membership-support
     roles:
       - order: 1
-        job_title: County archivist lead volunteer
+        job_title: County archivist
         person_intro: Maintains, organises and expands the county archives covering the history of guiding in Hertfordshire. 
         email: Archives@girlguidinghertfordshire.org.uk
       - is_employee: true

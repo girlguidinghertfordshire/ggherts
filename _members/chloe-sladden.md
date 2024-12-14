@@ -6,9 +6,6 @@ groups:
     roles:
       - order: 5
         job_title: County Inspire social media volunteer
-        person_intro: Supports the county Inspire lead volunteer in creating visual and written content aimed at 18-30 year olds and updates the county Inspire social media platforms
-        email: inspire@girlguidinghertfordshire.org.uk
-author:
-  display_name: Rachel Kemp
-lastmod: 2023-06-02T12:08:01.444Z
+        person_intro: Supports the joint county Inspire lead volunteers.
+        email: inspireadmin@girlguidinghertfordshire.org.uk
 ---

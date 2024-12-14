@@ -6,8 +6,9 @@ groups:
     roles:
       - order: 2
         job_title: County Duke of Edinburgh Award lead volunteer
-        person_intro: Advises and supports Ranger members working towards the Duke of
-          Edinburgh Award. [Successor being sought](/get-involved/vacancies/#county-duke-of-edinburgh-award-lead-volunteer)
+        person_intro: |
+          Advises and supports Rangers working towards their Duke of Edinburgh (DofE) Award. Organises and runs Bronze and Silver Award practice and qualifying expeditions.  
+          [Successor being sought - apply now](/get-involved/vacancies/#county-duke-of-edinburgh-award-lead-volunteer)
         email: dofe@girlguidinghertfordshire.org.uk
         vacancyurl: /get-involved/vacancies/#county-duke-of-edinburgh-award-lead-volunteer
 image: null

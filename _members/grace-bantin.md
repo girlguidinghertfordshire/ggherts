@@ -6,6 +6,6 @@ groups:
     roles:         
       - order: 12
         job_title: County walking lead volunteer
-        person_intro: Promotes all forms of walking activities from scavenger hunts to mountaineering. Supports members undertaking walking scheme training and advises on walking events.
+        person_intro: Leads the walking team, promoting all forms of walking activities from geocaching to mountaineering. Supports members undertaking walking scheme training and advises on social walking eve
         email: walking@girlguidinghertfordshire.org.uk
 ---
