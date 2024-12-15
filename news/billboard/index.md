@@ -13,6 +13,7 @@ _Billboard_ is a monthly e-newsletter sent to all Girlguiding Hertfordshire memb
 
 ## Recent editions
 
+- [December 2024](https://mailchi.mp/743528b011e8/dec-2024-billboard-13899646){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [November 2024](https://mailchi.mp/f91632647408/nov-2024-billboard-13899153){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [October 2024](https://mailchi.mp/5050ee438db7/oct-2024-billboard-13898492){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [September 2024](https://mailchi.mp/c966191d7c03/sep-2024-billboard-13683643){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
