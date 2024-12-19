@@ -26,10 +26,6 @@ _Billboard_ is a monthly e-newsletter sent to all Girlguiding Hertfordshire memb
 
 ## Deadline dates for submission
 
-### 2024
-
-- December: 29 November 2024
-
 ### 2025
 
 - January: 31 December 2024
