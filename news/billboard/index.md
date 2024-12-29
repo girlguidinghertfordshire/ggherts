@@ -1,7 +1,7 @@
 ---
 layout: page-v5
 title: Billboard
-banner_image: /assets/images/core/billboard-banner.webp
+banner_image: /assets/images/core/billboard-banner-2025.webp
 image: /assets/images/core/billboard2023.webp
 
 date: 2021-09-07T19:51:13.187Z
@@ -28,7 +28,6 @@ _Billboard_ is a monthly e-newsletter sent to all Girlguiding Hertfordshire memb
 
 ### 2025
 
-- January: 31 December 2024
 - February:  31 January 2025
 - March:  28 February 2025
 - April: 31 March 2025

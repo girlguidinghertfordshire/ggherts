@@ -1,5 +1,5 @@
 ---
-title: North and West division commissioners
+title: North, South East, and West division commissioners
 date: 2024-01-04T20:28:00Z
 image: /assets/images/2023/05/division-commissioners.webp
 download: /assets/docs/2024/role-description-division-commissioners.pdf

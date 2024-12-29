@@ -31,11 +31,11 @@ Spaces for each session are on a first come, first serve, booking basis and limi
 
 This will be a wonderful opportunity to meet like-minded people and to exchange ideas whilst building upon your Girlguiding knowledge and skills. A day of fun, reuniting with others from across the county, and making new connections.
 
-Open to all Girlguiding Hertfordshire volunteers.
+Open to all Girlguiding Hertfordshire volunteers (aged 18+).
 
 ## Agenda
 
-The day will commence with registration at 9.15am and conclude at 4.15pm after a half hour round up, thank you and goodbyes.
+The day will commence with welcome and registration at 9.15am and conclude at 4.15pm after a half hour round up, thank you and goodbyes.
 
 16* bookable sessions will be running throughout the day, split over 4 timeslots, so why not come along to 4 sessions, or less, depending upon availability and what takes your interest.
 
