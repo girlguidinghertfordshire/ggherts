@@ -10,7 +10,7 @@ groups:
         job_title: Assistant county commissioner
         sub_title: Promote and grow
         sub_title_url: promote-and-grow/
-        person_intro: Oversees all aspects of growth and retention, marketing, website management, media, social media, and communications, training and badges.
+        person_intro: Oversees all aspects of growth and retention, marketing, website management, media, social media and communications, training and badges.
         email: claireacc@girlguidinghertfordshire.org.uk
   - group: membership-support
     roles:
