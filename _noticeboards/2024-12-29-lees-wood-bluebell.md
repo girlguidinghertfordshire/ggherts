@@ -11,6 +11,8 @@ Come along with family and friends on **Saturday 10 May** to Lees Wood Scout and
 
 Stroll amongst the bluebells, enjoy a picnic, play lawn games and have fun around a fire.
 
-Tickets (payable for on the gate by cash or card) cost £5 each for individuals and £15 for a family ticket. 
+Tickets (payable for on the gate by cash or card) cost £5 each for individuals and £15 for a family ticket.
 
 Groups bookings need to be made in advance and the cost is £5 per girl with no charge for the leaders (section ratios must be followed).
+
+Contact <admin@girlguidinghertfordshire.org.uk>

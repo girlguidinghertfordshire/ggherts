@@ -9,7 +9,7 @@ toc: news
 lastmod: 2022-09-29T18:25:08.816Z
 description: Billboard is a monthly e-newsletter sent to all Girlguiding Hertfordshire members who "subscribe to marketing" within GO
 ---
-_Billboard_ is a monthly e-newsletter sent to all Girlguiding Hertfordshire members who have set their communication preferences within **GO** to _"subscribe to marketing"._
+*Billboard* is a monthly e-newsletter sent to all Girlguiding Hertfordshire members aged 14 plus, who have set their communication preferences within **GO** to *“subscribe to marketing”.*
 
 ## Recent editions
 
