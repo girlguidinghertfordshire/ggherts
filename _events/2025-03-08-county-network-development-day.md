@@ -8,7 +8,7 @@ event:
     contact_name: null
     contact_email: null
     contact_number: ''
-    book_now_link: ''
+    book_now_link: 'https://www.eventbrite.co.uk/e/county-network-and-development-day-tickets-1115319222819?aff=oddtdtcreator'
     image: '/assets/images/2024/10/county-network-day.webp'
     type:
         - Activity
@@ -23,9 +23,10 @@ event:
         - 'Hertfordshire, Central'
 lastmod: '2022-01-25T20:32:22.789Z'
 ---
-Taking place on Saturday 8 March at Howe Dell School in Hatfield, why not come along to this free county network and development day.
+{:.lead.fw-bold}
+Bookings are open from Monday 6 January (9am) - Friday 7 February.
 
-Session bookings, via Eventbrite, will be opening here in very early January.
+Taking place on Saturday 8 March at Howe Dell School in Hatfield, why not come along to this free county network and development day.
 
 Spaces for each session are on a first come, first serve, booking basis and limited.
 
@@ -44,7 +45,7 @@ Sessions are as follows:
 ### Session 1 (10-11am)
 
 - Rainbow craft
-- Accounts
+- Accounts (you will need to bring your own laptop and the [Girlguiding unit accounts spreadsheet.](/assets/docs/2025/unit-accounts-pack-oct192.xlsx){:.download-link} If you would like help starting/completing your unit accounts or have issues you'd like assistance with resolving, please bring all your account paperwork with you)
 - GO (you must bring your own laptop for this session)
 - Young leader development programme (YLDP).
 
@@ -73,7 +74,7 @@ Sessions are as follows:
 
 A market place will be available throughout the day where you can visit stalls and chat to the following people and teams:
 
-Hitchin depot, HGC merchandise, county badges, Inspire, inclusion, leader development programme (LDP), growth and retention, mentors, residentials, GO queries, international, Queen's Guide award, Duke of Edinburgh Award, Sangram trip charity stall and the outdoors team including ITTH team.
+Hitchin depot, HGC merchandise, Gaddesden Row Guide Centre, county badges, Inspire, inclusion, leader development programme (LDP), growth and retention, mentors, residentials, GO queries, international, Queen's Guide award, Duke of Edinburgh Award, Sangram trip charity stall and the outdoors team including ITTH team.
 
 Parking is available on site but limited so please car share where possible.
 
