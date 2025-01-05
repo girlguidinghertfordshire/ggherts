@@ -1,19 +1,12 @@
 ---
 title: Sandra Sayce
 date: 2022-06-08T20:02:18.697Z
-published: false
 groups:
-  - group: divcomm
+  - group: promote-grow
     roles:
-      - order: 8
-        job_title: St Albans division commissioner
-        person_intro: null
-        email: stalbansdivision@girlguidinghertfordshire.org.uk
-  - group: leads
-    roles:
-      - order: 28
+      - order: 1
         job_title: County awards lead volunteer
-        person_intro: ""
+        person_intro: Leads the awards committee, promoting and encouraging all aspects of awards throughout the county. Oversees the annual county awards celebration event.
         email: awards@girlguidinghertfordshire.org.uk
 image: null
 thumbnail: null

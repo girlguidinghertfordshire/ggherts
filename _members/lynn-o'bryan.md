@@ -6,7 +6,7 @@ groups:
     roles:
       - order: 6
         job_title: South East division commissioner
-        person_intro: null
+        person_intro: Covering Broxbourne, Cheshunt and Waltham Cross, Cuffley and Goffs Oak and Hoddesdon.
         email: southeastdivision@girlguidinghertfordshire.org.uk
 image: null
 thumbnail: null

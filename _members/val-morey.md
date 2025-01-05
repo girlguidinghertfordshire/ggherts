@@ -4,7 +4,7 @@ date: 2021-12-20T22:56:55.501Z
 groups:
   - group: vp
     roles:
-      - order: 41
+      - order: 2
         job_title: County vice president
         person_intro: null
         email: admin@girlguidinghertfordshire.org.uk

@@ -2,7 +2,7 @@
 title: Rachel Kemp
 date: 2017-11-15 13:28:23.000000000 +00:00
 groups:
-  - group: staff
+  - group: administrators
     roles:
       - is_employee: true
         order: 7

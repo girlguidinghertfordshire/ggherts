@@ -1,8 +1,16 @@
 <div class="col" data-order="{{ include.role.order}}">
-    <div class="card h-100 border-0">
+    <div class="card h-100 border-secondary border-thick rounded-none">
       <div class="card-body">
         <h3 class="card-title h5 fw-bold">{{ include.member.title }}</h3>
         <div class="card-subtitle mb-2 text-muted fw-bold">{{ include.role.job_title }}</div>
+        {% if include.role.sub_title %}
+          {% if include.role.sub_title_url %}
+            <p><a href="{{ include.role.sub_title_url }}">{{ include.role.sub_title }}</a></p>
+          {% else %}
+            <p>{{ include.role.sub_title }}</p>
+          {% endif %}
+        <p><a hr</p>
+        {% endif %}
         <p class="card-text">{{ include.role.person_intro | markdownify }}</p>        
       </div>
       <div class="card-footer border-top-0 bg-white">
@@ -14,6 +22,5 @@
               }} - {{ include.role.job_title }}</span></span></a>
         {% endif %}
       </div>
-        <div class="line mt-2"></div>
     </div>
   </div>
