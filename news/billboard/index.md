@@ -1,7 +1,7 @@
 ---
 layout: page-v5
 title: Billboard
-banner_image: /assets/images/core/billboard-banner.webp
+banner_image: /assets/images/core/billboard-banner-2025.webp
 image: /assets/images/core/billboard2023.webp
 
 date: 2021-09-07T19:51:13.187Z
@@ -9,10 +9,11 @@ toc: news
 lastmod: 2022-09-29T18:25:08.816Z
 description: Billboard is a monthly e-newsletter sent to all Girlguiding Hertfordshire members who "subscribe to marketing" within GO
 ---
-_Billboard_ is a monthly e-newsletter sent to all Girlguiding Hertfordshire members who have set their communication preferences within **GO** to _"subscribe to marketing"._
+*Billboard* is a monthly e-newsletter sent to all Girlguiding Hertfordshire members aged 14 plus, who have set their communication preferences within **GO** to *“subscribe to marketing”.*
 
 ## Recent editions
 
+- [December 2024](https://mailchi.mp/743528b011e8/dec-2024-billboard-13899646){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [November 2024](https://mailchi.mp/f91632647408/nov-2024-billboard-13899153){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [October 2024](https://mailchi.mp/5050ee438db7/oct-2024-billboard-13898492){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [September 2024](https://mailchi.mp/c966191d7c03/sep-2024-billboard-13683643){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
@@ -25,13 +26,8 @@ _Billboard_ is a monthly e-newsletter sent to all Girlguiding Hertfordshire memb
 
 ## Deadline dates for submission
 
-### 2024
-
-- December: 29 November 2024
-
 ### 2025
 
-- January: 31 December 2024
 - February:  31 January 2025
 - March:  28 February 2025
 - April: 31 March 2025

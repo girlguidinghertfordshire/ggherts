@@ -1,6 +1,7 @@
 ---
 title: Christmas ecard design competition
 date: 2024-09-29T08:53:00 +01:00
+published: false
 image: /assets/images/2024/09/christmas-2024-ecard.webp
 categories:
   - Announcements

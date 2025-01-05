@@ -38,6 +38,7 @@ $gg-brownies-yellow: #ffc80a;
 $gg-brownies-brown: #603d33;
 $gg-guides-mid-blue: #8cb5e2;
 $gg-guides-dark-blue: #173a86;
+$gg-guides-green: #00a469;
 $gg-rangers-purple: #54184a;
 $gg-rangers-light-pink: #fbdfe7;
 
@@ -50,6 +51,7 @@ $gg-rangers-light-pink: #fbdfe7;
     --gg-rainbows-red: #{$gg-rainbows-red};
     --gg-brownies-yellow: #{$gg-brownies-yellow};
     --gg-guides-mid-blue: #{$gg-guides-mid-blue};
+    --gg-guides-green: #{$gg-guides-green};
     --gg-rangers-purple: #{$gg-rangers-purple};
     --bs-primary:var(--gg-dark-blue);
     --bs-link-color: var(--gg-mid-blue);
@@ -77,6 +79,9 @@ $gg-dark-gray: #3a3535;
 }
 .bg-guides {
   background-color: $gg-guides-dark-blue;
+}
+.bg-guides-green {
+  background-color: $gg-guides-green;
 }
 .bg-rangers {
   background-color: $gg-rangers-purple;

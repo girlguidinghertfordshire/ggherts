@@ -22,22 +22,20 @@ Further details can be found here: [Badges and bespoke - Brand guidelines (foleo
 
 ### Girls Golf challenge badge
 
-![Badge for Girls Golf Challenge](/assets/images/2022/11/girls-golf.webp){:.ms-3.mb-3.float-end}
+![Badge for Girls Golf Challenge](/assets/images/2024/11/golf-badge.webp){:.ms-3.mb-3.float-end}
 Golf is a fun, friendly activity for everyone, whatever their ability.  
 
 This award winning joint project with Hertfordshire Golf won the Women & Girls' Trailblazer award in the 2023 England Golf Awards and introduces golf to girls and young woman across Hertfordshire county and beyond.
 
-To earn your Golf challenge badge you will need to complete activities from each of the five sections detailed within the challenge pack.  There are a variety of activities and skill levels, which means members from all sections can take part.  
+To earn your Golf challenge badge you will need to complete activities from each of the five sections detailed within the challenge pack. Details about a visit from, or to, Hertfordshire Golf to complete the skills section can be found on the [county noticeboard.](/noticeboard/golf-session/) There are a variety of activities and skill levels, which means members from all sections can take part.  
 
-Badges cost £1 each plus postage.  Download the challenge badge pack to find out more about the requirements and activities.
+Badges cost £1.20 each plus postage.  Download the challenge badge pack to find out more about the requirements and activities.
 
 <div class="alert alert-info" markdown="1">
-This highly successful badge is currently out of stock, but please don't let that stop you starting the challenge.
-
-A rebranded badge is on its way and the order form will be reopened once they are available.
+This highly successful badge is due back in stock mid January. Badges can be ordered now, but will not be distributed until such time.
 </div>
 
-[Download <span class="visually-hidden">Golf </span>challenge pack](/assets/docs/2022/challenge-badge-girls-golf.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [<span class="visually-hidden">Golf </span>Badge order form (temporarily closed)](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJURFY2T09OMjQ4Q0JCTlpCWUtQM1I5N0xYMC4u){:.btn.btn-primary.external-link.disabled}{:rel="noopener"}{:target="_blank"}
+[Download <span class="visually-hidden">Golf </span>challenge pack](/assets/docs/2024/girls-golf-challenge-badge.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [Golf certificate](/assets/docs/2024/girls-golf-certificate.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [<span class="visually-hidden">Golf </span>Badge order form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJURFY2T09OMjQ4Q0JCTlpCWUtQM1I5N0xYMC4u){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
 
 ## 1st Baldock Brownies challenge badges
 

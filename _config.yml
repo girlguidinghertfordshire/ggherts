@@ -8,7 +8,7 @@ social:
     - https://twitter.com/gguidingherts
     - https://www.linkedin.com/company/girlguiding-herts/
     - https://www.facebook.com/GirlguidingHertfordshire
-logo: /assets/images/core/logo.png
+logo: /assets/images/core/herts-logo.jpg
 locale: en_GB
 collections:
     posts:
@@ -35,7 +35,9 @@ collections:
       sort_by: title
       permalink: /shops-nights/:title/
     membership_updates:
+      output: false
     adverts:
+      output: false
     bighelpout:
       output: true
       permalink: /big-help-out/:title
