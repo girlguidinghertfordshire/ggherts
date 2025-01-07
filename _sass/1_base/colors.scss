@@ -34,6 +34,7 @@ $gg-blue-link: #337ab7;
 
 $gg-rainbows-light-blue: #96d3f5;
 $gg-rainbows-red: #e1120e;
+$gg-rainbows-accent-purple: #79348b;
 $gg-brownies-yellow: #ffc80a;
 $gg-brownies-brown: #603d33;
 $gg-guides-mid-blue: #8cb5e2;
@@ -49,6 +50,7 @@ $gg-rangers-light-pink: #fbdfe7;
     --gg-light-blue: #{$gg-light-blue};
     --gg-rainbows-light-blue: #{$gg-rainbows-light-blue};
     --gg-rainbows-red: #{$gg-rainbows-red};
+    --gg-rainbows-accent-purple: #{$gg-rainbows-accent-purple};
     --gg-brownies-yellow: #{$gg-brownies-yellow};
     --gg-guides-mid-blue: #{$gg-guides-mid-blue};
     --gg-guides-green: #{$gg-guides-green};
@@ -73,6 +75,9 @@ $gg-dark-gray: #3a3535;
 
 .bg-rainbows {
   background-color: $gg-rainbows-light-blue;
+}
+.bg-rainbows-accent-purple {
+  background-color: $gg-rainbows-accent-purple;
 }
 .bg-brownies {
   background-color: $gg-brownies-yellow;
