@@ -7,6 +7,10 @@ toc: news
 ---
 _Essential News_ is sent to all **Girlguiding Hertfordshire** members by email on the first Monday of each month (subject to Bank Holidays). Please check your junk mail folders if you haven't received a copy.
 
+## 2025
+
+- [January 2025](https://mailchi.mp/72281934771d/january-2025-essential-news-11035151){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
+
 ## 2024
 
 - [December 2024](https://mailchi.mp/aad29422d8db/december-2024-essential-news-11034277){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
