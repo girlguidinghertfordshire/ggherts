@@ -5,7 +5,7 @@ image: /assets/images/2024/12/safer-guiding.webp
 categories:
   - Training
 tags: []
-description: Everyone needs to have the correct level of a safe space training for their role
+description: Guidance on Girlguiding's essential safeguarding training for volunteers.
 author:
   email: null
   display_name: The County Office
