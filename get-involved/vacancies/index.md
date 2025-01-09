@@ -33,10 +33,6 @@ Could you be the right person to help and support the new county commissioner co
 
 Do you have what it takes to move Girlguiding forward across a whole division, whilst leading a dedicated team?
 
-<!-- Fantastic opportunities to influence and create real change have become available.
-
-Make a positive difference to others and improve opportunities for girls and young women.-->
-
 The division commissioner role can be done as a job share with the option of a division team created to enable delegation of some of the commissioner tasks.
 
 {% for vacancy in vacancies %}
@@ -44,11 +40,21 @@ The division commissioner role can be done as a job share with the option of a d
 {% endfor %}
 {% endif %}
 
-## County team
+## County teams
 
-We have fantastic volunteers who look to the county team for guidance, support and vision. We are looking for new lead volunteers to fully embrace the programme, spread passion and enthusiasm for guiding to help the county move forward.
+We have fantastic volunteers who look to the county for guidance, support and vision. We are looking for more volunteers to fully embrace the programme, spread passion and enthusiasm for guiding and to help Girlguiding Hertfordshire move forward.
 
-{% assign vacancies = site.vacancies | where: "categories","County team" | sort: date | reverse %}
+{% assign vacancies = site.vacancies | where: "categories","Adventure" | sort: date | reverse %}
+
+### Adventure and opportunity team
+
+{% for vacancy in vacancies %}
+{% include vacancy.html title=vacancy.title description=vacancy.content button-text=vacancy.button_text download=vacancy.download img=vacancy.image %}
+{% endfor %}
+{% assign vacancies = site.vacancies | where: "categories","Promote" | sort: date | reverse %}
+
+### Promote and grow team
+
 {% for vacancy in vacancies %}
 {% include vacancy.html title=vacancy.title description=vacancy.content button-text=vacancy.button_text download=vacancy.download img=vacancy.image %}
 {% endfor %}
