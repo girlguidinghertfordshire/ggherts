@@ -13,10 +13,6 @@ Milton Keynes Theatre have lots of fabulous shows coming up, many of which offer
 
 Please see the below overview of shows which provides more details on upcoming shows including:
 
-- A Yaw Asiamah Double Bill (featuring 2 Tour of Duty and Ladies Who Do Pizza): Thurs 19 Sept
-  - Exclusive uniform group rate £10 (Band B) plus 1 free leader for every 10 paid tickets
-- Awful Auntie: Thurs 31 Oct - Sat 2 Nov
-  - Youth group offer rate £15 (Thurs 31 Oct and Fri 1 Nov bands A-D) plus 1 free leader for every 10 paid children's tickets.
 - Dear Evan Hansen: Tues 28 Jan - Sat 1 Feb 2025
   - Exclusive uniform group rate £15 (Tues-Fri Bands B-D*), plus 1 free leader for every 10 paid tickets.
 - Eur-Me Ahn - Dragons: Fri 7 - Sat 8 March 2025
@@ -33,12 +29,12 @@ Please see the below overview of shows which provides more details on upcoming s
   - Youth group offer rate £18 (Wed 6 and Thurs 7 August bands B-D) plus 1 free leader for every 10 paid children's tickets.
 *subject to availability and change
 
-[Overview of shows](/assets/docs/2024/mk-theatre-flyer-2024-03.pdf){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noreferrer noopener"}
+![2024-25 Panto: Peter Pan](/assets/images/2025/01/goldilocks-panto.webp){:.img-fluid.my-3.d-block.mx-auto}{:loading="lazy"}
 
-![2024-25 Panto: Peter Pan](/assets/images/2024/08/peterpan.webp){:.img-fluid.my-3}
+Tickets for the 25/26 panto, Goldilocks and the Three Bears: The Greatest Panto on Earth, featuring Brian Conley, are now on sale! A festive extravaganza, packed with riotous comedy, extraordinary special effects, hair-raising stunts and international circus acts.
 
-Tickets for the 2024-25 panto, Peter Pan running from Friday 6 December 2024 - Sunday 5 January 2025 are limited.
+Running from **Saturday 6 December 2025 - Sunday 11 January 2026** there is a uniform group offer available on selected dates/performances* for groups of 10+ and includes 1 free leader per 10 paid tickets.
 
-Groups of 10+ will benefit from an extended pay by date and no transaction fees. There should be one leader per group of 10 and uniforms must be worn.
+*9, 10, 11, 16 and 17 December (1pm and 7pm), 12 and 19 December (1pm) - Bands A-D (eve B-D) £16 stalls/circle, Bands B-D £14 upper circle. 6 January (1pm), 7 and 8 January (1pm and 7pm), 9 January (1pm) - Bands A-D £14 stalls/circle, Bands B-D £12 upper circle.
 
 Please contact the Group Bookings team via <groupsales@atgtickets.com> quoting UNIFORM GROUPS and provide the name of the group, the performance date and time and number of tickets required or call 020 7206 1174 (local rate call) for further information or to discuss seating information etc.
