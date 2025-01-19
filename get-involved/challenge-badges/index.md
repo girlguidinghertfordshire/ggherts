@@ -31,10 +31,6 @@ To earn your Golf challenge badge you will need to complete activities from each
 
 Badges cost £1.20 each plus postage.  Download the challenge badge pack to find out more about the requirements and activities.
 
-<div class="alert alert-info" markdown="1">
-This highly successful badge is due back in stock mid January. Badges can be ordered now, but will not be distributed until such time.
-</div>
-
 [Download <span class="visually-hidden">Golf </span>challenge pack](/assets/docs/2024/girls-golf-challenge-badge.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [Golf certificate](/assets/docs/2024/girls-golf-certificate.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [<span class="visually-hidden">Golf </span>Badge order form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJURFY2T09OMjQ4Q0JCTlpCWUtQM1I5N0xYMC4u){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
 
 ## 1st Baldock Brownies challenge badges

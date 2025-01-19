@@ -54,6 +54,12 @@ This is to identify any areas where there may be competing interests and should 
 
 [Policy on declaring and dealing with conflicts of interest](/assets/docs/2023/policy-conflicts-of-interest.pdf){:target="_blank"}{:rel="noopener"}{:.download-link.btn.btn-primary} [Declaration of Interest Form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJUM0xHWVBTV1A0WkIzMzRDRzQ5VjNISUgxRy4u){:target="_blank"}{:rel="noopener"}{:.external-link.btn.btn-primary}
 
+## Template meeting agendas
+
+These template agendas are for commissioners to utilise for division and district meetings. The points included are matters that should covered at each division/district meeting.
+
+[Division meeting agenda](/assets/docs/2025/template-agenda-for-division-meeting.docx){:.btn.btn-primary.word-link}{:target="_blank"}{:rel="noopener"} [District meeting agenda](/assets/docs/2025/template-agenda-for-district-meeting.docx){:.btn.btn-primary.word-link}{:target="_blank"}{:rel="noopener"}
+
 ## County store
 
 Hertfordshire county has many items available to borrow from the county store.
