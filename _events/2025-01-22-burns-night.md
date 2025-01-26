@@ -1,6 +1,7 @@
 ---
 title: 'Burns Night online supper'
 date: 2025-01-19T20:04:00Z
+published: false
 event:
     start_date: '2025-01-22'
     end_date: ''

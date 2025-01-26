@@ -9,25 +9,24 @@ event:
     contact_email: null
     contact_number: ''
     book_now_link: ''
-    image: /assets/images/2024/11/saccombe.webp
+    image: /assets/images/2025/01/social-walking-geocaching.webp
     type:
         - Social
         - Walking
     age-group:
-        - Rainbows
-        - Brownies
-        - Guides
-        - Rangers
-        - Young leaders
         - Inspire
         - Leaders
         - Adults
         - Trefoil
     location:
-        - 'Hertfordshire, East'
+        - 'Hertfordshire, Central'
 ---
-Save the date.
+Join the walking team from 10am on Sunday 16 March in, and around, Old Welwyn searching for geocaches whilst enjoying a 5 mile (approx.) spring walk.
 
-Our walking team will be leading a social walk on Sunday 16 March from Sacombe starting at 10am.
+Whether you are a seasoned cacher, or looking to expand your horizons, please come along.
 
-More details to follow.
+You can download the app, or use it if you have it already, on your phone or device. Alternatively, we have a couple of GPs devices you can use during this social walk. There will also be tips and advice for taking your own girls out on a geocaching adventure.
+
+Email <walking@girlguidinghertfordshire.org.uk> for further information and to book your space.
+
+Adults only.

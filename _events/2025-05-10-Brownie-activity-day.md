@@ -9,7 +9,7 @@ event:
     contact_email: null
     contact_number: ''
     book_now_link: 'https://forms.office.com/e/F2UiX5dQeH'
-    image: '/assets/images/2024/07/brownies-outdoors.webp'
+    image: '/assets/images/2025/01/brownie-activity-day.webp'
     type:
         - Activity
         - Social
@@ -30,4 +30,4 @@ A deposit of £15pp will be required to secure the places, and you will be conta
 
 Leaders will need to attend with their Brownies to maintain a ratio of 1:8.
 
-Bookings open from 8 November.
+Bookings close on 14 February (or sooner if spaces full).
