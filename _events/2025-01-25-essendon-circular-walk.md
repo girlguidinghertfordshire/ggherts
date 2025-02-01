@@ -1,6 +1,7 @@
 ---
 title: 'Essendon circular social walk'
 date: 2024-11-30T15:47:00Z
+published: false
 event:
     start_date: '2025-01-25'
     end_date: ''
