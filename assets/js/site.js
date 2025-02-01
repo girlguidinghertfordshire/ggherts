@@ -76,17 +76,12 @@ const breakpoint = { xs: 0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400 };
 })(jQuery);
 // Lazy loader for footer content
 (function ($, w, d) {
-    const tweetList = d.querySelectorAll(".tweet-list")[0];
     const hgcmap = d.getElementById("hgcmap");
-    let isTwitterLoaded = false, isMapLoaded = false;
+    let isMapLoaded = false;
     function lazyLoad() {
         const viewportHeight = w.innerHeight || d.documentElement.clientHeight;
-        const tPos = tweetList.getBoundingClientRect().top;
         const mPos = hgcmap.getBoundingClientRect().top;
-        if (!isTwitterLoaded && (tPos - viewportHeight < 100)) {
-            isTwitterLoaded = true;
-            $("body").append('<script async src="https://platform.twitter.com/widgets.js" charset="utf-8" />');
-        }
+        
         if (!isMapLoaded && (mPos - viewportHeight < 100)) {
             isMapLoaded = true;
             $("#hgcmap").append('<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4918.554001206864!2d-0.080472!3d51.94714!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x270a82ff6b880eb9!2sGirlguiding%20UK!5e0!3m2!1sen!2suk!4v1604057144990!5m2!1sen!2suk" width="100%" height="360" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" title="Hertfordshire Guiding Centre Map"></iframe>')
