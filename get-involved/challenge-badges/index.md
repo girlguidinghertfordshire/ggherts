@@ -35,39 +35,37 @@ Badges cost £1.20 each plus postage.  Download the challenge badge pack to find
 
 ## 1st Baldock Brownies challenge badges
 
-### It's Christmas challenge badge
+### ![Eggstraordinary Easter badge](/assets/images/2025/02/eggstraordinary-easter-badge.webp){:.float-end.m-2} Eggstraordinary Easter challenge badge
 
-![Christmas challenge badge](/assets/images/2024/10/christmas-badge.webp){:.float-end.ms-3.mb-3}
-This wonderfully festive challenge badge is back, newly rebranded!
 
-With 50 challenges to choose from, covering 6 different themes, including giving and sharing, natural Christmas, and Christmas cookery, there's something to suit every age range and section.
+As we look forward to the season changing and signs of spring, why not draw inspiration for the Eggstraordinary Easter challenge badge.
 
-There is no set number of challenges to be completed - It's up to you.
-
-Why not use this badge as part of a Christmas themed sleepover, or even a craft day.
+Jam packed with cooking, craft, nature and photography ideas, there is something for all sections and even includes links to skill builders.
 
 Badges cost £1.30 each (plus postage) and can be ordered from within the challenge pack.
 
 Download the challenge badge pack to find out more about the activities.
 
-[Download challenge pack](/assets/docs/2024/challenge-badge-its-christmas-v2.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
+[Download <span class="visually-hidden">Eggstraordinary Easter</span> challenge badge](/assets/docs/2025/challenge-badge-eggstraordinary-easter-v4.1.pdf){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noopener"}
 
-### Snow is falling challenge badge
+### ![Flower Power badge](/assets/images/2025/02/flower-power-badge.webp){:.float-end.m-2} Flower Power challenge badge
 
-![Snow is falling badge](/assets/images/2024/10/snow-falling.webp){:.float-end.ms-3.mb-3}
-With the temperature dropping and winter upon us, this is the perfect time of year to complete this challenge badge.
 
-There are 8 snowy themed sections to completed, including snow science, snow survival and cooking - in the cold and with the cold. Within each section there are a variety of activities to choose from, with something to suit all ages and sections.
+Ideal for spring and summer, why not focus on all things floral?
 
-Badges cost £1.20 each plus postage and can be ordered from within the challenge pack.
+From growing and culivating the real things, to making edible and craft replicas.
 
-Download the challenge badge pack to find out more about the requirements and activities.
+Become a botanist and improve your knowledge, or be inspired to compose your own poetry. Use this badge to "flower power" your unit activites.
 
-[Download challenge badge](/assets/docs/2024/challenge-badge-snow-is-falling-v3-1.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
+Badges cost £1.20 each (plus postage) and can be ordered from within the challenge pack.
+
+Download the challenge badge pack to find out more about the activities.
+
+[Download <span class="visually-hidden">Flower Power</span> challenge badge](/assets/docs/2025/challenge-badge-flower-power-v4.1.pdf){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noopener"}
 
 ### Other 1st Baldock Brownies challenge badges
 
-1st Baldock Brownies also have the previously featured Forest bathing, Flower power and Eggstraordinary Easter challenge badges to choose from. Please email the [county office](mailto:admin@girlguidinghertfordshire.org.uk) if you are interested in any of these.
+1st Baldock Brownies also have the previously featured Forest bathing, It's Christmas challenge badges to choose from. Please email the [county office](mailto:admin@girlguidinghertfordshire.org.uk) if you are interested in any of these.
 
 ## External Charity challenge badges
 
