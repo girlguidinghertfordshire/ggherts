@@ -9,7 +9,7 @@ event:
     contact_email: null
     contact_number: ''
     book_now_link: ''
-    image: /assets/images/2024/11/costalwalkjuly.webp
+    image: /assets/images/2025/02/walking-team-coastal.webp
     type:
         - Residential
         - Social
