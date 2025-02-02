@@ -15,6 +15,7 @@ You may be wondering, what is Inspire? [Inspire](https://www.girlguiding.org.uk/
 
 ## Find out more
 
+![Inspire Hertfordshire logo](/assets/images/2025/02/inspire-herts-logo.webp){:.float-md-end.ms-md-3.mb-3.mx-auto.d-block}
 If you would like to find out more about what the future holds for the Inspire community in Hertfordshire county, and how you can help shape it why not:
 
 [Sign up to the Inspire Hertfordshire mailing list](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwczGfA2WEfJBqWr-IKbcP0lUNUUwMThRV0VFNDRBMTdKNUtUV1BGRU5BUS4u){:rel="noopener"}{:target="_blank"}{:.external-link.btn.btn-primary}
@@ -23,6 +24,7 @@ If you would like to find out more about what the future holds for the Inspire c
 - Hertfordshire county Inspire Instagram [@gginspireherts](https://www.instagram.com/gginspireherts/){:rel="noopener"}{:target="_blank"}{:.external-link}
 - Hertfordshire county Inspire X  [@gginspireherts](https://x.com/gginspireherts){:rel="noopener"}{:target="_blank"}{:.external-link}
 - Hertfordshire county Inspire Tiktok @girlguidinginspireherts
+- [Hertfordshire county Inspire Facebook](https://www.facebook.com/share/164S9AsGdv/?mibextid=wwXIfr){:rel="noopener"}{:target="_blank"}{:.external-link}
 - [Inspire Anglia Region Facebook group](https://www.facebook.com/groups/472146129995847){:rel="noopener"}{:target="_blank"}{:.external-link}
 
 ![Inspire Anglia logo](/assets/images/2024/06/inspireanglia.webp){:.float-md-end.ms-md-3.mb-3.mx-auto.d-block}
