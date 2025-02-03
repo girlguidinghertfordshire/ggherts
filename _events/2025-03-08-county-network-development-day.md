@@ -60,7 +60,7 @@ Sessions are as follows:
 
 - Brownie craft
 - Budgets (for county lead volunteers only)
-- Supporting neurodiverse members in an inclusive and practical way
+- Supporting neurodiverse members in an inclusive and practical way **- fully booked**
 - Risk assessments.
 
 ### Session 4 (2.40-3.40pm)
