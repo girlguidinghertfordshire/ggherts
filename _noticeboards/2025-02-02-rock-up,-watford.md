@@ -16,4 +16,4 @@ We welcome groups of **Guides, Brownies, Rainbows** and more.
 
 For community groups of more than 10, a party buffet is available for purchase.
 
-For more information visit [Group Climbing Bookings](https://www.rock-up.co.uk/events-groups#groups){:.external-link}:{:rel="noopener"}{:target="_blank"} or email <groups@rock-up.co.uk>.
+For more information visit [Group Climbing Bookings](https://www.rock-up.co.uk/events-groups#groups){:.external-link}{:rel="noopener"}{:target="_blank"} or email <groups@rock-up.co.uk>.

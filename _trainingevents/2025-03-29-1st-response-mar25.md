@@ -9,7 +9,7 @@ event:
     contact_email: null
     contact_number: ''
     book_now_link: 'https://www.eventbrite.co.uk/e/girlguiding-hertfordshire-1st-response-course-tickets-1012788326147?aff=oddtdtcreator'
-    image: '/assets/images/2024/12/first-aid.webp'
+    image: '/assets/images/2025/01/frbooked.webp'
     type:
         - First aid
     age-group:
