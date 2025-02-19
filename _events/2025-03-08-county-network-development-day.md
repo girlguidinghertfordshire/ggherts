@@ -24,7 +24,7 @@ event:
 lastmod: '2022-01-25T20:32:22.789Z'
 ---
 {:.lead.fw-bold}
-Bookings are open from Monday 6 January (9am) - Friday 7 February.
+Bookings now closed.
 
 Taking place on Saturday 8 March at Howe Dell School in Hatfield, why not come along to this free county network and development day.
 

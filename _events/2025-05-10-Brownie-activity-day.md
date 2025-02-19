@@ -8,7 +8,7 @@ event:
     contact_name: null
     contact_email: null
     contact_number: ''
-    book_now_link: 'https://forms.office.com/e/F2UiX5dQeH'
+    book_now_link: null
     image: '/assets/images/2025/01/brownie-activity-day.webp'
     type:
         - Activity
@@ -30,4 +30,4 @@ A deposit of £15pp will be required to secure the places, and you will be conta
 
 Leaders will need to attend with their Brownies to maintain a ratio of 1:8.
 
-Bookings close on 14 February (or sooner if spaces full).
+Bookings now closed.

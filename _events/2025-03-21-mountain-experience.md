@@ -29,4 +29,4 @@ Cost: approx £70 (indoor accommodation, transport and all food provided).
 
 Please email the walking team on <walking@girlguidinghertfordshire.org.uk> to apply.
 
-Bookings close **Saturday 30 November**
+Bookings now closed for this years event.
