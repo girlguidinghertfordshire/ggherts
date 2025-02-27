@@ -13,8 +13,8 @@ description: Billboard is a monthly e-newsletter sent to all Girlguiding Hertfor
 
 ## Recent editions
 
-- [February 2024](https://mailchi.mp/323fc3c066e7/feb-2025-billboard-13900874){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
-- [January 2024](https://mailchi.mp/8767e058aac8/jan-2025-billboard-13899979){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
+- [February 2025](https://mailchi.mp/323fc3c066e7/feb-2025-billboard-13900874){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
+- [January 2025](https://mailchi.mp/8767e058aac8/jan-2025-billboard-13899979){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [December 2024](https://mailchi.mp/743528b011e8/dec-2024-billboard-13899646){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [November 2024](https://mailchi.mp/f91632647408/nov-2024-billboard-13899153){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [October 2024](https://mailchi.mp/5050ee438db7/oct-2024-billboard-13898492){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
