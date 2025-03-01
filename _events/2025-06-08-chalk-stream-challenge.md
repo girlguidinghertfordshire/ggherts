@@ -19,7 +19,7 @@ event:
     location:
         - Buckinghamshire
 ---
-Bring your Rainbows, Brownies or Guides to complete their Chalk Stream challenge badge along the lovely River Chess with the walking team on **Sunday 8 July.**
+Bring your Rainbows, Brownies or Guides to complete their Chalk Stream challenge badge along the lovely River Chess with the walking team on **Sunday 8 June.**
 
 An easy walking 4k circular walking route on good paths through meadow, woodland, and along the chalk stream.
 
@@ -35,4 +35,4 @@ At least one leader from each unit must attend with their girls, additional 'rat
 
 Information and consent forms will be required for this activity and units will need to arrange their own home emergency contact.  
 
-Nearer the time, a member from the walking team will contact you to confirm your booking and to take payment of £5 per girl which includes all activities and an event badge.
+Nearer the time, a member from the walking team will contact you to confirm your booking and to take payment of **£5 per girl** which includes all activities and an event badge.
