@@ -35,7 +35,7 @@ Please email your signed and dated Booking Terms and Conditions to the Bookings 
 
 <div class="alert bg-secondary text-white">
 <h3>Re-opening offer</h3>
-<p>To celebrate the re-opening of Hertfordshire County Guide Centre, following phase 1 of the refurbishments, Girlguiding Hertfordshire members have an exclusive <strong>leaders required for ratios go free offer</strong> for all bookings between 22 April and 31 August 2025.</p>
+<p>To celebrate the re-opening of Hertfordshire County Guide Centre, following phase 1 of the refurbishments, Girlguiding Hertfordshire members have an exclusive <strong>leaders required for ratios go free offer</strong> for all bookings between 2 June and 31 August 2025.</p>
 </div>
 
 [2024 Booking Fees](/assets/docs/2024/hertfordshire-guide-centre-2024-fees.pdf){:.btn.btn-secondary.download-link} [Booking Terms and Conditions](/assets/docs/2023/hgc-booking-conditions-may-23.pdf){:.btn.btn-secondary.download-link}{:target="_blank"}{:rel="noreferrer noopener"}(Updated May 2023)

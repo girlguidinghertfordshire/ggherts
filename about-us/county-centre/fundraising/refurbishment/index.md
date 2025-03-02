@@ -3,11 +3,15 @@ layout: page-v5
 title: Refurbishment project progress
 date: 2024-11-07T08:04:00Z
 toc: about-us
+carousel: true
 ---
-Phase 1 works of the county centre refurbishment project are due to commence on Monday 2 December 2024.  This much anticipated start to re-modernising the centre, and making it more inclusive for all, has at last arrived!
+Phase 1 works of the county centre refurbishment project commenced on Monday 2 December 2024. 
 
-Phase 1 includes accessible wet rooms, dormitory space and a new main entrance for greater accessibility and prominence.
+Works are now well underway to modernise the centre, making it more inclusive for all.  Phase 1 includes accessible wet rooms, dormitory space and a new main entrance for greater accessibility and prominence.
 
-This page will be updated as works progress to keep you informed.
+Take a look at the photos below and see how the project is progressing.
 
-Your fundraising efforts are still very much needed, and appreciated, to help raise funds for phase 2 works.
+{:.slider.w-md-75.w-lg-50}
+{% include slider.html slider="county-centre" %}
+
+Your fundraising efforts are still very much needed, and appreciated, to help raise funds for phase 2 of this exciting project.

@@ -13,3 +13,5 @@ Did you know you can support us and raise money every time you shop online? And 
 3. Simply start your shopping journey and the retailer you shop with send us a free donation based on your spending and with no additional cost to you.
 
 Registering yourself takes just 2 minutes and all you need is your email address.
+
+![QR code for easyfundraising](/assets/images/2025/03/easyfundraising-QR.webp){:.img-fluid.d-md-block.mx-auto}
