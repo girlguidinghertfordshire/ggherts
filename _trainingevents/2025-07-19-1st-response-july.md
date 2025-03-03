@@ -1,5 +1,5 @@
 ---
-title: '1st response course'
+title: 'External first aid course'
 date: 2025-03-01T16:09:00Z
 event:
     start_date: '2025-07-19'
