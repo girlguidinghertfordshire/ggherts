@@ -13,6 +13,8 @@ event:
     type:
         - Walking
     age-group:
+        - Rangers
+        - Young leaders
         - Inspire
         - Leaders
         - Adults
@@ -20,10 +22,8 @@ event:
     location:
         - Peak District
 ---
-Save the date
-
-Join the Anglia region walking team from Friday 7 - Sunday 9 November at Whiteley Wood Outdoor Activity Centre in Sheffield and explore the Peak District.
+Members aged 16+ are invited to join the Anglia region walking team from Friday 7 - Sunday 9 November at Whiteley Wood Outdoor Activity Centre in Sheffield and explore the Peak District.
 
 There will be 3 sessions: training, assessment and social walking.
 
-More details, including costs and how to book, will follow shortly.
+For more information and to register interest, email <walking@girlguiding-anglia.org.uk>.

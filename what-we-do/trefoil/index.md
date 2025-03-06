@@ -26,4 +26,6 @@ The Hertfordshire County Trefoil Team are:
 
 They can be contacted by email: <trefoil@girlguidinghertfordshire.org.uk>
 
+![Trefoil AGM, 5 April, 1.30pm, Welwyn Garden City](/assets/images/2025/03/trefoil-agm.webp){:.img-fluid.d-block}
+
 The National Trefoil Guild Website can be found at: <https://www.trefoilguild.co.uk/>{:.external-link}{:target="_blank"}{:rel="noopener"}

@@ -25,3 +25,5 @@ Save the date.
 Join the walking team for a weekend of coastal walking from **Saturday 5 - Sunday 6 July.** The focus will be on walks that you can do with your girls and are accessible by train from London.
 
 More details to follow
+
+Accommodation will be in a bunkhouse so the weekend will be low cost.

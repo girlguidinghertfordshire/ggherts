@@ -8,7 +8,7 @@ event:
     contact_name: null
     contact_email: null
     contact_number: ''
-    book_now_link: null
+    book_now_link: ''
     image: '/assets/images/2025/01/brownie-activity-day.webp'
     type:
         - Activity
@@ -31,3 +31,7 @@ A deposit of £15pp will be required to secure the places, and you will be conta
 Leaders will need to attend with their Brownies to maintain a ratio of 1:8.
 
 Bookings now closed.
+
+## Volunteers required
+
+If you have some free time on this day and are NOT attending with your own young members, please do come along and help ensure the day runs smoothly. Find out about [volunteering.](/news/brownie-activity-day)
