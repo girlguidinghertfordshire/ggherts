@@ -25,7 +25,7 @@ Further details can be found here: [Badges and bespoke - Brand guidelines (foleo
 ![Badge for Sangam 2025 challenge](/assets/images/2025/03/sangam-2025-challenge-badge.webp){:.ms-3.mb-3.float-end}
 This vibrant and exciting county challenge badge has been created by the young members from Hertfordshire who will be going on an adventure of a lifetime this summer to Sangam in India, where they will complete a Brave Space II project centred around leadership and community action.
 
-As well as amazing cultural events and traditional experiences, the group will also visit Dehli, Agra, an elephant conservation and reservation centre.
+As well as amazing cultural events and traditional experiences, the group will also visit Dehli, Agra, an elephant conservation and rescue centre.
 
 Help the group reach their fundraising target for this trip by completing this challenge and purchasing the vibrant badge. 
 
@@ -39,7 +39,7 @@ Badges cost £1.50 each plus postage and can be ordered either by post using the
 
 Download the challenge badge pack to find out more about the requirements and activities.
 
-[Download <span class="visually-hidden">Sangam </span>challenge pack](/assets/docs/2025/challenge-badge-sangam-2025.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [Golf certificate](/assets/docs/2024/girls-golf-certificate.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [<span class="visually-hidden">Sangam 2025 </span>Badge order form](https://forms.office.com/e/Rc6QcS4NLi){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
+[Download <span class="visually-hidden">Sangam </span>challenge pack](/assets/docs/2025/challenge-badge-sangam-2025.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [<span class="visually-hidden">Sangam 2025 </span>Badge order form](https://forms.office.com/e/Rc6QcS4NLi){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
 
 ### Girls Golf challenge badge
 
