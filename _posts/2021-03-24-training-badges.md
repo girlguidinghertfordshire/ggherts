@@ -1,6 +1,6 @@
 ---
 title: Training badges
-date: 2025-03-022T07:32:00Z
+date: 2025-03-22T07:32:00Z
 image: /assets/images/2023/06/training-badge.webp
 categories:
   - Training
