@@ -2,7 +2,7 @@
 title: 'Camp skills weekend'
 date: 2024-07-27T07:22:00 +01:00
 event:
-    start_date: '2025-06-07'
+    start_date: '2025-06-06'
     end_date: '2025-06-08'
     address: null
     contact_name: null
@@ -21,7 +21,7 @@ event:
     location:
         - 'Hertfordshire, Central'
 ---
-Taking place at Morven Guide Headquarters in Potters Bar from 10am Saturday 7 - 3pm Sunday 8 June this weekend is set to be full of fun and adventure, whilst gaining lots of skills.
+Taking place at Morven Guide Headquarters in Potters Bar, from 6pm Friday 6 June* - 3pm Sunday 8 June this weekend is set to be full of fun and adventure, whilst gaining lots of skills.
 
 This exciting opportunity, aimed at both Guides wishing to complete their [Guide camp permit](https://www.girlguiding.org.uk/what-we-do/our-badges-and-activities/badge-finder/guide-camp-permit/){:.external-link}{:rel="noopener"}{:target="_blank"} and Rangers and young leaders their [Lead Away permit](https://www.girlguiding.org.uk/what-we-do/our-badges-and-activities/badge-finder/lead-away-permit/){:.external-link}{:rel="noopener"}{:target="_blank"} will give girls the experience and knowledge, to build upon, for many future camping adventures and opportunities with their friends.
 
@@ -29,7 +29,9 @@ This exciting opportunity, aimed at both Guides wishing to complete their [Guide
 
 One leader must attend with Guides but Rangers/young leaders can attend without a leader. There is no charge for leaders.
 
-Places are limited to 80, so don't delay. 
+Places are limited to 80, so don't delay.
+
+*Girls and their leader(s) can attend from 10am on Saturday morning, if they are unable to arrive on the Friday night. Cost will remain the same.
 
 Apply on behalf of your unit before Friday 4 April.
 
