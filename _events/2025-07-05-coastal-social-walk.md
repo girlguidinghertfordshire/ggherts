@@ -18,12 +18,20 @@ event:
         - Leaders
         - Adults
     location:
-        - TBC
+        - East Sussex
 ---
-Save the date.
+Join the county walking team, take in the East Sussex sea air, and enjoy a weekend of coastal walking from **Saturday 5 - Sunday 6 July**. The focus will be on walks that you can do with your girls and that are accessible by train from London.
 
-Join the walking team for a weekend of coastal walking from **Saturday 5 - Sunday 6 July.** The focus will be on walks that you can do with your girls and are accessible by train from London.
+You will have a choice of either the Seven Sisters coastal walk, or the Birling Gap to Eastbourne walk. Both roughly 12km. Public transport will be used to return from both walks.
 
-More details to follow
+Accommodation will be in a bunkhouse and cost £52 for both nights.
 
-Accommodation will be in a bunkhouse so the weekend will be low cost.
+Food is available at the hostel, or you can bring your own, however, you must bring your own packed lunches for both days. 
+
+Spaces are limited.
+
+You will need to make your own way there.
+
+For further enquires or to register an interest email <walking@girlguidinghertfordshire.org.uk>
+
+Bookings close 1 June.
