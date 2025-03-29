@@ -53,7 +53,8 @@ about-us:
         url: /about-us/county-centre/risk-assessments/
       - title: Contact us
         url: /about-us/county-centre/contact-us/
-  
+  - title: Jobs
+    url: /about-us/jobs/
   - title: County archives
     url: /about-us/county-archives/
 get-involved:
