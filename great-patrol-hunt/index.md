@@ -43,7 +43,9 @@ Round 1 of this year's Great Patrol Hunt saw 170 Guides navigate Wheathampstead 
 
 [Download round 1 results](/assets/docs/2024/gph-2425-r1-results.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
 
-[Round 2](/event/gph-r2/) will be open for bookings soon, so it's not too late to join in.
+Round 2 of the Great Patrol Hunt was completed on 29 March 2025.
+
+[Download round 2 results](/assets/docs/2025/gph-r2-24-25-results.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
 
 ## 2023/24 results
 

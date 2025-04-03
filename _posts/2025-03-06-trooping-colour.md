@@ -2,6 +2,7 @@
 title: Trooping the Colour 2025
 date: 2025-03-06T19:57:00Z
 image: /assets/images/2025/03/trooping-colour-2025.webp
+published: false
 categories:
   - Announcements
 author:

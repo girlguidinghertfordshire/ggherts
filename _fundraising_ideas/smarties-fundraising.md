@@ -1,6 +1,7 @@
 ---
 title: Smarties fundraising
 date: 2024-03-07T20:44
+order: 5
 ---
 Silver Smarties is an easy way to help raise money for HGC. Give parents and young members (and anyone else who would like to be involved) as tube of Smarties and ask them to please return the tube, filled with 20p pieces, by a certain date.
 

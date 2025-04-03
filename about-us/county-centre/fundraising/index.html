@@ -60,7 +60,8 @@ description: Help us raise funds for the refurbishment of Hertfordshire Guide Ce
             <div><a href="/assets/docs/2024/charity-gift-aid-declaration-herts-gg.pdf" class="btn btn-primary download-link" rel="noopener" target="_blank">Gift Aid form</a></div>
         </div>
         <h2>Fundraising ideas</h2>
-        {% for idea in site.fundraising_ideas %}
+        {% assign ideas = site.fundraising_ideas | sort: 'order' %}
+        {% for idea in ideas %}
         <h3 class="h4">{{ idea.title }}</h3>
         <p>{{ idea.excerpt }}</p>
         <div><a href="{{ idea.url }}" class="btn btn-sm btn-primary">Read more <span class="visually-hidden">about {{

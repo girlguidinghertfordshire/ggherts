@@ -20,6 +20,7 @@ collections:
     fundraising_ideas:
       output: true
       permalink: /about-us/county-centre/fundraising/ideas/:title/
+      sort_by: order
     trainingevents:
       output: true
       permalink: /training/:title/

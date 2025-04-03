@@ -1,7 +1,7 @@
 ---
-title: Training badges
+title: Training and developmental badges
 date: 2025-03-22T07:32:00Z
-image: /assets/images/2023/06/training-badge.webp
+image: /assets/images/2025/04/owl-badges.webp
 categories:
   - Training
   - Badges
@@ -10,20 +10,19 @@ author:
   display_name: county office
 permalink: /training-badges/
 ---
-{:.lead"}
-As a "thank you" for the time you put into training, we invite you to log the hours of training you complete and claim a pin badge when you reach milestones.
+As a “thank you” for the time you give up, we invite you to log the hours of training and personal development you complete for Girlguiding and claim an owl pin badge when you reach each milestone.
 
-You can download the log sheet training record below:
+You can download the log sheet below:
 
 [Training record](/assets/docs/2025/training-record.docx){:.btn.btn-primary.download-link}
 
 ## Claiming your limited-edition Owl training badges
 
-Keep a record of your time spent on [training*](#backdate "Training can be backdated to January 2021"), both in person and online.  Each time you have reached ten hours (up to 40), claim your Owl badge from your division/district commissioner.
+Keep a record of your time spent on [training*](#backdate "Training can be backdated to January 2021"), either in person, online or on the learning platform. Whether this is a mandatory first aid or safer guiding course, additional training to enhance your skills or becoming an expert in a given area.
 
-These badges were purchased with money donated to us by Anglia region to support and encourage training of our volunteers.
+Each time you reach 10 hours (up to a maximum of 40), claim your owl badge from your division or district commissioner.
 
-Thank you for the time you have invested in training.
+We thank you for the time you have given to train for your Girlguiding role(s).
 
 ![Quote: The beautiful thing about learning is that nobody can take it away from you - B.B. King](/assets/images/2023/06/training-badges-post1.webp){:width="300"}{:height="300"}{:.img-fluid}
 

@@ -15,7 +15,13 @@ Guide and Ranger members aged 14-18 who want to travel the world with Girlguidin
 If you have any queries please contact the International team via <international@girlguidinghertfordshire.org.uk>
 
 <div class="alert alert-info" markdown="1">
-## Help lead and inspire our members on an international adventure
+## Applications now open
 
-If you would be interested in being a part of the leadership team for future county internationals please get in touch with the [international team](mailto:international@girlguidinghertfordshire.org.uk){:.alert-link}.
+The international selection day for county trips in 2026/27 is taking place on Saturday 17 May 2025 from 10am - 3pm in Hatfield. 
+
+Applications are welcomed from **young members** aged 12-18 years old and **adult leaders** who would be interested in either taking young members away on trips both within the UK and abroad or being part of the **leadership team** for an adult only international adventure.
+
+Closing date for applications is Friday 9 May.
+
+Find out more and how to apply here: <https://www.girlguidinghertfordshire.org.uk/event/international-selection-day/>{:.alert-link}.
 </div>

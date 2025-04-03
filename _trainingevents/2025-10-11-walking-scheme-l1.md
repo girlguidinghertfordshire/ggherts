@@ -15,6 +15,8 @@ event:
         - Social
         - Walking
     age-group:
+        - Ranges
+        - Young leaders
         - Inspire
         - Leaders
         - Adults
@@ -22,6 +24,10 @@ event:
     location:
         - 'Hertfordshire, Central'
 ---
-Would you like to feel more confident taking your girls out and about? Do you need help with route planning and risk assessments? Do you wish you could confidently read a map? Then this walking scheme level 1 training day (including water safety training), taking place in central Hertfordshire on Saturday 11 October is perfect for you.
+Would you like to feel more confident taking your girls out and about? Do you need help with route planning and risk assessments? Do you wish you could confidently read a map?
+
+This walking scheme level 1 training day (including water safety training) on Saturday 11 October, open to those aged 16+, is perfect for you.
+
+Taking place in central Hertfordshire, exact location to be confirmed.
 
 Book your place by emailing <walking@girlguidinghertfordshire.org.uk>.

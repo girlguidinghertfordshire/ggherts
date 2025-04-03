@@ -9,7 +9,7 @@ event:
     contact_email: null
     contact_number: ''
     book_now_link: ''
-    image: '/assets/images/2024/07/camp-permits.webp'
+    image: '/assets/images/2025/04/camp-skills.webp'
     type:
         - Activity
         - Residential
@@ -21,19 +21,23 @@ event:
     location:
         - 'Hertfordshire, Central'
 ---
-Taking place at Morven Guide Headquarters in Potters Bar, from 6pm Friday 6 June* - 3pm Sunday 8 June this weekend is set to be full of fun and adventure, whilst gaining lots of skills.
+Taking place at Morven Guide Headquarters in Potters Bar, from 6pm Friday 6 June* - 3pm Sunday 8 June, this weekend is set to be full of fun and adventure, whilst gaining lots of skills.
 
-This exciting opportunity, aimed at both Guides wishing to complete their [Guide camp permit](https://www.girlguiding.org.uk/what-we-do/our-badges-and-activities/badge-finder/guide-camp-permit/){:.external-link}{:rel="noopener"}{:target="_blank"} and Rangers and young leaders their [Lead Away permit](https://www.girlguiding.org.uk/what-we-do/our-badges-and-activities/badge-finder/lead-away-permit/){:.external-link}{:rel="noopener"}{:target="_blank"} will give girls the experience and knowledge, to build upon, for many future camping adventures and opportunities with their friends.
+Open to any girl who is wanting to get more camping experience.
+
+Also, a great option for those leaders who do not have their own going away with licence, to offer something new to their girls.
+
+This weekend will involve working on the camp skills builders, as well as other activities.
 
 £30 per young member (payment will be requested by way of invoice after booking).
 
 One leader must attend with Guides but Rangers/young leaders can attend without a leader. There is no charge for leaders.
 
-Places are limited to 80, so don't delay.
+Places are limited to 80, so don’t delay.
 
 *Girls and their leader(s) can attend from 10am on Saturday morning, if they are unable to arrive on the Friday night. Cost will remain the same.
 
-Apply on behalf of your unit before Friday 4 April.
+Apply on behalf of your unit before Friday 25 April (deadline extended from 4 April).
 
 Any questions please email <outdoor@girlguidinghertfordshire.org.uk>
 

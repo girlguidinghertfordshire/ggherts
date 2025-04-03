@@ -20,6 +20,21 @@ Further details can be found here: [Badges and bespoke - Brand guidelines (foleo
 
 ## County challenge badges
 
+### Frog quest challenge badge
+
+![Frog quest challenge badge design](/assets/images/2025/04/frog-quest-challenge-badge.webp){:.ms-3.mb-3.float-end}
+This fun, frog shaped and themed challenge badge has been created to support the fundraising efforts for the refurbishment of our county centre in Cottered, helping make it accessible to all with all profits going  towards phase 2 works.
+
+You can learn more about the refurbishment project here: <https://www.girlguidinghertfordshire.org.uk/about-us/county-centre/fundraising/>
+
+There are 4 sections to this challenge pack: arts and crafts, environment and sustainability, food and charity fundraising. Each contains 10 activities and there's something suitable for every guiding section.
+
+Badges cost £1.20 each (plus postage) and can be ordered using the order form at the end of the challenge pack or via the online form below. Please note badges will be available from the beginning of May. Collection of badge orders at the Brownie activity day can be arranged, to save on postage costs, for those attending.
+
+Download the challenge pack to find out more about the requirements and activities.
+
+[Download <span class="visually-hidden">frog quest</span> challenge pack](/assets/docs/2025/challenge-badge-frog-question.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [<span class="visually-hidden">Frog quest </span>Badge order form](https://forms.office.com/e/G5LjkPhssR){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
+
 ### Sangam 2025 challenge badge
 
 ![Badge for Sangam 2025 challenge](/assets/images/2025/03/sangam-2025-challenge-badge.webp){:.ms-3.mb-3.float-end}
