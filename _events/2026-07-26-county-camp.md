@@ -37,4 +37,4 @@ Further details to follow.
 
 If you would like to be part of the planning team for this county camp, please register your interest via the online form:
 
-[Planning team register of interest](https://forms.office.com/e/7RfahnkXji){.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
+[Planning team register of interest](https://forms.office.com/e/7RfahnkXji){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
