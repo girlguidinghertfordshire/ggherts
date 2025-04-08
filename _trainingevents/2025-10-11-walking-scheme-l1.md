@@ -15,7 +15,7 @@ event:
         - Social
         - Walking
     age-group:
-        - Ranges
+        - Rangers
         - Young leaders
         - Inspire
         - Leaders
