@@ -101,7 +101,7 @@ Download the challenge badge pack to find out more about the activities.
 
 ### Other 1st Baldock Brownies challenge badges
 
-1st Baldock Brownies also have the previously featured Forest bathing, It's Christmas challenge badges to choose from. Please email the [county office](mailto:admin@girlguidinghertfordshire.org.uk) if you are interested in any of these.
+1st Baldock Brownies also have the previously featured *Forest bathing* and *It's Christmas* challenge badges to choose from. Please email the [county office](mailto:admin@girlguidinghertfordshire.org.uk) if you are interested in any of these.
 
 ## External Charity challenge badges
 
