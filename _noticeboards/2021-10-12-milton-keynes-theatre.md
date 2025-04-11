@@ -1,6 +1,6 @@
 ---
 title: Milton Keynes Theatre shows
-date: 2024-06-15T07:22:00 +01:00
+date: 2025-04-11T08:04:00 +01:00
 image: /assets/images/2021/10/miltonkeynestheatre.webp
 image_filter: false
 categories:
@@ -13,20 +13,27 @@ Milton Keynes Theatre have lots of fabulous shows coming up, many of which offer
 
 Please see the below overview of shows which provides more details on upcoming shows including:
 
-- Dear Evan Hansen: Tues 28 Jan - Sat 1 Feb 2025
-  - Exclusive uniform group rate £15 (Tues-Fri Bands B-D*), plus 1 free leader for every 10 paid tickets.
-- Eur-Me Ahn - Dragons: Fri 7 - Sat 8 March 2025
-  - Exclusive uniform group rate £15 (bands B/C) plus 1 free leader for every 10 tickets sold.
 - Swan Lake The Next Generation: Tues 15 - Sat 19 April 2025
   - Exclusive uniform group rate £20 (Tues-Thurs Bands C-D*), plus 1 free leader for every 10 paid tickets.
 - War Horse: Tues 22 April - Sat 3 May 2025
   - Limited availability youth group offer rate £22 (Tues 22 April - Thurs 1 May Bands B-D) plus 1 free leader for every 10 paid children's tickets.
 - Welsh National Opera: Thurs 15 - Sat 17 May 2025
   - Youth group offer rate £15 (Thurs 15 and Sat 17 May bands A-D) plus 1 free leader for every 10 paid children's tickets
-- The Lion, the Witch and the Wardrobe: Tues 22 - Sat 26 July 2025
-  - Youth group offer rate £20 (Tues 22 - Thurs 24 July bands B-D (F eve)) plus 1 free leader for every 10 paid children's tickets
+- The Lion, the Witch and the Wardrobe: Tues 22 - Sat 26 July 2025 (age guidance 6+)
+  - Youth group offer rate £20 (Wed 23 - Thurs 24 July 2pm performance bands B-D) plus 1 free leaders for every 10 paid children's tickets
 - Joseph and the Amazing Technicolor Dreamcoat: Wed 6 - Sun 10 August 2025
   - Youth group offer rate £18 (Wed 6 and Thurs 7 August bands B-D) plus 1 free leader for every 10 paid children's tickets.
+- 2:22 A Ghost Story: Mon 15 - Fri 19 September 2025 (age guidance 12+)
+  - Youth group offer rate £17 (Mon 15 - Thurs 18 September, bands A-D) plus 1 leader goes free with every 10 paid children's tickets.
+- Top Hat: Tues 23 - Sat 27 September 2025
+  - Youth group offer rate £10 off (Tues 23 - Thurs 25 September, bands B-C) plus 1 leader goes free with every 10 paid children's tickets.
+- Sunny Afternoon: Tues 24 - Sat 28 March 2026  (age guidance 12+)
+  - Youth group offer rate £18 (Tues 24 - Fri 27 March, bands B-C) plus 1 leaders goes free with every 10 paid children's tickets.
+- To Kill a Mockingbird: Tues 19 - Sat 23 May 2026 (age guidance 12+)
+  - Youth group offer rate £20 (Tues 19 - Thurs 21 May, bands A-C) plus 1 leader goes free with every 10 paid children's tickets.
+- Matilda The Musical: Wed 28 Oct - Sat 14 Nov 2026 (age guidance 6+)
+  - Youth group offer rate £20 (Tues - Thursday performances, Bands B-C)
+
 *subject to availability and change
 
 ![2024-25 Panto: Peter Pan](/assets/images/2025/01/goldilocks-panto.webp){:.img-fluid.my-3.d-block.mx-auto}{:loading="lazy"}
