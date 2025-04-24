@@ -16,13 +16,6 @@ groups:
         person_intro: Works with members and volunteers across the county to make Girlguiding Hertfordshire more sustainable and environmentally friendly.
         vacancyurl: /get-involved/vacancies/#county-environment-and-sustainability-lead-volunteer
   
-  - group: membership-support
-    roles:
-      - order: 8.5
-        job_title: County finance administrator
-        person_intro: Dealing with the day to day operational activities, including recording expenses and invoices, creating payment requests and supporting budget holders.
-        emailx: CTreasurer@girlguidinghertfordshire.org.uk
-        vacancyurl: /about-us/jobs/
 image: null
 thumbnail: null
 ---

@@ -2,8 +2,8 @@
 title: '1st response course'
 date: 2025-03-29T08:27:00Z
 event:
-    start_date: '2025-05-08'
-    end_date: '2025-05-22'
+    start_date: '2025-05-22'
+    end_date: '2025-06-05'
     address: null
     contact_name: null
     contact_email: null
@@ -22,7 +22,9 @@ event:
     location:
         - 'Hertfordshire, St Albans'
 ---
-This 1st response course in **St Albans,** for those requiring the qualification, is taking place over 2 evening sessions; session 1 on Thursday 8 May and session 2 on Thursday 22 May. Both sessions will run from 6.30 - 9.30pm. 
+*Please note this course was previously advertised as session 1 on Thursday 8 May and session 2 on Thursday 22 May.*
+
+This 1st response course in **St Albans,** for those requiring the qualification, is taking place over 2 evening sessions; session 1 on Thursday 22 May and session 2 on Thursday 5 June. Both sessions run from 6.30 - 9.30pm.
 
 **Cost:** £20 (non-refundable). The course organiser will contact you to provide payment details.
 

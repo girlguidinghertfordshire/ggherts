@@ -1,6 +1,7 @@
 ---
 title: 'County Inspire day'
 date: 2024-12-15T07:27:00Z
+published: false
 event:
     start_date: '2025-05-10'
     end_date: ''
