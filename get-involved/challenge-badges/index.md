@@ -29,7 +29,7 @@ You can learn more about the refurbishment project here: <https://www.girlguidin
 
 There are 4 sections to this challenge pack: arts and crafts, environment and sustainability, food and charity fundraising. Each contains 10 activities and there's something suitable for every guiding section.
 
-Badges cost £1.20 each (plus postage) and can be ordered using the order form at the end of the challenge pack or via the online form below. Please note badges will be available from the beginning of May. Collection of badge orders at the Brownie activity day can be arranged, to save on postage costs, for those attending.
+Badges cost £1.20 each (plus postage) and can be ordered using the order form at the end of the challenge pack or via the online form below.
 
 Download the challenge pack to find out more about the requirements and activities.
 
@@ -71,21 +71,7 @@ Badges cost £1.20 each plus postage.  Download the challenge badge pack to find
 
 ## 1st Baldock Brownies challenge badges
 
-### ![Eggstraordinary Easter badge](/assets/images/2025/02/eggstraordinary-easter-badge.webp){:.float-end.m-2} Eggstraordinary Easter challenge badge
-
-
-As we look forward to the season changing and signs of spring, why not draw inspiration for the Eggstraordinary Easter challenge badge.
-
-Jam packed with cooking, craft, nature and photography ideas, there is something for all sections and even includes links to skill builders.
-
-Badges cost £1.30 each (plus postage) and can be ordered from within the challenge pack.
-
-Download the challenge badge pack to find out more about the activities.
-
-[Download <span class="visually-hidden">Eggstraordinary Easter</span> challenge badge](/assets/docs/2025/challenge-badge-eggstraordinary-easter-v4.1.pdf){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noopener"}
-
 ### ![Flower Power badge](/assets/images/2025/02/flower-power-badge.webp){:.float-end.m-2} Flower Power challenge badge
-
 
 Ideal for spring and summer, why not focus on all things floral?
 
@@ -101,7 +87,7 @@ Download the challenge badge pack to find out more about the activities.
 
 ### Other 1st Baldock Brownies challenge badges
 
-1st Baldock Brownies also have the previously featured *Forest bathing* and *It's Christmas* challenge badges to choose from. Please email the [county office](mailto:admin@girlguidinghertfordshire.org.uk) if you are interested in any of these.
+1st Baldock Brownies also have the previously featured *Forest bathing*, *It's Christmas* and *Eggstraordinary Easter* challenge badges to choose from. Please email the [county office](mailto:admin@girlguidinghertfordshire.org.uk) if you are interested in any of these.
 
 ## External Charity challenge badges
 

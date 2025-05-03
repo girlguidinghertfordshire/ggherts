@@ -1,6 +1,7 @@
 ---
 title: Subscriptions 2025
 date: 2024-10-10T21:24:00 +01:00
+published: false
 image: /assets/images/2024/10/subscription.webp
 categories:
   - Announcements
