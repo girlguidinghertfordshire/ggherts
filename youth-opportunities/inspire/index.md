@@ -11,6 +11,10 @@ author:
 
 You may be wondering, what is Inspire? [Inspire](https://www.girlguiding.org.uk/what-we-do/inspire/){:rel="noopener"}{:target="_blank"}{:.external-link} is the Girlguiding offering for all 18-30 year olds. It doesn’t matter what your everyday role or level of interaction with Girlguiding is, all members within this age range are automatically part of Inspire. It is a place where you can make new friends, learn new skills and take advantage of the many awards and opportunities on offer. This can include completing Girlguiding qualifications and awards such as the Queens Guide award or Duke of Edinburgh Award, volunteering at events in the future, making your voice heard as a Girlguiding advocate, developing new skills or helping to train other members and share your knowledge and experience.
 
+## Awards committee opportunity
+
+The county awards committee is looking for a member of the Girlguiding Inspire community (ages 18-30 years) to join them. Find out more about this exciting opportunity and how to apply on the [Volunteer vacancies webpage.](/get-involved/vacancies/#awards-committee-member-inspire)
+
 {% include region-inspire-challenge.html %}
 
 ## Find out more

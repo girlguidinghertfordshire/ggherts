@@ -13,10 +13,6 @@ Milton Keynes Theatre have lots of fabulous shows coming up, many of which offer
 
 Please see the below overview of shows which provides more details on upcoming shows including:
 
-- Swan Lake The Next Generation: Tues 15 - Sat 19 April 2025
-  - Exclusive uniform group rate £20 (Tues-Thurs Bands C-D*), plus 1 free leader for every 10 paid tickets.
-- War Horse: Tues 22 April - Sat 3 May 2025
-  - Limited availability youth group offer rate £22 (Tues 22 April - Thurs 1 May Bands B-D) plus 1 free leader for every 10 paid children's tickets.
 - Welsh National Opera: Thurs 15 - Sat 17 May 2025
   - Youth group offer rate £15 (Thurs 15 and Sat 17 May bands A-D) plus 1 free leader for every 10 paid children's tickets
 - The Lion, the Witch and the Wardrobe: Tues 22 - Sat 26 July 2025 (age guidance 6+)
