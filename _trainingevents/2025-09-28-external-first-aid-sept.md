@@ -1,6 +1,6 @@
 ---
 title: 'External first aid course'
-date: 2025-05-28T07:24:00 +01:00
+date: 2025-05-03T07:24:00 +01:00
 event:
     start_date: '2025-09-28'
     end_date: ''

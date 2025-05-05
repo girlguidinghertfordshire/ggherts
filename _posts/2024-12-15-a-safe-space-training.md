@@ -22,7 +22,7 @@ There are 2 types of safer guiding training:
 - Safer guiding and  
 - Safer guiding basics.
 
-Volunteers who have any contact with girls will need to complete the **safer guiding course.** This has 4 topics and replaces a safe space levels 1, 2 and 3. Each of the 4 sections is followed by an end of topic quiz. All 4 must be passed to complete the course and you have 3 attempts at each. If after 3 attempts you have not passed the quiz that section will be locked. You should continued to work through the training and complete all 4 sections.
+Volunteers who have any contact with girls will need to complete the **safer guiding course.** This has 4 topics and replaces a safe space levels 1, 2 and 3. Each of the 4 sections is followed by an end of topic quiz. All 4 must be passed to complete the course and you have 3 attempts at each. If after 3 attempts you have not passed the quiz that section will be locked. You should continue to work through the training and complete all 4 sections.
 
 After completing the training, if you failed 1 of the quizzes you must let your commissioner know and they will arrange for a safer guiding qualified trainer to contact you to discuss the specific topic.
 
