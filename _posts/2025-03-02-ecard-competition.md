@@ -1,6 +1,7 @@
 ---
 title: Thank you ecard design competition
 date: 2025-03-02T07:59:00Z
+published: false
 image: /assets/images/2025/03/ecard-design.webp
 categories:
   - Announcements

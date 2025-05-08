@@ -30,6 +30,4 @@ This 1st response course in **St Albans,** for those requiring the qualification
 
 Uniform is not required.
 
-Bookings close **Thursday 15 May.**
-
 Members from **outside Hertfordshire county** interested in attending this training are asked to book **only in the 2 weeks immediately prior to the course date,** if spaces are available.
