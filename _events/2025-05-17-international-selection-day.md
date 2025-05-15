@@ -1,6 +1,7 @@
 ---
 title: 'County international selection day'
 date: 2025-03-06T19:37:00Z
+published: false
 event:
     start_date: '2025-05-17'
     end_date: ''
