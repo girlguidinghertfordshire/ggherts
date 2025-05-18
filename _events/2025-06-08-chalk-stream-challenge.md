@@ -31,6 +31,6 @@ Starting times will be staggered from 10am-1pm.
 
 More information and how to apply via the booking form below.
 
-Closing date 18 May.
+Closing date extended to 23 May.
 
 [Booking form](/assets/docs/2025/chalk-stream-challenge-badge-event-booking-form.docx){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noopener"} [Information and consent form](/assets/docs/2025/chalk-stream-challenge-info.pdf){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noopener"}
