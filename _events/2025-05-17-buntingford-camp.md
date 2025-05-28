@@ -1,6 +1,7 @@
 ---
 title: 'Lightweight hike and camp weekend'
 date: 2025-02-19T21:01:00Z
+published: false
 event:
     start_date: '2025-05-17'
     end_date: '2025-05-18'

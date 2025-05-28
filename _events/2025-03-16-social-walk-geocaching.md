@@ -1,6 +1,7 @@
 ---
 title: Social walk including geocaching
 date: 2024-11-10T16:44:00Z
+published: false
 event:
     start_date: '2025-03-16'
     end_date: ''

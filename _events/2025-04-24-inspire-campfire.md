@@ -1,6 +1,7 @@
 ---
 title: 'Inspire virtual campfire'
 date: 2025-03-02T09:18:00Z
+published: false
 event:
     start_date: '2025-04-24'
     end_date: ''

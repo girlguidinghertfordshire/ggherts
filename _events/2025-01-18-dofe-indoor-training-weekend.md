@@ -1,6 +1,7 @@
 ---
 title: Bronze and Silver DofE indoor expedition training weekend
 date: 2024-09-05T20:17:00 +01:00
+published: false
 event:
     start_date: '2025-01-18'
     end_date: '2025-01-19'
