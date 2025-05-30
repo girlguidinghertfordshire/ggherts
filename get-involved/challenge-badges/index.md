@@ -73,6 +73,8 @@ Badges cost £1.20 each plus postage.  Download the challenge badge pack to find
 
 ### ![Flower Power badge](/assets/images/2025/02/flower-power-badge.webp){:.float-end.m-2} Flower Power challenge badge
 
+Please note the Flower Power challenge badge is currently in the process of being rebranded and restocked. If you are interested in this badge please email the badge organisers (details within the challenge pack) for an estimated badge delivery date.
+
 Ideal for spring and summer, why not focus on all things floral?
 
 From growing and culivating the real things, to making edible and craft replicas.

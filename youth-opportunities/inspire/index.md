@@ -42,4 +42,4 @@ We’d love to hear from you!
 
 Let us know if there’s anything you would like to do at a county or local level – we are keen to grow our local Inspire communities.
 
-You can contact the county Inspire coordination lead volunteer on <inspire@girlguidinghertfordshire.org.uk>.
+To contact the county Inspire team, please email both <inspire@girlguidinghertfordshire.org.uk> and <inspireadmin@girlguidinghertfordshire.org.uk>.

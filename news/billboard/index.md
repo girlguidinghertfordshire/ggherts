@@ -33,7 +33,6 @@ description: Billboard is a monthly e-newsletter sent to all Girlguiding Hertfor
 
 ### 2025
 
-- June: 30 May 2025
 - July: 30 June 2025
 - August: No edition
 - September:  29 August 2024
