@@ -9,7 +9,7 @@ event:
     contact_email: null
     contact_number: ''
     book_now_link: ''
-    image: '/assets/images/2025/05/neurodivisity-day.webp'
+    image: '/assets/images/2025/06/neurodiversity-day.webp'
     type:
         - Activity
     age-group:
