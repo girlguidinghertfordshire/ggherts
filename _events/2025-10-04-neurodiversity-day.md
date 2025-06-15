@@ -8,10 +8,10 @@ event:
     contact_name: null
     contact_email: null
     contact_number: ''
-    book_now_link: ''
+    book_now_link: 'https://forms.office.com/e/KsEDGvp5m6'
     image: '/assets/images/2025/06/neurodiversity-day.webp'
     type:
-        - Activity
+        - Development
     age-group:
         - Inspire
         - Leaders
@@ -20,8 +20,20 @@ event:
     location:
         - 'Hertfordshire, Central'
 ---
-Save the date.
+Following the success and popularity of the neurodiversity session at this year’s county network and development day we are running a full day dedicated to this important topic for those aged 18+.
 
-Following the success and popularity of the neurodiversity session at this year's county network and development day we are running a full day (9.30am - 3pm tbc) on Saturday 4 October at the Christchurch Baptist Church, Welwyn Garden City dedicated to this important topic.
+Taking place on Saturday 4 October at the Christchurch Baptist Church, Welwyn Garden City from 10am - 3pm with registration and coffee from 9.30am.
 
-More details and how to book to follow soon.
+There will be informative talks from the county inclusions team and one of our young members and more, plus the opportunity to ask any questions you may have.
+
+All attendees will receive a special county badge on the day.
+
+There is no charge for this event but please book your space before **Friday 26 September.**
+
+Hot drinks will be provided but please bring own packed lunch and cold drinks.
+
+Uniform to be worn, if applicable.
+
+Parking (including some disabled bays) is available on site, and the car park at the next door NHS site can also be utilised.
+
+Bookings open 9am Friday 11 July.

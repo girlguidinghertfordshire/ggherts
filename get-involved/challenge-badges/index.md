@@ -44,7 +44,7 @@ As well as amazing cultural events and traditional experiences, the group will a
 
 Help the group reach their fundraising target for this trip by completing this challenge and purchasing the vibrant badge. 
 
-The challenge has 4 main sections: People and friendship, Environment and exploration, Festivals and culture and Cuisine, all with activities suitable for each section; plus a puzzle and resources. 
+The challenge has 4 main sections: People and friendship, Environment and exploration, Festivals and culture and Cuisine, all with activities suitable for each section; plus a puzzle and resources.
 
 Use the challenge to plan a friendship event, celebrate Diwali, experience different cultures or even host a fully immersive residential.
 
@@ -93,6 +93,21 @@ Download the challenge badge pack to find out more about the activities.
 
 ## External Charity challenge badges
 
+### ![Chalk Stream badge](/assets/images/2025/06/chalk-stream-challenge-badge.webp){:.float-end.m-2}Chalk Stream challenge badge
+
+The Herts and Middlesex Wildlife Trust's Chalk Stream challenge badge encourages young people to explore and learn about Hertfordshire’s rare and important chalk stream habitats.
+There are only 250 chalk streams in the world and 10% of these rare habitats are located in Hertfordshire. These unique river systems support some of our most endangered and iconic species like kingfishers and water voles, and are the UK’s equivalent of tropical rainforests.
+
+This challenge is flexible and suitable for all guiding sections.
+
+The downloadable resources, including a route map, activity suggestions, spotter guides and stream facts can be found on the Herts and Middlesex Wildlife Trust's website: <https://www.hertswildlifetrust.org.uk/chalk-stream-challenge>{:.external-link}{:rel="noopener"}{:target="_blank"} (at the very bottom of the page).
+
+Choose your own local chalk stream, or explore the River Mimram, part of Panshanger Park near Hertford.
+
+Badges cost £1.00 each (plus postage) and you can also download a certificate of completion.
+
+[Download challenge pack](https://www.hertswildlifetrust.org.uk/sites/default/files/2025-05/HMWT%20Chalk%20Stream%20Challenge%20how%20to%20earn%20your%20badge%20-%20inc%20shop%20link.pdf){:.external-link.btn.btn-primary}{:rel="noopener"}{:target="_blank"} [Download certificate](https://www.hertswildlifetrust.org.uk/sites/default/files/2025-05/Chalk%20Stream%20Challenge%20-%20Completion%20Certificate.pdf){:.external-link.btn.btn-primary}{:rel="noopener"}{:target="_blank"} [Order badges](https://www.hertswildlifetrust.org.uk/shop#!/Chalk-Stream-Challenge-Badge/p/751209805){:.external-link.btn.btn-primary}{:rel="noopener"}{:target="_blank"}
+
 ### ![Stroke challenge badge](/assets/images/2024/05/stroke-badge.webp){:.float-end.m-2}Stroke challenge badge
 
 Someone in the UK has a stroke every 5 minutes and over 400 young people every year in the UK have one. We believe it’s important that everyone is aware of them and knows how they can help.
@@ -103,7 +118,7 @@ Badges are available for a suggested donation of £1.50 each and can be ordered 
 
 [Download <span class="visually-hidden">stroke </span>challenge pack](/assets/docs/2024/stroke-association-challenge-pack-2024.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
 
-### ![Essex & Herts Air Ambulance challenge badge design](/assets/images/2024/02/essex-herts-air-ambulance-challenge.webp){:.pull-right.m-2}Essex & Herts Air Ambulance challenge badge
+### ![Essex & Herts Air Ambulance challenge badge design](/assets/images/2025/06/essex-herts-air-ambulance.webp){:.float-end.m-2}Essex & Herts Air Ambulance challenge badge
 
 Essex & Herts Air Ambulance (EHAAT) is a charity, not part of the NHS, and therefore relies on the public to keep it operational.  By completing this challenge badge you will be helping to raise awareness of the charity and the vital funds that allow it to continue it's life-saving work.
 

@@ -18,54 +18,17 @@ All elements of the [Girlguiding 1st response syllabus](https://www.girlguiding.
 
 [Check your course suitability](https://www.girlguiding.org.uk/information-for-volunteers/learning-and-development/first-aid-training/accepted-first-aid-qualifications/){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
 
-If you think your course meets Girlguiding requirements follow the steps below to upload your evidence to the learning platform.
+f your course meets Girlguiding requirements you can use Anglia region’s ‘[Quick guide to uploading your first aid course evidence](https://www.girlguiding-anglia.org.uk/download/quick-guide-to-uploading-your-first-response-course-evidence){:.external-link}{:rel="noopener"}{:target="_blank"} ’ to navigate the process on the learning platform to submit your external first aid qualification (certificate and course syllabus) for regional verification. 
 
-If you have attended an external first aid training course, organised through Girlguiding, please do not follow the process below. The county office will be informed of your attendance on the course by either the course organiser or trainer and will add the relevant qualification to your GO record.
+Note: At step 4 of the process, select the 16-hour first aid qualification option if you wish to use it for:
 
-## Step 1
+- Specific outdoor qualifications e.g. walking, climbing. 
+- Both outdoor qualifications and unit level guiding. Upload evidence to the 16-hour outdoor first aid qualification area for it to be approved for outdoor use first and then transferred over to verifiers to review against the criteria for unit level use.
 
-You **must** have completed the 1st response e-learning module within the first aid section of the [learning platform][2]{:.external-link}{:target="_blank"}{:rel="noopener"} to unlock step 2.
+When uploading an external 1st response, please ensure you allow a minimum of 21 days for it to be signed off. This is to allow time for the region verifiers to review your upload and share any feedback which may require action from you. 
 
-![E learning completion](/assets/images/2024/06/step1.webp)
+Should region verifiers request additional information to support your application, you will receive an email from the Anglia region verifier setting out the requirements.  
 
-## Step 2
+Anglia’s ‘[Quick guide to uploading additional information](https://www.girlguiding-anglia.org.uk/download/quick-guide-to-uploading-additional-information){:.external-link}{:rel="noopener"}{:target="_blank"} ’ provides a step-by-step guide on how to upload additional information to the learning platform.
 
-Select the 'external first aid' box.
-
-![Step 2](/assets/images/2024/06/step2.webp)
-
-## Step 3
-
-Choose 1 of the 3 external first aid options.
-
-![Step 3](/assets/images/2024/06/step3.webp)
-
-For 16-hour outdoor first aid qualifications:
-
-- Select the 16-hour first aid qualification area if you wish to use it for specific outdoor qualifications e.g. walking, climbing.
-- If you do not intend to use the 16-hour qualification for outdoor related qualifications, you should choose the relevant external first aid option.
-- Any members wishing to use their 16-hour outdoor first aid qualification for both outdoor qualifications and unit level guiding should upload evidence to the 16-hour outdoor first aid qualification area for it to be approved for outdoor use first and then transferred over to verifiers to review against the criteria for unit level use.
-
-## Step 4
-
-Click the ‘Enrol’ button to unlock the ‘Upload your evidence’ box at the bottom of the page, and click on the box.
-
-![Step 4](/assets/images/2024/06/step4.webp)
-
-## Step 5
-
-Before uploading your course documentation, download and complete the external first aid information form. You will need to upload this to help support the verification of your external first aid qualification.
-
-[External first aid information form](/assets/docs/2024/external-first-aid-information-form-2024.docx){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
-
-## Step 6
-
-Click ‘Add submission’ and upload your evidence, which can be a course certificate or image of an attendance record, along with the completed external first aid information form.
-
-## Step 7
-
-Once all files are uploaded click ‘Save changes’ and your submission status should change to ‘Submitted’.
-
-Your evidence will be sent to a region first aid verifier to review and you will receive an email to confirm once your uploaded certificate has been approved.
-
-[2]: https://learning.girlguiding.org.uk/
+If you have any difficulties, please contact the region office by emailing: <learning@girlguiding-anglia.org.uk>.
