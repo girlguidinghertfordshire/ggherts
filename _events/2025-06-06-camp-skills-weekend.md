@@ -1,6 +1,7 @@
 ---
 title: 'Camp skills weekend'
 date: 2024-07-27T07:22:00 +01:00
+published: false
 event:
     start_date: '2025-06-06'
     end_date: '2025-06-08'

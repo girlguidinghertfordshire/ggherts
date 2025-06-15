@@ -28,6 +28,10 @@ Where photos feature groups of girls, this form should be completed by leaders c
 
 ## Grant applications
 
+### International grants
+
+[Girls international grant application form](/assets/docs/2025/international-grant-application-girls.docx){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [Leaders international grant application form](/assets/docs/2025/international-grant-application-leaders.docx){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} 
+
 ### Member grants
 
 This form can be used to apply for subscriptions assistance for one or more girls.

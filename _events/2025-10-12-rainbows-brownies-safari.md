@@ -20,10 +20,14 @@ event:
     location:
         - 'Hertfordshire, South East'
 ---
-Save the date!
+Open to Rainbows and Brownies on the morning of Sunday 12 October.
 
-Calling all Rainbows and Brownies - Come and join the walking team on Sunday 12 October for a sensory adventure in Broxbourne Woods
+Participants will use their 5 senses to discover nature along the woodland trail in Broxbourne Woods.
 
-More details to follow.
+Each group of up to 12 Rainbows, or 16 Brownies (plus their accompanying adults, in line with the [Girlguiding ratios](https://www.girlguiding.org.uk/information-for-volunteers/running-your-unit/safeguarding-and-risk/adult-to-child-ratios/#:~:text=Trips%20outside%20your%20usual%20meeting%20space%20must%20have%3A,Rangers%3A%201%20leader%20with%20a%20recommended%20second%20adult.){:.external-link}{:rel="noopener"}{:target="_blank"}) will take 2 hours to complete the trail, stopping frequently to enjoy activities.
 
-Enquiries to <walking@girlguidinghertfordshire.org.uk>
+Groups will be given a start time once they have registered for the event.
+
+All participants will receive a lovely ‘Nature Walk’ badge. Cost per participant £2.
+
+Register for either event by emailing <walking@girlguidinghertfordshire.org.uk>

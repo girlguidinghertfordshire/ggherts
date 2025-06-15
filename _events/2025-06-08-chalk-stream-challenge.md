@@ -1,6 +1,7 @@
 ---
 title: Chalk Stream challenge badge day
 date: 2024-11-10T16:47:00Z
+published: false
 event:
     start_date: '2025-06-08'
     end_date: ''

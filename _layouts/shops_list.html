@@ -102,6 +102,10 @@ layout: default-v5
                     {% endfor %}
                 </div>
                 {% endfor %}
+                {% if types contains 'Campsite' or types contains 'Indoor Accommodation' %}
+                <h2 class="mt-3">Other UK venues</h2>
+                <p>If you're looking to go on an adventure further afield please check the <a href="https://www.girlguiding.org.uk/what-we-do/adventures-in-guiding/" class="external-link" target="_blank" rel="noopener">Girlguiding adventure map</a> detailing other approved venues across the UK.</p>
+                {% endif %}
             </div>
             <div class="col-md-4 col-xxl-3 mt-3 mt-md-0">
                 <div class="filter-result">
