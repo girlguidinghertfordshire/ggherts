@@ -1,6 +1,7 @@
 ---
 title: Bronze DofE training expedition
 date: 2024-09-05T20:25:00 +01:00
+published: false
 event:
     start_date: '2025-03-29'
     end_date: '2025-03-30'

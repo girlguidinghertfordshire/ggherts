@@ -1,6 +1,7 @@
 ---
 title: Talent show
 date: 2024-03-07T20:44
+order: 6
 ---
 Host a talent show, can be a fun way to raise funds to help Girlguiding Hertfordshire Centre refurbishment project.  
 

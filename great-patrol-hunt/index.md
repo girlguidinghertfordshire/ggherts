@@ -18,8 +18,8 @@ It began in 1968, Hertfordshire Scout Patrols competed annually in various ways,
 ## Our events
 
 - Round 1: Saturday 19 October 2024 \| Wheathampstead - **completed**
-- Round 2: [Saturday 29 March 2025 \| St Albans](/event/gph-r2/) - Entries now open (closing 15 March)
-- Round 3: [Friday 27 - Sunday 29 June 2025 \| TBC](/event/gph-r3/)
+- Round 2: Saturday 29 March 2025 \| St Albans - **completed**
+- Round 3: [Friday 27 - Sunday 29 June 2025 \| Letchworth](/event/gph-r3/)
 
 ## About the competition
 
@@ -43,7 +43,9 @@ Round 1 of this year's Great Patrol Hunt saw 170 Guides navigate Wheathampstead 
 
 [Download round 1 results](/assets/docs/2024/gph-2425-r1-results.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
 
-[Round 2](/event/gph-r2/) will be open for bookings soon, so it's not too late to join in.
+Round 2 of the Great Patrol Hunt was completed on 29 March 2025.
+
+[Download round 2 results](/assets/docs/2025/gph-r2-24-25-results.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
 
 ## 2023/24 results
 

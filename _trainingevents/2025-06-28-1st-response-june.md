@@ -1,5 +1,5 @@
 ---
-title: '1st response course'
+title: 'External first aid course'
 date: 2025-03-01T16:06:00Z
 event:
     start_date: '2025-06-28'
@@ -22,11 +22,13 @@ event:
     location:
         - 'Hertfordshire, South East'
 ---
-This 1st response course in **Hoddesdon**, for those requiring the qualification, is taking place on Saturday 28 June from 10am – 4.30pm. Please arrive by 9.45am to register.
+This first aid course run by an external training company on behalf of Girlguiding Hertfordshire, is for those requiring the qualification. Taking place on **Saturday 28 June** in **Hoddesdon** from 10am – 4.30pm. Please arrive by 9.45am to register.
+
+Please note, this course was previously advertised as a 1st response course run by a Girlguiding trainer. The content of the external first aid course will be the same as that of a 1st response course and will be valid for 3 years.
 
 **Cost:** £20 (non-refundable), payable in advance as instructed by the course organiser, who will contact you to provide payment details.
 
-Hot drinks will be provided but please bring your own lunch and cold drinks.  
+Hot drinks will be provided but please bring your own lunch and cold drinks.
 
 Uniform is not required.
 

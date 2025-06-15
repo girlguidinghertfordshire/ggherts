@@ -1,6 +1,7 @@
 ---
 title: Mountain Experience weekend
 date: 2024-09-05T21:40:00 +01:00
+published: false
 event:
     start_date: '2025-03-21'
     end_date: '2025-03-23'

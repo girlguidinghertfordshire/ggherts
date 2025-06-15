@@ -9,21 +9,16 @@ toc: news
 lastmod: 2022-09-29T18:25:08.816Z
 description: Billboard is a monthly e-newsletter sent to all Girlguiding Hertfordshire members who "subscribe to marketing" within GO
 ---
-*Billboard* is a monthly e-newsletter sent to all Girlguiding Hertfordshire members aged 14 plus, who have set their communication preferences within **GO** to *“subscribe to marketing”.*
+*Billboard* is a monthly e-magazine sent to all Girlguiding Hertfordshire members (aged 14 plus) who have set their communication preferences within **GO** to *“subscribe to regional marketing”.*
 
 ## Recent editions
 
+- [June 2025](https://mailchi.mp/96fb649b2315/june-2025-billboard-13903136){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
+- [May 2025](https://mailchi.mp/f6b794bac2d1/may-2025-billboard-13902525){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
+- [April 2025](https://mailchi.mp/159fc9515f63/apr-2025-billboard-13901843){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [March 2025](https://mailchi.mp/e09154f64136/mar-2025-billboard-13901356){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [February 2025](https://mailchi.mp/323fc3c066e7/feb-2025-billboard-13900874){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [January 2025](https://mailchi.mp/8767e058aac8/jan-2025-billboard-13899979){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
-- [December 2024](https://mailchi.mp/743528b011e8/dec-2024-billboard-13899646){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
-- [November 2024](https://mailchi.mp/f91632647408/nov-2024-billboard-13899153){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
-- [October 2024](https://mailchi.mp/5050ee438db7/oct-2024-billboard-13898492){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
-- [September 2024](https://mailchi.mp/c966191d7c03/sep-2024-billboard-13683643){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
-- August 2024 - no edition
-- [July 2024](https://mailchi.mp/9016d9cc433b/july-2024-billboard-13681855){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
-- [June 2024](https://mailchi.mp/060d1d49f2b9/june-2024-billboard-13680016){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
-- [May 2024](https://mailchi.mp/88dc1a597ea0/may-2024-billboard-13678023){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 
 [Older editions](#older-editions){:.small}
 
@@ -31,10 +26,6 @@ description: Billboard is a monthly e-newsletter sent to all Girlguiding Hertfor
 
 ### 2025
 
-- March:  28 February 2025
-- April: 31 March 2025
-- May: 30 April 2025
-- June: 30 May 2025
 - July: 30 June 2025
 - August: No edition
 - September:  29 August 2024
@@ -50,6 +41,14 @@ To feature in the Girlguiding Hertfordshire monthly newsletter, sent to all coun
 
 ## Older editions
 
+- [December 2024](https://mailchi.mp/743528b011e8/dec-2024-billboard-13899646){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
+- [November 2024](https://mailchi.mp/f91632647408/nov-2024-billboard-13899153){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
+- [October 2024](https://mailchi.mp/5050ee438db7/oct-2024-billboard-13898492){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
+- [September 2024](https://mailchi.mp/c966191d7c03/sep-2024-billboard-13683643){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
+- August 2024 - no edition
+- [July 2024](https://mailchi.mp/9016d9cc433b/july-2024-billboard-13681855){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
+- [June 2024](https://mailchi.mp/060d1d49f2b9/june-2024-billboard-13680016){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
+- [May 2024](https://mailchi.mp/88dc1a597ea0/may-2024-billboard-13678023){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [April 2024](https://mailchi.mp/94aaa38aec5d/april-2024-billboard-13675540){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [March 2024](https://mailchi.mp/624e80ee8064/mar-2024-billboard-13673376){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [February 2024](https://mailchi.mp/1729a512c664/feb-2024-billboard-13670628){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}

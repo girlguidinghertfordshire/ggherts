@@ -1,6 +1,7 @@
 ---
 title: 'Brownie activity day'
 date: 2024-07-27T07:14:00 +01:00
+published: false
 event:
     start_date: '2025-05-10'
     end_date: ''

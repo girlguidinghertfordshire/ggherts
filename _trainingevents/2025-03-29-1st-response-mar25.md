@@ -1,6 +1,7 @@
 ---
 title: '1st response course'
 date: 2024-12-05T19:46:00Z
+published: false
 event:
     start_date: '2025-03-29'
     end_date: ''
