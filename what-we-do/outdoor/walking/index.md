@@ -26,6 +26,18 @@ Units need to provide appropriate adult/child supervision, a risk assessment (wh
 
 Whether you wish to help your Guides undertake their Geocaching interest badge, or just want to have a fun event and learn a new skill with your unit, please contact <walking@girlguidinghertfordshire.org.uk> to arrange a session.
 
+## Newsletter
+
+See what the walking team have been up to recently, and what they have planned for the future:
+
+[March 2025 newsletter](/assets/docs/2025/2025-03-walking-team-newsletter-v2.pdf){:.btn.btn-primary.download-link}
+
+### Previous editions
+
+- [Spring 2024 newsletter](/assets/docs/2024/2024-05-walking-newsletter.pdf){:.download-link}
+- [October 2023 newsletter](/assets/docs/2023/2023-10-walking-newsletter.pdf){:.download-link}
+- [June 2023 newsletter](/assets/docs/2023/2023-06-walking-newsletter.pdf){:.download-link}
+
 ## Contact the walking team
 
 You can also contact the walking team for some friendly advice via :
@@ -33,30 +45,9 @@ You can also contact the walking team for some friendly advice via :
 - <i class="fa fa-envelope"></i> <walking@girlguidinghertfordshire.org.uk>
 - <i class="fa fa-facebook-official"></i> [facebook page](https://www.facebook.com/hertsguideswalkingteam){:target="_blank"}{:rel="noopener noreferrer"}
 
-![Anglia walking team](/assets/images/2024/01/anglia-walking.webp){:.mx-auto.mb-3.d-block}
+Alternatively, **Anglia region** offer regular trips - see the [Anglia Events webpage](https://www.girlguiding-anglia.org.uk/events/adult-events/walking-events){:.external-link}{:rel="noopener"}{:target="_blank"} for details, **other regions&rsquo;** trips can be found on the [Girlguiding UK website](https://www.girlguiding.org.uk/making-guiding-happen/learning-and-development/leading-outdoor-adventures/walking-scheme/){:.external-link}{:rel="noopener"}{:target="_blank"}
 
-Alternatively, **Anglia region** offer regular trips - see the [Anglia Events webpage](https://www.girlguiding-anglia.org.uk/events/walking-events/2024-walking-events) for details, **other regions&rsquo;** trips can be found on the [Girlguiding UK website](https://www.girlguiding.org.uk/making-guiding-happen/learning-and-development/leading-outdoor-adventures/walking-scheme/)
-
-[Anglia walking events](/assets/docs/2024/anglia-2024-events-flyer.pdf){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noopener noreferrer"}
-
-## Newsletter
-
-See what the walking team have been up to recently, and what they have planned for the future:
-
-[Spring 2024 newsletter](/assets/docs/2024/2024-05-walking-newsletter.pdf){:.btn.btn-primary.download-link}
-
-### Previous editions
-
-- [October 2023 newsletter](/assets/docs/2023/2023-10-walking-newsletter.pdf){:.download-link}
-- [June 2023 newsletter](/assets/docs/2023/2023-06-walking-newsletter.pdf){:.download-link}
-- [December 2022 newsletter](/assets/docs/2022/walking-team-dec-2022-newsletter.pdf){:.download-link}
-- [September 2022 newsletter](/assets/docs/2022/walking-team-sept-2022-newsletter.pdf){:.download-link}
-- [July 2022 newsletter](/assets/docs/2022/walking-team-july-2022-newsletter.pdf){:.download-link}
-- [April 2022 newsletter](/assets/docs/2022/walking-team-april-2022-newsletter.pdf){:.download-link}
-- [February 2022 newsletter](/assets/docs/2022/walking-team-feb-2022-newsletter.docx){:.download-link}
-- [January 2022 newsletter](/assets/docs/2022/walking-team-jan-2022-newsletter.docx){:.download-link}
-- [December 2021 newsletter](/assets/docs/walking-team-december-2021-newsletter.docx){:.download-link}
-- [November 2021 newsletter](/assets/docs/walking-team-november-2021-newsletter.docx){:.download-link}
+![Anglia walking team](/assets/images/2025/03/anglia-walking-events.webp){:.mx-auto.mb-3.d-block}
 
 ## Walking related games
 

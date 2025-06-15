@@ -1,6 +1,7 @@
 ---
 title: Bake sales
 date: 2024-03-07T20:44
+order: 3
 ---
 Tea and coffee meeting are not only a great for getting people together for a chat but they give you the opportunity to be a fundraiser as well.
 

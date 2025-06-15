@@ -6,7 +6,10 @@ groups:
     roles:
       - order: 10
         job_title: West division commissioner
-        person_intro: Successor being sought.
+        person_intro: |
+          Covering Berkhamsted, Hemel Hempstead North East, Hemel Hempstead North West, Hemel Hempstead South, Kings Langley and Tring.  
+
+          Successor being sought 
         email: westdivision@girlguidinghertfordshire.org.uk
         vacancyurl: /get-involved/vacancies/#division-commissioners
 image: null

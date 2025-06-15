@@ -1,9 +1,8 @@
-/membership-system-updates/ /membership-system-updates/2024/ 302
+/membership-system-updates/ /membership-system-updates/2025/ 302
 /news/walking-team-news/ /county-teams/outdoor/social-walking/#newsletter 301
 /county-teams/outdoor/paddlesports/ /what-we-do/outdoor/watersports/ 301
 /county-teams/outdoor/social-walking/ /what-we-do/outdoor/walking/ 301
 /county-teams/* /what-we-do/:splat 301
-/about-us/county-team/:name/ /about-us/county-team/ 301
 /international-adventures/international-county/ /international-adventures/county/ 301
 /international-adventures/international-region-opportunities/ /international-adventures/region/ 301
 /international-adventures/international-unit-opportunities/ /international-adventures/unit/ 301

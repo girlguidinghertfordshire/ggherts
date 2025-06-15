@@ -6,6 +6,6 @@ groups:
     roles:
       - order: 2
         job_title: East division commissioner
-        person_intro: null
+        person_intro: Covering Bishop’s Stortford, Buntingford, Hertford, Sawbridgeworth and High Wych and Ware.
         email: eastdivision@girlguidinghertfordshire.org.uk
 ---

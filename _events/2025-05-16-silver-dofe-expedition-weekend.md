@@ -1,6 +1,7 @@
 ---
 title: Silver DofE assessed expedition weekend
 date: 2024-09-05T20:43:00 +01:00
+published: false
 event:
     start_date: '2025-05-16'
     end_date: '2025-05-18'

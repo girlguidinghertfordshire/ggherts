@@ -2,7 +2,7 @@
 title: Maureen Kell
 date: 2024-06-06T19:42:00 +01:00
 groups:
-  - group: leads
+  - group: trefoil
     roles:      
       - order: 31
         job_title: Trefoil Guild county chair

@@ -28,6 +28,10 @@ Where photos feature groups of girls, this form should be completed by leaders c
 
 ## Grant applications
 
+### International grants
+
+[Girls international grant application form](/assets/docs/2025/international-grant-application-girls.docx){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [Leaders international grant application form](/assets/docs/2025/international-grant-application-leaders.docx){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} 
+
 ### Member grants
 
 This form can be used to apply for subscriptions assistance for one or more girls.
@@ -53,6 +57,12 @@ This form is used by Girlguiding Hertfordshire to enable individuals who hold, o
 This is to identify any areas where there may be competing interests and should be completed annually by all Trustees, Sub-Committee Members and paid staff. Before completing this form, please read the policy on declaring and dealing with conflicts of business interests
 
 [Policy on declaring and dealing with conflicts of interest](/assets/docs/2023/policy-conflicts-of-interest.pdf){:target="_blank"}{:rel="noopener"}{:.download-link.btn.btn-primary} [Declaration of Interest Form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJUM0xHWVBTV1A0WkIzMzRDRzQ5VjNISUgxRy4u){:target="_blank"}{:rel="noopener"}{:.external-link.btn.btn-primary}
+
+## Template meeting agendas
+
+These template agendas are for commissioners to utilise for division and district meetings. The points included are matters that should covered at each division/district meeting.
+
+[Division meeting agenda](/assets/docs/2025/template-agenda-for-division-meeting.docx){:.btn.btn-primary.word-link}{:target="_blank"}{:rel="noopener"} [District meeting agenda](/assets/docs/2025/template-agenda-for-district-meeting.docx){:.btn.btn-primary.word-link}{:target="_blank"}{:rel="noopener"}
 
 ## County store
 

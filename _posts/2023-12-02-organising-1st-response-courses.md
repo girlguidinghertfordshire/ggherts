@@ -1,7 +1,7 @@
 ---
 title: "Organising 1st response courses"
 date: 2023-12-02T15:23:00Z
-image: /assets/images/2024/02/1st-response.webp
+image: /assets/images/2024/12/first-aid.webp
 categories:
   - Training
 tags: []
@@ -27,13 +27,15 @@ Please note that from **1 September 2024** the training organiser, i.e. the pers
 ## Please note the following important details
 
 1. A minimum of 12 attendees is required. County can advertise your training to other members in the county, with bookings available via Eventbrite, if you are unable to reach these numbers. **Once a training is advertised on Eventbrite all bookings must be made via the Eventbrite system.**
-2. Cost per attendee is £20 to be collected by the training organiser.
-3. Training organiser to provide a receipt for each payment, which can be by way of an email acknowledging receipt, and should include the following information:  
+2. Members from other counties can book on to a training course if there are still spaces available in the 2 weeks leading up to the course date.
+3. Cost per attendee is £20 to be collected by the training organiser.
+4. Training organiser to provide a receipt for each payment, which can be by way of an email acknowledging receipt, and should include the following information:  
   a) name and date of the course  
   b) amount received  
   c) payment method e.g. cheque or bank transfer  
   d) name of person(s) payment covers  
-4. Cost of venue (if applicable i.e., division or district are not covering this out of funds) will be paid by Girlguiding Hertfordshire on production of an invoice, emailed to the county treasurer on <ctreasurer@girlguidinghertfordshire.org.uk>) after the training event. The cost of this will be covered by the attendees attending.
+5. Cost of venue (if applicable i.e., division or district are not covering this out of funds) will be paid by Girlguiding Hertfordshire on production of an invoice, emailed to the county treasurer on <ctreasurer@girlguidinghertfordshire.org.uk>) after the training event. The cost of this will be covered by the attendees attending.
+6. Where an external first aid training company undertakes training for Girlguiding Hertfordshire attendees the training organiser must advise attendees that the county office will add their qualification to GO and they must not use the external first aid verification process via the learning platform.
 
 Please contact <guidingdev@girlguidinghertfordshire.org.uk> with any queries.
 

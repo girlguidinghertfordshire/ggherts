@@ -6,7 +6,7 @@ groups:
     roles:
       - order: 1
         job_title: Central division commissioner
-        person_intro: null
+        person_intro: Covering Elstree and Borehamwood, Hatfield, Potters Bar, Radlett, Welwyn Garden City (Guessens) and Welwyn Garden City (Heronswood).
         email: centraldivision@girlguidinghertfordshire.org.uk
 image: null
 thumbnail: null

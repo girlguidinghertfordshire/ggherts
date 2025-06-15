@@ -113,27 +113,11 @@ layout: default-v5
                                     </div>
                                 </div>
                             </div>
-                            <div class="col">
-                                <div class="card gg-event-card h-100">
-                                        <img src="/assets/images/2024/01/learning-platform.webp" alt="" class="card-img-top">
-                                    <div class="card-body">
-                                        <div class="card-text"></div>
-                                        <h2 class="card-title">Learning platform courses</h2>
-                                        <div class="card-text">
-                                            <p>Explore the wide range of courses available to you via the learning platform&hellip;</p>
-                                        </div>
-                                    </div>
-                                    <div class="card-footer bg-white text-end border-top-0">
-                                        <a class="btn btn-primary pull-right stretched-link"
-                                                    href="/news/learning-platform-courses/"><span>Read more</span><span class="sr-only"> on learning platform courses</span></a>
-                                    </div>
-                                </div>
-                            </div>
                             <div class="col" data-type="|First aid|">
                                 <div class="card gg-event-card h-100">
-                                    <figure style="background-image: url('/assets/images/2024/02/1st-response.webp');"
+                                    <figure style="background-image: url('/assets/images/2024/12/first-aid.webp');"
                                         class="card-img-top">
-                                        <img src="/assets/images/2024/02/1st-response.webp" alt="">
+                                        <img src="/assets/images/2024/12/first-aid.webp" alt="">
                                     </figure>
                                     <div class="card-body">
                                         <h2 class="card-title">Organising 1st response courses</h2>
@@ -165,15 +149,15 @@ layout: default-v5
                                     </div>
                                 </div>
                             </div>
-                            <div class="col" data-type="|A safe space|">
+                            <div class="col" data-type="|Safer guiding|">
                                 <div class="card gg-event-card h-100">
                                     <figure
-                                        style="background-image: url('/assets/images/2023/03/a-safe-space.webp');"
+                                        style="background-image: url('/assets/images/2024/12/safer-guiding.webp');"
                                         class="card-img-top">
-                                        <img src="/assets/images/2023/03/a-safe-space.webp" alt="">
+                                        <img src="/assets/images/2024/12/safer-guiding.webp" alt="">
                                     </figure>
                                     <div class="card-body">
-                                        <h2 class="card-title">A safe space
+                                        <h2 class="card-title">Safer guiding
                                                 training</h2>
                                         <div class="card-text">
                                             <p>Essential guidance and how to book your training.</p>
@@ -181,6 +165,22 @@ layout: default-v5
                                                     href="/news/a-safe-space-training/"><span>Read more</span></a></div>
                                         </div>
                                         <div class="clearfix">&nbsp;</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card gg-event-card h-100">
+                                        <img src="/assets/images/2024/01/learning-platform.webp" alt="" class="card-img-top">
+                                    <div class="card-body">
+                                        <div class="card-text"></div>
+                                        <h2 class="card-title">Learning platform courses</h2>
+                                        <div class="card-text">
+                                            <p>Explore the wide range of courses available to you via the learning platform&hellip;</p>
+                                        </div>
+                                    </div>
+                                    <div class="card-footer bg-white text-end border-top-0">
+                                        <a class="btn btn-primary pull-right stretched-link"
+                                                    href="/news/learning-platform-courses/"><span>Read more</span><span class="sr-only"> on learning platform courses</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -211,7 +211,11 @@ layout: default-v5
                         <h4>Filter results</h4>
                         <div class="d-md-none small js-selected-filters"></div>
                     </div>
-                    {% assign all_types= 'First aid|Gift aid|A safe space' | split: '|' %}
+                    {% if page.type=="training" %}
+                    {% assign all_types= 'Gift aid|First aid|Safer guiding' | split: '|' %}
+                    {% else %}
+                    {% assign all_types= '' | split: '|' %}
+                    {% endif %}
                     {% assign all_ages = '' | split: '' %}
                     {% assign all_locations = '' | split: '' %}
                     {% for event in eventlist %}
@@ -319,7 +323,7 @@ layout: default-v5
                 </div>
                 <div class="row row-cols-2 row-cols-1-md gy-2">
                     <div class="col col-md-12">
-                        <a href="/assets/docs/2024/2024-09-events-training-list.pdf" class="btn btn-sm btn-primary d-block" target="_blank" rel="noopener">Printable events and training list <i
+                        <a href="/assets/docs/2025/2025-06-events-training-list.pdf" class="btn btn-sm btn-primary d-block" target="_blank" rel="noopener">Printable events and training list <i
                                 class="fa fa-print"></i></a>
                     </div>
                     <div class="col col-md-12">

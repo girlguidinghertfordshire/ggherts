@@ -4,7 +4,7 @@
         {% if include.deadline %}
         <div class="mb-1 text-muted"><strong>Deadline for applications:</strong> {{include.deadline }}</div>
         {% endif %}
-        <p class="card-text mb-auto">{{ include.description | markdownify }}</p>
+        <div class="card-text mb-auto">{{ include.description | markdownify }}</div>
         {% if include.download and include.button-text %}
         <a href="{{ include.download }}" class="btn btn-primary download-link">{{include.button-text }}<span class="visually-hidden"> for {{include.title}}</span></a>
         {% endif %}

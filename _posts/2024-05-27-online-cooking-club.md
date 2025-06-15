@@ -1,5 +1,6 @@
 ---
 title: "Online cooking club"
+published: false
 date: 2024-05-27T07:28:00 +01:00
 image: /assets/images/2024/05/cooking-club.webp
 categories:

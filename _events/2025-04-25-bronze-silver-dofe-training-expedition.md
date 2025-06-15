@@ -1,6 +1,7 @@
 ---
 title: Bronze and Silver DofE expedition weekend
 date: 2024-09-05T20:37:00 +01:00
+published: false
 event:
     start_date: '2025-04-25'
     end_date: '2025-04-27'

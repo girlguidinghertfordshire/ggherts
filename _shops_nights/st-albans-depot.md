@@ -1,20 +1,18 @@
 ---
 title: St Albans shop
 date: 2016-03-17 12:11:28.000000000 +00:00
+showmap: false
 shop:
-  mapaddress: "Oak Yard Chene Drive, off Waverley Road, St. Albans AL3 5QP"
+  mapaddress: "Now closed"
   location: |
-    Oak Yard Chene Drive,  
-    off Waverley Road,  
-    St. Albans  
-    AL3 5QP
+    Permanently closed. West Hertfordshire division shop is nearest alternative.
   division: St Albans
-  contact_name: Mrs Louise Smellie
-  contact_email: stalbansguidedepot@gmail.com
-  contact_number: 01727 848101
+  contact_name: null
+  contact_email: null
+  contact_number: null
   latlng: "51.7608603,-0.3398045999999795"
   type:
     - Shop
 author:
 ---
-Saturdays 9.30-10.30am during term time only.
+The St Albans shop is now closed. The [West Hertfordshire division shop](/shops-nights/west-herts-depot/) is your nearest alternative.

@@ -5,12 +5,15 @@ scrollspy: true
 {% assign year = page.year | plus:0 %}
 {% include banner.html %}
 <div class="main-content {{ page.title | slugify }}">
-    <div class="container">        
+    <div class="container">
         {% include breadcrumbs.html %}
-        <h1 id="updates{{ year }}">Membership System Updates {{ year }}</h1>
         {% assign updates = site.membership_updates | where:"year",year | reverse %}
         <div class="row">
             <div class="col-md-8 col-xxl-10 order-md-2 content js-updates">
+        <h1 id="updates{{ year }}">Membership system updates {{ year }}</h1>
+                <p>Email membership systems for support on <a
+                        href="mailto:membership@girlguidinghertfordshire.org.uk">membership@girlguidinghertfordshire.org.uk</a>
+                </p>
                 {% for update in updates %}
                 <section id="{{ update.title | slugify }}">{{page.Type}}
                     <h2>{{ update.title }}</h2>
@@ -22,15 +25,15 @@ scrollspy: true
                 <nav aria-label="membership updates for other years">
                     <ul class="pagination justify-content-center">
                         {% assign currentYear = "today" | date: "%Y" | plus: 0 %}
-                        {% if year < currentYear %}
-                        {% assign previousYear = currentYear | minus: 1 %}{% if year < previousYear %} 
-                            {% assign link=year | plus: 1  | append: "/" %}{%
-                            endif %} <li class="page-item"><a class="page-link"
-                                href="/membership-system-updates/{{ link }}"><span aria-hidden="true">&laquo;</span>{{ year | plus: 1 }} updates</a></li>
+                        {% if year < currentYear %} {% assign previousYear=currentYear | minus: 1 %}{% if year <
+                            previousYear %} {% assign link=year | plus: 1 | append: "/" %}{% endif %} <li
+                            class="page-item"><a class="page-link" href="/membership-system-updates/{{ link }}"><span
+                                    aria-hidden="true">&laquo;</span>{{ year | plus: 1 }} updates</a></li>
                             {% endif %}
                             {% if year > 2018 %}
                             <li class="page-item"><a class="page-link"
-                                    href="/membership-system-updates/{{ year | minus: 1 }}/">{{ year | minus: 1 }} updates <span aria-hidden="true">&raquo;</span></a>
+                                    href="/membership-system-updates/{{ year | minus: 1 }}/">{{ year | minus: 1 }}
+                                    updates <span aria-hidden="true">&raquo;</span></a>
                             </li>
                             {% endif %}
                     </ul>
@@ -50,10 +53,10 @@ scrollspy: true
                     <h2>By year</h2>
                     <ul class="nav flex-column">
                         {% assign yrange = (2018..year)%}
-                    {% for y in yrange reversed %}
-                    <li class="nav-item"><a href="/membership-system-updates/{{ y}}/">{{y}}</a></li>
-                    {% endfor %}
-                </ul>
+                        {% for y in yrange reversed %}
+                        <li class="nav-item"><a href="/membership-system-updates/{{ y}}/">{{y}}</a></li>
+                        {% endfor %}
+                    </ul>
                 </nav>
                 {% endif %}
             </div>

@@ -1,15 +1,26 @@
 ---
 layout: page-v5
-title: Essential news
-banner_image: /assets/images/2023/04/essential-news-banner.webp
+title: Essential News
+banner_image: /assets/images/core/essential-news-banner.webp
 date: 2021-09-07T19:51:13.187Z
 toc: news
-lastmod: 2022-09-05T19:23:47.621Z
 ---
 _Essential News_ is sent to all **Girlguiding Hertfordshire** members by email on the first Monday of each month (subject to Bank Holidays). Please check your junk mail folders if you haven't received a copy.
 
+## 2025
+
+- [June 2025](https://mailchi.mp/b0dffd0af679/june-2025-essential-news-11038677){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
+- [May 2025](https://mailchi.mp/c7f4ea30793b/may-2025-essential-news-11038060){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
+- [April 2025](https://mailchi.mp/a5871e122d17/april-2025-essential-news-11037559){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
+- [March 2025](https://mailchi.mp/012d642bbfb8/march-2025-essential-news-11036572){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
+- [February 2025](https://mailchi.mp/13a96f43dd52/february-2025-essential-news-11036059){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
+- [January 2025](https://mailchi.mp/72281934771d/january-2025-essential-news-11035151){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
+
 ## 2024
 
+- [December 2024](https://mailchi.mp/aad29422d8db/december-2024-essential-news-11034277){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
+- [November 2024](https://mailchi.mp/c1a5af63c779/november-2024-essential-news-10943984){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
+- [October 2024](https://mailchi.mp/3ee5048299c4/october-2024-essential-news-10941168){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [September 2024](https://mailchi.mp/5c0fe1aa76cc/september-2024-essential-news-10936216){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - August 2024 - no edition
 - [July 2024](https://mailchi.mp/4c600db93840/july-2024-essential-news-10934032){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}

@@ -1,0 +1,26 @@
+---
+title: Division commissioners
+layout: page-v5
+division_map: true
+toc: about-us
+advertId: get-involved
+---
+<p>Division commissioners lead a team of dedicated and skilled volunteers to ensure that quality guiding is delivered throughout their local area.</p>
+
+<p>You can contact your local division commissioner via the email links below.</p>
+
+<div class="page-template-tp-divisions">
+  <div id="map"></div>
+  {% include county-team-section.html group="divcomm" %}
+  
+  <p>Division commissioner volunteer vacancies can be found on the <a href="/get-involved/vacancies/#county-team">vacancies webpage</a> </p>
+</div>
+
+<script type="text/javascript" src="/assets/js/county-team-sort.js"></script>
+<script type="text/javascript">
+  function initMap() {
+    console.log("init map...");
+        const divisonMap = new DivisionMap();
+        divisonMap.render();
+}
+</script>

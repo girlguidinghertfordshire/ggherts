@@ -4,21 +4,10 @@ class Order {
     unit;
     district;
     shop;
-    #items = JSON.stringify([
-        { "award": "bronze", "type": "certificate", "description": "Bronze Award - Certificate", "price": 0.7, "quantity": 0 },
-        { "award": "bronze", "type": "woven", "description": "Bronze Award - Woven Badge", "price": 1.1, "quantity": 0 },
-        { "award": "bronze", "type": "metal", "description": "Bronze Award - Metal Badge", "price": 2.15, "quantity": 0 },
-        { "award": "silver", "type": "certificate", "description": "Silver Award - Certificate", "price": 0.7, "quantity": 0 },
-        { "award": "silver", "type": "woven", "description": "Silver Award - Woven Badge", "price": 1.1, "quantity": 0 },
-        { "award": "silver", "type": "metal", "description": "Silver Award - Metal Badge", "price": 2.15, "quantity": 0 },
-        { "award": "gold", "type": "certificate", "description": "Gold Award - Certificate", "price": 0.7, "quantity": 0 },
-        { "award": "gold", "type": "woven", "description": "Gold Award - Woven Badge", "price": 1.1, "quantity": 0 },
-        { "award": "gold", "type": "metal", "description": "Gold Award - Metal Badge", "price": 2.15, "quantity": 0 }        
-    ]);
     #countyItems = JSON.stringify([
-        { "award": "county", "type": "silks", "description": "County badges - silks", "price": 0.15, "quantity": 0 },
-        { "award": "county", "type": "woven", "description": "County badges - woven (standard)", "price": 1.6, "quantity": 0 },
-        { "award": "county", "type": "metal", "description": "County badges - metal", "price": 2, "quantity": 0 }
+        { "award": "county", "type": "silks", "description": "County badges - silks", "price": 0.20, "quantity": 0 },
+        { "award": "county", "type": "woven", "description": "County badges - woven (standard)", "price": 2, "quantity": 0 },
+        { "award": "county", "type": "metal", "description": "County badges - metal", "price": 2.25, "quantity": 0 }
     ]);
     orderItems;
     deliveryOption = "Posted1";
@@ -33,7 +22,6 @@ class Order {
         const sectionRow = this.sectionRow;
         const itemRow = this.itemRow;
         Object.keys(sections).forEach(function (section) {
-            const awards = sections[section];
             const items = orderItems[section];
                 order += sectionRow(section);            
             for (const item of items) {
@@ -106,6 +94,7 @@ class Order {
     }
     updateItems(sections, clearWoven) {
         const orderItems = this.orderItems;
+        console.log(sections, orderItems);
         Object.keys(sections).forEach(function (section) {
             const awards = sections[section];
             const items = orderItems[section];
@@ -127,10 +116,6 @@ class Order {
     }
     constructor() {
         this.orderItems = {
-            "rainbows": JSON.parse(this.#items),
-            "brownies": JSON.parse(this.#items),
-            "guides": JSON.parse(this.#items),
-            "rangers": JSON.parse(this.#items),
             "county": JSON.parse(this.#countyItems)
         };
         this.save();
@@ -147,18 +132,10 @@ const order = new Order();
     $("#customer").on("change", function () {
         order.updateCustomer($("#order_name").val(), $("#order_email").val(), $("#order_unit").val(), $("#order_district").val(), $("#order_shop").val());
     });
-    function isValid(fieldName) {
-        const field = document.getElementById(fieldName);
-        return field.checkValidity();
-    }
     function girlsAwards() {
         const awardCount = { bronze: 0, silver: 0, gold: 0, county:0 };
         const sections = {
-            "rainbows": Object.assign({}, awardCount),
-            "brownies": Object.assign({}, awardCount),
-            "guides": Object.assign({}, awardCount),
-            "rangers": Object.assign({}, awardCount),
-            "county": Object.assign({}, awardCount)
+            "county": { ...awardCount}
         };
         $(".js-award").each(function () {
             sections[$(this).closest(".row").find(".js-section").val()][$(this).val()]++;

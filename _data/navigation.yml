@@ -20,10 +20,19 @@ about-us:
       url: /governance/mission-statement/
     - title: Charity Commission reports
       url: /governance/charity-commission-reports/
+    - title: Policies
+      url: /governance/policies/
   - title: Your county team
     url: /about-us/county-team/
-  - title: Divisions
-    url: /about-us/divisions/
+    items:
+    - title: Adventure and opportunity team
+      url: /about-us/county-team/adventure-and-opportunity/
+    - title: Membership support team
+      url: /about-us/county-team/membership-support/
+    - title: Promote and grow team
+      url: /about-us/county-team/promote-and-grow/
+    - title: Division commissioners
+      url: /about-us/county-team/divisions/
   - title: Contact us
     url: /contact-us/
   - title: County centre
@@ -34,6 +43,8 @@ about-us:
         items:
           - title: Fundraising ideas
             url: /about-us/county-centre/fundraising/ideas/
+          - title: Refurbishment project progress
+            url: /about-us/county-centre/fundraising/refurbishment/
       - title: Indoor accommodation
         url: /about-us/county-centre/indoor-accommodation/
       - title: Campsite
@@ -44,7 +55,8 @@ about-us:
         url: /about-us/county-centre/risk-assessments/
       - title: Contact us
         url: /about-us/county-centre/contact-us/
-  
+  - title: Jobs
+    url: /about-us/jobs/
   - title: County archives
     url: /about-us/county-archives/
 get-involved:
@@ -108,6 +120,8 @@ what-we-do:
       url: /what-we-do/outdoor/useful-apps/
     - title: Water activities
       url: /what-we-do/outdoor/watersports/
+  - title: Residential
+    url: /what-we-do/residential/
   - title: Trefoil Guild
     url: /what-we-do/trefoil/
     items:
@@ -148,7 +162,7 @@ for-volunteers:
     items:
     - title: Challenge badges
       url: /get-involved/challenge-badges/
-    - title: Order form for county badges and Bronze, Silver and Gold awards
+    - title: Order form for county badges
       url: /badge-orders/
     - title: Nights away
       url: /about-us/nights-away/
@@ -193,7 +207,7 @@ news:
   items:
   - title: Noticeboard
     url: /noticeboard/
-  - title: Essential news
+  - title: Essential News
     url: /news/essential-news/
   - title: Billboard
     url: /news/billboard/

@@ -4,7 +4,7 @@ title: Youth opportunities
 date: 2020-05-12T11:00:15.000Z
 toc: what-we-do
 ---
-Whether you are a Ranger, young leader, peer educator, undertaking your Commonwealth award, Duke of Edinburgh (DofE) Award, Queen’s Guide award or aged 18 – 30, and therefore part of the Girlguiding Inspire community, you can find relevant information and opportunities available to you here.
+Whether you are a Ranger, young leader, peer educator, undertaking your Commonwealth award, Duke of Edinburgh's (DofE) Award, Queen’s Guide award or aged 18 – 30, and therefore part of the Girlguiding Inspire community, you can find relevant information and opportunities available to you here.
 
 Leaders supporting girls in these roles, or with their awards, will also find useful information in this section.
 
