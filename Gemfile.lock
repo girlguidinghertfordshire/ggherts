@@ -85,9 +85,8 @@ PLATFORMS
 DEPENDENCIES
   addressable (>= 2.8.0)
   google-protobuf (~> 3.25, >= 3.25.5)
-  jekyll (~> 4.4, >= 4.4.1)
+  jekyll (~> 4.3, >= 4.3.4)
   jekyll-feed (>= 0.16.0)
-  jekyll-sass-converter (= 3.0)
   jekyll-seo-tag (>= 2.8.0)
   jekyll-sitemap
   webrick (~> 1.8, >= 1.8.2)
