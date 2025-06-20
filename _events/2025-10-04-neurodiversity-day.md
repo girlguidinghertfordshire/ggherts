@@ -9,7 +9,7 @@ event:
     contact_email: null
     contact_number: ''
     book_now_link: 'https://forms.office.com/e/KsEDGvp5m6'
-    image: '/assets/images/2025/06/neurodiversity-day.webp'
+    image: '/assets/images/2025/06/neurodiversity.webp'
     type:
         - Development
     age-group:

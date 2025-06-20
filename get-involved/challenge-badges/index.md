@@ -91,7 +91,7 @@ Download the challenge badge pack to find out more about the activities.
 
 1st Baldock Brownies also have the previously featured *Forest bathing*, *It's Christmas* and *Eggstraordinary Easter* challenge badges to choose from. Please email the [county office](mailto:admin@girlguidinghertfordshire.org.uk) if you are interested in any of these.
 
-## External Charity challenge badges
+## External charity challenge badges
 
 ### ![Chalk Stream badge](/assets/images/2025/06/chalk-stream-challenge-badge.webp){:.float-end.m-2}Chalk Stream challenge badge
 
