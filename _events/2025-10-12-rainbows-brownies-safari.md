@@ -20,6 +20,7 @@ event:
     location:
         - 'Hertfordshire, South East'
 ---
+![Nature walk badge](/assets/images/2025/06/nature-walk.webp){:.d-block.mx-auto.float-lg-end.ms-lg-3.my-3}
 Open to Rainbows and Brownies on the morning of Sunday 12 October.
 
 Participants will use their 5 senses to discover nature along the woodland trail in Broxbourne Woods.
@@ -30,4 +31,6 @@ Groups will be given a start time once they have registered for the event.
 
 All participants will receive a lovely ‘Nature Walk’ badge. Cost per participant £2.
 
-Register for either event by emailing <walking@girlguidinghertfordshire.org.uk>
+Register by emailing <walking@girlguidinghertfordshire.org.uk>
+
+Bookings close Friday 26 September.
