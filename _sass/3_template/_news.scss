@@ -1,3 +1,4 @@
+@use "../1_base/breakpoints" as bp;
 .gg-news-card {
     .card-header {
         --lines: 2;
@@ -28,27 +29,27 @@
         max-height: 200px;
     }
 }
-@media  (min-width: $grid-sm-min){ 
+@media  (min-width: bp.$grid-sm-min){ 
     .card-img, .card-img-top {
         max-height: 136px;
     }
 }
-@media  (min-width: $grid-md-min){ 
+@media  (min-width: bp.$grid-md-min){ 
     .card-img, .card-img-top {
         max-height: 186px;
     }
 }
-@media  (min-width: $grid-lg-min){ 
+@media  (min-width: bp.$grid-lg-min){ 
     .card-img, .card-img-top {
         max-height: 163px;
     }
 }
-@media  (min-width: $grid-xl-min){ 
+@media  (min-width: bp.$grid-xl-min){ 
     .card-img, .card-img-top {
         max-height: 197px;
     }
 }
-@media  (min-width: $grid-xxl-min){ 
+@media  (min-width: bp.$grid-xxl-min){ 
     .card-img, .card-img-top {
         max-height: 189px;
     }

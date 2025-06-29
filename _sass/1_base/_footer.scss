@@ -1,5 +1,7 @@
+@use "colors" as gg;
+@use "breakpoints" as bp;
 .top-footer {
-    background-color: $gg-dark-blue;
+    background-color: gg.$gg-dark-blue;
     margin-top: 2rem;
     .social-media {
         display: inline-block;
@@ -25,7 +27,7 @@
         width: 100%;
         margin: 0;
         padding: 23px 0 50px;
-        border-top: 1px solid $gg-light-blue;
+        border-top: 1px solid gg.$gg-light-blue;
         display: inline-block;
         font-weight: 400;
     }

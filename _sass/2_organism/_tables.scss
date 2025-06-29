@@ -1,0 +1,8 @@
+.gg-table {
+    th{ background-color: var(--gg-dark-blue); color: white;}
+}
+.gg-table-col1 {
+    tr {
+       td:first-child, th:first-child { background-color: var(--gg-mid-blue); color: white;} 
+    }
+}

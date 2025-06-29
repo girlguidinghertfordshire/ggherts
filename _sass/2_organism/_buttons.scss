@@ -1,3 +1,4 @@
+@use "../1_base/colors" as gg;
 .btn {
     --bs-btn-padding-x: 1rem;
     --bs-btn-border-radius: calc((var(--bs-btn-line-height)*var(--bs-btn-font-size)));
@@ -10,27 +11,27 @@
     --bs-btn-hover-color: var(--gg-mid-blue);
     --bs-btn-hover-bg: var(--bs-white);
     --bs-btn-hover-border-color: var(--gg-mid-blue);
-    --bs-btn-active-color: #{$gg-dark-blue-active};
+    --bs-btn-active-color: #{gg.$gg-dark-blue-active};
     --bs-btn-active-bg: var(--bs-white);
-    --bs-btn-active-border-color: #{$gg-dark-blue-border-active};
+    --bs-btn-active-border-color: #{gg.$gg-dark-blue-border-active};
     --bs-btn-color: #fff;
-    --bs-btn-bg: #{$gg-mid-blue};
-    --bs-btn-border-color: #{$gg-mid-blue};
+    --bs-btn-bg: #{gg.$gg-mid-blue};
+    --bs-btn-border-color: #{gg.$gg-mid-blue};
     --bs-btn-focus-shadow-rgb: var(--bs-primary-rgb);
     --bs-btn-disabled-color: var(--bs-white);
-    --bs-btn-disabled-bg: #{$gg-dark-blue};
-    --bs-btn-disabled-border-color: #{$gg-dark-blue};
+    --bs-btn-disabled-bg: #{gg.$gg-dark-blue};
+    --bs-btn-disabled-border-color: #{gg.$gg-dark-blue};
     &:focus, &:active:focus {
         box-shadow: 0 0 0 0.25rem rgba($color: #fff, $alpha: 0.5);
     } 
 }
 .btn-outline-primary {
-    color: $gg-dark-blue;
-    border-color: $gg-dark-blue;
+    color: gg.$gg-dark-blue;
+    border-color: gg.$gg-dark-blue;
     &:active,&:hover {
         color: #fff;
-        background-color: $gg-dark-blue;
-        border-color: $gg-dark-blue;
+        background-color: gg.$gg-dark-blue;
+        border-color: gg.$gg-dark-blue;
     }
     &:focus, &:active:focus {
         box-shadow: 0 0 0 0.25rem rgba(22, 27, 78, 0.5);
@@ -40,7 +41,7 @@
     color: white;
     border-color: white;
     &:active, &:hover {
-        color: $gg-dark-blue;
+        color: gg.$gg-dark-blue;
         background-color: white;
         border-color: white;
     }
@@ -50,22 +51,22 @@
 }
 .btn-secondary {
     --bs-btn-color: #fff;
-    --bs-btn-bg: #{$gg-light-blue};
-    --bs-btn-border-color: #{$gg-light-blue};
-    --bs-btn-hover-color: #{$gg-light-blue};
+    --bs-btn-bg: #{gg.$gg-light-blue};
+    --bs-btn-border-color: #{gg.$gg-light-blue};
+    --bs-btn-hover-color: #{gg.$gg-light-blue};
     --bs-btn-hover-bg: var(--bs-white);
-    --bs-btn-hover-border-color: var(--gg-mid-blue);
-    --bs-btn-active-color: #{$gg-dark-blue-active};
+    --bs-btn-hover-border-color: #{gg.$gg-mid-blue};
+    --bs-btn-active-color: #{gg.$gg-dark-blue-active};
     --bs-btn-active-bg: var(--bs-white);
-    --bs-btn-active-border-color: #{$gg-mid-blue-border-active};
+    --bs-btn-active-border-color: #{gg.$gg-mid-blue-border-active};
     --bs-btn-focus-shadow-rgb: var(--bs-primary-rgb);
     --bs-btn-disabled-color: var(--bs-white);
-    --bs-btn-disabled-bg: #{$gg-light-blue};
-    --bs-btn-disabled-border-color: #{$gg-light-blue};
-    
+    --bs-btn-disabled-bg: #{gg.$gg-light-blue};
+    --bs-btn-disabled-border-color: #{gg.$gg-light-blue};
+
     &:focus{
-        background-color: $gg-dark-blue-hover;
-        border-color: $gg-dark-blue-border-hover;
+        background-color: gg.$gg-dark-blue-hover;
+        border-color: gg.$gg-dark-blue-border-hover;
     }
     &:focus, &:active:focus {
         box-shadow: 0 0 0 0.25rem rgba(0,114,188, 0.5);

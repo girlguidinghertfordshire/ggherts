@@ -1,3 +1,4 @@
+@use "../1_base/breakpoints" as bp;
 .latest-events {
     padding: 35px 0 35px;
     
@@ -54,7 +55,7 @@
         }
     }
 }
-@media (max-width: ($grid-md-min - 1)){
+@media (max-width: (bp.$grid-md-min - 1)){
     .latest-events {
         .event-block {
             margin-bottom: 30px;
@@ -68,7 +69,7 @@
         }
     }
 }
-@media (min-width: $grid-md-min) {
+@media (min-width: (bp.$grid-md-min)) {
     .latest-events {
         .event-block {
             margin-bottom: 60px;
@@ -89,7 +90,7 @@
     }
 }
 
-@media (min-width: $grid-lg-min) {
+@media (min-width: (bp.$grid-lg-min)) {
     .latest-events {
         .event-list > a {
             width: 25%;

@@ -33,7 +33,7 @@
             transition: all .5s ease 0s;
             width: 100%;
             z-index: 5;
-            background-color: rgba($color: $gg-light-blue, $alpha: 0.85);
+            background-color: rgba($color: var(--gg-light-blue), $alpha: 0.85);
 
             img {
                 opacity: 1;
@@ -65,7 +65,7 @@
             -webkit-transition: all .5s ease 0s;
             transition: all .5s ease 0s;
             text-decoration: none;
-            background-color: $gg-mid-blue;
+            background-color: var(--gg-mid-blue);
             padding: 0.5rem;
 
             &:after {

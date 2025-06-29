@@ -14,6 +14,5 @@ group :jekyll_plugins do
     gem 'jekyll-feed', '~> 0.17.0'
     gem 'jekyll-seo-tag', '~> 2.8'
   end
-#gem "webrick", "~> 1.8", ">= 1.8.2"
-#gem "google-protobuf", "~> 3.25", ">= 3.25.5"
+
 

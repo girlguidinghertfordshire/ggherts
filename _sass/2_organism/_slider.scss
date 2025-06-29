@@ -1,9 +1,10 @@
+@use "../1_base/breakpoints" as bp;
 .carousel {
     max-width: 100%;
     clear:both;
     margin: 0.5rem auto;
 }
-@media (min-width: $grid-md-min){
+@media (min-width: (bp.$grid-md-min)){
     .carousel {
         &.w-md-50 {
             width: 50%;
@@ -13,7 +14,7 @@
         }
     }
 }
-@media (min-width: $grid-lg-min){
+@media (min-width: (bp.$grid-lg-min)){
     .carousel{
         &.w-lg-33 {
         width: 33%;
@@ -23,7 +24,7 @@
         }
     }
 }
-@media (min-width: $grid-xl-min){
+@media (min-width: (bp.$grid-xl-min)){
     .carousel{
         &.w-xl-33 {
         width: 33%;

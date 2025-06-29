@@ -1,5 +1,6 @@
+@use "../1_base/breakpoints" as bp;
 /* styles specific to the badge form page */
-@media (max-width: $grid-xxl-min) {
+@media (max-width: bp.$grid-xxl-min) {
     #awardRecipients {
 
         .form-label,
@@ -11,7 +12,7 @@
     }
 }
 
-@media (min-width: $grid-lg-min) {
+@media (min-width: bp.$grid-lg-min) {
 
     #awardRecipients {
         .row:not(:first-child) .form-label {

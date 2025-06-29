@@ -1,3 +1,5 @@
+@use "colors" as gg;
+@use "breakpoints" as bp;
 $menu-width: 250px;
 
 .gg-viewport {
@@ -36,14 +38,14 @@ $menu-width: 250px;
             content: "\f107";
             display: inline-block;
             font-family: FontAwesome, sans-serif;
-            color: $gg-light-blue;
+            color: gg.$gg-light-blue;
             padding-left: 5px;
             vertical-align: middle
         }
 
         a {
             color: #fff;
-            background-color: $gg-dark-blue;
+            background-color: gg.$gg-dark-blue;
             font-size: 1.0625rem;
             padding: 5px 0;
             display: block;
@@ -88,16 +90,16 @@ $menu-width: 250px;
     }
     .unibox-sr-only {
         color: white;
-        background-color: $gg-dark-blue;
+        background-color: gg.$gg-dark-blue;
     }
 }
 
-@media (max-width:($grid-lg-min - 1)) {
+@media (max-width:(bp.$grid-lg-min - 1)) {
     .gg-viewport {
         width: 100%;
         overflow-x: hidden;
         max-height: 100%;
-        background-color: $gg-dark-blue;
+        background-color: gg.$gg-dark-blue;
     }
 
     .gg-sliding-frame {
@@ -166,7 +168,7 @@ $menu-width: 250px;
     }
 }
 
-@media (min-width: $grid-lg-min) {
+@media (min-width: bp.$grid-lg-min) {
     .gg-menu-toggler {
         display: none;
     }
@@ -202,7 +204,7 @@ $menu-width: 250px;
                     position: absolute;
                     padding: 5px;
                     border-radius: 0.25rem;
-                    border: 1px solid $gg-dark-gray;
+                    border: 1px solid gg.$gg-dark-gray;
                     z-index: 10;
 
                     li {
@@ -243,7 +245,7 @@ $menu-width: 250px;
 }
 
 
-@media (min-width: $grid-sm-min) {
+@media (min-width: bp.$grid-sm-min) {
     .gg-logo {
         max-width: 100%;
     }

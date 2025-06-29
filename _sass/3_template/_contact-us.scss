@@ -9,10 +9,10 @@
     border: none;
 
     .accordion-header {
-        border-top: $gg-mid-blue 4px solid;
+        border-top: var(--gg-mid-blue) 4px solid;
 
         .accordion-button {
-            color: $gg-mid-blue;
+            color: var(--gg-mid-blue);
             font-size: 1.2rem;
             font-weight: 700;
 
@@ -23,7 +23,7 @@
         }
     }
     .accordion-collapse {
-        border-top: $gg-mid-blue 4px solid;
+        border-top: var(--gg-mid-blue) 4px solid;
 
     }
 }

@@ -1,13 +1,14 @@
+@use "../1_base/breakpoints" as bp;
 // Styles for the Platinum Jubilee templates
 .gg-jubilee-nav .page-item {
     .page-link {
         font-size: 0.7rem;
         padding: 0.375rem 0.5rem;
-        color: $gg-dark-blue;
+        color: var(--gg-dark-blue);
     }
     &.active .page-link {
-        background-color: $gg-dark-blue;
-        border-color: $gg-dark-blue;
+        background-color: var(--gg-dark-blue);
+        border-color: var(--gg-dark-blue);
         color: white;
     }
 }
@@ -15,17 +16,17 @@
     &.nav-tabs .nav-link {
         font-size: 0.7rem;
         padding: 0.4rem;
-        color: $gg-dark-blue;
-        border-color: $gg-light-blue;
+        color: var(--gg-dark-blue);
+        border-color: var(--gg-light-blue);
         border-bottom-color: white;
         &.active {
-            background-color: $gg-light-blue;
-            border-color: $gg-dark-blue;
-            border-bottom-color: $gg-light-blue;
+            background-color: var(--gg-light-blue);
+            border-color: var(--gg-dark-blue);
+            border-bottom-color: var(--gg-light-blue);
         }
     }
-} 
-@media (min-width: $grid-md-min) {
+}
+@media (min-width: bp.$grid-md-min) {
     .gg-jubilee-nav .page-item .page-link {
         font-size: 0.9rem;
     }
@@ -35,7 +36,7 @@
         }
     }
 }
-@media (min-width: $grid-lg-min) {
+@media (min-width: bp.$grid-lg-min) {
     .gg-jubilee-nav .page-item .page-link {
         font-size: 0.9rem;
         padding: 0.375rem 0.75rem;
@@ -46,7 +47,7 @@
         }
     }  
 }
-@media (min-width: $grid-xl-min) {
+@media (min-width: bp.$grid-xl-min) {
     .gg-jubilee-nav .page-item .page-link {
         font-size: 1rem;
     }

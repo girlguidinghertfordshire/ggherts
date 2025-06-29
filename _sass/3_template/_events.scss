@@ -1,3 +1,4 @@
+@use "../1_base/breakpoints" as bp;
 .gg-event-card {
     figure {
         background-repeat: no-repeat;
@@ -12,19 +13,6 @@
             max-width: 100%;
         }
     } 
-    // .pattern-one {
-    //     border-radius: 0 45px 0 0;
-    //     bottom: -25px;
-    //     content: "";
-    //     display: inline-block;
-    //     height: 80px;
-    //     left: -20px;
-    //     position: absolute;
-    //     -webkit-transform: skew(-22deg,6deg);
-    //     transform: skew(-22deg,6deg);
-    //     width: 104%;
-    //     z-index: 1;
-    // }
     .icon {
         display: inline-block;
         margin-bottom: 20px;
@@ -36,10 +24,10 @@
     h2 {
         font-size: 1.5rem;
         a { 
-            color: $gg-dark-gray; 
+            color: var(--gg-dark-gray); 
             text-decoration: none;
             &:hover,&:focus { 
-                color: $gg-dark-blue;
+                color: var(--gg-dark-blue);
                 text-decoration: underline;
             }
         }        
@@ -51,7 +39,7 @@
             display: block;
             }
         p {
-            color: $gg-mid-blue;
+            color: var(--gg-mid-blue);
         }
     }
     
@@ -66,7 +54,7 @@
         font-size: 1rem;
         font-weight: 700;
         padding-bottom: 8px;
-        border-bottom: 1px solid $gg-gray;
+        border-bottom: 1px solid var(--gg-gray);
         margin: 10px 0 35px;
     }
     .division {
@@ -78,7 +66,7 @@
             label {
                 padding-left: 10px;
                 font-size: 0.9rem;
-                color: $gg-dark-gray;
+                color: var(--gg-dark-gray);
                 .icon img {
                     width: 15px;
                     height: auto;
@@ -104,13 +92,13 @@
         }
     }
 }
-@media (max-width:($grid-md-min - 1)) {
+@media (max-width:(bp.$grid-md-min - 1)) {
     .filter-result {
-        border: 1px solid $gg-dark-blue;
+        border: 1px solid var(--gg-dark-blue);
         margin: 0 -12px 12px;
         .filter-summary {
             padding: 12px;
-            background: $gg-dark-blue;
+            background: var(--gg-dark-blue);
             color: white;
             h4 {
                 padding: 0;
@@ -134,10 +122,10 @@
     }
 }
 .icon {
-    .event-activity { color: $gg-blue; }
+    .event-activity { color: var(--gg-blue); }
     .event-residential { color: #ff8087;}
     .event-walking {color: darkgray;}
-    .event-social { color: $gg-dark-blue;}
+    .event-social { color: var(--gg-dark-blue);}
     .event-dofe { color: black;}
     .event-skills-development {color: #f3a1c6;}
     .event-1st-response {color: #007844;}
