@@ -22,9 +22,16 @@ event:
 ---
 Following the success and popularity of the neurodiversity session at this year’s county network and development day we are running a full day dedicated to this important topic for those aged 18+.
 
-Taking place on Saturday 4 October at the Christchurch Baptist Church, Welwyn Garden City from 10am - 3pm with registration and coffee from 9.30am.
+Taking place on Saturday 4 October at the Christchurch Baptist Church, Welwyn Garden City from 10am - 3.30pm with registration and coffee from 9.30am.
 
-There will be informative talks from the county inclusions team and one of our young members and more, plus the opportunity to ask any questions you may have.
+There will be informative talks from members of the county inclusion team on the following topics:
+
+- Pillars of accessibility and how they relate to Girlguiding
+- Getting the best from a neurodiverse team
+- Care/inclusion and adjustment plans
+- What’s reasonable and how to handle comments
+
+Plus the opportunity to ask any questions you may have.
 
 All attendees will receive a special county badge on the day.
 

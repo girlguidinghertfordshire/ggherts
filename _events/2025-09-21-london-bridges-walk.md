@@ -26,18 +26,23 @@ event:
     location:
         - London
 ---
-Join the county walking team in the capital on Sunday 21 September when they will walk to, and over, 10 of the iconic bridges crossing the River Thames, taking in the famous sights of London and completing some fun photo challenges along the way.
+Bring your older Brownies, Guides, Rangers and adult teams to complete 10k over 10 of London’s most iconic bridges with the Herts walking team on **Sunday 21 September 2025.**
 
-The route is approximately 10km and is suitable for older Brownies and Guides with their leaders, and for Rangers, young leaders and adult groups.
+This is a flat, linear walk on good paths along London’s riverside and bridges, completing a treasure hunt along the way.
 
-Fundraising? Why not walk this 10k over 10 bridges and raise vital funds for your unit/international trips or a charity of your choice. The walking team can 'endorse' your paperwork for your supporters.
+The day will start (registration 10-11am) at Vauxhall Pleasure Gardens, which is located a couple of minutes walk from Vauxhall station. The event will finish on the grassed area in front of the Bridge Theatre, 3 Potters Fields Park, London, SE1 2SG.
 
-There is no cost to join this event but we do need you to register your team.
+Participants are responsible for getting themselves/their groups to and from the start and finish points. There are good public transport networks to and from London.
 
-Girlguiding ratios apply (1:12 Guides and 1:8 Brownies).
+Starting times will be slightly staggered from 10am and the route will take at least 5 hours to complete, possibly longer with the younger age groups.
 
-Units are responsible for making their own way to the start/finish points which will be in the Vauxhall/Tower Bridge area respectively. Full route information will be supplied by the organisers.
+Payment of **£2 per participant** is required on booking and includes an event badge. It **does not** include participant travel expenses. Leaders are responsible for arranging transport for their group and completing the relevant risk assessments etc associated with that travel.
 
-Further details, joining information, risk assessments will be issued much nearer the event time.
+To book, please complete the booking form and email it to <walking@girlguidinghertfordshire.org.uk> by **Friday 1 August** with the subject ‘London Bridges’.
+At least one qualified leader from each unit must attend with their girls, plus other accompanying adults (these can be parent helpers), in line with the [Girlguiding ratios.](https://www.girlguiding.org.uk/information-for-volunteers/running-your-unit/safeguarding-and-risk/adult-to-child-ratios/#:~:text=Trips%20outside%20your%20usual%20meeting%20space%20must%20have%3A,Rangers%3A%201%20leader%20with%20a%20recommended%20second%20adult){:.external-link}{:rel="noopener"}{:target="_blank"}
 
-Please register your entry no later than the end of July to the walking team on <walking@girlguidinghertfordshire.org.uk>
+Information and consent forms will be required for this activity and units will need to arrange their own home emergency contact.
+
+Final leader information will be emailed 2 weeks prior to the event.
+
+[Booking form](/assets/docs/2025/london-bridges-event-booking-form.docx){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [Information and consent form](/assets/docs/2025/london-bridges-info-consent.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
