@@ -1,12 +1,11 @@
 ---
 title: Come Rain or Shine
-date: 2024-06-09T15:23:00 +01:00
-image: assets/images/2025/06/waterwise.webp
+date: 2025-06-29T15:23:00 +01:00
+image: /assets/images/2025/06/waterwise.webp
 categories:
   - Things to do
-description: Some description text
 author:
-  display_name: author name
+  display_name: county admin
 ---
 After the driest spring in over 100 years in England, the warmest and sunniest ever in Wales, the 6th driest on record in Scotland, and the warmest ever in Northern Ireland, water scarcity is becoming a growing concern across the UK.
 
