@@ -17,9 +17,17 @@ It began in 1968, Hertfordshire Scout Patrols competed annually in various ways,
 
 ## Our events
 
-- Round 1: Saturday 19 October 2024 \| Wheathampstead - **completed**
-- Round 2: Saturday 29 March 2025 \| St Albans - **completed**
-- Round 3: [Friday 27 - Sunday 29 June 2025 \| Letchworth](/event/gph-r3/)
+### 2024/25
+
+The 2024/25 Great Patrol Hunt competition has now been completed. The results of which can be [found below.](#202425-results)
+
+Whether you enjoyed this year's events, or are wanting to try something new, why not come along to the next competition?
+
+### 2025/26
+
+- Round 1: [Saturday 18 October 2025 \| Potters Bar](/event/gph-r1/)
+- Round 2: [Saturday 14 March 2026 \| St Albans](/event/gph-r2/)
+- Round 3: [Friday 26 - Sunday 28 June 2026 \| tbc](/event/gph-r3/)
 
 ## About the competition
 
@@ -47,24 +55,14 @@ Round 2 of the Great Patrol Hunt was completed on 29 March 2025.
 
 [Download round 2 results](/assets/docs/2025/gph-r2-24-25-results.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
 
-## 2023/24 results
+Round 3 of the Great Patrol Hunt was completed over the weekend of 27- 29 June 2025.
 
-Round 1 of the Great Patrol Hunt was completed on Saturday 14 October 2023:
-
-[Download round 1 results (PDF)](/assets/docs/2023/great-patrol-hunt-round1-23-24.pdf){:.download-link.btn.btn-primary.btn-sm}{:rel="noopener"}{:target="_blank"}
-
-Round 2 of the Great Patrol Hunt was completed on Saturday 23 March 2024.
-
-[Download round 2 results (PDF)](/assets/docs/2024/gph-2024-r2-results.pdf){:.download-link.btn.btn-primary.btn-sm}{:rel="noopener"}{:target="_blank"}
-
-Round 3 of the Great Patrol Hunt was completed over the weekend of 21 - 23 June 2024.
-
-[Download round 3 results (PDF)](/assets/docs/2024/gph-2024-r3-results.pdf){:.download-link.btn.btn-primary.btn-sm}{:rel="noopener"}{:target="_blank"}
+[Download round 3 results](assets/docs/2025/gph-r3-24-25-results.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
 
 Well done to all those who participated in this year's competition and congratulations to the overall winners:
 
-- **1st place - Leaky Tents, from 4th Goffs Oak Guides**
-- 2nd place - The Hedgehogs, from 9th Abbey Guides
-- 3rd place - Goofy Lemons, from 3rd Baldock
+- 1st place - Umpa Lumpas - 3rd Berkhamsted Guides
+- 2nd place - The Malteasers - 2nd Radlett Guides
+- 3rd place - Chiswell Challengers - 1st Chiswell Green Guides
 
-[Download overall positions for the GPH 2023/2024](/assets/docs/2024/gph-2024-overall-results.pdf){:.download-link.btn.btn-primary}{:rel="noopener"}{:target="_blank"}
+[Download overall positions for GPH 2024/25](/assets/docs/2025/gph-24-25-overall-results.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}

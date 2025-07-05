@@ -2,6 +2,7 @@
 title: Gaddesdon Row AGM
 date: 2025-05-30T08:16:00 +01:00
 image: /assets/images/2025/05/gaddesdon-agm-sm.webp
+published: false
 categories:
   - Announcements
 author:
