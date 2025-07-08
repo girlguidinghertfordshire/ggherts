@@ -26,4 +26,6 @@ Members aged 16+ are invited to join the Anglia region walking team from Friday 
 
 There will be 3 sessions: training, assessment and social walking.
 
-For more information and to register interest, email <walking@girlguiding-anglia.org.uk>.
+More information and booking links are available on the Anglia region website: <https://www.girlguiding-anglia.org.uk/events/adult-events/walking-events>{:.external-link}{:rel="noopener"}{:target="_blank"}
+
+Email <walking@girlguiding-anglia.org.uk> with any questions.
