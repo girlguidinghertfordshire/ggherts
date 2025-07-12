@@ -1,0 +1,26 @@
+.camp-key-dates {
+        display: grid;
+        grid-template-columns: 33% 1% 66%;
+        border-collapse: separate;
+        width: 100%;
+    
+    dd,
+    dt {
+        border: solid 1px var(--gg-dark-blue);
+        padding: 0.5rem 1rem;
+        display: flex;
+        align-items: center;
+        margin-bottom: 0.5rem;
+    }
+
+    dt {
+        background-color: var(--gg-dark-blue);
+        color: white;
+        grid-column: 1;
+    }
+
+    dd {
+        grid-column: 3;
+    }
+
+}

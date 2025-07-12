@@ -264,3 +264,17 @@ jubilee:
     - title: Thanksgiving for the Queen
       short_title: Thanksgiving
       url: /jubilee/thanksgiving/
+county_camp:
+  title: County Camp
+  url: /county-camp/
+  items:
+  - title: Accommodation
+    url: /county-camp/accommodation/
+  - title: Pricing and payment schedules
+    url: /county-camp/pricing/
+  - title: Key dates
+    url: /county-camp/key-dates/
+  - title: Event forms
+    url: /county-camp/forms/
+  - title: Frequently asked questions
+    url: /county-camp/faqs/

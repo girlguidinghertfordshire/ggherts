@@ -1,0 +1,87 @@
+---
+layout: page_full-v5
+title: FAQs
+date: 2025-07-12T08:43:00 +01:00
+toc: county_camp
+accordion: true
+banner_image: /assets/images/2025/07/county-camp-banner.webp
+---
+<div class="row">
+    <div class="col-md-8"> 
+<div class="accordion" id="faqlist">
+  {% assign count= 1 %}
+  {% for faq in site.data.county-camp-faqs %}
+  <div class="accordion-item">
+    <h3 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq{{ count }}">{{ faq.question }}</button>
+    </h3>
+    <div id="faq{{ count }}" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+      <div class="accordion-body">
+{{ faq.answer | markdownify }}
+      </div>
+    </div>
+  </div>
+  {% assign count = count | plus: 1 %}
+  {% endfor %}
+</div>
+    </div>
+    <div class="col-md-4">
+        <div class="row row-cols-1 g-3 mb-3">
+            <div class="col">
+                <div class="card bg-primary h-100">
+                    <div class="card-img-top text-center">
+                        <img src="/assets/images/2025/07/camp-badge.webp" alt="County Camp home" class="img-fluid">
+                    </div>
+                    <div class="card-body text-center">
+                        <a href="/county-camp/" class="btn btn-primary stretched-link">County camp 2026</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card bg-primary h-100">
+                    <div class="card-img-top text-center">
+                        <img src="/assets/images/2025/07/accommodation.webp" alt="Accommodation at the county camp"
+                            class="img-fluid">
+                    </div>
+                    <div class="card-body text-center">
+                        <a href="/county-camp/accommodation/" class="btn btn-primary stretched-link">Accommodation</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card bg-primary h-100">
+                    <div class="card-img-top text-center">
+                        <img src="/assets/images/2025/07/pricing.webp"
+                            alt="Pricing and payment schedules for the county camp" class="img-fluid">
+                    </div>
+                    <div class="card-body text-center">
+                        <a href="/county-camp/pricing/" class="btn btn-primary stretched-link">Pricing and payment
+                            schedules</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card bg-primary h-100">
+                    <div class="card-img-top text-center">
+                        <img src="/assets/images/2025/07/key-dates.webp" alt="Key dates for the county camp"
+                            class="img-fluid">
+                    </div>
+                    <div class="card-body text-center">
+                        <a href="/county-camp/key-dates/" class="btn btn-primary stretched-link">Key dates</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card bg-primary h-100">
+                    <div class="card-img-top text-center">
+                        <img src="/assets/images/2025/07/event-forms.webp" alt="Event forms for the county camp"
+                            class="img-fluid">
+                    </div>
+                    <div class="card-body text-center">
+                        <a href="/county-camp/event-forms/" class="btn btn-primary stretched-link">Event forms</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

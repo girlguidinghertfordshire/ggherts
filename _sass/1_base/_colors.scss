@@ -113,3 +113,13 @@ $gg-dark-gray: #3a3535;
 .rounded-none {
   border-radius: 0;
 }
+.alert-rainbows {
+  --bs-alert-bg: var(--gg-rainbows-light-blue);
+  --bs-alert-border-color: var(--gg-rainbows-red);
+  h2 {
+    color: var(--gg-rainbows-red);
+  }
+  .alert-link {
+    color: var(--gg-rainbows-accent-purple);
+  }
+}
