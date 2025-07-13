@@ -19,19 +19,23 @@ event:
     location:
         - Bedfordshire
 ---
-Come and be part of our county's Rangers weekend. An exciting sleepover full of adventure and challenges on land and water.
+Come and be part of our county&rsquo;s Rangers weekend.
 
-Meeting at The Embankment in Bedford on **Saturday 13 September** (drop off time to be confirmed), Rangers will set up camp before taking to the water in canoes. There will also be a number of challenges for Rangers to complete including a 3 course camp cooking challenge in the evening, all rounded off with fun around the campfire. 
+An exciting sleepover full of adventure and challenges on land and water.
 
-Collection will also be from The Embankment on **Sunday 14 September** (time to be confirmed).
+Meeting at noon at The Embankment in Bedford on **Saturday 13 September,** Rangers will set up camp and take to the water in canoes.
 
-Attendees will participate in small groups i.e. 2 to a canoe. Tents accommodate 4 people.  
+There will also be a number of challenges for Rangers to complete including a 3 course camp cooking challenge in the evening, all rounded off with fun around the campfire.
+
+Collection will also be approximately 3pm - paddle speed dependant - from The Embankment on **Sunday 14 September.**
+
+Attendees will participate in small groups i.e. 2 to a canoe. Tents accommodate 4 people.
 
 Cost: £125 (no later than 30 July). Payment details will be emailed after booking.
 
-Bookings open at **9am on Friday 6 June** and close on **Monday 14 July.**
+**Bookings close** on **Monday 14 July.**
 
-Please do let your Rangers know about this event. They can come on their own or with other Ranger friends.
+Please do let your Rangers know about this exciting event. They can come on their own or with other Ranger friends.
 
 Leaders do not need to attend, but if a unit leader is interested please email <rangers@girlguidinghertfordshire.org.uk>
 
