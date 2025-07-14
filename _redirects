@@ -2,7 +2,6 @@
 /news/walking-team-news/ /county-teams/outdoor/social-walking/#newsletter 301
 /county-teams/outdoor/paddlesports/ /what-we-do/outdoor/watersports/ 301
 /county-teams/outdoor/social-walking/ /what-we-do/outdoor/walking/ 301
-/county-teams/* /what-we-do/:splat 301
 /international-adventures/international-county/ /international-adventures/county/ 301
 /international-adventures/international-region-opportunities/ /international-adventures/region/ 301
 /international-adventures/international-unit-opportunities/ /international-adventures/unit/ 301
@@ -12,3 +11,5 @@
 /about-us/mission-statement/ /governance/mission-statement/ 301
 /about-us/charity-commission-reports/ /governance/charity-commission-reports/ 301
 /about-us/shops-depots/ /about-us/shops/ 301
+/event/county-camp/ /county-camp/ 301
+/county-teams/* /what-we-do/:splat 301
