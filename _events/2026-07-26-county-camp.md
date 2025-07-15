@@ -9,7 +9,7 @@ event:
     contact_email: null
     contact_number: ''
     book_now_link: ''
-    image: '/assets/images/2025/04/county-camp.webp'
+    image: '/assets/images/2025/07/county-camp.webp'
     type:
         - Activity
         - Residential

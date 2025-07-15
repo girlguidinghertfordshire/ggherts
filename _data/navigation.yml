@@ -196,6 +196,8 @@ events:
   items:
   - title: County calendar
     url: /events/calendar/
+  - title: County camp 2026
+    url: /county-camp/
   - title: Great Patrol Hunt
     url: /great-patrol-hunt/
 training:
