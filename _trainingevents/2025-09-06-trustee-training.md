@@ -31,7 +31,7 @@ Uniform to be worn.
 
 Parking available.
 
-If you would like to attend please email <guidingdev@girlguidinghertfordshire.org.uk> before **15 July​****
+If you would like to attend please email <guidingdev@girlguidinghertfordshire.org.uk> by **Thursday 4 September**
 
 *If you have any dietary requirements please let us know when you RSVP.  
 **Please also provide details of your trustee role when you RSVP.

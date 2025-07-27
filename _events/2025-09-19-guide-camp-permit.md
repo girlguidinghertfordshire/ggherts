@@ -8,7 +8,7 @@ event:
     contact_name: null
     contact_email: null
     contact_number: ''
-    book_now_link: 'https://forms.office.com/e/U1eM67zxJU'
+    book_now_link: ''
     image: '/assets/images/2025/06/permit-weekend.webp'
     type:
         - Activity
@@ -40,7 +40,7 @@ The camp permit and Lead Away permit assessment weekend is taking place from **F
 
 As part of your assessment you will need to plan, budget, create a menu and organise activities for this weekend.
 
-Register for a place by **Saturday 19 July.**
+Bookings are now closed.
 
 Further information on the qualifications can be found here:
 

@@ -1,6 +1,7 @@
 ---
 title: 'External first aid course'
 date: 2025-03-01T16:09:00Z
+published: false
 event:
     start_date: '2025-07-19'
     end_date: ''

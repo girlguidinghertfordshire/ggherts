@@ -22,7 +22,7 @@ event:
     location:
         - 'Hertfordshire, West'
 ---
-This 6 hour first aid course, run by an external training company on behalf of Girlguiding Hertfordshire, is taking place on **Saturday 22 November** in Leverstock Green, Hemel Hempstead from **10am.**
+This 6 hour first aid course, run by an external training company on behalf of Girlguiding Hertfordshire, is taking place on **Saturday 22 November** in Leverstock Green, Hemel Hempstead. The course will run from 10am - 4.30pm with arrival from 9.30am for tea/coffee beforehand .
 
 **Cost:** £20 (non refundable if you don’t attend). Payment details will be provided by the course organiser after booking.
 

@@ -8,7 +8,7 @@ event:
     contact_name: null
     contact_email: null
     contact_number: ''
-    book_now_link: 'https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwZj-g9JL5lpMiAybQMCV5zxUODFQRDM5MllXRUtJRjVLNlpSQVA0Qlo3Ti4u'
+    book_now_link: ''
     image: '/assets/images/2025/05/rangers-canoe-camp.webp'
     type:
         - Activity
@@ -33,12 +33,6 @@ Attendees will participate in small groups i.e. 2 to a canoe. Tents accommodate 
 
 Cost: £125 (no later than 30 July). Payment details will be emailed after booking.
 
-**Bookings close** on **Monday 14 July.**
-
-Please do let your Rangers know about this exciting event. They can come on their own or with other Ranger friends.
-
-Leaders do not need to attend, but if a unit leader is interested please email <rangers@girlguidinghertfordshire.org.uk>
-
-The information and consent form and the health form will be emailed out to attendees after booking.
+Bookings for this event are now closed.
 
 Enquiries to <rangers@girlguidinghertfordshire.org.uk>
