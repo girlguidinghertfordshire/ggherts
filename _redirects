@@ -12,4 +12,5 @@
 /about-us/charity-commission-reports/ /governance/charity-commission-reports/ 301
 /about-us/shops-depots/ /about-us/shops/ 301
 /event/county-camp/ /county-camp/ 301
+/get-involved/challenge-badges/ /unit/badges/ 301
 /county-teams/* /what-we-do/:splat 301
