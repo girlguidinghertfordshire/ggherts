@@ -8,7 +8,7 @@ event:
     contact_name: null
     contact_email: null
     contact_number: ''
-    book_now_link: ''
+    book_now_link: 'https://forms.office.com/e/qEb3TLrqPC'
     image: '/assets/images/2025/07/rainbows-autumn-adventure.webp'
     type:
         - Activity
@@ -28,5 +28,3 @@ We&rsquo;ve got 100 spaces available so don&rsquo;t miss out! Book early to avoi
 £15 per person.
 
 Bookings close Friday 17 October (or when all spaces are filled, whichever is soonest).
-
-Please add a Book places button linking to: <https://forms.office.com/e/qEb3TLrqPC>

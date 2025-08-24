@@ -1,6 +1,7 @@
 ---
 title: 'County Rangers canoe and camp weekend'
 date: 2025-05-28T09:56:00 +01:00
+published: false
 event:
     start_date: '2025-09-13'
     end_date: '2025-09-14'

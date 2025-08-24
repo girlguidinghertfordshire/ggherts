@@ -5,7 +5,7 @@ published: true
 image: /assets/images/2024/01/county-1st-response-trainers.webp
 download: null
 categories: 
-    - Trainers
+    - Anglia
 tags: []
 ---
 Anglia training team are looking for qualified first aiders who would like to become Girlguiding specialist 1st response trainers.
@@ -16,5 +16,4 @@ As a [Girlguiding trainer](https://www.girlguiding.org.uk/information-for-volunt
 
 If you are interested in this vital role you can find out more and apply via email <guidingdev@girlguidinghertfordshire.org.uk>
 
-{:.small}
-*You may be asked to assist with training volunteers from other counties within the Anglia region.
+You may be asked to assist with training volunteers from other counties within the Anglia region.

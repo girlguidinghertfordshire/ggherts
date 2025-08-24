@@ -61,11 +61,11 @@ We have fantastic volunteers who look to the county for guidance, support and vi
 
 Details of any county staff vacancies can be found on the [jobs webpage.](/about-us/jobs/)
 
-## Trainers
+## Region roles
 
-Covering Hertfordshire*, regional trainers specialising in 1st response courses are essential to giving our members the skills they need to conduct their Guiding responsibilities.
+These roles sit at region level but specifically cover Hertfordshire county.
 
-{% assign vacancies = site.vacancies | where: "categories","Trainers" | sort: date | reverse %}
+{% assign vacancies = site.vacancies | where: "categories","Anglia" | sort: date | reverse %}
 {% for vacancy in vacancies %}
 {% include vacancy.html title=vacancy.title description=vacancy.content button-text=vacancy.button_text download=vacancy.download img=vacancy.image %}
 {% endfor %}
