@@ -38,11 +38,12 @@ Starting times will be slightly staggered from 10am and the route will take at l
 
 Payment of **£2 per participant** is required on booking and includes an event badge. It **does not** include participant travel expenses. Leaders are responsible for arranging transport for their group and completing the relevant risk assessments etc associated with that travel.
 
-To book, please complete the booking form and email it to <walking@girlguidinghertfordshire.org.uk> by **Friday 1 August** with the subject ‘London Bridges’.
+Bookings for this event are now closed.
+
 At least one qualified leader from each unit must attend with their girls, plus other accompanying adults (these can be parent helpers), in line with the [Girlguiding ratios.](https://www.girlguiding.org.uk/information-for-volunteers/running-your-unit/safeguarding-and-risk/adult-to-child-ratios/#:~:text=Trips%20outside%20your%20usual%20meeting%20space%20must%20have%3A,Rangers%3A%201%20leader%20with%20a%20recommended%20second%20adult){:.external-link}{:rel="noopener"}{:target="_blank"}
 
 Information and consent forms will be required for this activity and units will need to arrange their own home emergency contact.
 
 Final leader information will be emailed 2 weeks prior to the event.
 
-[Booking form](/assets/docs/2025/london-bridges-event-booking-form.docx){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [Information and consent form](/assets/docs/2025/london-bridges-info-consent.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
+[Information and consent form](/assets/docs/2025/london-bridges-info-consent.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
