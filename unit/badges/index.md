@@ -1,9 +1,9 @@
 ---
 layout: page-v5
-title: Challenge badges
+title: Badges
 date: 2021-02-15T22:25:36.000Z
 toc: for-volunteers
-description: "New challenge badges for guiding units in Hertfordshire: Girls Golf, Forest bathing, Book challenge, Trefoil anniversary and more."
+description: "New badges for guiding units in Hertfordshire: Girls Golf, Forest bathing, Book challenge, Trefoil anniversary and more."
 ---
 Who doesn't love a badge!
 
@@ -44,13 +44,11 @@ Badges cost £1.20 each plus postage.  Download the challenge badge pack to find
 ### Sangam 2025 challenge badge
 
 ![Badge for Sangam 2025 challenge](/assets/images/2025/03/sangam-2025-challenge-badge.webp){:.ms-3.mb-3.float-end}
-This vibrant and exciting county challenge badge has been created by the young members from Hertfordshire who will be going on an adventure of a lifetime this summer to Sangam in India, where they will complete a Brave Space II project centred around leadership and community action.
+This vibrant and exciting county challenge badge was created by the young members from Hertfordshire who went on an adventure of a lifetime this summer to Sangam in India, where they completed a Brave Space II project centred around leadership and community action.
 
-As well as amazing cultural events and traditional experiences, the group will also visit Dehli, Agra, an elephant conservation and rescue centre.
+As well as amazing cultural events and traditional experiences, the group visited Dehli, Agra, an elephant conservation and rescue centre.
 
-Help the group reach their fundraising target for this trip by completing this challenge and purchasing the vibrant badge.
-
-The challenge has 4 main sections: People and friendship, Environment and exploration, Festivals and culture and Cuisine, all with activities suitable for each section; plus a puzzle and resources.
+This challenge badge has 4 main sections: People and friendship, Environment and exploration, Festivals and culture and Cuisine, all with activities suitable for each section; plus a puzzle and resources.
 
 Use the challenge to plan a friendship event, celebrate Diwali, experience different cultures or even host a fully immersive residential.
 
@@ -88,7 +86,7 @@ Download the challenge pack to find out more about the requirements and activiti
 
 ### Forest bathing challenge badge
 
-![Forest bathing badge](/assets/images/2025/08/forest-bathing-badge.webp){:.ms-3.mb-3.float-end}
+![Forest bathing badge](/assets/images/2025/08/forest-bathing-badge-sm.webp){:.ms-3.mb-3.float-end}
 Created by 1st Baldock Brownie unit, the rebranded forest bathing challenge badge can be completed with friends, family, or a 4 legged companion, as well as a unit activity. The challenge pack contains ideas to help you immerse yourself with nature.
 
 Forest bathing, or ‘shinrin-yoku,’ was first developed in Japan in the 1980s as a form of mindfulness.
@@ -107,6 +105,7 @@ Download the challenge badge pack to find out more about the activities.
 
 ### Lees Wood challenge badge
 
+![Lees Wood challenge badge](/assets/images/2025/08/lees-wood-challenge-badge.webp){:.float-end.ms-3.mb-3}
 This exciting challenge badge, created jointly by Girlguiding South West Hertfordshire and Watford North and Watford South Scouts, aims to raise funds for the new volunteer centre at Lees Wood Scout and Guide Activity Centre.
 
 Celebrating the outdoors, with 5 sections to the badge: The Lees Wood Panther, traditional camp activities, camp games, camp cooking and volunteer centre and fundraising, there are plenty of activities to choose from and something for all guiding sections.
@@ -121,8 +120,9 @@ Download the challenge pack to find out more about the requirements and activiti
 
 ## External charity badges
 
-### ![Chalk Stream badge](/assets/images/2025/06/chalk-stream-challenge-badge.webp){:.float-end.m-2}Chalk Stream challenge badge
+### Chalk Stream challenge badge
 
+![Chalk Stream badge](/assets/images/2025/06/chalk-stream-challenge-badge.webp){:.float-end.ms-3.mb-3}
 This challenge badge encourages young people to explore and learn about rare and important chalk stream habitats.
 
 Chalk Streams are often described as ‘England’s Rainforest’ because across the country we have 85% of this global total with 10% of these rare habitats being located in Hertfordshire. They provide rare spaces for a whole host of wonderful creatures and plants to live in harmony with each other. Like water voles, brown trout, damsel and dragonflies, water crowfoot and mayflies.
@@ -148,7 +148,7 @@ Badges cost £1.00 each (plus postage) and you can also download a certificate o
 
 If you choose to complete this challenge badge using your own local chalk stream you can use either of the above resources.
 
-### ![Stroke challenge badge](/assets/images/2024/05/stroke-badge.webp){:.float-end.m-2}Stroke challenge badge
+### ![Stroke challenge badge](/assets/images/2024/05/stroke-badge.webp){:.float-end.ms-3.mb-3}Stroke challenge badge
 
 Someone in the UK has a stroke every 5 minutes and over 400 young people every year in the UK have one. We believe it’s important that everyone is aware of them and knows how they can help.
 

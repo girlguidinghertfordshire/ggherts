@@ -1,7 +1,6 @@
 // styles for challenge badge page
-.challenge-badges .content { 
+.badges .content { 
     h2 {
-        //border-top: 3px solid $gg-light-blue;
         padding-top: 1rem;
         padding-bottom: 1rem;
         margin-top: 1rem;
@@ -10,6 +9,9 @@
         color: white;
         text-align: center;
         clear: both;
+        &#external-charity-badges {
+            background-color: var(--gg-light-blue);
+        }
     }
     img { 
         max-width: 100%;
