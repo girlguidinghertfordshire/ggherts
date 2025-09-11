@@ -13,6 +13,7 @@ description: Billboard is a monthly e-newsletter sent to all Girlguiding Hertfor
 
 ## Recent editions
 
+- [September 2025](https://mailchi.mp/c21666312fc0/sept-2025-billboard-13904070){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - August 2025 - No edition
 - [July 2025](https://mailchi.mp/e0e7d101dcb8/july-2025-billboard-13903527){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [June 2025](https://mailchi.mp/96fb649b2315/june-2025-billboard-13903136){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
@@ -28,8 +29,6 @@ description: Billboard is a monthly e-newsletter sent to all Girlguiding Hertfor
 
 ### 2025
 
-- August: No edition
-- September:  29 August 2024
 - October: 30 September 2024
 - November: 31 October 2024
 - December: 28 November 2024

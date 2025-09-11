@@ -7,6 +7,8 @@ advertId: get-involved
 ---
 Girlguiding Hertfordshire is a volunteer-led organisation for the benefit of girls, young women and volunteers. We are dedicated to enabling girls and young women to develop their potential and make a difference in the world.
 
+## Current job vacancies
+
 Our small team of staff provide support and advice to the county commissioner team, county teams, members and volunteers to ensure the smooth running of guiding in Hertfordshire county.
 
 {% assign vacancies = site.vacancies | where: "categories","staff" | sort: date | reverse %}
@@ -19,4 +21,4 @@ Details of all of our current staff vacancies can be found below.
 There are currently no county staff vacancies.
 {% endif %}
 
-Volunteer vacancies can be found on the [volunteer vacancies webpage.](/get-involved/vacancies/)
+Volunteer vacancies within Girlguiding Hertfordshire can be found on the [volunteer vacancies webpage.](/get-involved/vacancies/)
