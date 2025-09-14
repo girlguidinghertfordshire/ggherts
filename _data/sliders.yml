@@ -74,3 +74,53 @@ county-centre:
     alt: County Centre progress
   - img: /assets/images/2025/03/countycentre/6.webp
     alt: County Centre progress
+int-brussels:
+  - img: /assets/images/2025/09/international/brussels1.webp
+    alt: International trip to Brussels
+  - img: /assets/images/2025/09/international/brussels2.webp
+    alt: International trip to Brussels
+  - img: /assets/images/2025/09/international/brussels3.webp
+    alt: International trip to Brussels
+  - img: /assets/images/2025/09/international/brussels4.webp
+    alt: International trip to Brussels
+  - img: /assets/images/2025/09/international/brussels5.webp
+    alt: International trip to Brussels
+int-marrakech:
+  - img: /assets/images/2025/09/international/marrakech1.webp
+    alt: International trip to Marrakech
+  - img: /assets/images/2025/09/international/marrakech2.webp
+    alt: International trip to Marrakech
+  - img: /assets/images/2025/09/international/marrakech3.webp
+    alt: International trip to Marrakech
+  - img: /assets/images/2025/09/international/marrakech4.webp
+    alt: International trip to Marrakech
+  - img: /assets/images/2025/09/international/marrakech5.webp
+    alt: International trip to Marrakech
+  - img: /assets/images/2025/09/international/marrakech6.webp
+    alt: International trip to Marrakech
+  - img: /assets/images/2025/09/international/marrakech7.webp
+    alt: International trip to Marrakech
+int-orbit:
+  - img: /assets/images/2025/09/international/orbit1.webp
+    alt: International trip to Orbit
+  - img: /assets/images/2025/09/international/orbit2.webp
+    alt: International trip to Orbit
+  - img: /assets/images/2025/09/international/orbit3.webp
+    alt: International trip to Orbit
+int-sangam:
+  - img: /assets/images/2025/09/international/sangam1.webp
+    alt: International trip to Sangam
+  - img: /assets/images/2025/09/international/sangam2.webp
+    alt: International trip to Sangam
+  - img: /assets/images/2025/09/international/sangam3.webp
+    alt: International trip to Sangam
+  - img: /assets/images/2025/09/international/sangam4.webp
+    alt: International trip to Sangam
+  - img: /assets/images/2025/09/international/sangam5.webp
+    alt: International trip to Sangam
+  - img: /assets/images/2025/09/international/sangam6.webp
+    alt: International trip to Sangam
+  - img: /assets/images/2025/09/international/sangam7.webp
+    alt: International trip to Sangam
+  - img: /assets/images/2025/09/international/sangam8.webp
+    alt: International trip to Sangam
