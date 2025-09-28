@@ -1,6 +1,7 @@
 ---
 title: Hertfordshire Guide Centre's working party
 date: 2025-08-25T08:22:00 +01:00
+published: false
 event:
     start_date: '2025-09-15'
     end_date: ''

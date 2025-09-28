@@ -1,6 +1,7 @@
 ---
 title: 'Inspire at St Paul''s Walden Bury'
 date: 2025-08-25T08:35:00 +01:00
+published: false
 event:
     start_date: '2025-09-17'
     end_date: ''

@@ -26,6 +26,10 @@ As international lead volunteers it is our role to bring international guiding t
 
 Keep an eye on the [events page](/events/) and the monthly [Billboard newsletters](/news/billboard/) or see the [how to get involved](#how-to-get-involved) section, below, to find out more about the opportunities available.
 
+For a flavour of what an international trip can involve, have a look at what some of our members got up to this year.
+
+[2025 Girlguiding international trips](/news/international-trips/){:.btn.btn-primary}
+
 {% include international-lorneestate.html %}
 
 ## International permission to plan/REN Form

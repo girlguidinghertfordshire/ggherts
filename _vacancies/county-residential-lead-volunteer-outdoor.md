@@ -1,7 +1,7 @@
 ---
 title: County residential lead volunteer - outdoor
 date: 2025-01-09T20:04:00Z
-image: /assets/images/2025/01/countyresleadvoloutdoors.webp
+image: /assets/images/2025/09/county-residential-outdoor.webp
 download: "/assets/docs/2025/role-description-county-residential-lead-volunteer.pdf"
 categories: 
     - County team

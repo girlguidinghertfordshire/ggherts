@@ -37,6 +37,5 @@ Please follow Girlguiding Hertfordshire on social media to ensure you are up to 
 
 - [<i class="fa fa-facebook-square"></i> Facebook](https://www.facebook.com/GirlguidingHertfordshire/)
 - [<i class="fa fa-instagram"></i> Instagram](https://www.instagram.com/gguidingherts/?hl=en)
-- [<i class="fa fa-twitter-square"></i> Twitter/X](https://twitter.com/gguidingherts)
 - [<i class="fa fa-pinterest-square"></i> Pinterest](https://www.pinterest.co.uk/GirlguidingHertfordshire/)
 - [<i class="fa fa-linkedin-square"></i> LinkedIn](https://www.linkedin.com/company/girlguiding-herts/)

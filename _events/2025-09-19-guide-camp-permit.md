@@ -1,6 +1,7 @@
 ---
 title: Guide camp permit and Lead Away assessment weekend
 date: 2024-07-27T07:26:00 +01:00
+published: false
 event:
     start_date: '2025-09-19'
     end_date: '2025-09-21'

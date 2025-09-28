@@ -1,6 +1,7 @@
 ---
 title: 'London bridges challenge walk'
 date: 2025-03-29T08:19:00Z
+published: false
 event:
     start_date: '2025-09-21'
     end_date: ''

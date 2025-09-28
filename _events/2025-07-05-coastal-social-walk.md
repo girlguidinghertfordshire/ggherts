@@ -1,6 +1,7 @@
 ---
 title: Coastal social walking weekend
 date: 2024-11-10T16:54:00Z
+published: false
 event:
     start_date: '2025-07-05'
     end_date: '2025-07-06'
