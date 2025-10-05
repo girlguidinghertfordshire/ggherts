@@ -28,7 +28,6 @@ class Order {
     orderDetails(sections) {
         let orderTotal = 0;
         let order = "";
-        console.log(sections);
         const orderItems = this.orderItems;
         const sectionRow = this.sectionRow;
         const itemRow = this.itemRow;
