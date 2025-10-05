@@ -1,6 +1,6 @@
 ---
 title: County Duke of Edinburgh's Award lead volunteer
-date: 2025-01-09T20:00:00Z
+date: 2025-10-05T13:01:00 +01:00
 published: true
 image: /assets/images/2025/09/dofe-lead.webp
 download: "/assets/docs/2025/role-description-duke-of-edinburghs-award-lead-volunteer.pdf"
