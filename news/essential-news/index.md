@@ -1,7 +1,7 @@
 ---
 layout: page-v5
 title: Essential News
-banner_image: /assets/images/core/essential-news-banner.webp
+banner_image: /assets/images/core/essential-news-banner2025.webp
 date: 2021-09-07T19:51:13.187Z
 toc: news
 ---

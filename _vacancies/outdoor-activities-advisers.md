@@ -1,6 +1,7 @@
 ---
 title: Outdoor activities advisers
 date: 2025-01-09T20:08:00Z
+published: false
 image: /assets/images/2025/01/outdooractivitiesadvisers.webp
 download: "/assets/docs/2025/role-description-outdoor-activities-adviser.pdf"
 categories: 
