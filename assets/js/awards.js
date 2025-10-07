@@ -9,6 +9,16 @@ class Order {
         { "award": "county", "type": "woven", "description": "County badges - woven (standard)", "price": 2, "quantity": 0 },
         { "award": "county", "type": "metal", "description": "County badges - metal", "price": 2.25, "quantity": 0 }
     ]);
+    #ecoItems = JSON.stringify([
+        { "award": "rainbows", "type": "metal", "description": "Rainbows Eco award - metal badge", "price": 3.00, "quantity": 0 },
+        { "award": "rainbows", "type": "certificate", "description": "Rainbows Eco award - certificate", "price": 0.60, "quantity": 0 },
+        { "award": "brownies", "type": "metal", "description": "Brownies Eco award - metal badge", "price": 3.00, "quantity": 0 },
+        { "award": "brownies", "type": "certificate", "description": "Brownies Eco award - certificate", "price": 0.60, "quantity": 0 },
+        { "award": "guides", "type": "metal", "description": "Guides Eco award - metal badge", "price": 3.00, "quantity": 0 },
+        { "award": "guides", "type": "certificate", "description": "Guides Eco award - certificate", "price": 0.60, "quantity": 0 },
+        { "award": "rangers", "type": "metal", "description": "Rangers Eco award - metal badge", "price": 3.00, "quantity": 0 },
+        { "award": "rangers", "type": "certificate", "description": "Rangers Eco award - certificate", "price": 0.60, "quantity": 0 }
+    ]);
     orderItems;
     deliveryOption = "Posted1";
     deliveryAddress;
@@ -23,7 +33,7 @@ class Order {
         const itemRow = this.itemRow;
         Object.keys(sections).forEach(function (section) {
             const items = orderItems[section];
-                order += sectionRow(section);            
+            order += sectionRow(section);
             for (const item of items) {
                 order += itemRow(item.description, `${section}.${item.award}.${item.type}`, item.price, item.quantity);
                 orderTotal += item.price * item.quantity;
@@ -33,11 +43,13 @@ class Order {
         return order;
     }
     sectionRow(section) {
-        if (section==="county") {
-            section="County badges";
-        }else{
-        section = section[0].toUpperCase() + section.slice(1);
-    }
+        if (section === "county") {
+            section = "County badges";
+        } else if (section === "ecoaward") {
+            section = "Eco awards";
+        } else {
+            section = section[0].toUpperCase() + section.slice(1);
+        }
         return `
         <tr>
             <th colspan="4" scope="colspan" class="bg-light-blue">${section}</th>
@@ -76,17 +88,17 @@ class Order {
         this.deliveryAddress = value;
         this.save();
     }
-    get Message() {return this.message;}
-    set Message(value){
-        this.message=value;
+    get Message() { return this.message; }
+    set Message(value) {
+        this.message = value;
         this.save();
     }
     updateCustomer(name, email, unit, district, shop) {
         this.name = name;
         this.email = email;
         this.unit = unit;
-        this.district=district;
-        this.shop=shop;
+        this.district = district;
+        this.shop = shop;
         this.save();
     }
     resetItems(awards) {
@@ -116,7 +128,8 @@ class Order {
     }
     constructor() {
         this.orderItems = {
-            "county": JSON.parse(this.#countyItems)
+            "county": JSON.parse(this.#countyItems),
+            "ecoaward": JSON.parse(this.#ecoItems)
         };
         this.save();
     }
@@ -133,9 +146,10 @@ const order = new Order();
         order.updateCustomer($("#order_name").val(), $("#order_email").val(), $("#order_unit").val(), $("#order_district").val(), $("#order_shop").val());
     });
     function girlsAwards() {
-        const awardCount = { bronze: 0, silver: 0, gold: 0, county:0 };
+        const awardCount = { rainbows: 0, brownies: 0, guides: 0, rangers: 0 };
         const sections = {
-            "county": { ...awardCount}
+            "county": { county: 0 },
+            "ecoaward": { ...awardCount },
         };
         $(".js-award").each(function () {
             sections[$(this).closest(".row").find(".js-section").val()][$(this).val()]++;
@@ -146,21 +160,21 @@ const order = new Order();
         $("#orderItems tr").remove();
         $("#orderItems").append(order.orderDetails(awardCount));
         $("#orderTotal").text(order.orderTotal.toLocaleString('en-GB', { style: 'currency', currency: 'GBP', minimumFractionDigits: 2 }));
-        if (order.orderTotal>20){
+        if (order.orderTotal > 20) {
             /* only tracked options are available for postal */
             $("#deliveryDetails .form-check").eq(0).hide();
             $("#deliveryDetails .form-check").eq(1).hide();
-            $("#deliveryDetails .form-check").eq(2).find("input").prop("checked",true);
-        }else {
+            $("#deliveryDetails .form-check").eq(2).find("input").prop("checked", true);
+        } else {
             $("#deliveryDetails .form-check").eq(0).show();
             $("#deliveryDetails .form-check").eq(1).show();
-            $("#deliveryDetails .form-check").eq(0).find("input").prop("checked",true);
+            $("#deliveryDetails .form-check").eq(0).find("input").prop("checked", true);
         }
     }
-            const awards = girlsAwards();
-            order.updateItems(awards);
-            updateOrders(awards);
-    
+    const awards = girlsAwards();
+    order.updateItems(awards);
+    updateOrders(awards);
+
     const $orderDetails = $("#orderDetails");
     $orderDetails.on("change", function (event) {
         order.updateQuantity(event.target.id, $(event.target).val());
@@ -191,10 +205,10 @@ const order = new Order();
     $("#postalAddress").on("change", function () {
         order.Address = $(this).val();
     });
-    $("#message").on("change", function() {
+    $("#message").on("change", function () {
         order.Message = $(this).val();
     });
-    
+
     // Loop over them and prevent submission
     Array.prototype.slice.call(forms)
         .forEach(function (form) {
