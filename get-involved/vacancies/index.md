@@ -51,6 +51,15 @@ We have fantastic volunteers who look to the county for guidance, support and vi
 {% for vacancy in vacancies %}
 {% include vacancy.html title=vacancy.title description=vacancy.content button-text=vacancy.button_text download=vacancy.download img=vacancy.image %}
 {% endfor %}
+
+{% assign vacancies = site.vacancies | where: "categories","Member" | sort: date | reverse %}
+
+### Membership support team
+
+{% for vacancy in vacancies %}
+{% include vacancy.html title=vacancy.title description=vacancy.content button-text=vacancy.button_text download=vacancy.download img=vacancy.image %}
+{% endfor %}
+
 {% assign vacancies = site.vacancies | where: "categories","Promote" | sort: date | reverse %}
 
 ### Promote and grow team

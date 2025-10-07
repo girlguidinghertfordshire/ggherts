@@ -12,12 +12,13 @@ groups:
         sub_title_url: promote-and-grow/
         person_intro: Oversees all aspects of growth and retention, marketing, website management, media, social media and communications, training and badges.
         email: claireacc@girlguidinghertfordshire.org.uk
-  - group: membership-support
+  - group: promote-grow
     roles:
       - order: 10
-        job_title: County young leader lead volunteer
-        person_intro: Supports young leaders within the county with the young leader qualification (YLQ) and helps them develop into future adult leaders. 
+        job_title: County young leader coordinator
+        person_intro: Supports Guides, their leaders and commissioners with the Guide ready, set, lead - leadership resource; young leaders with the young leader development programme (YLDP) and young external volunteers, helping them develop their leadership skills. **Successor being sought.**
         email: YL@girlguidinghertfordshire.org.uk
+        vacancyurl: /get-involved/vacancies/#county-young-leader-coordinator
   - group: divcomm
     roles:
       - order: 9

@@ -24,4 +24,4 @@ You can find out all you need to know about becoming a leader on the [Girlguid
 
 [How to register as a leader in training](/assets/docs/2022/how-to-register-as-a-lit.pdf){:.download-link.btn.btn-primary}{:rel="noopener"}{:target="_blank"}
 
-Our county young leader lead volunteer provides support and advice for young leaders within Hertfordshire and can be contacted on <yl@girlguidinghertfordshire.org.uk>.  
+Our county young leader coordinator provides support and advice for young leaders within Hertfordshire and can be contacted on <yl@girlguidinghertfordshire.org.uk>.  
