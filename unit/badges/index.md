@@ -26,7 +26,7 @@ Badges cost £1.20 each (plus postage) and can be ordered using the order form a
 
 Download the challenge pack to find out more about the requirements and activities.
 
-[Download <span class="visually-hidden">frog quest</span> challenge pack](/assets/docs/2025/challenge-badge-frog-question.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [<span class="visually-hidden">Frog quest </span>Badge order form](https://forms.office.com/e/G5LjkPhssR){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
+[Download <span class="visually-hidden">frog quest</span> challenge pack](/assets/docs/2025/challenge-badge-frog-quest-sept-2025.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [<span class="visually-hidden">Frog quest </span>Badge order form](https://forms.office.com/e/G5LjkPhssR){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
 
 ### Girls Golf challenge badge
 

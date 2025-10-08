@@ -1,6 +1,6 @@
 ---
 layout: page-v5
-title: County Centre
+title: County centre
 date: 2016-03-04T12:50:17.000Z
 toc: about-us
 location_map: true
@@ -31,11 +31,11 @@ If you are looking to book use of the site in 2025 please contact the bookings s
 
 [Availability Calendar](https://v2.hallmaster.co.uk/Diary/ViewWeeklyDiary/11336){:.external-link.btn.btn-primary}{:target="_blank"}{:rel="noreferrer noopener"}
 
-Please email your signed and dated Booking Terms and Conditions to the Bookings Secretary via <HGCbookings@girlguidinghertfordshire.org.uk> within 14 days of confirmation that your provisional booking has been accepted.
+Please email your signed and dated booking terms and conditions to the bookings secretary via <HGCbookings@girlguidinghertfordshire.org.uk> within 14 days of confirmation that your provisional booking has been accepted.
 
 <div class="alert bg-secondary text-white">
 <h3>Re-opening offer</h3>
-<p>To celebrate the re-opening of Hertfordshire County Guide Centre, following phase 1 of the refurbishments, Girlguiding Hertfordshire members have an exclusive <strong>leaders required for ratios go free offer</strong> for all bookings between 1 July and 31 December 2025.</p>
+<p>To celebrate the re-opening of Hertfordshire County Guide Centre, following phase 1 of the refurbishments, Girlguiding Hertfordshire members have an exclusive <strong>leaders required for ratios go free offer</strong> for all bookings up until 31 December 2025.</p>
 </div>
 
 [2024 Booking Fees](/assets/docs/2024/hertfordshire-guide-centre-2024-fees.pdf){:.btn.btn-secondary.download-link} [Booking Terms and Conditions](/assets/docs/2023/hgc-booking-conditions-may-23.pdf){:.btn.btn-secondary.download-link}{:target="_blank"}{:rel="noreferrer noopener"}(Updated May 2023)
