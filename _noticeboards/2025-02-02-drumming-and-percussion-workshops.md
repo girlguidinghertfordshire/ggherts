@@ -4,6 +4,7 @@ date: 2025-02-02T12:58:00Z
 image: /assets/images/2025/02/drum-workshop.webp
 categories:
   - Notice
+  - Guest speaker
 tags: []
 author:
   display_name: Rachel Kemp

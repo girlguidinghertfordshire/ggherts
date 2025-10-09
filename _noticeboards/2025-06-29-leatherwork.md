@@ -4,6 +4,7 @@ date: 2025-06-29T21:12:00 +01:00
 image: /assets/images/2025/06/handcrafted.webp
 categories:
   - Things to do
+  - Guest speaker
 author:
   display_name: county admin
 ---

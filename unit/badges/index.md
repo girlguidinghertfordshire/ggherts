@@ -62,10 +62,21 @@ Download the challenge badge pack to find out more about the requirements and ac
 
 ### Other county badges
 
+![Merry Christmas 2025 badge](/assets/images/2025/10/christmas-2025.webp){:.ms-3.mb-3.float-end}
+Why not celebrate the season in style with our exclusive "Merry Christmas 2025" county badge.
+
+All profits from this £1 badge go towards the fundraising for Hertfordshire Guide Centre.
+
+What better way to compliment your festive unit activities and outings than with this cheerful Santa, cute reindeer, and sparkling snowflakes.
+
+Available by pre-order only by 1 November.
+
+[Christmas badge order form](https://forms.office.com/e/pzepLyb0XJ){:.btn.btn-primary}
+
 ![Brownie outdoors badge](/assets/images/2025/08/herts-brownie-badge-sm.webp){:.ms-3.mb-3.float-end}
 Are you planning on having fun outdoors with your Brownies? Why not mark the occasion with a lovely bright county badge. Better still, by purchasing it, you will be contributing towards the refurbishment of the County Guide Centre in Cottered. 
 
-[Badge order form](https://forms.office.com/pages/responsepage.aspx?id=3yob_CzTykeMNWNnWM6Owcg2wzmjm45Mliv78_mHDTZUNDdBWkZRUEdTV0tGM1ZEUkVNNFhQUk44Uy4u&fbclid=IwQ0xDSwK_gL5leHRuA2FlbQIxMQABHmfmKhcex3KOi9nemKQvE_XUmhy5lwHgtWSe0b2bMMLThpVijtUGnmBoIEAR_aem_AhaIBAbcGh710A9ifUI6bw&route=shorturl){:.btn.btn-primary}{:rel="noopener"}{:target="_blank"}
+[Brownies badge order form](https://forms.office.com/pages/responsepage.aspx?id=3yob_CzTykeMNWNnWM6Owcg2wzmjm45Mliv78_mHDTZUNDdBWkZRUEdTV0tGM1ZEUkVNNFhQUk44Uy4u&fbclid=IwQ0xDSwK_gL5leHRuA2FlbQIxMQABHmfmKhcex3KOi9nemKQvE_XUmhy5lwHgtWSe0b2bMMLThpVijtUGnmBoIEAR_aem_AhaIBAbcGh710A9ifUI6bw&route=shorturl){:.btn.btn-primary}{:rel="noopener"}{:target="_blank"}
 
 ## Division badges
 

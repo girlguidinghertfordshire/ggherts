@@ -4,6 +4,7 @@ date: 2025-06-05T20:25 +01:00
 image: /assets/images/2025/06/dh-dance.webp
 categories:
   - Things to do
+  - Guest speaker
 author:
   display_name: county admin
 ---

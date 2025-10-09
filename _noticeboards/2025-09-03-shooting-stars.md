@@ -4,6 +4,7 @@ date: 2025-09-03T21:28:00 +01:00
 image: /assets/images/2025/09/circus-skills.webp
 categories:
   - Things to do
+  - Guest speaker
 author:
   display_name: county admin
 ---

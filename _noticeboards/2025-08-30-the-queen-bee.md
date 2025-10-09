@@ -4,6 +4,7 @@ date: 2025-08-30T07:51:00 +01:00
 image: /assets/images/2025/08/queen-bee.webp
 categories:
   - Things to do
+  - Guest speaker
 description: Meriet Duncan shares the incredible world of honeybees
 author:
   display_name: county admin

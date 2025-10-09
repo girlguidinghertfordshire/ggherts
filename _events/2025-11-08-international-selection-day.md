@@ -52,4 +52,4 @@ Complete the application form and e-mail it to <international@girlguidinghertfor
 
 For a flavour of what an international trip can involve, have a look at what some of our members got up to this year.
 
-[2025 Girlguiding international trips](/news/international-trips/){.btn.btn-primary}
+[2025 Girlguiding international trips](/news/international-trips/){:.btn.btn-primary}
