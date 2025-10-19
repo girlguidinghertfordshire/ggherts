@@ -13,6 +13,7 @@ description: Billboard is a monthly e-newsletter sent to all Girlguiding Hertfor
 
 ## Recent editions
 
+- [October 2025](https://mailchi.mp/47b9ff6c48f9/oct-2025-billboard-13904957){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [September 2025](https://mailchi.mp/c21666312fc0/sept-2025-billboard-13904070){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - August 2025 - No edition
 - [July 2025](https://mailchi.mp/e0e7d101dcb8/july-2025-billboard-13903527){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
@@ -29,8 +30,8 @@ description: Billboard is a monthly e-newsletter sent to all Girlguiding Hertfor
 
 ### 2025
 
-- November: 31 October 2024
-- December: 28 November 2024
+- November: 31 October 2025
+- December: 28 November 2025
 
 ### 2026
 
@@ -52,9 +53,3 @@ description: Billboard is a monthly e-newsletter sent to all Girlguiding Hertfor
 To feature in the Girlguiding Hertfordshire monthly newsletter, sent to all county members opted into receiving marketing messages, please complete this [online form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJUMENVSEM5TEFGQUNVQ1BERklIT0ozUzcwMi4u){:target="_blank"}{:rel="noopener noreferrer"}.  Should you be unable to complete the form please contact <admin@girlguidinghertfordshire.org.uk> for a Word version of the document.
 
 [Article Submission Form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJUMENVSEM5TEFGQUNVQ1BERklIT0ozUzcwMi4u){:.btn.btn-primary}{:target="_blank"}{:rel="noopener noreferrer"}
-
-## Older editions
-
-- [December 2024](https://mailchi.mp/743528b011e8/dec-2024-billboard-13899646){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
-- [November 2024](https://mailchi.mp/f91632647408/nov-2024-billboard-13899153){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
-- [October 2024](https://mailchi.mp/5050ee438db7/oct-2024-billboard-13898492){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}

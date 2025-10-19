@@ -1,6 +1,7 @@
 ---
 title: 'Peak Assault'
 date: 2025-03-29T08:21:00Z
+published: false
 event:
     start_date: '2025-10-17'
     end_date: '2025-10-19'

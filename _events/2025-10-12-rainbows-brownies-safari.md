@@ -1,6 +1,7 @@
 ---
 title: Rainbows and Brownies Sensory Safari
 date: 2025-05-28T10:03:00 +01:00
+published: false
 event:
     start_date: '2025-10-12'
     end_date: ''

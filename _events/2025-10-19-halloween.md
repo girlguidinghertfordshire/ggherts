@@ -1,6 +1,7 @@
 ---
 title: 'Halloween at the farm'
 date: 2025-09-28T07:49:00 +01:00
+published: false
 event:
     start_date: '2025-10-19'
     end_date: ''
