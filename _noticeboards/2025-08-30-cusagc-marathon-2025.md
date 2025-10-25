@@ -19,7 +19,9 @@ The Marathon Challenge is suitable for all levels of ability. Due to the distanc
 
 **Entry fee:** £14 per person (includes hot drinks at the manned bases and a hot meal at the end of the day, as well as a badge for your camp blanket). You will need to bring your own lunch.
 
-Entry forms and payment (cheque) must be returned by **Saturday 25 October.** Entries are first come, first served and places are limited. Confirmation and final details will be sent out shortly after entries close.
+Entry forms and payment (cheque) must be returned by **Sunday 2 November** (date has been extended from 25 October).
+
+Entries are first come, first served and places are limited. Confirmation and final details will be sent out shortly after entries close.
 
 Health and consent forms must be completed and returned for all team members by **Saturday 8 November.**
 

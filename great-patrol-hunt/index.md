@@ -17,15 +17,9 @@ It began in 1968, Hertfordshire Scout Patrols competed annually in various ways,
 
 ## Our events
 
-### 2024/25
-
-The 2024/25 Great Patrol Hunt competition has now been completed. The results of which can be [found below.](#202425-results)
-
-Whether you enjoyed this year's events, or are wanting to try something new, why not come along to the next competition?
-
 ### 2025/26
 
-- Round 1: [Saturday 18 October 2025 \| Potters Bar](/event/gph-r1/)
+- Round 1: Saturday 18 October 2025 \| Potters Bar - now completed
 - Round 2: [Saturday 14 March 2026 \| St Albans](/event/gph-r2/)
 - Round 3: [Friday 26 - Sunday 28 June 2026 \| tbc](/event/gph-r3/)
 
@@ -45,6 +39,12 @@ Unit leaders are not required to accompany Patrols to this event, which is run b
 - To participate in Round 3, a patrol and at least 2 members must have competed in one of the previous rounds, *or a new patrol must be accompanied by one of its unit leaders.*
 - If you are unable to make a full Patrol in Rounds 1 &amp; 2,  then  join the &#8216;GPH Mavericks&#8217;, a patrol made of Guides from different units.
 
+## 2025/26 results
+
+Round 1 of this year’s Great Patrol Hunt saw 31 patrols navigate Potters Bar on Saturday 18 October completing fun and diverse challenges along the way.
+
+[Download round 1 results](/assets/docs/2025/gph-r1-25-26-results.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
+
 ## 2024/25 results
 
 Round 1 of this year's Great Patrol Hunt saw 170 Guides navigate Wheathampstead on Saturday 19 October whilst getting creative and completing various activites.
@@ -57,7 +57,7 @@ Round 2 of the Great Patrol Hunt was completed on 29 March 2025.
 
 Round 3 of the Great Patrol Hunt was completed over the weekend of 27- 29 June 2025.
 
-[Download round 3 results](assets/docs/2025/gph-r3-24-25-results.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
+[Download round 3 results](/assets/docs/2025/gph-r3-24-25-results.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
 
 Well done to all those who participated in this year's competition and congratulations to the overall winners:
 
