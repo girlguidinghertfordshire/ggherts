@@ -46,7 +46,7 @@ What to Expect:
 
 The cost to attend is £5 pp and payment details will be provided upon receipt of the application form. Refreshments will be included. Uniform should be worn.
 
-Complete the application form and e-mail it to <international@girlguidinghertfordshire.org.uk> including a passport sized photograph by 24 October 2025 to register your interest.
+Complete the application form and e-mail it to <international@girlguidinghertfordshire.org.uk> including a passport sized photograph by 3 November 2025 to register your interest.
 
 [Application form](/assets/docs/2025/international-application-form.pdf){:.btn.btn-primary}{:rel="noopener"}{:target="_blank"}
 

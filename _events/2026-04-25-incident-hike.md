@@ -13,15 +13,14 @@ event:
     type:
         - Activity
         - Social
+        - Walking
     age-group:
         - Guides
         - Rangers
     location:
-        - TBC
+        - Hertfordshire, Harpenden and Redbourn
 ---
-Save the date(s)
-
-Guides and Rangers are invited to join the county walking team on their first incident hike.
+Guides and Rangers are invited to join the county walking team on their first incident hike in the Wheathampstead area (exact location tbc).
 
 The date is to be confirmed, but it will take place during the day, on **either Saturday 25 or Sunday 26 April.**
 
