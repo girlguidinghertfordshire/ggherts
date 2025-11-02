@@ -80,6 +80,25 @@ Are you planning on having fun outdoors with your Brownies? Why not mark the occ
 
 ## Division badges
 
+### Chippy hike badge
+
+![Chippy hike badge](/assets/images/2025/11/chippy-badge.webp){:.ms-3.mb-3.float-end}
+This is a fun badge, created by St Albans division, born out of many years of units getting out and about.
+
+However you want to run your chippy hike is totally down to you, so long as you walk to a chip shop and eat chips you can earn your badge!
+
+There are many UMA’s / skills builders that involve getting out and exploring your local area – why not plan yours to end up at the chippy.
+
+Different sections can do different lengths of hike – for example Guides may walk 3 miles to earn their chips, whilst getting Rainbows safely across the road and back to the unit meeting place without dropping their chips is a success!
+
+If you have access to more than 1 chippy you can rate the chips from each on a number of criteria from 1 to 5. Criteria could include colour, smell, crunch, texture, taste etc. Older members might want to also rate value for money, length of wait to be served or getting their chips, and customer service, as some examples. Tally up the scores and award the best chippy a badge.
+
+There are also UMA’s/ Skills Builders that involve taste tests.
+
+Badges are £1 each plus postage and packaging.
+
+Order your badges by emailing: <stalbansnorthdistrict@girlguidinghertfordshire.org.uk>
+
 ### Dark in the light challenge badge
 
 ![Dark in the light badge](/assets/images/2025/08/dark-in-the-light.webp){:.ms-3.mb-3.float-end}
