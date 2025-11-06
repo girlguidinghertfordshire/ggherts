@@ -14,7 +14,7 @@ Would you like your members to create a totally bespoke and original floral gift
 
 Laura's paper floral workshops have already been enjoyed by many in the county and are a fun session you may wish to incorporate into your unit's term planning.
 
-This activity that can be enjoyed by all sections, ages and abilities as Laura will give guidance throughout on their creative skills.
+This activity can be enjoyed by all sections, ages and abilities as Laura will give guidance throughout on their creative skills.
 
 Made easier for Rainbows and Brownies and adapted to SEN requirements, an inclusive activity for all to enjoy - no 2 flowers will be identical, so a truly bespoke gift for Mother's day, birthdays, Christmas or any occasion throughout the year.
 
