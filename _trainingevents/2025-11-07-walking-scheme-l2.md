@@ -1,6 +1,7 @@
 ---
 title: 'Walking scheme level 2'
 date: 2025-01-06T07:55:00Z
+published: false
 event:
     start_date: '2025-11-07'
     end_date: '2025-11-09'

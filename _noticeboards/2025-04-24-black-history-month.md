@@ -1,6 +1,7 @@
 ---
 title: RAF Museum - Black History Month event
 date: 2025-04-24T21:38:00 +01:00
+published: false
 image: /assets/images/2025/04/black-history-month.webp
 categories:
   - Things to do

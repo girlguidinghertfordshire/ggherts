@@ -1,6 +1,7 @@
 ---
 title: 'International selection day'
 date: 2025-10-08T22:16:00 +01:00
+published: false
 event:
     start_date: '2025-11-08'
     end_date: ''

@@ -1,6 +1,7 @@
 ---
 title: 'Autumn adventure day for Rainbows'
 date: 2025-07-13T07:05:00 +01:00
+published: false
 event:
     start_date: '2025-11-16'
     end_date: ''

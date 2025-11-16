@@ -25,7 +25,7 @@ event:
 ---
 This Bronze DofE practice expedition, taking place from the morning of Saturday 14 March until approximately midday on Sunday 15 March, consists of a day’s walk in Broxbourne, overnight camp and further short walk on day 2.  
 
-The weekend is aimed at anyone undertaking their Bronze DofE who has already attended the [Bronze DofE training expedition](/event/dofe-indoor-training/) or the [Ranger Mountain Experience weekend](/event/mx26/).
+The weekend is aimed at anyone undertaking their Bronze DofE who has already attended the [Bronze DofE indoor training](/event/dofe-indoor-training/) or the [Ranger Mountain Experience weekend](/event/mx26/).
 
 Cost: £20 (includes site fees, gas, equipment and petrol for supervisors).  
 
