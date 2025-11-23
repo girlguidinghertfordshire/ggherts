@@ -45,6 +45,6 @@ The campfire circle is located in a sheltered area to prevent sparks over tents 
 - Giant games (snakes and ladders, chess, lawn darts and pick up sticks), Hi-Tower, Skittles, Quoits, skipping roes and sports cones at a cost of £10 for a 2 hour session
 - Soft Archery recommended for _ages 8+_ at a cost of £10 for a 2 hour session (4 targets, 4 bows, 12 arrows, 8 wrist guards and 2 guide ropes)
 
-## Site map and floorplan
+## Site map
 
-![Hertfordshire Guide Centre site map and floorplan](/assets/images/core/hgc-site-map-floorplan.jpg){:.img-fluid}
+![Hertfordshire Guide Centre site map](/assets/images/2025/11/county-centre-site-map.webp){:.img-fluid}

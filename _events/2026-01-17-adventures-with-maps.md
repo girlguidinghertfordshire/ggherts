@@ -18,12 +18,20 @@ event:
         - Leaders
         - Adults
     location:
-        - tbc
+        - Hertfordshire, East
 ---
-Save the date!
+Why not start the new year off by joining the county walking team for a quiz based circular walk to/from Bramfield in the beautiful East Hertfordshire countryside with historical anecdotes and fables along the way.
 
-Join the county walking team on Saturday 17 January to develop your map skills or just join for a fun social walk.
+Taking place 9.30am-12.30pm on Saturday 17 January this mini adventure will wend its way past the haha at Mardley Hill, uphill to Queen Hoo Hall and back past the bewitched Sally Rainbow's Dell.
 
-Open to all adults.
+Develop your map skills, or just join for a fun social walk, completing map and route quiz questions along the way.
 
-More details to follow soon.
+Open to all members aged 16 plus.
+
+Participants will need to wear walking boots (or other sturdy footwear) as it is likely to be muddy this time of year.
+
+Bring waterproofs, warm layers, hats and gloves and a flask of hot drink and a snack as there will be a halfway break.
+
+Email <walking@girlguidinghertfordshire.org.uk> to book.
+
+Spaces are limited.

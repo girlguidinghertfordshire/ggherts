@@ -60,7 +60,14 @@ Our holiday house is perfect for unit holidays and other indoor residentials, as
 
 ## Site map and floorplan
 
-![Hertfordshire Guide Centre site map and floorplan](/assets/images/core/hgc-site-map-floorplan.jpg){:.img-fluid}{:loading="lazy"}
+<div class="row">
+<div class="col-6" markdown="1">
+![Hertfordshire Guide Centre site map](/assets/images/2025/11/county-centre-site-map.webp){:.img-fluid}{:loading="lazy"}
+</div>
+<div class="col-6" markdown="1">
+![Hertfordshire Guide Centre floorplan](/assets/images/2025/11/county-centre-floorplan.webp){:.img-fluid}{:loading="lazy"}
+</div>
+</div>
 
 ## Risk assessments
 

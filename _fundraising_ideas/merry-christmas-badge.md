@@ -1,6 +1,7 @@
 ---
 title: Girlguiding Hertfordshire Merry Christmas 2025 badge
 date: 2025-04-03T20:47:00 +01:00
+published: false
 order: 2.25
 ---
 Why not celebrate the season in style with our exclusive Christmas badge. 

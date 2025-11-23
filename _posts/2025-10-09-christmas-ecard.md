@@ -1,6 +1,7 @@
 ---
 title: Christmas ecard design competition
 date: 2025-10-09T20:24:00 +01:00
+published: false
 image: /assets/images/2025/10/xmas-card-competition.webp
 categories:
   - Things to do
