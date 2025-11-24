@@ -1,7 +1,7 @@
 ---
 title: County champion - Anglia 27 event
 date: 2025-08-23T08:44:00 +01:00
-published: true
+published: false
 image: /assets/images/2025/08/county-champion-anglia27.webp
 download: /assets/docs/2025/anglia27-county-champion-role-description.pdf
 categories: 

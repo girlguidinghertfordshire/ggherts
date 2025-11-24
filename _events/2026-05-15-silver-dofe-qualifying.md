@@ -21,7 +21,7 @@ event:
         - Leaders
         - Adults
     location:
-        - The Chilterns
+        - Peak District
 ---
 This Silver DofE qualifying expedition in the Peak District runs from Friday 15 May – Sunday 17 May, leaving very early Friday morning (will require the day off school), returning at approximately 8pm on the Sunday.  
 
