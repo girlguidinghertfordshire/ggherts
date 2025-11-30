@@ -33,7 +33,7 @@ Unit leaders are not required to accompany Patrols to this event, which is run b
 
 ## Competition rules
 
-- Participants are aged between 10-15 years and an active member of a Guide Unit.
+- Participants are aged between 10-15 years and an active member of a Guide Unit. **They must have a Guide role on GO.**
 - Teams need not be regular weekly Patrols, but they must choose a unique name for themselves in order to enter.
 - Patrols **must consist of 4-6 Guides** and should not include more than 10 different patrol members throughout the three rounds.
 - To participate in Round 3, a patrol and at least 2 members must have competed in one of the previous rounds, *or a new patrol must be accompanied by one of its unit leaders.*

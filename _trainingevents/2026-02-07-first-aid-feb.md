@@ -23,4 +23,6 @@ Taking place in Buckinghamshire on **Saturday 7 - Sunday 8 February,** staying a
 
 Cost: £140 (includes accommodation and food).
 
-To book please email <walking@girlguidinghertfordshire.org.uk>. Very limited availability.
+**This course is fully booked.**
+
+Contact the walking team on <walking@girlguidinghertfordshire.org.uk> with any queries
