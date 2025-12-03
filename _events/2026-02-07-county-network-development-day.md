@@ -48,14 +48,14 @@ Sessions are as follows:
 - DC REN's **(for DC's only)**
 - Sustainability - greener guiding, how to make your unit more ecofriendly
 
-## Session 3 (1.30-2.30pm)
+## Session 3 (1.10-2.10pm)
 
 - Traditional Brownies - activities, skills and songs
 - Trustees training - **(for TRUSTEES only)**
 - Gift aid
 - 'It could happen to me part 1' - Risks that could affect all - **book with part 2 in session 4**
 
-## Session 4 (2.40-3.40pm)
+## Session 4 (2.20-3.20pm)
 
 - Traditional Guides - activities, skills and songs
 - WAGGS

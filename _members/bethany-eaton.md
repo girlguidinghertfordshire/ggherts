@@ -1,6 +1,7 @@
 ---
 title: Bethany Eaton
 date: 2016-05-20T16:15:44.000Z
+published: false
 groups:
   - group: adventure
     roles:

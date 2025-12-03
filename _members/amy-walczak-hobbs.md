@@ -1,6 +1,6 @@
 ---
 title: Amy Walczak-Hobbs
-published: false
+published: true
 date: 2019-10-21 12:17:12.000000000 +01:00
 groups:
   - group: membership-support

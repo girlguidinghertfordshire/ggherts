@@ -19,14 +19,13 @@ groups:
         job_title: County awards secretary lead volunteer
         person_intro: Provides administrative assistance to the county awards lead volunteer and helps with organising the annual county awards celebration event.
         email: awardsec@girlguidinghertfordshire.org.uk
-        vacancyurl: /get-involved/vacancies/#county-awards-secretary-lead-volunteer
-  - group: membership-support
+        vacancyurl: /get-involved/vacancies/#county-awards-secretary-lead-volunteer  
+  - group: adventure
     roles:
-      - order: 5
-        job_title: County joint Inspire coordination lead volunteer
-        person_intro: Helps empower young women within the Inspire community (members aged 18-30) by encouraging and supporting them to take part in available opportunities.  
-        emailx: Inspire@girlguidinghertfordshire.org.uk
-        vacancyurl: /get-involved/vacancies/#joint-county-inspire-coordination-lead-volunteer
+      - job_title: County Ranger lead volunteer
+        order: 8
+        person_intro: Advises and supports Ranger unit leaders within the county and encourages the transition from Guides to Rangers.
+        email: rangers@girlguidinghertfordshire.org.uk
 image: null
 thumbnail: null
 ---
