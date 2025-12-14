@@ -3,7 +3,7 @@ title: Harpenden and Redbourn Guide shop
 date: 2016-03-17 12:11:59.000000000 +00:00
 shop:
   mapaddress: "Permanently closed"
-  location: Permanently closed. The West Hertfordshire division shop is the nearest alternative
+  location: Permanently closed. The Welwyn Garden City shop is the nearest alternative
   division: Harpenden & Redbourn
   contact_name: null
   contact_email: null

@@ -45,7 +45,7 @@ Sessions are as follows:
 
 - Ready set lead - a resource for Guide leaders produced by Guides
 - Spread the word of guiding using the press, social media, websites and word of mouth
-- DC REN's **(for DC's only)**
+- GO compliance **(for DC's only)**
 - Sustainability - greener guiding, how to make your unit more ecofriendly
 
 ## Session 3 (1.10-2.10pm)

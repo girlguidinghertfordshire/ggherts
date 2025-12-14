@@ -2,7 +2,7 @@
 title: 'Incident hike'
 date: 2025-10-25T09:38:00 +01:00
 event:
-    start_date: '2026-04-25'
+    start_date: '2026-04-26'
     end_date: ''
     address: null
     contact_name: null
@@ -20,8 +20,6 @@ event:
     location:
         - Hertfordshire, Harpenden and Redbourn
 ---
-Guides and Rangers are invited to join the county walking team on their first incident hike in the Wheathampstead area (exact location tbc).
-
-The date is to be confirmed, but it will take place during the day, on **either Saturday 25 or Sunday 26 April.**
+Guides and Rangers are invited to join the county walking team on their first incident hike in the Wheathampstead area (exact location tbc) on **Sunday 26 April.**
 
 More details to follow.
