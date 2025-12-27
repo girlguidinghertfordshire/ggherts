@@ -21,6 +21,7 @@ Hammock camping (max 4 - equipment not provided) can be carried out using the tr
 ## Facilities
 
 - ​A large field with space for up to 2 separate camps and is notionally divided.  Each 'camp' holds approximately 25 pitches.
+- Camp shelter
 - Campfire circle
   - 2 hour day/evening campfire circle sessions
   - Pre-booking is required (see below).

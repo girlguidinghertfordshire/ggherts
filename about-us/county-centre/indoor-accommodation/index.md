@@ -77,4 +77,4 @@ See [risk assessments page](../risk-assessments/) for HGC risk assessments.
 
 The Centre is also home to the Girlguiding Hertfordshire Archives.  Should you wish to contact our county archivist you please email <archives@girlguidinghertfordshire.org.uk>.
 
-![Facilities inside Hertfordshire Guide Centre](/assets/images/core/indoor-accommodation-footer.webp){:loading="lazy"}{:.img-fluid}
+![Facilities inside Hertfordshire Guide Centre](/assets/images/2025/12/indoors.webp){:loading="lazy"}{:.img-fluid}

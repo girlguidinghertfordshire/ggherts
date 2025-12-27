@@ -30,7 +30,7 @@ The day with commence at 9.15am with coffee and registration before you disburse
 
 Tea and coffee will be provided but you will need to bring your own packed lunch.
 
-There are a total of **16 sessions** running on the day (with 4 running concurrently in each time slot). You must only select 1 session from each of the 4 time slots (so a maximum of 4 sessions). You can choose to attend for 1, 2, 3 or 4 sessions, you do not have to stay for the whole day.
+There are a total of **16 sessions** running on the day (with 4 running concurrently in each time slot). You must only select 1 session from each of the 4 time slots (so a maximum of 4 sessions). **You can choose to attend for 1, 2, 3 or 4 sessions, you do not have to stay for the whole day.**
 
 Sessions are as follows:
 
@@ -51,7 +51,7 @@ Sessions are as follows:
 ## Session 3 (1.10-2.10pm)
 
 - Traditional Brownies - activities, skills and songs
-- Trustees training - **(for TRUSTEES only)**
+- Trustees training - **(for any volunteer holding a trustee position within Girlguiding Hertfordshire e.g. for county or a division or guiding property)**
 - Gift aid
 - 'It could happen to me part 1' - Risks that could affect all - **book with part 2 in session 4**
 
