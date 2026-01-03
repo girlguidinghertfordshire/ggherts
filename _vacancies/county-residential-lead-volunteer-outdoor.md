@@ -1,16 +1,16 @@
 ---
-title: County residential lead volunteer - outdoor
+title: County residential lead volunteer (shared role)
 date: 2025-01-09T20:04:00Z
-image: /assets/images/2025/09/county-residential-outdoor.webp
-download: "/assets/docs/2025/role-description-county-residential-lead-volunteer.pdf"
+image: /assets/images/2026/01/residential-lead.webp
+download: "/assets/docs/2026/ranger-lead-volunteer-role-description-dec-2025.pdf"
 categories: 
     - County team
     - Adventure
 ---
-Could you support volunteers who would like to gain their camp permit and Lead Away schemes so they can offer girls exciting residential opportunities?  
+We are looking for 2 enthusiastic volunteers who hold their going away with qualification, including the relevant camping module (module 8) if appropriate, to become our county residential lead volunteers in a shared role. Working closely together, ideally 1 lead volunteer will focus on indoors residentials, and the other on camping but exactly how the workload is split can be decided between the 2 volunteers appointed.
 
-We are looking for an enthusiastic volunteer, to promote, encourage and be responsible for the county's camping and residential holidays and provide opportunities for girls to gain their qualifications.  
+As county residential lead volunteer you will lead, support and advise volunteers working with those interested in completing their going away with qualification so they can offer girls exciting residential opportunities.
 
-This will be a shared role, working with the county residential lead volunteer - indoor, who focus' predominantly on indoor residentials.
+You will also support leaders in facilitating the camp permit and Lead Away permit and provide opportunities for girls to obtain their qualifications.
 
 You can find out more about what the role entails below and apply via <vacancies@girlguidinghertfordshire.org.uk>.

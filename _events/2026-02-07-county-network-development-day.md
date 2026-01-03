@@ -9,7 +9,7 @@ event:
     contact_email: null
     contact_number: ''
     book_now_link: 'https://www.eventbrite.co.uk/e/county-network-and-development-day-tickets-1908108256159?aff=oddtdtcreator'
-    image: '/assets/images/2025/11/booking-open-dev-day.webp'
+    image: '/assets/images/2026/01/network-develop.webp'
     type:
         - Development
         - Social
