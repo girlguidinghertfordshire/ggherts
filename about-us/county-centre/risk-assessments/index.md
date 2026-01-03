@@ -16,7 +16,7 @@ lastmod: 2022-09-07T20:48:28.022Z
 
 ## Outdoor risk assessment
 
-[Outdoor risk assessment](/assets/docs/hgc/hgc-venue-outdoor-risk-assessment-2023-05.pdf){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noreferrer noopener"}
+[Outdoor risk assessment](/assets/docs/2026/hgc-outdoor-risk-assessment-nov-25.pdf){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noreferrer noopener"}
 
 ## Campfire risk assessment
 
