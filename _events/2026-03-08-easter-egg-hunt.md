@@ -22,10 +22,22 @@ event:
     location:
         - 'Hertfordshire, St Albans'
 ---
-Save the date!
+Come along to St Albans Verulamium Park on **Sunday 8 March** (10am - 1pm) and join the walking team for an egg-citing Easter treasure hunt.
 
-Join the walking team on Sunday 8 March for an egg'citing Easter hunt in St Albans.
+Starting at the Verulamium Museum car park, with staggered start times, the hunt, expected to take approximately 1.5 - 2 hours, is along an easy trail on good paths around the park and neighbouring streets.
 
-Aimed as Rainbows and Brownies, but Guides and Rangers are more than welcome to join this cracking event.
+With a spring in your step, keep your eyes peeled and find the clues!
 
-More details to follow.
+Although aimed at Rainbows and Brownies, Guides and Rangers are welcome to attend and complete the trail under remote supervision.
+
+Participants are welcome to attend in family groups or with units. If siblings wish to come an adult **must** accompany them.
+
+Cost: £3 per young member (includes an edible prize).
+
+Uniform to be worn plus comfortable trainers, warm top and waterproof coat.
+
+Bring a small snack, filled water bottle and a pen in a daysack or small rucksack.
+
+Booking form, participant information and consent form and payment must be completed and returned to <walking@girlguidinghertfordshire.org.uk> by **Friday 20 February.**
+
+[Booking form](/assets/docs/2026/easter-egg-hunt-booking-form.docx){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [Information and consent form](/assets/docs/2026/easter-egg-hunt-consent-form-march-2026.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
