@@ -9,7 +9,7 @@ event:
     contact_email: null
     contact_number: ''
     book_now_link: ''
-    image: ''
+    image: '/assets/images/2026/01/l2-social-walk.webp'
     type:
         - Social
         - Walking
