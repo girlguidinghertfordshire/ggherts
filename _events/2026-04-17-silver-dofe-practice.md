@@ -1,6 +1,7 @@
 ---
 title: 'Silver DofE practice expedition'
 date: 2025-11-06T20:56:00z
+published: false
 event:
     start_date: '2026-04-17'
     end_date: '2026-04-19'

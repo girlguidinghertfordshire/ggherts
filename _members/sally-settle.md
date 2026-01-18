@@ -2,12 +2,6 @@
 title: Sally Settle
 date: 2019-09-09 08:58:16.000000000 +01:00
 groups:
-  - group: divcomm
-    roles:
-      - order: 3
-        job_title: Flexible division commissioner
-        person_intro: Covering the whole of Hertfordshire county.
-        email: flexibledivision@girlguidinghertfordshire.org.uk
   - group: promote-grow
     roles:
       - order: 4

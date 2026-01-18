@@ -26,6 +26,8 @@ Join the county walking team on **Sunday 1 March** for a full day (9am - 6.30pm)
 
 Great for those wanting to feel more confident taking girls out on local walking adventures such as canal walks, treasure hunts or countryside nature trails.
 
+The day will cover map basics and simple navigation, what to wear, Girlguiding regulations, route planning, risk assessments, group management and an outdoor first aid scenario. In addition the water safety module covers water hazards and using a throw line.
+
 All volunteers and members aged 16+ welcome.
 
 Cost: £12 with refreshments provided, but will you need to bring your own packed lunch.

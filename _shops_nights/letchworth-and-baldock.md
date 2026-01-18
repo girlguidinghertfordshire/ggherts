@@ -2,19 +2,14 @@
 title: Letchworth and Baldock Guide shop
 date: 2016-03-17T12:11:30.000Z
 shop:
-  mapaddress: '1st/3rd Scout HQ, Icknield Way, Letchworth Garden City, SG6 4GY'
-  location: |
-    1st/3rd Scout HQ  
-    Icknield Way  
-    Letchworth Garden City  
-    SG6 4GY
+  mapaddress: 'Permanently closed'
+  location: Permanently closed. Hitchin East and West shop is the nearest alternative.
   division: North
-  contact_name: Nora Hitcham
-  contact_email: nora.hitcham@gmail.com
-  contact_number: 01462 627905
+  contact_name: 
+  contact_email: 
+  contact_number: 
   latlng: '51.9854452,-0.2157280000000128'
   type:
     - Shop
-lastmod: '2021-09-09T12:08:53.735Z'
 ---
-<p>Open Thursdays during term time 6.00-8.00pm</p>
+The Letchworth and Baldock Guide shop is now permanently closed. The [Hitchin East and West shop](/shops-nights/hitchin-depot/) is your nearest alternative.

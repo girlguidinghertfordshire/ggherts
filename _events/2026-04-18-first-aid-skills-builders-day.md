@@ -38,6 +38,6 @@ To book email <verity.guides@gmail.com>.
 
 Information and consent forms for each girl must be completed and returned by email by **26 March 2026.**
 
-[Information and consent form](/assets/docs/2026/first-aid-skills-builders-day-information-consent-form-apr-26.docx){:.btn.btn-primary.download-link}
+[Information and consent form](/assets/docs/2026/first-aid-skills-builders-day-information-consent-form-apr-26v2.docx){:.btn.btn-primary.download-link}
 
 Please note, skills builders badges will not be provided as part of this day. Units will need to purchase these themselves.

@@ -2,7 +2,7 @@
 title: County residential lead volunteers (shared role)
 date: 2025-01-09T20:04:00Z
 image: /assets/images/2026/01/res-lead-joint.webp
-download: "/assets/docs/2026/ranger-lead-volunteer-role-description-dec-2025.pdf"
+download: "/assets/docs/2026/county-residential-lead-volunteer-jan-2026.pdf"
 categories: 
     - County team
     - Adventure

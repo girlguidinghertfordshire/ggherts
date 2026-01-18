@@ -34,7 +34,7 @@ Where photos feature groups of girls, this form should be completed by leaders c
 
 ### Member grants
 
-This form can be used to apply for subscriptions assistance for one or more girls.
+This form can be used to apply for financial assistance with events, projects and other funding needs. Grants must be applied for by an adult in guiding, who can apply on their own behalf or on behalf of a young member for assistance.
 
 [Grant Application Form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwRrqs7bdo19CnIwI_9Lov51UMEs3SDFBNk1XVUE1NERQTEVQT0lES1VVVy4u){:target="_blank"}{:rel="noopener"}{:.external-link.btn.btn-primary}
 

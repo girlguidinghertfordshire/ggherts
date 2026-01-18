@@ -13,7 +13,7 @@ This year’s event is taking place on **Saturday 14 March 2026** starting in We
 
 The challenge is for teams of 4-6 to gain points by visiting as many checkpoints as possible in 7 hours, over a distance of roughly 10 miles.
 
-Teams are given grid references for the checkpoints and must choose their own route, starting and finishing at Eversden Village Hall. The majority of checkpoints are unmanned, but teams can gain more point at manned checkpoints where there are further challenges to complete.
+Teams are given grid references for the checkpoints and must choose their own route, starting and finishing at West Wickham Village Hall. The majority of checkpoints are unmanned, but teams can gain more point at manned checkpoints where there are further challenges to complete.
 
 Separate trophies for Girlguiding and Scouting teams are up for grabs!
 

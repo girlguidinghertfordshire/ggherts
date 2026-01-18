@@ -1,6 +1,7 @@
 ---
 title: 'Bronze and Silver DofE indoor training'
 date: 2025-11-06T20:46:00z
+published: false
 event:
     start_date: '2026-01-10'
     end_date: '2026-01-11'

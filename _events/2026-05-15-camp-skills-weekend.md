@@ -8,8 +8,8 @@ event:
     contact_name: null
     contact_email: null
     contact_number: ''
-    book_now_link: ''
-    image: '/assets/images/2025/06/camp-skills.webp'
+    book_now_link: 'https://forms.office.com/pages/responsepage.aspx?id=3yob_CzTykeMNWNnWM6Owcg2wzmjm45Mliv78_mHDTZUQVgyM0Q2OURMM0NQUVlFNlRQU0QwVkdKOC4u&route=shorturl'
+    image: '/assets/images/2026/01/camp-skills.webp'
     type:
         - Activity
         - Residential
@@ -20,9 +20,7 @@ event:
     location:
         - 'Hertfordshire, East'
 ---
-Save the date!
-
-Following the success of the county's first camp skills weekend, planning is underway for the next one.
+Following the success of the county's first camp skills weekend, applications are now open for our next one.
 
 Open to Guides, Rangers and young leaders who want to get more camping experience and have a weekend of fun.
 
@@ -42,6 +40,6 @@ Places are limited.
 
 *Girls and their leader(s) can attend from 10am on Saturday morning if they are unable to arrive on the Friday night. The cost will remain the same.
 
-**Applications opening January 2026.**
+Deadline for applications is Friday 17 April. Consent and health forms, which will be sent out with invoices after sign up, must also be completed and returned by this date.
 
 Any questions please email <outdoor@girlguidinghertfordshire.org.uk>

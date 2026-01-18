@@ -1,6 +1,7 @@
 ---
 title: 'Silver DofE qualifying expedition'
 date: 2025-11-06T21:05:00z
+published: false
 event:
     start_date: '2026-05-15'
     end_date: '2026-05-17'

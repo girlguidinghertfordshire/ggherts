@@ -13,6 +13,12 @@ description: Billboard is a monthly e-newsletter sent to all Girlguiding Hertfor
 
 ## Recent editions
 
+### 2026
+
+- [January 2026](https://mailchi.mp/52962668471e/jan-2026-billboard-13906534){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
+
+### 2025
+
 - [December 2025](https://mailchi.mp/43b664dd61a2/dec-2025-billboard-13906223){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [November 2025](https://mailchi.mp/eb0cfe3e334e/nov-2025-billboard-13905645){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [October 2025](https://mailchi.mp/47b9ff6c48f9/oct-2025-billboard-13904957){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
@@ -26,13 +32,10 @@ description: Billboard is a monthly e-newsletter sent to all Girlguiding Hertfor
 - [February 2025](https://mailchi.mp/323fc3c066e7/feb-2025-billboard-13900874){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [January 2025](https://mailchi.mp/8767e058aac8/jan-2025-billboard-13899979){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 
-[Older editions](#older-editions){:.small}
-
 ## Deadline dates for submission
 
 ### 2026
 
-- January: 29 December 2025
 - February: 28 January
 - March: 25 February
 - April: 27 March
