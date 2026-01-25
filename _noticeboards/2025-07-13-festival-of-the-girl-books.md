@@ -1,6 +1,7 @@
 ---
 title: Festival of The Girl activity books
 date: 2025-07-13T07:10:00 +01:00
+published: false
 image: '/assets/images/2025/07/festival-of-the-girl.webp'
 categories:
   - Things to do
