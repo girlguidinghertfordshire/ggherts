@@ -9,7 +9,7 @@ event:
     contact_email: null
     contact_number: ''
     book_now_link: 'https://forms.office.com/pages/responsepage.aspx?id=3yob_CzTykeMNWNnWM6Owcg2wzmjm45Mliv78_mHDTZUQVgyM0Q2OURMM0NQUVlFNlRQU0QwVkdKOC4u&route=shorturl'
-    image: '/assets/images/2026/01/camp-skills.webp'
+    image: '/assets/images/2026/01/campskills.webp'
     type:
         - Activity
         - Residential
