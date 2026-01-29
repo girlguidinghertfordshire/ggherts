@@ -53,14 +53,14 @@ Sessions are as follows:
 - Traditional Brownies - activities, skills and songs
 - Trustees training - **(for any volunteer holding a trustee position within Girlguiding Hertfordshire e.g. for county or a division or guiding property)**
 - Gift aid
-- 'It could happen to me part 1' - Risks that could affect all - **book with part 2 in session 4**
+- 'It couldn't happen to me part 1' - Risks that could affect all - **cancelled**
 
 ## Session 4 (2.20-3.20pm)
 
 - Traditional Guides - activities, skills and songs
 - WAGGS
 - GAW - going away with licence
-- 'It could happen to me part 2' Risks that could affect all - **book with part 1 in session 3**
+- 'It couldn't happen to me part 2' Risks that could affect all - **cancelled**
 
 A market place will be available throughout the day where you can visit stalls
 
