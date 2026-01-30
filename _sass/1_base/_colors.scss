@@ -43,6 +43,7 @@ $gg-guides-dark-blue: #173a86;
 $gg-guides-green: #00a469;
 $gg-rangers-purple: #54184a;
 $gg-rangers-light-pink: #fbdfe7;
+$gg-trefoil-red: #d71635;
 
 // Grays
 $gg-light-gray: #f2f2f2;
@@ -61,6 +62,7 @@ $gg-dark-gray: #3a3535;
     --gg-guides-mid-blue: #{$gg-guides-mid-blue};
     --gg-guides-green: #{$gg-guides-green};
     --gg-rangers-purple: #{$gg-rangers-purple};
+    --gg-trefoil-red: #{$gg-trefoil-red};
     --gg-light-gray: #{$gg-light-gray};
     --gg-gray: #{$gg-gray};
     --gg-mid-gray: #{$gg-mid-gray};
@@ -96,6 +98,9 @@ $gg-dark-gray: #3a3535;
 }
 .bg-rangers {
   background-color: $gg-rangers-purple;
+}
+.bg-trefoil-red {
+  background-color: $gg-trefoil-red;
 }
 .bg-secondary {
   background-color: $gg-mid-blue !important;

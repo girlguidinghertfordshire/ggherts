@@ -26,6 +26,7 @@ bundle exec jekyll serve --config _config.yml,_config.development.yml
 - Defaults: Collection-specific defaults (layout, `toc`, sorting) are set in [_config.yml](_config.yml).
   - `events` and `trainingevents` pages sort by `event.start_date`.
   - `posts` use layout `post-v5` and `toc: news`.
+- Front matter markers: Always preserve the opening and closing YAML front matter lines (`---` at the top and `---` before content). When editing Markdown files, ensure these markers remain intact and unmodified. Include them in apply_patch contexts so they are not removed.
 - Events: Store under [`_events/`](_events) as `YYYY-MM-DD-slug.md`. Use nested `event` data:
 
 ```yaml

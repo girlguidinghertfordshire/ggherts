@@ -14,6 +14,15 @@ If you were ever involved in Guiding, either as a Rainbow, Brownie, Guide, or Ra
 
 [Find a guild](guilds/){:.btn.btn-primary} [Activities and challenges](activities/){:.btn.btn-primary}
 
+<div class="bg-trefoil-red text-white text-center p-3 my-3">
+	<p class="mb-2"><strong>Trefoil Guild Hertfordshire's<br>2026 Annual General Meeting</strong></p>
+	<p class="mb-2">Saturday 11 April, 2pm<br>Christchurch Baptist Church, Tewin Road<br>Welwyn Garden City</p>
+	<p class="mb-2">All Welcome</p>
+	<p class="mb-0">£5 entry with refreshments provided</p>
+</div>
+
+[Let us know you'd like to attend](mailto:myra.austen@gmail.com){:.btn.btn-primary}
+
 ## Hertfordshire Trefoil team
 
 The Hertfordshire County Trefoil Team are:

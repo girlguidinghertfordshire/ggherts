@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Update or insert lastmod on staged pages
+ruby scripts/update_lastmod.rb
+
+# Ensure updated files are staged
+git add -A
