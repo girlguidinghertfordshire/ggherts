@@ -265,6 +265,7 @@ groups:
 - Reusable components: Prefer `_includes` for repeated UI (e.g., banners, navigation segments). Reference with `{% include file.html %}` inside layouts/pages.
 - Navigation: Add or update menus in [_data/navigation.yml](_data/navigation.yml); IDs in `defaults.toc` map sections to navigation groups.
 - Assets: All documents/images live under [`assets/`](assets). Use lowercase, hyphen-separated filenames; listing images should be 360x200. To update a published file, change its filename to bust caching.
+- CSS cache-busting: When you add or change styles, increment the version on the site stylesheet in [\_layouts/default-v5.html](_layouts/default-v5.html). Update the query param on the link tag (for example, `/css/site.css?v=3.12` → `v=3.13`) to avoid Cloudflare serving a cached CSS file.
 - Redirects: Use [_redirects](_redirects) for static redirects (supported by Cloudflare Pages).
 
 - Event locations: Use values like `'Hertfordshire, Central'` (see `_config.yml` and wiki) so listing filters work. Include both `'Hertfordshire'` and division-specific entries where relevant.
