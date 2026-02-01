@@ -266,6 +266,7 @@ groups:
 - Navigation: Add or update menus in [_data/navigation.yml](_data/navigation.yml); IDs in `defaults.toc` map sections to navigation groups.
 - Assets: All documents/images live under [`assets/`](assets). Use lowercase, hyphen-separated filenames; listing images should be 360x200. To update a published file, change its filename to bust caching.
 - CSS cache-busting: When you add or change styles, increment the version on the site stylesheet in [\_layouts/default-v5.html](_layouts/default-v5.html). Update the query param on the link tag (for example, `/css/site.css?v=3.12` → `v=3.13`) to avoid Cloudflare serving a cached CSS file.
+- JS cache-busting: When you add or change JavaScript in `assets/js/`, increment the version on the script tag(s) in [\_layouts/default-v5.html](_layouts/default-v5.html) (for example, `/assets/js/site.js?v=3.5` → `v=3.6`). Apply the same pattern to any other versioned JS files to avoid Cloudflare caching.
 - Redirects: Use [_redirects](_redirects) for static redirects (supported by Cloudflare Pages).
 
 - Event locations: Use values like `'Hertfordshire, Central'` (see `_config.yml` and wiki) so listing filters work. Include both `'Hertfordshire'` and division-specific entries where relevant.
@@ -274,6 +275,9 @@ groups:
 ## Integrations
 - Email API: Base URL and API key set in configs; forms/pages call server endpoints via templates/includes. Do not log or expose keys.
 - reCAPTCHA & Maps: Keys are configured in `_config` files; related templates in `_includes` (e.g., `google.html`).
+- External links & downloads: For links to external sites or downloadable resources (PDF, DOCX, XLSX, etc.), set `target="_blank"` and `rel="noopener"`.
+  - HTML example: `<a href="https://example.com" target="_blank" rel="noopener">External</a>`
+  - Markdown (Kramdown) example: `<https://example.com>{:.external-link}{:target="_blank"}{:rel="noopener"}`
 
 ## Paths & URLs
 - Production URLs start with https://www.girlguidinghertfordshire.org.uk/. For local editing/testing, drop the domain and use the relative path (for example, `/event/...`).

@@ -5,6 +5,8 @@ published: true
 image: /assets/images/2026/01/cusagc-forward-2026.webp
 categories:
     - Things to do
+author:
+  display_name: county admin
 tags: []
 ---
 Entries are now open for 'Forward 2026', Cambridge University Scouts and Guides Club (CUSAGC)’s annual day incident hike for members of Scouts and Guides aged 10 and over (that includes leaders!).

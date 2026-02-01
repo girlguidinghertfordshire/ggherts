@@ -5,6 +5,8 @@ published: true
 image: /assets/images/2026/01/wilds-farm.webp
 categories:
     - Things to do
+author:
+  display_name: county admin
 tags: []
 ---
 The Wilds Farm CIC is a non-profit community farm that's running a tree planting drive from January - April 2026 in Ledburn to create a nature corridor and support local biodiversity.
