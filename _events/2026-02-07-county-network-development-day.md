@@ -8,7 +8,7 @@ event:
     contact_name: null
     contact_email: null
     contact_number: ''
-    book_now_link: 'https://www.eventbrite.co.uk/e/county-network-and-development-day-tickets-1908108256159?aff=oddtdtcreator'
+    book_now_link: ''
     image: '/assets/images/2026/01/network-develop.webp'
     type:
         - Development
@@ -68,4 +68,4 @@ The day will finish with a round up, thank you and goodbyes from 3.30pm - 3.45pm
 
 Limited on site parking
 
-**Bookings close Sunday 1 February** (spaces are limited so book early to avoid disappointment).
+**Bookings are now closed for this event.**

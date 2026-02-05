@@ -8,7 +8,7 @@ categories:
   - Guest speaker
 tags: []
 author:
-  display_name: County admin
+  display_name: media and comms
 permalink: /noticeboard/traitors-themed-weekend/
 ---
 Bring the excitement of The Traitors to your next unit event or camp with this themed weekend activity plan. The attached pack outlines a complete programme you can adapt for your section, including roles, challenges, materials, and timing suggestions.

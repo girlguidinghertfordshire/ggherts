@@ -18,7 +18,6 @@ The current funding schemes we have running (which enables us to provide the equ
 - Mindray C1A Fully Automatic Defibrillator & Internal Wall Bracket - **currently just £660 exc VAT under our scheme.**
 - Mindray C1A Fully Automatic Defibrillator & Internal Cabinet with door alarm - **currently just £660 exc VAT under our scheme.**
 - Mindray C1A Fully Automatic Defibrillator & External heated Locked or Unlocked Cabinet – **currently just £950 exc VAT under our scheme.** (Please be advised the external cabinet requires a power supply & is not suitable for installation into a phone box).
-- Bleed control kit - **£49.50 exc VAT.**
 
 (VAT will only be applied if the payee is VAT registered.)
 
