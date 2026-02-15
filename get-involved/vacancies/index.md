@@ -18,7 +18,7 @@ lastmod: 2022-04-24T07:01:49.097Z
     <h2 class="mb-0">County trustee</h2>
     <div class="card-text mb-auto">
     <p>Due to a recent change to our constitution, we are looking for a grassroots county member aged 18+ to join our board of trustees.</p>
-    <p>Our county trustees are responsible for setting the county's strategy and direction and play a key role in making sure the county achieves it core purpose. They oversee the overall management and administration of the charity.</p>
+    <p>Our county trustees are responsible for setting the county's strategy and direction and play a key role in making sure the county achieves it's core purpose. They oversee the overall management and administration of the charity.</p>
     <p>The board of trustees has overall legal responsibility for the direction and control of Girlguiding Hertfordshire and is accountable for compliance with relevant laws and regulations. As a county trustee you will have certain legal duties and responsibilities and must always act in the best interests of Girlguiding Hertfordshire.</p>
     <p>If you're passionate about making a difference and committed to our values and mission, this could be the role for you!</p>
     <p>Further details of what the role entails can be found below.</p>

@@ -9,7 +9,7 @@ event:
     contact_email: null
     contact_number: ''
     book_now_link: ''
-    image: '/assets/images/2026/01/first-aid-skills-builders-day.webp'
+    image: '/assets/images/2026/02/skills-builders.webp'
     type:
         - Activity
         - First aid
@@ -35,6 +35,8 @@ Uniform to be worn and please bring waterproof outdoor wear as some of the day w
 Refreshments will be provided but you should bring your own lunch and a water bottle.
 
 To book email <verity.guides@gmail.com>.
+
+**This event is almost fully booked, last few spaces remaining.**
 
 Information and consent forms for each girl must be completed and returned by email by **26 March 2026.**
 

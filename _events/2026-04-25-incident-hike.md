@@ -28,3 +28,5 @@ Teams will navigate a set route (approximately 10k in length), completing proble
 Teams will consist of 4-6 Guides with or without their leaders (based on navigation competence) and Ranger teams of 4-6 girls.
 
 More details about this fun and exciting challenge will follow soon, but in the meantime please save the date and start getting your teams organised.
+
+Enquiries to <walking@girlguidinghertfordshire.org.uk>.
