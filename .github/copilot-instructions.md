@@ -276,6 +276,7 @@ groups:
 - Email API: Base URL and API key set in configs; forms/pages call server endpoints via templates/includes. Do not log or expose keys.
 - reCAPTCHA & Maps: Keys are configured in `_config` files; related templates in `_includes` (e.g., `google.html`).
 - External links & downloads: For links to external sites or downloadable resources (PDF, DOCX, XLSX, etc.), set `target="_blank"` and `rel="noopener"`.
+  - Email addresses in body text should be wrapped in angle brackets so they render as `mailto:` links.
   - HTML example: `<a href="https://example.com" target="_blank" rel="noopener">External</a>`
   - Markdown (Kramdown) example: `<https://example.com>{:.external-link}{:target="_blank"}{:rel="noopener"}`
 

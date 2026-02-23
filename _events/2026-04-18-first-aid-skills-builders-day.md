@@ -9,7 +9,7 @@ event:
     contact_email: null
     contact_number: ''
     book_now_link: ''
-    image: '/assets/images/2026/02/skills-builders.webp'
+    image: '/assets/images/2026/01/first-aid-skills-builders-day.webp'
     type:
         - Activity
         - First aid
@@ -36,7 +36,7 @@ Refreshments will be provided but you should bring your own lunch and a water bo
 
 To book email <verity.guides@gmail.com>.
 
-**This event is almost fully booked, last few spaces remaining.**
+**This event is fully booked.**
 
 Information and consent forms for each girl must be completed and returned by email by **26 March 2026.**
 

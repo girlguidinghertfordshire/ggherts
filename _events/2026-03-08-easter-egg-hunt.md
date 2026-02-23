@@ -38,6 +38,6 @@ Uniform to be worn plus comfortable trainers, warm top and waterproof coat.
 
 Bring a small snack, filled water bottle and a pen in a daysack or small rucksack.
 
-Booking form, participant information and consent form and payment must be completed and returned to <walking@girlguidinghertfordshire.org.uk> by **Friday 20 February.**
+Bookings for this event are now closed. Enquires to <walking@girlguidinghertfordshire.org.uk>
 
-[Booking form](/assets/docs/2026/easter-egg-hunt-booking-form.docx){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [Information and consent form](/assets/docs/2026/easter-egg-hunt-consent-form-march-2026.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
+[Information and consent form](/assets/docs/2026/easter-egg-hunt-consent-form-march-2026.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
