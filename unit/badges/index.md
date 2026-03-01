@@ -104,22 +104,31 @@ Download the challenge pack to find out more about the requirements and activiti
 
 ## Unit badges
 
+1st Baldock Brownie unit have a couple of fun badges to share and help you enjoy the season, whilst helping them raise money for their pack holidays and unit activities:
+
+### Eggstraordinary Easter challenge badge
+
+![Eggstraordinary Easter challenge badge](/assets/images/2026/02/easter-badge.webp){:.ms-3.mb-3.float-end}
+Providing inspiration for spring activities, the Eggstraordinary Easter challenge badge is jam packed with cooking, craft, nature and photography ideas. Something for all ages and sections to 'spring' into action.
+
+This egg shaped badge costs £1.30 each (plus postage) and can be ordered from within the challenge pack.
+
+Download the challenge badge pack to find out more.
+
+[Download challenge pack](/assets/docs/2026/eggstraordinary-easter-challenge-badge-V4.pdf){:.btn.btn-primary.download-link}
+
 ### Forest bathing challenge badge
 
 ![Forest bathing badge](/assets/images/2025/08/forest-bathing-badge-sm.webp){:.ms-3.mb-3.float-end}
-Created by 1st Baldock Brownie unit, the rebranded forest bathing challenge badge can be completed with friends, family, or a 4 legged companion, as well as a unit activity. The challenge pack contains ideas to help you immerse yourself with nature.
-
 Forest bathing, or ‘shinrin-yoku,’ was first developed in Japan in the 1980s as a form of mindfulness.
 
-The woods and forests can be just as beautiful in the colder months so why not wrap up and go for a relaxing walk to reduce stress levels and improve your concentration and memory.
+The forest bathing challenge badge can be completed with friends, family, or a 4 legged companion, as well as a unit activity. The challenge pack contains ideas to help you immerse yourself with nature and enjoy the woods and forests near you.
 
 Badges cost £1.30 each (plus postage) and can be ordered from within the challenge pack.
 
 Download the challenge badge pack to find out more about the activities.
 
 [Download <span class="visually-hidden">forest bathing</span> challenge pack](/assets/docs/2025/forest-bathing-challenge-badge-v4.pdf){:.btn.btn-primary.download-link}
-
-1st Baldock Brownies also have other challenge badges to choose from. Please email the county office if you wish to be put in touch and find out more.
 
 ## Joint Guiding and Scout badges
 
@@ -184,4 +193,4 @@ Essex & Herts Air Ambulance (EHAAT) is a charity, not part of the NHS, and there
 
 Challenge badges are £1.50 per badge, purchased in packs and can be ordered by contacting <contactus@ehaat.org>.
 
-[More information and request your challenge pack](https://ehaat.org/support-us-get-involved/schools-groups/challenge-badge/){:target="_blank"}{:.btn.btn-primary.external-link}{:rel="noreferrer noopener"}
+[More information and request your challenge pack](https://ehaat.org/support-us-get-involved/fundraise/challenge-badge/){:target="_blank"}{:.btn.btn-primary.external-link}{:rel="noreferrer noopener"}
