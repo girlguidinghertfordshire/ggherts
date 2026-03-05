@@ -9,6 +9,7 @@ _Essential News_ is sent to all **Girlguiding Hertfordshire** members by email o
 
 ## 2026
 
+- [March 2026](https://r1.technology-trust-news.org/7YUQ-2I2YC-4/sv.aspx?fbclid=IwY2xjawQSczZleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeWVGHX1_cT68JMOQ6698qfTS3oshskBO0iCtz98WEcrAy1Z12auAfZ8TR2Fc_aem_DQkgR9q8fGNsOf6UjuJPDg){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [February 2026](https://r1.technology-trust-news.org/7YUQ-2G5B1-4/sv.aspx?fbclid=IwY2xjawPtb_9leHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe111A7fb3T5XJP8QxXRWaciFQmjoVkDbkus5yZpUThkHS53rW4-1Ei3UCMqM_aem_EfeSx5deupE1qaQhtrOKBg){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [January 2026](https://r1.technology-trust-news.org/7YUQ-2BXUE-4/sv.aspx?fbclid=IwY2xjawPRzkZleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEexJyGOCIGNzP14iDmsUC7VxE5_NgZFZe3UNymK-CSn9S_7V4iteNNmC-aHd0_aem_N2pL1KG9YMXctTaJyrea2g){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 

@@ -70,6 +70,14 @@ Hertfordshire county has many items available to borrow from the county store.
 
 If you wish to find our what items are available to borrow and arrange hire please email <volunteer@girlguidinghertfordshire.org.uk>.
 
+## Girlguiding Hertfordshire international selection
+
+Members should complete this form if they wish to apply for an upcoming county international trip.
+
+[Application form](/assets/docs/2026/girlguiding-hertfordshire-international-application-form.pdf){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noopener"}
+
+Completed forms should be emailed to <international@girlguidinghertfordshire.org.uk>
+
 ## Queen's Guide award registration form
 
 Members should complete this form to undertake their Queen's Guide award.

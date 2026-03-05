@@ -18,8 +18,4 @@ Region opportunities for young members can only be accessed by applying through 
 
 The exception to this is ICE (International Community Experience) which is aimed at Guides aged 11-14. Young members need to apply directly to Girlguiding Anglia to take part and the information can be found on the [Girlguiding Anglia website][1]{:rel="noopener"}{:target="_blank"}{:.external-link}
 
-## For adults
-
-{% include region-int-ops.html %}
-
 [1]: https://www.girlguiding-anglia.org.uk/events
