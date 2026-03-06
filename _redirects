@@ -14,3 +14,8 @@
 /event/county-camp/ /county-camp/ 301
 /get-involved/challenge-badges/ /unit/badges/ 301
 /county-teams/* /what-we-do/:splat 301
+/about-us/county-centre/fundraising/refurbishment/ /about-us/county-centre/refurbishment-project/ 301
+/about-us/county-centre/fundraising/ideas/ /about-us/county-centre/fundraising/ 301
+/about-us/county-centre/fundraising/ideas/frog-quest/ /unit/badges/ 301
+/about-us/county-centre/fundraising/ideas/brownies-badge/ https://forms.office.com/pages/responsepage.aspx?id=3yob_CzTykeMNWNnWM6Owcg2wzmjm45Mliv78_mHDTZUNDdBWkZRUEdTV0tGM1ZEUkVNNFhQUk44Uy4u&fbclid=IwQ0xDSwK_gL5leHRuA2FlbQIxMQABHmfmKhcex3KOi9nemKQvE_XUmhy5lwHgtWSe0b2bMMLThpVijtUGnmBoIEAR_aem_AhaIBAbcGh710A9ifUI6bw&route=shorturl 301
+/about-us/county-centre/fundraising/ideas/easyfundraising/ /about-us/county-centre/fundraising/ 301

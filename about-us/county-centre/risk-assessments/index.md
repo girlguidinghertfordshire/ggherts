@@ -30,6 +30,3 @@ lastmod: 2022-09-07T20:48:28.022Z
 
 [Trim trail risk assessment](/assets/docs/hgc/hgc-trim-trail-risk-assessment-2023-04.pdf){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noreferrer noopener"}
 
-## HGC to Cromer Windmill walk risk assessment
-
-[HGC to Cromer Windmill walk risk assessment](/assets/docs/hgc/hgc-to-cromer-windmill-route.pdf){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noreferrer noopener"}

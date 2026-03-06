@@ -13,30 +13,40 @@ permalink: /about-us/county-centre/
 lastmod: 2022-09-07T20:48:28.022Z
 ---
 {:.lead}
-The Hertfordshire Guide Centre, owned by Girlguiding Hertfordshire, is situated in the lovely village of Cottered in North Hertfordshire.
+Girlguiding Hertfordshire owns a wonderful residential centre with adjoining campsite, situated in the lovely rural village of Cottered in North Hertfordshire.
 
-![Hertfordshire Guide Centre Campsite](/assets/images/2023/05/hgc-campsite-view.webp){:.d-block.mx-auto.img-fluid}
+We welcome Girlguiding units, our friends from Scouting and other youth and local groups. The campsite is particularly popular with Duke of Edinburgh's Award groups.
 
-## Facilities
+## Holiday home
 
-Offering [indoor accommodation](indoor-accommodation/), a [campsite](campsite/) and [campfire](campsite/#campfire-circle), it is suitable for meetings, trainings, sleepovers, camps, pond dipping sessions and camp fire circles.
+Hertfordshire Guide Centre (HGC) has recently undergone a building refurbishment and now offers 5 bedrooms, sleeping 27 in total and 2 new bathrooms in our indoor accommodation. Additionally, there are extra mattresses located under bunk beds which can be used to accommodate larger groups.
 
-{% include tagged-news-post.html tag="HGC" %}
+The recent enhancements include state-of-the-art specialist equipment making HGC fully accessible. One of the bedrooms (sleeping 3) includes a bed hoist and a fully accessible en-suite shower room also fitted with a hoist and an adult-sized changing table.
 
-## Availability and booking
+There is a spacious, wheelchair accessible, entrance hall, a dining room, kitchen and large hall. It lends itself well as an activity, meeting and training venue, as well as for residential stays.
 
-Please use the calendar to check availability.  Booking requests can be submitted directly via the calendar.
+Take a look at the virtual tour of the property to see the facilities available.
 
-[Availability Calendar](https://v2.hallmaster.co.uk/Diary/ViewWeeklyDiary/11336){:.external-link.btn.btn-primary}{:target="_blank"}{:rel="noreferrer noopener"}
+[Find out more about the indoor accommodation](/about-us/county-centre/indoor-accommodation/){:.btn.btn-primary}
 
-Please email your signed and dated booking terms and conditions to the bookings secretary via <HGCbookings@girlguidinghertfordshire.org.uk> within 14 days of confirmation that your provisional booking has been accepted.
+## Campsite
 
-[2026 booking fees](/assets/docs/2025/hertfordshire-guide-centre-2026-fees.pdf){:.btn.btn-secondary.download-link} [Booking Terms and Conditions](/assets/docs/2023/hgc-booking-conditions-may-23.pdf){:.btn.btn-secondary.download-link}{:target="_blank"}{:rel="noreferrer noopener"}
+In a beautiful countryside setting you will find a large, enclosed campsite adjoining the holiday home, catering for up to 100 in total, although it can be split into 2 smaller camps of 50. There is a well-equipped toilet and shower block with 2 separate areas; a fully enclosed camp shelter, which can be used in bad weather (not for sleeping in); and a well-equipped camp shed, including fridges and cooking equipment. There is also a great trim trail and campfire circle.
 
-Site visits can be arranged and should you wish to visit the Guide Centre in advance of your booking please contact the bookings secretary to request.
+[Find out more about the campsite](/about-us/county-centre/campsite/){:.btn.btn-primary}
 
-## Reviews
+## Site map and floor plan
 
-{% include quote.html quote="We had a lovely stay at Hertfordshire Guide Centre.  The girls enjoyed the space outside to play games and complete activities.  We enjoyed our campfire on Saturday night.  The mattresses were very comfortable" source="​2nd, 3rd and 4th Baldock Brownies" %}
-{% include quote.html quote="Loved staying here and will definitely be returning" source="1st Orwell Brownies" %}
-{% include quote.html quote="Marvellous site and facilities.  Delighted to be back under canvas!" source="1st Ashwell Scouts" %}
+Site map and floor plan available on request and will be displayed here.
+
+## On site shop
+
+Shops selling county branded merchandise and HGC badges are located on site and available to users whether camping or staying in the holiday home. A great way to remember your stay at the county centre.
+
+All profits from the shop go towards raising vital funds for the centre, as well as fulfilling young members' desire to buy souvenirs. We have a large range of goodies for sale.
+
+[Shop prices](/assets/docs/2026/shop-prices.pdf){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noreferrer noopener"}
+
+Items purchased from the shop in the holiday home can be paid for in cash or card using a SumUp machine. The campsite shop is cash only.
+
+Why not offer HGC shop merchandise at your events and adult trainings. You can order your supplies on a sale or return basis. Request items and use of the SumUp machine for your event by emailing <hgcbookings@girlguidinghertfordshire.org.uk>.
