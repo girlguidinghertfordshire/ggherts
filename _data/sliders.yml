@@ -38,18 +38,38 @@ hgc-badge:
   - img: /assets/images/2023/03/hgc-badge-limited-editionv2_orig.webp
     alt: Limited Edition Guide Centre Cottered badge
 hgc-outdoors:
-  - img: /assets/images/2023/03/cottered-8_1.webp
-    alt: Guide Centre Cottered camping shed
-  - img: /assets/images/2023/03/hgc-camping.webp
-    alt: Camping at Cottered
-  - img: /assets/images/2023/03/cottered-10.webp
-    alt: Play equipment
-  - img: /assets/images/2023/03/camp-shed2.jpg
-    alt: Inside camping shed
-  - img: /assets/images/2025/12/camp-shelter1.webp
-    alt: Camp shelter at Cottered
-  - img: /assets/images/2025/12/camp-shelter2.webp
-    alt: Camp shelter at Cottered
+  - img: /assets/images/2026/county-centre/campsite/campsite1.webp
+    alt: Guide Centre campsite
+    caption: Campsite
+  - img: /assets/images/2026/county-centre/campsite/camp-shelter.webp
+    alt: Guide Centre campsite shelter
+    caption: Campsite shelter
+  - img: /assets/images/2026/county-centre/campsite/campfire-circle1.webp
+    alt: Guide Centre campfire circle
+    caption: Campfire circle
+  - img: /assets/images/2026/county-centre/campsite/flowers.webp
+    alt: Guide Centre campsite flowers
+  - img: /assets/images/2026/county-centre/campsite/patio-field.webp
+    alt: Guide Centre campsite patio and camping field
+    caption: Patio and camping field
+  - img: /assets/images/2026/county-centre/campsite/trim-trail.webp
+    alt: Guide Centre trim trail
+    caption: Trim trail
+  - img: /assets/images/2026/county-centre/campsite/camp-shed-interior.webp
+    alt: Guide Centre camp shed interior
+    caption: Camp shed interior
+  - img: /assets/images/2026/county-centre/campsite/shower-block-shelter.webp
+    alt: Guide Centre shower block and camp shelter
+    caption: Shower block and camp shelter
+  - img: /assets/images/2026/county-centre/campsite/holiday-home-shower-block.webp
+    alt: Guide Centre holiday home and shower block
+    caption: Holiday home and shower block
+  - img: /assets/images/2026/county-centre/campsite/campsite2.webp
+    alt: Guide Centre campsite
+    caption: Campsite
+  - img: /assets/images/2026/county-centre/campsite/pond.webp
+    alt: Guide Centre campsite pond
+    caption: Campsite pond
 county-show:
   - img: /assets/images/2023/12/county-show-1.webp
     alt: A Rainbow and Brownie help guide members of the public on a 1 minute game
@@ -60,24 +80,36 @@ county-show:
   - img: /assets/images/2023/12/county-show-4.webp
     alt: Scanning the tickets for people coming to the show
 county-centre:
-  - img: /assets/images/2025/05/countycentre/1.webp
-    alt: County Centre progress
-  - img: /assets/images/2025/05/countycentre/2.webp
-    alt: County Centre progress
-  - img: /assets/images/2025/05/countycentre/3.webp
-    alt: County Centre progress
-  - img: /assets/images/2025/03/countycentre/1.webp
-    alt: County Centre progress
-  - img: /assets/images/2025/03/countycentre/2.webp
-    alt: County Centre progress
-  - img: /assets/images/2025/03/countycentre/3.webp
-    alt: County Centre progress
-  - img: /assets/images/2025/03/countycentre/4.webp
-    alt: County Centre progress
-  - img: /assets/images/2025/03/countycentre/5.webp
-    alt: County Centre progress
-  - img: /assets/images/2025/03/countycentre/6.webp
-    alt: County Centre progress
+  - img: /assets/images/2026/county-centre/holiday-home/entrance-hall.webp
+    alt: County Centre Holiday Home Entrance Hall
+    caption: Entrance Hall
+  - img: /assets/images/2026/county-centre/holiday-home/colne-bedroom.webp
+    alt: County Centre Holiday Home Colne Bedroom
+    caption: Colne Bedroom
+  - img: /assets/images/2026/county-centre/holiday-home/lea-bedroom.webp
+    alt: County Centre Holiday Home Lea Bedroom
+    caption: Lea Bedroom
+  - img: /assets/images/2026/county-centre/holiday-home/mimram-bedroom.webp
+    alt: County Centre Holiday Home Mimram Bathroom
+    caption: Mimram Bathroom
+  - img: /assets/images/2026/county-centre/holiday-home/mimram-ensuite.webp
+    alt: County Centre Holiday Home Mimram Ensuite
+    caption: Mimram Ensuite
+  - img: /assets/images/2026/county-centre/holiday-home/beane-bedroom.webp
+    alt: County Centre Holiday Home Beane Bedroom
+    caption: Beane Bedroom
+  - img: /assets/images/2026/county-centre/holiday-home/accessible-wet-room.webp
+    alt: County Centre Holiday Home Accessible Wet Room
+    caption: Accessible Wet Room
+  - img: /assets/images/2026/county-centre/holiday-home/ver-bedroom.webp
+    alt: County Centre Holiday Home Ver Bedroom
+    caption: Ver Bedroom
+  - img: /assets/images/2026/county-centre/holiday-home/kitchen.webp
+    alt: County Centre Holiday Home Kitchen
+    caption: Kitchen
+  - img: /assets/images/2026/county-centre/holiday-home/hall.webp
+    alt: County Centre Holiday Home Hall
+    caption: Hall
 int-brussels:
   - img: /assets/images/2025/09/international/brussels1.webp
     alt: International trip to Brussels

@@ -1,0 +1,24 @@
+<div class="row">
+    {% if include.hideFloorPlan != true %}
+    <div class="col-12 col-lg-6">
+        <h3>Floor plan</h3>
+        <div class="text-center">
+            <img src="/assets/images/2026/county-centre/hgc-floor-plan-thumbnail.webp"
+                alt="Floor plan of the county centre" class="img-fluid">
+            <button class="btn btn-primary mt-2" data-bs-toggle="modal" data-bs-target="#floorPlanModal">View full
+                size</button>
+        </div>
+    </div>
+    {% endif %}
+    {% if include.hideSiteMap != true %}
+    <div class="col-12 col-lg-6">
+        <h3>Site map</h3>
+        <div class="text-center">
+        <img src="/assets/images/2026/county-centre/site-map-thumbnail.webp" alt="Site map of the county centre"
+            class="img-fluid">
+        <button class="btn btn-primary mt-2" data-bs-toggle="modal" data-bs-target="#siteMapModal">View full
+            size</button>
+        </div>
+    </div>
+    {% endif %}
+</div>

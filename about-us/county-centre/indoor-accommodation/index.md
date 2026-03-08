@@ -4,14 +4,16 @@ title: Indoor accommodation
 date: 2022-09-07T20:48:28.022Z
 toc: about-us
 location_map: false
-carousel: false
+carousel: true
 showMap: false
-banner_image: /assets/images/core/hgc_outdoorview.webp
+banner_image: /assets/images/2026/county-centre/holiday-home-banner.webp
 description: The Hertfordshire Guide Centre holiday house is perfect for unit holidays and other indoor residentials, as well as daytime and evening events.
 lastmod: 2022-09-07T20:48:28.022Z
 ---
 {:.lead}
 Our fully accessible and inclusive holiday home is perfect for unit and district holidays and other indoor residentials, as well as daytime and evening events.
+
+{% include slider-fixed.html slider="county-centre" %}
 
 ## Facilities
 
@@ -28,6 +30,9 @@ Girlguiding Hertfordshire is excited to be able to offer 5 bedrooms (13 bunk bed
 | Beane | 3 | Hoist and en-suite accessible shower room |
 
 ### Washrooms
+
+![Wetroom hoist](/assets/images/2026/county-centre/holiday-home/wetroom-hoist.webp){:.d-block.mx-auto.float-lg-end.ms-lg-3.my-lg-3.d-xxl-none}{:loading="lazy"}
+![Wetroom hoist](/assets/images/2026/county-centre/holiday-home/wetroom-hoist-xxl.webp){:.d-none.d-xxl-block.float-xxl-end.ms-xxl-3.my-xxl-3}{:loading="lazy"}
 
 - New: fully accessible shower room with toilet, sink, adult changing table (with shower function) and hoist.
 - New: shower room with toilet and sink.
@@ -58,6 +63,8 @@ Girlguiding Hertfordshire is excited to be able to offer 5 bedrooms (13 bunk bed
 - Wide entrance with ramp.
 - Equipped with coat hooks.
 
+{% include countycentre-sitemap-floorplan.html hideSiteMap=true %}
+
 ### Media
 
 - Free WiFi.
@@ -69,3 +76,5 @@ Girlguiding Hertfordshire is excited to be able to offer 5 bedrooms (13 bunk bed
 - Shop – with badges and other Girlguiding Hertfordshire merchandise.
 
 [Availability and booking](/about-us/county-centre/availability-booking/){:.btn.btn-primary} [Items to borrow and hire](/assets/docs/2026/items-to-borrow-and-hire.pdf){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noreferrer noopener"} [Things to do locally](/about-us/county-centre/local-area/){:.btn.btn-primary}
+
+{% include image-viewer.html id="floorPlanModal" src="/assets/images/2026/county-centre/hgc-floor-plan-large.webp" title="Floor plan" alt="Floor plan for holiday home" %}
