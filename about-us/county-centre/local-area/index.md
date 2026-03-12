@@ -21,7 +21,7 @@ There is an [infrequent bus service](https://www.intalink.org.uk/services/cf5c5d
 
 - Cromer Windmill (Summer only)
 
-[Walking route map](https://www.girlguidinghertfordshire.org.uk/assets/docs/hgc/hgc-to-cromer-windmill-route.pdf){:.external-link.btn.btn-primary.download-link}{:target="_blank"}{:rel="noopener"}
+[Walking route map](/assets/docs/hgc/hgc-to-cromer-windmill-route.pdf){:.external-link.btn.btn-primary.download-link}{:target="_blank"}{:rel="noopener"}
 
 - Church Farm in Ardeley
 - Stotfold Watermill and Nature Reserve
@@ -37,7 +37,7 @@ There is an [infrequent bus service](https://www.intalink.org.uk/services/cf5c5d
 
 Starting from HGC follow the trail through Cottered village and locate the buildings and items shown in the photos for a fun activity.
 
-[Download Cottered village photo trail](https://www.girlguidinghertfordshire.org.uk/assets/docs/2023/cottered-photo-trail-2023-06.pdf){:.external-link.btn.btn-primary.download-link}{:target="_blank"}{:rel="noopener"}
+[Download Cottered village photo trail](/assets/docs/2023/cottered-photo-trail-2023-06.pdf){:.external-link.btn.btn-primary.download-link}{:target="_blank"}{:rel="noopener"}
 
 ## Geocaching in Cottered
 

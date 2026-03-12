@@ -21,13 +21,7 @@ Our fully accessible and inclusive holiday home is perfect for unit and district
 
 Girlguiding Hertfordshire is excited to be able to offer 5 bedrooms (13 bunk beds and 1 single bed with hoist). For larger groups, there are extra mattresses located under bunk beds which can be used in the bedrooms or in the main hall.
 
-| Bedroom | Sleeps | Note |
-| --- | --- | --- |
-| Lea | 10 | Adjoining sink |
-| Colne | 6 | Spacious room, fire door |
-| Mimram | 4 | Next to shower room (might be preferable as a leader room) |
-| Ver | 4 | Small room (original leader room) |
-| Beane | 3 | Hoist and en-suite accessible shower room |
+{% include countycentre-bedroom-table.html %}
 
 ### Washrooms
 
@@ -75,6 +69,6 @@ Girlguiding Hertfordshire is excited to be able to offer 5 bedrooms (13 bunk bed
 - Access to the trim trail and campfire circle is shared with campsite guests.
 - Shop – with badges and other Girlguiding Hertfordshire merchandise.
 
-[Availability and booking](/about-us/county-centre/availability-booking/){:.btn.btn-primary} [Items to borrow and hire](/assets/docs/2026/items-to-borrow-and-hire.pdf){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noreferrer noopener"} [Things to do locally](/about-us/county-centre/local-area/){:.btn.btn-primary}
+[Availability and booking](/about-us/county-centre/availability-booking/){:.btn.btn-primary} [Items to borrow and hire](/assets/docs/hgc/items-to-borrow-and-hire.pdf){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noreferrer noopener"} [Things to do locally](/about-us/county-centre/local-area/){:.btn.btn-primary}
 
 {% include image-viewer.html id="floorPlanModal" src="/assets/images/2026/county-centre/hgc-floor-plan-large.webp" title="Floor plan" alt="Floor plan for holiday home" %}

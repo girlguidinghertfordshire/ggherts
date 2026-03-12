@@ -43,4 +43,4 @@ The campfire circle is located in a sheltered area to prevent sparks over tents 
 - Use of the campfire circle is **FREE** to those with house and/or campsite bookings.
 - For those with unit or campfire circle bookings only, access will be made available to the outside shower/toilet block.
 
-[Availability and booking](/about-us/county-centre/availability-booking/){:.btn.btn-primary} [Items to borrow and hire](/assets/docs/2026/items-to-borrow-and-hire.pdf){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noreferrer noopener"} [Things to do locally](/about-us/county-centre/local-area/){:.btn.btn-primary}
+[Availability and booking](/about-us/county-centre/availability-booking/){:.btn.btn-primary} [Items to borrow and hire](/assets/docs/hgc/items-to-borrow-and-hire.pdf){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noreferrer noopener"} [Things to do locally](/about-us/county-centre/local-area/){:.btn.btn-primary}

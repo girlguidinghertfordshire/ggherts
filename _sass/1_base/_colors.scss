@@ -128,3 +128,17 @@ $gg-dark-gray: #3a3535;
     color: var(--gg-rainbows-accent-purple);
   }
 }
+
+.table-gg-light-blue {
+    --bs-table-color: #000;
+    --bs-table-bg: var(--gg-light-blue);
+    --bs-table-border-color: var(--gg-dark-blue);
+    --bs-table-striped-bg: var(--gg-light-blue);
+    --bs-table-striped-color: #000;
+    --bs-table-active-bg: var(--gg-mid-blue);
+    --bs-table-active-color: #000;
+    --bs-table-hover-bg: var(--gg-mid-blue);
+    --bs-table-hover-color: #000;
+    color: var(--bs-table-color);
+    border-color: var(--bs-table-border-color);
+}
