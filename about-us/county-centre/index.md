@@ -1,6 +1,6 @@
 ---
 layout: page-v5
-title: County centre
+title: Hertfordshire Guide Centre
 date: 2016-03-04T12:50:17.000Z
 toc: about-us
 location_map: true
@@ -11,7 +11,6 @@ validation: countycentreform
 description: The Hertfordshire Guide Centre is located in the village of Cottered in North
   Herts, and is suitable for meetings, trainings, sleepovers and camps.
 permalink: /about-us/county-centre/
-lastmod: 2022-09-07T20:48:28.022Z
 ---
 {:.lead}
 Girlguiding Hertfordshire owns a wonderful residential centre with adjoining campsite, situated in the lovely rural village of Cottered in North Hertfordshire.

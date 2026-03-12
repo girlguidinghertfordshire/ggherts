@@ -19,19 +19,17 @@ There is an [infrequent bus service](https://www.intalink.org.uk/services/cf5c5d
 
 ## Nearby attractions
 
-- Cromer Windmill (Summer only)
-
-[Walking route map](/assets/docs/hgc/hgc-to-cromer-windmill-route.pdf){:.external-link.btn.btn-primary.download-link}{:target="_blank"}{:rel="noopener"}
-
-- Church Farm in Ardeley
-- Stotfold Watermill and Nature Reserve
-- Standalone Farm, Letchworth
-- British Schools Museum, Hitchin
-- Hitchin Lavender (Summer only)
-- Broadway Cinema, Letchworth
-- Letchworth Outdoor Pool (swimming Summer only, ice rink in Winter months)
-- Avenue Park Splash Pad (Summer only)
-- Stevenage Leisure Park, including a cinema, bowling and various restaurants
+- [Cromer Windmill](https://www.cromerwindmill.co.uk/){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"} (Summer only)  
+[Walking route map](/assets/docs/hgc/hgc-to-cromer-windmill-route.pdf){:.external-link.btn.btn-primary.btn-sm.download-link}{:target="_blank"}{:rel="noopener"}
+- [Church Farm in Ardeley](https://www.churchfarmardeley.co.uk/){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
+- [Stotfold Watermill and Nature Reserve](https://www.stotfoldmill.com/){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
+- [Standalone Farm, Letchworth](https://standalonefarm.com/){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
+- [British Schools Museum, Hitchin](https://britishschoolsmuseum.org.uk/){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
+- [Hitchin Lavender](https://hitchinlavender.com/){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"} (Summer only)
+- [Broadway Cinema, Letchworth](https://www.broadway-letchworth.com/){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
+- [Letchworth Outdoor Pool](https://www.everyoneactive.com/centre/letchworth-lido/){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"} (swimming Summer only, ice rink in Winter months)
+- [Avenue Park Splash Pad](https://www.north-herts.gov.uk/avenue-park){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"} (Summer only)
+- [Stevenage Leisure Park](https://stevenageleisurepark.co.uk/){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}, including a cinema, bowling and various restaurants
 
 ## Cottered village photo trail
 

@@ -25,8 +25,8 @@ Girlguiding Hertfordshire is excited to be able to offer 5 bedrooms (13 bunk bed
 
 ### Washrooms
 
-![Wetroom hoist](/assets/images/2026/county-centre/holiday-home/wetroom-hoist.webp){:.d-block.mx-auto.float-lg-end.ms-lg-3.my-lg-3.d-xxl-none}{:loading="lazy"}
-![Wetroom hoist](/assets/images/2026/county-centre/holiday-home/wetroom-hoist-xxl.webp){:.d-none.d-xxl-block.float-xxl-end.ms-xxl-3.my-xxl-3}{:loading="lazy"}
+{:.m-0}
+![Wetroom hoist](/assets/images/2026/county-centre/holiday-home/wetroom-hoist.webp){:.d-block.mx-auto.float-lg-end.ms-lg-3.my-lg-3.d-xxl-none}{:loading="lazy"}![Wetroom hoist](/assets/images/2026/county-centre/holiday-home/wetroom-hoist-xxl.webp){:.d-none.d-xxl-block.float-xxl-end.ms-xxl-3.my-xxl-3}{:loading="lazy"}
 
 - New: fully accessible shower room with toilet, sink, adult changing table (with shower function) and hoist.
 - New: shower room with toilet and sink.

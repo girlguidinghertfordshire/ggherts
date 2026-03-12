@@ -11,7 +11,7 @@ The Hertfordshire Guide Centre (HGC) at Cottered has been the county headquarter
 ## Phase 1 works
 
 {:.slider.w-md-75.w-lg-50}
-{% include slider.html slider="county-centre" %}
+{% include slider.html slider="hgc-refurbishment" %}
 
 {% include hgc-refurbishment-accordion.html %}
 

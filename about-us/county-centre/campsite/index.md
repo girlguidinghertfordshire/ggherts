@@ -22,7 +22,7 @@ Hammock camping (max 4 - equipment not provided) can be carried out using the tr
 - ​Large enclosed field with space for up to 2 separate camps, notionally divided if required. Each 'camp' can hold approximately 25 pitches.
 - Fully enclosed camp shelter for hire (for use in bad weather, not for sleeping in).
 - Campfire circle (access shared with other site users).
-- 2-hour daytime/evening campfire circle sessions.
+  - 2-hour daytime/evening campfire circle sessions.
 - Trim trail (access is shared with house guests).
 - Outside sink.
 - Toilet block with showers and a disabled toilet wet room.
