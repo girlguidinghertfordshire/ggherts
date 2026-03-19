@@ -38,32 +38,27 @@ hgc-badge:
   - img: /assets/images/2023/03/hgc-badge-limited-editionv2_orig.webp
     alt: Limited Edition Guide Centre Cottered badge
 hgc-outdoors:
-  - img: /assets/images/2026/county-centre/campsite/campsite1.webp
+  - img: /assets/images/2026/county-centre/campsite/gallery/campsite1.webp
     alt: Guide Centre campsite
     caption: Campsite
-  - img: /assets/images/2026/county-centre/campsite/camp-shelter.webp
-    alt: Guide Centre campsite shelter
-    caption: Campsite shelter
-  - img: /assets/images/2026/county-centre/campsite/campfire-circle1.webp
+  - img: /assets/images/2026/county-centre/campsite/gallery/campfire-circle1.webp
     alt: Guide Centre campfire circle
     caption: Campfire circle
-  - img: /assets/images/2026/county-centre/campsite/flowers.webp
-    alt: Guide Centre campsite flowers
-  - img: /assets/images/2026/county-centre/campsite/patio-field.webp
+  - img: /assets/images/2026/county-centre/campsite/gallery/patio-and-field.webp
     alt: Guide Centre campsite patio and camping field
     caption: Patio and camping field
-  - img: /assets/images/2026/county-centre/campsite/trim-trail.webp
+  - img: /assets/images/2026/county-centre/campsite/gallery/patio.webp
+    alt: Guide Centre patio
+    caption: Patio
+  - img: /assets/images/2026/county-centre/campsite/gallery/trim-trail.webp
     alt: Guide Centre trim trail
     caption: Trim trail
-  - img: /assets/images/2026/county-centre/campsite/shower-block-shelter.webp
+  - img: /assets/images/2026/county-centre/campsite/gallery/shower-block-shelter.webp
     alt: Guide Centre shower block and camp shelter
     caption: Shower block and camp shelter
-  - img: /assets/images/2026/county-centre/campsite/campsite2.webp
+  - img: /assets/images/2026/county-centre/campsite/gallery/campsite2.webp
     alt: Guide Centre campsite
     caption: Campsite
-  - img: /assets/images/2026/county-centre/campsite/pond.webp
-    alt: Guide Centre campsite pond
-    caption: Campsite pond
 county-show:
   - img: /assets/images/2023/12/county-show-1.webp
     alt: A Rainbow and Brownie help guide members of the public on a 1 minute game

@@ -6,14 +6,14 @@ toc: about-us
 location_map: false
 showMap: false
 carousel: true
-banner_image: /assets/images/core/hgc-fire-circle.webp
-description: The Hertfordshire Guide Centre has camping field is perfect for camps, fun days, cookouts and campfires.
+banner_image: /assets/images/2026/county-centre/campsite-page-banner.webp
+description: The Hertfordshire Guide Centre has a camping field which is perfect for camps, fun days, cookouts and campfires.
 lastmod: 2022-09-07T20:48:28.022Z
 ---
 {:.lead}
 The camping field is perfect for overnight camps, fun days, cookouts and campfires.
 
-{% include slider-fixed.html slider="hgc-outdoors" %}
+{% include image-gallery.html slider="hgc-outdoors" %}
 
 Hammock camping (max 4 - equipment not provided) can be carried out using the trees running up the side of the field near the camp shed.
 

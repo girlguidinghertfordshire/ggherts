@@ -1,0 +1,121 @@
+{% assign slides = site.data.sliders[include.slider] %}
+{% if slides %}
+{% assign css = "" %}
+{% if slides.size > 3 %}
+{% assign css = "with-controls" %}
+{% endif %}
+<div class="image-gallery {{ css }}">
+    {% if slides.size > 3 %}
+    <div class="previous-image">
+        <button onclick="goPrev()">&#8592;</button>
+    </div>
+    {% endif %}
+    <div class="inner-wrapper">
+        {% for slide in slides %}
+        <div class="image{% if forloop.first %} active{% endif %}">
+            <img src="{{ slide.img }}" alt="{{ slide.alt }}" loading="lazy"
+                onclick="setActiveImage({{ forloop.index0 }})" data-bs-toggle="modal"
+                data-bs-target="#imageGalleryModal">
+            <div class="caption">{{ slide.caption }}</div>
+        </div>
+        {% endfor %}
+    </div>
+    <div class="image-counter">
+        <i class="fa fa-camera"></i><span class="current">1</span> / <span class="total">{{ slides.size }}</span>
+    </div>
+    {% if slides.size > 3 %}
+
+    <div class="next-image">
+        <button onclick="goNext()">&#8594;</button>
+    </div>
+    {% endif %}
+</div>
+<div class="modal" tabindex="-1" id="imageGalleryModal">
+    <div class="modal-dialog modal-fullscreen">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">{{ page.title }}</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="image-viewer">
+                    <div class="previous">
+                        <button class="btn btn-primary" onclick="goPrev()">&lt;</button>
+                    </div>
+                    <div class="inner-wrapper">
+                        {% for slide in slides %}
+                        <div class="image{% if forloop.first %} active{% endif %}">
+                            <img src="{{ slide.img }}" alt="{{ slide.alt }}" loading="lazy">
+                            <div class="caption">{{ slide.caption }}</div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                    <div class="next">
+                        <button class="btn btn-primary" onclick="goNext()">&gt;</button>
+                    </div>
+
+                </div>
+            </div>
+            <div class="modal-footer justify-content-between">
+                <div>&nbsp;</div>
+                <div class="image-counter">
+                    <span class="current">1</span> of <span class="total">{{ slides.size
+                        }}</span>
+                </div>
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+{% endif %}
+<script>
+    (function () {
+        const items = Array.from(document.querySelectorAll('.image-gallery .image'));
+        const modalItems = Array.from(document.querySelectorAll('.image-viewer .image'));
+        let activeIndex = 0;
+
+        function updateGallery() {
+            items.forEach(item => {
+                item.classList.remove('active', 'next', 'next-2', 'hidden');
+            });
+            modalItems.forEach(item => {
+                item.classList.remove('active', 'next', 'next-2', 'hidden');
+            });
+
+            const nextIndex = (activeIndex + 1) % items.length;
+            const nextNextIndex = (activeIndex + 2) % items.length;
+
+            items.forEach((item, index) => {
+                if (index === activeIndex) {
+                    item.classList.add('active');
+                } else if (index === nextIndex) {
+                    item.classList.add('next');
+                } else if (index === nextNextIndex) {
+                    item.classList.add('next-2');
+                } else {
+                    item.classList.add('hidden');
+                }
+            });
+            modalItems[activeIndex].classList.add('active');
+        }
+
+        globalThis.goNext = function () {
+            activeIndex = (activeIndex + 1) % items.length;
+            updateGallery();
+            document.querySelectorAll('.current').forEach(el => el.textContent = activeIndex + 1);
+        }
+
+        globalThis.goPrev = function () {
+            activeIndex = (activeIndex - 1 + items.length) % items.length;
+            updateGallery();
+            document.querySelectorAll('.current').forEach(el => el.textContent = activeIndex + 1);
+        }
+        globalThis.setActiveImage = function (index) {
+            activeIndex = index;
+            updateGallery();
+            document.querySelectorAll('.current').forEach(el => el.textContent = activeIndex + 1);
+        }
+
+        updateGallery();
+    })();
+</script>
