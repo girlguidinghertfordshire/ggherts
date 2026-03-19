@@ -1,7 +1,7 @@
 ---
 title: 'CUSAGC Forward 2026'
 date: 2026-01-08T21:25:00z
-published: true
+published: false
 image: /assets/images/2026/01/cusagc-forward-2026.webp
 categories:
     - Things to do

@@ -1,6 +1,6 @@
 ---
 title: County Queen's Guide award lead volunteer
-published: true
+published: false
 date: 2026-01-03T08:03:00z
 image: /assets/images/2026/01/queen-guide-vacancy.webp
 download: "/assets/docs/2026/queens-guide-lead-volunteer-role-description-dec-2025.pdf"

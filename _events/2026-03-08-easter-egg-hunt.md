@@ -1,6 +1,7 @@
 ---
 title: 'Easter Egg hunt'
 date: 2025-11-16T10:02:00z
+published: false
 event:
     start_date: '2026-03-08'
     end_date: ''

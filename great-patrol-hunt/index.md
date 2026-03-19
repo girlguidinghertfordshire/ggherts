@@ -20,8 +20,14 @@ It began in 1968, Hertfordshire Scout Patrols competed annually in various ways,
 ### 2025/26
 
 - Round 1: Saturday 18 October 2025 \| Potters Bar - now completed
-- Round 2: [Saturday 14 March 2026 \| St Albans](/event/gph-r2/) **Bookings now closed**
+- Round 2: Saturday 14 March 2026 \| St Albans - now completed
 - Round 3: [Friday 26 - Sunday 28 June 2026 \| tbc](/event/gph-r3/)
+
+### 2026/27
+
+- Round 1: Saturday 17 October 2026 - venue tbc
+- Round 2: Saturday 13 March 2027 - venue tbc
+- Round 3: Friday 25 - Sunday 27 June 2027 - venue tbc
 
 ## About the competition
 
@@ -44,6 +50,12 @@ Unit leaders are not required to accompany Patrols to this event, which is run b
 Round 1 of this year’s Great Patrol Hunt saw 31 patrols navigate Potters Bar on Saturday 18 October completing fun and diverse challenges along the way.
 
 [Download round 1 results](/assets/docs/2025/gph-r1-25-26-results.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
+
+Round 2 of the Great Patrol Hunt was completed on 14 March 2026.
+
+[Download round 2 results](/assets/docs/2026/gph-25-26-results-r2.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
+
+[Download overall positions after round 2](/assets/docs/2026/gph-25-26-overall-positions-r2.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
 
 ## 2024/25 results
 

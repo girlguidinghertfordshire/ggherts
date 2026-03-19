@@ -1,5 +1,5 @@
 ---
-title: Victoria Rushant
+title: Position vacant
 date: 2023-12-30T08:33:00Z
 groups:
   - group: adventure

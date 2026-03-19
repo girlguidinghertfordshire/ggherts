@@ -104,7 +104,20 @@ Download the challenge pack to find out more about the requirements and activiti
 
 ## Unit badges
 
-1st Baldock Brownie unit have a couple of fun badges to share and help you enjoy the season, whilst helping them raise money for their pack holidays and unit activities:
+1st Baldock Brownie unit have several fun badges to share and inspire you, whilst helping them raise money for their pack holidays and unit activities:
+
+### Flower power challenge badge
+
+![Flower power challenge badge](/assets/images/2026/03/flower-power.webp){:.ms-3.mb-3.float-end}
+This badge about flowers and celebrating all things floral is great for completing in the Summer term.
+
+The perfect chance to get outdoors and learn about nature. Back home, grow your own, make edible versions, or be inspired to write a poem. Many more ideas and activities are included, with programme links throughout the pack.
+
+Badges cost £1.20 each (plus postage) and can be ordered from within the challenge pack.
+
+Download the challenge badge pack to find out more about the requirements and activities.
+
+[Download challenge pack](/assets/docs/2026/flower-power-badge-mar26.pdf){:.btn.btn-primary.download-link}
 
 ### Eggstraordinary Easter challenge badge
 
