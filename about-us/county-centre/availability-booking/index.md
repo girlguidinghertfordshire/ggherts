@@ -5,6 +5,7 @@ date: 2026-03-05T00:00:00.000Z
 toc: about-us
 location_map: false
 showMap: false
+banner_image: /assets/images/2026/county-centre/hgc-banner.webp
 permalink: /about-us/county-centre/availability-booking/
 ---
 {:.lead}
@@ -42,7 +43,7 @@ During your stay, in case of emergency, please contact the site supervisor on 07
 
 ## Reviews
 
-{% include quote.html quote="We had a lovely stay at Hertfordshire Guide Centre. The girls enjoyed the space outside to play games and complete activities. We enjoyed our campfire on Saturday night. The mattresses were very comfortable" source="2nd, 3rd and 4th Baldock Brownies" %}
-{% include quote.html quote="Loved staying here and will definitely be returning" source="1st Orwell Brownies" %}
-{% include quote.html quote="Marvellous site and facilities. Delighted to be back under canvas!" source="1st Ashwell Scouts" %}
-{% include quote.html quote="I am so happy to see the wonderful improvements at Hertfordshire Guide Centre. Knowing there is now a venue that wheelchair users and those that require hoisting can fully access, just makes me so proud to be part of Girlguiding Hertfordshire." source="6th Welwyn Garden City Brownie, Guide and Ranger unit" %}
+{% include quote.html quote="We had a lovely stay at Hertfordshire Guide Centre. The girls enjoyed the space outside to play games and complete activities. We enjoyed our campfire on Saturday night. The mattresses were very comfortable" source="2nd, 3rd and 4th Baldock Brownies" section="brownies" align="left" %}
+{% include quote.html quote="Loved staying here and will definitely be returning" source="1st Orwell Brownies" section="brownies-inverted" align="right" %}
+{% include quote.html quote="Marvellous site and facilities. Delighted to be back under canvas!" source="1st Ashwell Scouts" section="gg-inverted" align="left" %}
+{% include quote.html quote="I am so happy to see the wonderful improvements at Hertfordshire Guide Centre. Knowing there is now a venue that wheelchair users and those that require hoisting can fully access, just makes me so proud to be part of Girlguiding Hertfordshire." source="6th Welwyn Garden City Brownie, Guide and Ranger unit" section="rangers" align="right" %}

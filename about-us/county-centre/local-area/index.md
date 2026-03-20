@@ -5,7 +5,7 @@ date: 2022-09-07T20:48:28.022Z
 toc: about-us
 location_map: false
 showMap: false
-banner_image: /assets/images/core/hgc_outdoorview.webp
+banner_image: /assets/images/2026/county-centre/hgc-banner.webp
 description: There are many local footpaths nearby, and Cromer Windmill is within easy walking distance.
 lastmod: 2022-09-07T20:48:28.022Z
 ---

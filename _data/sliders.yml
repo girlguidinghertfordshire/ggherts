@@ -72,34 +72,34 @@ county-show:
   - img: /assets/images/2023/12/county-show-4.webp
     alt: Scanning the tickets for people coming to the show
 county-centre:
-  - img: /assets/images/2026/county-centre/holiday-home/entrance-hall.webp
+  - img: /assets/images/2026/county-centre/holiday-home/gallery/entrance-hall.webp
     alt: County Centre Holiday Home Entrance Hall
     caption: Entrance Hall
-  - img: /assets/images/2026/county-centre/holiday-home/colne-bedroom.webp
+  - img: /assets/images/2026/county-centre/holiday-home/gallery/colne-bedroom.webp
     alt: County Centre Holiday Home Colne Bedroom
     caption: Colne Bedroom
-  - img: /assets/images/2026/county-centre/holiday-home/lea-bedroom.webp
+  - img: /assets/images/2026/county-centre/holiday-home/gallery/lea-bedroom.webp
     alt: County Centre Holiday Home Lea Bedroom
     caption: Lea Bedroom
-  - img: /assets/images/2026/county-centre/holiday-home/mimram-bedroom.webp
+  - img: /assets/images/2026/county-centre/holiday-home/gallery/mimram-bedroom.webp
     alt: County Centre Holiday Home Mimram Bedroom
     caption: Mimram Bedroom
-  - img: /assets/images/2026/county-centre/holiday-home/mimram-ensuite.webp
+  - img: /assets/images/2026/county-centre/holiday-home/gallery/mimram-ensuite.webp
     alt: County Centre Holiday Home Mimram Ensuite
     caption: Mimram Ensuite
-  - img: /assets/images/2026/county-centre/holiday-home/beane-bedroom.webp
+  - img: /assets/images/2026/county-centre/holiday-home/gallery/beane-bedroom.webp
     alt: County Centre Holiday Home Beane Bedroom
     caption: Beane Bedroom
-  - img: /assets/images/2026/county-centre/holiday-home/accessible-wet-room.webp
+  - img: /assets/images/2026/county-centre/holiday-home/gallery/accessible-wet-room.webp
     alt: County Centre Holiday Home Accessible Wet Room
     caption: Accessible Wet Room
-  - img: /assets/images/2026/county-centre/holiday-home/ver-bedroom.webp
+  - img: /assets/images/2026/county-centre/holiday-home/gallery/ver-bedroom.webp
     alt: County Centre Holiday Home Ver Bedroom
     caption: Ver Bedroom
-  - img: /assets/images/2026/county-centre/holiday-home/kitchen.webp
+  - img: /assets/images/2026/county-centre/holiday-home/gallery/kitchen.webp
     alt: County Centre Holiday Home Kitchen
     caption: Kitchen
-  - img: /assets/images/2026/county-centre/holiday-home/hall.webp
+  - img: /assets/images/2026/county-centre/holiday-home/gallery/hall.webp
     alt: County Centre Holiday Home Hall
     caption: Hall
 int-brussels:

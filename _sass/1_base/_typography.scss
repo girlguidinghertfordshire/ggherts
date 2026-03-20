@@ -3,8 +3,8 @@
 // -----------------------------------------------------------------------------
 // Base font-size
 // -----------------------------------------------------------------------------
-$font-size : 16;       
-$em        : $font-size*1em;
+$font-size : 16;
+$em : $font-size*1em;
 
 
 //
@@ -13,24 +13,146 @@ $em        : $font-size*1em;
 }
 
 
-h1,h2,h3 { font-weight: 600;}
+h1,
+h2,
+h3 {
+    font-weight: 600;
+}
 
 .gg-blockquote {
-    background-color: color.adjust(gg.$gg-light-blue,$lightness: 20%);
-    border-left: 10px solid gg.$gg-mid-blue;
+    font-family: 'Zilla Slab', serif;
+    background-color: color.adjust(gg.$gg-light-blue, $lightness: 20%);
+    border: 10px solid gg.$gg-mid-blue;
     margin: 1.5rem 10px;
     padding: 1rem 10px 0.1rem;
+
+    &.brownies {
+        background-color: gg.$gg-brownies-yellow;
+        border-color: gg.$gg-brownies-brown;
+        color: gg.$gg-brownies-brown;
+    }
+}
+
+.gg-quote-card {
+    --gg-bubble-bg: #{color.adjust(gg.$gg-light-blue, $lightness: 20%)};
+    --gg-bubble-border: var(--gg-bubble-bg);
+    --gg-bubble-color: #000;
+    --gg-bubble-radius: 18px;
+    --gg-bubble-tail-width: 24px;
+    --gg-bubble-tail-height: 24px;
+    --gg-bubble-shadow: 0 10px 24px rgba(0, 0, 0, 0.08);
+
+    &.brownies {
+        --gg-bubble-bg: #{gg.$gg-brownies-yellow};
+        --gg-bubble-color: #{gg.$gg-brownies-brown};
+    }
+
+    &.brownies-inverted {
+        --gg-bubble-bg: #{gg.$gg-brownies-brown};
+        --gg-bubble-color: #{gg.$gg-brownies-lemonade-yellow};
+    }
+
+    &.gg-inverted {
+        --gg-bubble-bg: #{gg.$gg-dark-blue};
+        --gg-bubble-color: #{gg.$gg-light-blue};
+    }
+
+    &.rangers {
+        --gg-bubble-bg: #{gg.$gg-rangers-light-pink};
+        --gg-bubble-color: #{gg.$gg-rangers-purple};
+    }
+
+    margin: 0 0 1.5rem;
+    color: var(--gg-bubble-color);
+
+    blockquote {
+        font-family: 'Zilla Slab', serif;
+        font-weight: 600;
+        font-size: 1.25rem;
+        position: relative;
+        margin: 0 0 1rem;
+        padding: 1.25rem 1.5rem;
+        background-color: var(--gg-bubble-bg);
+        border: 1px solid var(--gg-bubble-border);
+        border-radius: var(--gg-bubble-radius);
+        box-shadow: var(--gg-bubble-shadow);
+        line-height: 1.6;
+
+    }
+
+    figcaption {
+        display: block;
+        font-style: normal;
+        font-weight: 600;
+        color: var(--bs-body-color);
+        padding-inline: 0.5rem;
+    }
+
+    .quote-tail {
+        position: absolute;
+        bottom: calc(var(--gg-bubble-tail-height) * -1);
+        width: var(--gg-bubble-tail-width);
+        height: var(--gg-bubble-tail-height);
+
+        &::before,
+        &::after {
+            content: "";
+            position: absolute;
+            border-style: solid;
+            width: 0;
+            height: 0;
+        }
+
+        &::before {
+            left: 0;
+            top: 0;
+            border-width: 0 var(--gg-bubble-tail-width) var(--gg-bubble-tail-height) 0;
+            border-color: transparent var(--gg-bubble-border) transparent transparent;
+        }
+
+        &::after {
+            left: 1px;
+            top: 1px;
+            border-width: 0 calc(var(--gg-bubble-tail-width) - 2px) calc(var(--gg-bubble-tail-height) - 2px) 0;
+            border-color: transparent var(--gg-bubble-bg) transparent transparent;
+        }
+    }
+
+    &.gg-quote-left {
+        .quote-tail {
+            left: 2rem;
+        }
+
+        figcaption {
+            margin-left: 4rem;
+        }
+    }
+
+    &.gg-quote-right {
+        .quote-tail {
+            right: 2rem;
+            transform: scaleX(-1);
+        }
+
+        figcaption {
+            margin-right: 4rem;
+            text-align: right;
+        }
+    }
 }
 
 .text-rainbows {
     color: gg.$gg-rainbows-red;
 }
+
 .text-brownies {
     color: gg.$gg-brownies-brown;
 }
+
 .text-guides {
     color: gg.$gg-guides-dark-blue;
 }
+
 .text-rangers {
     color: gg.$gg-rangers-purple;
 }

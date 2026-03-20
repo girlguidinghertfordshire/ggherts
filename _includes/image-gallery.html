@@ -17,7 +17,9 @@
                 data-bs-target="#imageGalleryModal">
                 <img src="{{ slide.img }}" alt="{{ slide.alt }}" loading="lazy">
             </button>
+            {% if slide.caption %}
             <div class="caption">{{ slide.caption }}</div>
+            {% endif %}
         </div>
         {% endfor %}
     </div>
@@ -47,7 +49,9 @@
                         {% for slide in slides %}
                         <div class="image{% if forloop.first %} active{% endif %}">
                             <img src="{{ slide.img }}" alt="{{ slide.alt }}" loading="lazy">
+                            {% if slide.caption %}
                             <div class="caption">{{ slide.caption }}</div>
+                            {% endif %}
                         </div>
                         {% endfor %}
                     </div>

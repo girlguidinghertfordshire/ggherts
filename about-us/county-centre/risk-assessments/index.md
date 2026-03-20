@@ -6,7 +6,7 @@ toc: about-us
 location_map: false
 carousel: true
 showMap: false
-banner_image: /assets/images/core/hgc_outdoorview.webp
+banner_image: /assets/images/2026/county-centre/hgc-banner.webp
 description: Risk assessments for the Hertfordshire Guide Centre.
 lastmod: 2022-09-07T20:48:28.022Z
 ---

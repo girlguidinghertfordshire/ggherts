@@ -4,14 +4,14 @@ title: Refurbishment project
 date: 2024-11-07T08:04:00Z
 toc: about-us
 carousel: true
+banner_image: /assets/images/2026/county-centre/hgc-banner.webp
 permalink: /about-us/county-centre/refurbishment-project/
 ---
 The Hertfordshire Guide Centre (HGC) at Cottered has been the county headquarters since 1996, set in the old village school, little change has happened until now. The centre has recently undergone phase 1 of the refurbishment project, giving it a new lease of life, bringing it up to date. We can now offer a centre that is accessible and inclusive for everyone.
 
 ## Phase 1 works
 
-{:.slider.w-md-75.w-lg-50}
-{% include slider.html slider="hgc-refurbishment" %}
+{% include image-gallery.html slider="hgc-refurbishment" %}
 
 {% include hgc-refurbishment-accordion.html %}
 
