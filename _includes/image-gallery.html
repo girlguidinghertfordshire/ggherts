@@ -4,7 +4,7 @@
 {% if slides.size > 3 %}
 {% assign css = "with-controls" %}
 {% endif %}
-<div class="image-gallery {{ css }}">
+<div class="image-gallery mb-3 {{ css }}">
     {% if slides.size > 3 %}
     <div class="previous-image">
         <button onclick="goPrev()">&#8592;</button>
@@ -13,9 +13,10 @@
     <div class="inner-wrapper">
         {% for slide in slides %}
         <div class="image{% if forloop.first %} active{% endif %}">
-            <img src="{{ slide.img }}" alt="{{ slide.alt }}" loading="lazy"
-                onclick="setActiveImage({{ forloop.index0 }})" data-bs-toggle="modal"
+            <button class="btn btn-link m-0 p-0 border-0" onclick="setActiveImage({{ forloop.index0 }})" onkeypress="setActiveImage({{ forloop.index0 }})" data-bs-toggle="modal"
                 data-bs-target="#imageGalleryModal">
+                <img src="{{ slide.img }}" alt="{{ slide.alt }}" loading="lazy">
+            </button>
             <div class="caption">{{ slide.caption }}</div>
         </div>
         {% endfor %}
@@ -30,14 +31,14 @@
     </div>
     {% endif %}
 </div>
-<div class="modal" tabindex="-1" id="imageGalleryModal">
+<div class="modal gallery-modal" tabindex="-1" id="imageGalleryModal">
     <div class="modal-dialog modal-fullscreen">
         <div class="modal-content">
             <div class="modal-header">
                 <h5 class="modal-title">{{ page.title }}</h5>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
-            <div class="modal-body">
+            <div class="modal-body py-0">
                 <div class="image-viewer">
                     <div class="previous">
                         <button class="btn btn-primary" onclick="goPrev()">&lt;</button>
