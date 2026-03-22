@@ -102,6 +102,22 @@ county-centre:
   - img: /assets/images/2026/county-centre/holiday-home/gallery/hall.webp
     alt: County Centre Holiday Home Hall
     caption: Hall
+county-centre-bedrooms:
+  - img: /assets/images/2026/county-centre/holiday-home/colne-bedroom.webp
+    alt: County Centre Holiday Home Colne Bedroom
+    caption: Colne Bedroom
+  - img: /assets/images/2026/county-centre/holiday-home/lea-bedroom.webp
+    alt: County Centre Holiday Home Lea Bedroom
+    caption: Lea Bedroom
+  - img: /assets/images/2026/county-centre/holiday-home/mimram-bedroom.webp
+    alt: County Centre Holiday Home Mimram Bedroom
+    caption: Mimram Bedroom
+  - img: /assets/images/2026/county-centre/holiday-home/beane-bedroom.webp
+    alt: County Centre Holiday Home Beane Bedroom
+    caption: Beane Bedroom
+  - img: /assets/images/2026/county-centre/holiday-home/ver-bedroom.webp
+    alt: County Centre Holiday Home Ver Bedroom
+    caption: Ver Bedroom
 int-brussels:
   - img: /assets/images/2025/09/international/brussels1.webp
     alt: International trip to Brussels

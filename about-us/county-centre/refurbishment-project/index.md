@@ -15,25 +15,37 @@ The Hertfordshire Guide Centre (HGC) at Cottered has been the county headquarter
 
 {% include hgc-refurbishment-accordion.html %}
 
+{:.mb-4}
 ## What has been happening?
 
 ### New bedrooms
+
+{% include slider-fixed.html slider="county-centre-bedrooms" %}
 
 Previously young guests slept on mattresses on the floor, which had to be put away each day. We listened to feedback and have reconfigured the space and extended the building to allow for 5 bedrooms, sleeping 27 people in total.
 
 ### New fully accessible washroom
 
+{:.clearfix}
+![Accessible washroom](/assets/images/2026/county-centre/accessible_washroom.webp){:.d-block.mx-auto.my-3.float-lg-end.ms-lg-3}
 The new accessible shower room is fitted with toilet, sink, adult changing table (with shower function) and hoist. It is an en-suite to a 3 bed-room, which also has a ceiling hoist. The rooms can therefore cater perfectly for someone needing these facilities or, alternatively, it makes a wonderful leader room with en-suite shower room.
 
 ### Hoists in the bedroom
 
+{:.clearfix}
+![Bed with hoist](/assets/images/2026/county-centre/hoist-bed.webp){:.d-block.mx-auto.my-3.float-lg-end.ms-lg-3}
 One of the bedrooms, sleeping 3 people has a hoist fitted, enabling easier transition for guests who need help to get in and out of bed. This bedroom is next door to the accessible washroom.
 
 ### New entrance
 
+{:.clearfix}
+![New entrance hall](/assets/images/2026/county-centre/new-entrance.webp){:.d-block.mx-auto.my-3.float-lg-end.ms-lg-3}
 A new main entrance has been created, allowing for a more accessible welcome area. The entrance lobby is also suitable for small, informal meetings.
 
 ### Leaders (optional) bedroom with en-suite
+
+{:.text-center}
+![Mimram bedroom](/assets/images/2026/county-centre/mimram-bedroom.webp) ![Mimram ensuite](/assets/images/2026/county-centre/mimram-ensuite.webp)
 
 One of the new bedrooms, sleeping 4, has an adjoining door to 1 of the lovely new shower rooms. Should you wish to use it in this way, leaders staying at the centre can have the luxury of an en-suite shower room.
 
