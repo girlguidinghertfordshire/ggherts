@@ -36,7 +36,7 @@ This is a great opportunity for leaders who don't have their own going away with
 
 £30 per young member (payment will be requested by way of invoice after booking). Leaders go free.
 
-Places are limited.
+**This event is now fully booked.**
 
 *Girls and their leader(s) can attend from 10am on Saturday morning if they are unable to arrive on the Friday night. The cost will remain the same.
 

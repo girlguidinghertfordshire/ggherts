@@ -1,6 +1,7 @@
 ---
 title: Hampstead Campsite
 date: 2016-05-19 15:24:18.000000000 +01:00
+published: false
 shop:
   mapaddress: "Hampstead Campsite, Penman’s Green, Chipperfield, WD4 9DJ"
   location: |
