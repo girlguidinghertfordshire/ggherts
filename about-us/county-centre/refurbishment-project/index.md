@@ -49,7 +49,7 @@ A new main entrance has been created, allowing for a more accessible welcome are
 
 One of the new bedrooms, sleeping 4, has an adjoining door to 1 of the lovely new shower rooms. Should you wish to use it in this way, leaders staying at the centre can have the luxury of an en-suite shower room.
 
-[See the completed Phase 1 works](/about-us/county-centre/){:.btn.btn-primary}
+{% include county-centre-virtual-tour.html %}
 
 Girlguiding Hertfordshire would like to extend thanks to all our supporters, whether it be those who have given their time at our corporate volunteer days or working parties, or those who have purchased from the shop, bought badges, donated money or equipment.
 

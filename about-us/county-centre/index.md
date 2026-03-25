@@ -27,6 +27,8 @@ There is a spacious, wheelchair accessible, entrance hall, a dining room, kitche
 
 Take a look at the virtual tour of the property to see the facilities available.
 
+{% include county-centre-virtual-tour.html %}
+
 [Find out more about the indoor accommodation](/about-us/county-centre/indoor-accommodation/){:.btn.btn-primary}
 
 ## Campsite

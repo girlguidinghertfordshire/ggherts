@@ -74,28 +74,28 @@ county-show:
 county-centre:
   - img: /assets/images/2026/county-centre/holiday-home/gallery/entrance-hall.webp
     alt: County Centre Holiday Home Entrance Hall
-    caption: Entrance Hall
+    caption: Entrance hall
   - img: /assets/images/2026/county-centre/holiday-home/gallery/colne-bedroom.webp
     alt: County Centre Holiday Home Colne Bedroom
-    caption: Colne Bedroom
+    caption: Colne bedroom
   - img: /assets/images/2026/county-centre/holiday-home/gallery/lea-bedroom.webp
     alt: County Centre Holiday Home Lea Bedroom
-    caption: Lea Bedroom
+    caption: Lea bedroom
   - img: /assets/images/2026/county-centre/holiday-home/gallery/mimram-bedroom.webp
     alt: County Centre Holiday Home Mimram Bedroom
-    caption: Mimram Bedroom
+    caption: Mimram bedroom
   - img: /assets/images/2026/county-centre/holiday-home/gallery/mimram-ensuite.webp
     alt: County Centre Holiday Home Mimram Ensuite
-    caption: Mimram Ensuite
+    caption: Mimram ensuite
   - img: /assets/images/2026/county-centre/holiday-home/gallery/beane-bedroom.webp
     alt: County Centre Holiday Home Beane Bedroom
-    caption: Beane Bedroom
+    caption: Beane bedroom
   - img: /assets/images/2026/county-centre/holiday-home/gallery/accessible-wet-room.webp
     alt: County Centre Holiday Home Accessible Wet Room
-    caption: Accessible Wet Room
+    caption: Accessible wet room
   - img: /assets/images/2026/county-centre/holiday-home/gallery/ver-bedroom.webp
     alt: County Centre Holiday Home Ver Bedroom
-    caption: Ver Bedroom
+    caption: Ver bedroom
   - img: /assets/images/2026/county-centre/holiday-home/gallery/kitchen1.webp
     alt: County Centre Holiday Home Kitchen
     caption: Kitchen
@@ -105,19 +105,19 @@ county-centre:
 county-centre-bedrooms:
   - img: /assets/images/2026/county-centre/holiday-home/colne-bedroom.webp
     alt: County Centre Holiday Home Colne Bedroom
-    caption: Colne Bedroom
+    caption: Colne bedroom
   - img: /assets/images/2026/county-centre/holiday-home/lea-bedroom.webp
     alt: County Centre Holiday Home Lea Bedroom
-    caption: Lea Bedroom
+    caption: Lea bedroom
   - img: /assets/images/2026/county-centre/holiday-home/mimram-bedroom.webp
     alt: County Centre Holiday Home Mimram Bedroom
-    caption: Mimram Bedroom
+    caption: Mimram bedroom
   - img: /assets/images/2026/county-centre/holiday-home/beane-bedroom.webp
     alt: County Centre Holiday Home Beane Bedroom
-    caption: Beane Bedroom
+    caption: Beane bedroom
   - img: /assets/images/2026/county-centre/holiday-home/ver-bedroom.webp
     alt: County Centre Holiday Home Ver Bedroom
-    caption: Ver Bedroom
+    caption: Ver bedroom
 int-brussels:
   - img: /assets/images/2025/09/international/brussels1.webp
     alt: International trip to Brussels
