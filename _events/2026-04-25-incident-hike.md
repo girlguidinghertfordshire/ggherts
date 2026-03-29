@@ -31,8 +31,6 @@ Entry is £5 per girl, with adults free.
 
 Start times will be staggered between 10am and 1pm (with arrival 20 mins before your allocated start time).
 
-**Bookings are now open and close on 27 March.**
-
-[Booking form](/assets/docs/2026/incident-hike-booking-formv2-2.docx){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [Information and consent form](/assets/docs/2026/incident-hike-info-consent.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
+**Bookings for this event are closed.**
 
 Enquiries to <walking@girlguidinghertfordshire.org.uk>.
