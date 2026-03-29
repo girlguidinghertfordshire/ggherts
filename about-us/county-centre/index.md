@@ -21,7 +21,7 @@ We welcome Girlguiding units, our friends from Scouting and other youth and loca
 
 Hertfordshire Guide Centre (HGC) has recently undergone a building refurbishment and now offers 5 bedrooms, sleeping 27 in total and 2 new bathrooms in our indoor accommodation. Additionally, there are extra mattresses located under bunk beds which can be used to accommodate larger groups.
 
-The recent enhancements include state-of-the-art specialist equipment making HGC fully accessible. One of the bedrooms (sleeping 3) includes a bed hoist and a fully accessible en-suite shower room also fitted with a hoist and an adult-sized changing table.
+The recent enhancements include state-of-the-art specialist equipment making HGC fully accessible. One of the bedrooms (sleeping 3) includes a ceiling hoist and a fully accessible en-suite shower room also fitted with a hoist and an adult-sized changing table.
 
 There is a spacious, wheelchair accessible, entrance hall, a dining room, kitchen and large hall. It lends itself well as an activity, meeting and training venue, as well as for residential stays.
 

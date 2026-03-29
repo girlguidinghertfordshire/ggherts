@@ -69,6 +69,6 @@ Girlguiding Hertfordshire is excited to be able to offer 5 bedrooms (13 bunk bed
 - Access to the trim trail and campfire circle is shared with campsite guests.
 - Shop – with badges and other Girlguiding Hertfordshire merchandise.
 
-[Availability and booking](/about-us/county-centre/availability-booking/){:.btn.btn-primary} [Items to borrow and hire](/assets/docs/hgc/items-to-borrow-and-hire.pdf){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noreferrer noopener"} [Things to do locally](/about-us/county-centre/local-area/){:.btn.btn-primary}
+[Availability and booking](/about-us/county-centre/availability-booking/){:.btn.btn-primary} [Items to borrow and hire](/assets/docs/2026/hgc-items-borrow-hire.png){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noreferrer noopener"} [Things to do locally](/about-us/county-centre/local-area/){:.btn.btn-primary}
 
 {% include image-viewer.html id="floorPlanModal" src="/assets/images/2026/county-centre/hgc-floor-plan-large.webp" title="Floor plan" alt="Floor plan for holiday home" %}

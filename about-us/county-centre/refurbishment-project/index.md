@@ -30,7 +30,7 @@ Previously young guests slept on mattresses on the floor, which had to be put aw
 ![Accessible washroom](/assets/images/2026/county-centre/accessible_washroom.webp){:.d-block.mx-auto.my-3.float-lg-end.ms-lg-3}
 The new accessible shower room is fitted with toilet, sink, adult changing table (with shower function) and hoist. It is an en-suite to a 3 bed-room, which also has a ceiling hoist. The rooms can therefore cater perfectly for someone needing these facilities or, alternatively, it makes a wonderful leader room with en-suite shower room.
 
-### Hoists in the bedroom
+### Hoist in the bedroom
 
 {:.clearfix}
 ![Bed with hoist](/assets/images/2026/county-centre/hoist-bed.webp){:.d-block.mx-auto.my-3.float-lg-end.ms-lg-3}
