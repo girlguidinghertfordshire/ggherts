@@ -15,7 +15,7 @@ Please use the calendar to check availability for both the holiday home and camp
 
 Current prices and booking terms and conditions can be viewed here:
 
-[Prices](https://www.girlguidinghertfordshire.org.uk/assets/docs/2025/hertfordshire-guide-centre-2026-fees.pdf){:.external-link.btn.btn-primary.download-link}{:target="_blank"}{:rel="noopener"}
+[Prices](/assets/docs/2025/hertfordshire-guide-centre-2026-fees.pdf){:.external-link.btn.btn-primary.download-link}{:target="_blank"}{:rel="noopener"}
 
 If you have any questions, please email <hgcbookings@girlguidinghertfordshire.org.uk>.
 
@@ -23,7 +23,7 @@ When you are ready to make your booking, please click on the + on the date on th
 
 Signed and dated booking terms and conditions must be emailed to the bookings secretary on <hgcbookings@girlguidinghertfordshire.org.uk> within 14 days of confirmation that your provisional booking has been accepted.
 
-[Bookings terms and conditions](https://www.girlguidinghertfordshire.org.uk/assets/docs/2023/hgc-booking-conditions-may-23.pdf){:.external-link.btn.btn-primary.download-link}{:target="_blank"}{:rel="noopener"}
+[Bookings terms and conditions](/assets/docs/2026/hgc-booking-terms-and-conditions-2026.pdf){:.external-link.btn.btn-primary.download-link}{:target="_blank"}{:rel="noopener"}
 
 ## Risk assessments
 
