@@ -41,26 +41,19 @@ Badges cost £1.20 each plus postage.  Download the challenge badge pack to find
 
 [Download <span class="visually-hidden">Golf </span>challenge pack](/assets/docs/2024/girls-golf-challenge-badge.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [Golf certificate](/assets/docs/2024/girls-golf-certificate.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [<span class="visually-hidden">Golf </span>Badge order form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwYCE4GYtXJ9Ogtjv7oAM_iJURFY2T09OMjQ4Q0JCTlpCWUtQM1I5N0xYMC4u){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
 
-### Sangam 2025 challenge badge
-
-![Badge for Sangam 2025 challenge](/assets/images/2025/03/sangam-2025-challenge-badge.webp){:.ms-3.mb-3.float-end}
-This vibrant and exciting county challenge badge was created by the young members from Hertfordshire who went on an adventure of a lifetime this summer to Sangam in India, where they completed a Brave Space II project centred around leadership and community action.
-
-As well as amazing cultural events and traditional experiences, the group visited Dehli, Agra, an elephant conservation and rescue centre.
-
-This challenge badge has 4 main sections: People and friendship, Environment and exploration, Festivals and culture and Cuisine, all with activities suitable for each section; plus a puzzle and resources.
-
-Use the challenge to plan a friendship event, celebrate Diwali, experience different cultures or even host a fully immersive residential.
-
-Options included for all sections.
-
-Badges cost £1.50 each plus postage and can be ordered either by post using the order form at the end of the challenge pack or via the online form below. 
-
-Download the challenge badge pack to find out more about the requirements and activities.
-
-[Download <span class="visually-hidden">Sangam </span>challenge pack](/assets/docs/2026/sangam-challenge-badge-pack-march-2026.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [<span class="visually-hidden">Sangam 2025 </span>Badge order form](https://forms.office.com/e/Rc6QcS4NLi){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
-
 ### Other county badges
+
+#### ![Thank you badge](/assets/images/2026/03/thank-you.webp){:.ms-3.mb-3.float-end} Thank you badge
+
+Is there a volunteer, young member or someone who has helped in your unit, district, division or county that you'd like to thank?
+
+This delightful county Thank you badge is the perfect way to acknowledge the hard work and support they have given.
+
+Badges cost £1.00 plus postage.
+
+Please note: badges will not be in stock and distributed until the end of April.
+
+[Badge order form](https://forms.office.com/pages/responsepage.aspx?id=3yob_CzTykeMNWNnWM6Owcg2wzmjm45Mliv78_mHDTZUMzFDSkJLR1dDM0RPTDIzMk1WRTc0MEpZSS4u&route=shorturl){:.btn.btn-primary}{:rel="noopener"}{:target="_blank"}
 
 #### ![Brownie outdoors badge](/assets/images/2025/08/herts-brownie-badge-sm.webp){:.ms-3.mb-3.float-end} Brownies outdoor badge
 
@@ -142,6 +135,56 @@ Badges cost £1.30 each (plus postage) and can be ordered from within the challe
 Download the challenge badge pack to find out more about the activities.
 
 [Download <span class="visually-hidden">forest bathing</span> challenge pack](/assets/docs/2025/forest-bathing-challenge-badge-v4.pdf){:.btn.btn-primary.download-link}
+
+## International badges {#international-badges}
+
+### Croatia 2026 challenge badge
+
+![Croatia 2026 challenge badge](/assets/images/2026/03/croatia-2026.webp){:.ms-3.mb-3.float-end}
+
+This eye catching heart shaped badge has been created by a group of Guides and Rangers from Girlguiding Hertfordshire who are going on an international trip to Croatia in the summer of 2026.
+
+The challenge pack is full of Croatian themed activities, crafts and food for you to enjoy and have fun with whilst helping them fundraise to attend this adventure.
+
+As part of the trip involves an amazing day trip to Venice the challenge pack also contains some Italian inspired activities.
+
+Rainbows and Brownies should choose a minimum of 5 activities, with at least 1 from each section, to earn their badge. Whilst Guides, Rangers and Trefoil choose a minimum of 7 activities, with at least 1 from each section, to earn their badge.
+
+Badges cost £1.50 each (plus postage) and can be obtained by emailing <croatia26@girlguidinghertfordshire.org.uk>
+
+[Download challenge pack](/assets/docs/2026/croatia-challenge-pack.pdf){:.btn.btn-primary.download-link}
+
+### Canada 2026 challenge badge
+
+![Canada 2026 challenge badge](/assets/images/2026/03/canada-badge.webp){:.ms-3.mb-3.float-end}
+
+This Anglia region badge is brought to you by the 11 girls and 4 leaders who will be travelling to Canada in July 2026; 5 of which are from Girlguiding Hertfordshire.
+
+By learning about Girlguiding in Canada, Canadian games and either making a maple leaf keyring or sampling some maple syrup (or both) you can earn your badge whilst helping with their fundraising to support the trip. The challenge pack contains many more activities for you to try.
+
+Badges cost £1.20 each (plus postage). Order form can be found at the end of the challenge pack.
+
+[Download challenge pack](/assets/docs/2026/canada-challenge-pack.pdf){:.btn.btn-primary.download-link} [Contact the badge organiser](mailto:rebeccacabrams@yahoo.co.uk){:.btn.btn-primary}
+
+### Sangam 2025 challenge badge
+
+![Badge for Sangam 2025 challenge](/assets/images/2025/03/sangam-2025-challenge-badge.webp){:.ms-3.mb-3.float-end}
+
+This vibrant and exciting country challenge badge was created by the young members from Hertfordshire who went on an adventure of a lifetime this summer to Sangam in India, where they completed a Brave Space II project centred around leadership and community action.
+
+As well as amazing cultural events and traditional experiences, the group visited Dehli, Agra, an elephant conservation and rescue centre.
+
+This challenge badge has 4 main sections: People and friendship, Environment and exploration, Festivals and culture and Cuisine, all with activities suitable for each section; plus a puzzle and resources.
+
+Use the challenge to plan a friendship event, celebrate Diwali, experience different cultures or even host a fully immersive residential.
+
+Options included for all sections.
+
+Badges cost £1.50 each plus postage and can be ordered either by post using the order form at the end of the challenge pack or via the online form below. 
+
+Download the challenge badge pack to find out more about the requirements and activities.
+
+[Download <span class="visually-hidden">Sangam </span>challenge pack](/assets/docs/2026/sangam-challenge-badge-pack-march-2026.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [<span class="visually-hidden">Sangam 2025 </span>Badge order form](https://forms.office.com/e/Rc6QcS4NLi){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
 
 ## Joint Guiding and Scout badges
 

@@ -36,7 +36,6 @@ description: Billboard is a monthly e-newsletter sent to all Girlguiding Hertfor
 
 ## Deadline dates for submission
 
-- April: 27 March
 - May: 29 April
 - June: 22 May
 - July: 30 June

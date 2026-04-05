@@ -21,7 +21,7 @@ It began in 1968, Hertfordshire Scout Patrols competed annually in various ways,
 
 - Round 1: Saturday 18 October 2025 \| Potters Bar - now completed
 - Round 2: Saturday 14 March 2026 \| St Albans - now completed
-- Round 3: [Friday 26 - Sunday 28 June 2026 \| tbc](/event/gph-r3/)
+- Round 3: [Friday 26 - Sunday 28 June 2026 \| Wymondley Wood Scout and Guide Centre - bookings now open.](/event/gph-r3/)
 
 ### 2026/27
 

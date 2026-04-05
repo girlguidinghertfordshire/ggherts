@@ -1,6 +1,6 @@
 ---
 title: Accepted first aid qualifications
-date: 2024-06-12T08:06:00 +01:00
+date: 2026-04-02T08:06:00 +01:00
 image: /assets/images/2023/09/firstaid.webp
 categories:
   - Announcements
@@ -12,9 +12,9 @@ author:
   first_name: ""
   last_name: ""
 ---
-If you have already undertaken first aid training, either in the workplace or personally, you may already meet Girlguiding's current requirements.
+If you have already undertaken first aid training, either in the workplace, personally or with the Scouts you may already meet Girlguiding’s current requirements.
 
-All elements of the [Girlguiding 1st response syllabus](https://www.girlguiding.org.uk/globalassets/docs-and-resources/learning-and-development/1st-response/1st-response-syllabus-july-2023.pdf){:.download-link}{:rel="noopener"}{:target="_blank"} must have been covered, paying particular attention to those that must be demonstrated both in practice, as well as in theory. You can find out more about the requirements via the button below.
+All elements of the [Girlguiding 1st response syllabus](https://www.girlguiding.org.uk/globalassets/docs-and-resources/learning-and-development/1st-response/1st-response-syllabus-2026.pdf){:.download-link}{:rel="noopener"}{:target="_blank"} must have been covered, paying particular attention to those that must be demonstrated both in practice, as well as in theory. You can find out more about the requirements via the button below.
 
 [Check your course suitability](https://www.girlguiding.org.uk/information-for-volunteers/learning-and-development/first-aid-training/accepted-first-aid-qualifications/){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
 
@@ -27,7 +27,7 @@ Note: At step 4 of the process, select the 16-hour first aid qualification optio
 
 When uploading an external first aid, please ensure you allow a minimum of 21 days for it to be signed off. This is to allow time for the region verifiers to review your upload and share any feedback which may require action from you.
 
-Should region verifiers request additional information to support your application, you will receive an email from the Anglia region verifier setting out the requirements.  
+**Should region verifiers request additional information to support your application, you will receive an email from the Anglia region verifier setting out the requirements. Please keep a look out for any such communication and respond/action as soon as you are able.**  
 
 Anglia’s ‘[Quick guide to uploading additional information](https://www.girlguiding-anglia.org.uk/download/quick-guide-to-uploading-additional-information){:.external-link}{:rel="noopener"}{:target="_blank"} ’ provides a step-by-step guide on how to upload additional information to the learning platform.
 

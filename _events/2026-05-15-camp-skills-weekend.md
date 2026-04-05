@@ -9,7 +9,7 @@ event:
     contact_email: null
     contact_number: ''
     book_now_link: 'https://forms.office.com/pages/responsepage.aspx?id=3yob_CzTykeMNWNnWM6Owcg2wzmjm45Mliv78_mHDTZUQVgyM0Q2OURMM0NQUVlFNlRQU0QwVkdKOC4u&route=shorturl'
-    image: '/assets/images/2026/01/campskills.webp'
+    image: '/assets/images/2026/03/camp-skills.webp'
     type:
         - Activity
         - Residential
@@ -36,7 +36,7 @@ This is a great opportunity for leaders who don't have their own going away with
 
 £30 per young member (payment will be requested by way of invoice after booking). Leaders go free.
 
-Places are limited.
+**This event is now fully booked.**
 
 *Girls and their leader(s) can attend from 10am on Saturday morning if they are unable to arrive on the Friday night. The cost will remain the same.
 
