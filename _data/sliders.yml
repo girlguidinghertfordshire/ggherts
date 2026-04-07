@@ -38,6 +38,9 @@ hgc-badge:
   - img: /assets/images/2023/03/hgc-badge-limited-editionv2_orig.webp
     alt: Limited Edition Guide Centre Cottered badge
 hgc-outdoors:
+  - img: /assets/images/2026/county-centre/campsite/whole-site-aerial.webp
+    alt: Aerial view of the Guide Centre and campsite
+    caption: Aerial view of the campsite
   - img: /assets/images/2026/county-centre/campsite/gallery/campsite1.webp
     alt: Guide Centre campsite
     caption: Campsite
@@ -72,6 +75,9 @@ county-show:
   - img: /assets/images/2023/12/county-show-4.webp
     alt: Scanning the tickets for people coming to the show
 county-centre:
+  - img: /assets/images/2026/county-centre/holiday-home/gallery/holiday-home-aerial.webp
+    alt: Aerial view of the County Centre Holiday Home
+    caption: Aerial view of the holiday home
   - img: /assets/images/2026/county-centre/holiday-home/gallery/entrance-hall.webp
     alt: County Centre Holiday Home Entrance Hall
     caption: Entrance hall
