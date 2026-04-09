@@ -12,7 +12,7 @@ author:
   first_name: ""
   last_name: ""
 ---
-If you have already undertaken first aid training, either in the workplace, personally or with the Scouts you may already meet Girlguiding’s current requirements.
+If you have already undertaken first aid training within the last 3 years, either in the workplace, personally, or with the Scouts, your course may already meet Girlguiding’s current requirements, so with the addition of a short 10-15 minute first aid e-learning module you can be recognised as a first aider within Girlguiding.
 
 All elements of the [Girlguiding 1st response syllabus](https://www.girlguiding.org.uk/globalassets/docs-and-resources/learning-and-development/1st-response/1st-response-syllabus-2026.pdf){:.download-link}{:rel="noopener"}{:target="_blank"} must have been covered, paying particular attention to those that must be demonstrated both in practice, as well as in theory. You can find out more about the requirements via the button below.
 
@@ -27,8 +27,6 @@ Note: At step 4 of the process, select the 16-hour first aid qualification optio
 
 When uploading an external first aid, please ensure you allow a minimum of 21 days for it to be signed off. This is to allow time for the region verifiers to review your upload and share any feedback which may require action from you.
 
-**Should region verifiers request additional information to support your application, you will receive an email from the Anglia region verifier setting out the requirements. Please keep a look out for any such communication and respond/action as soon as you are able.**  
-
-Anglia’s ‘[Quick guide to uploading additional information](https://www.girlguiding-anglia.org.uk/download/quick-guide-to-uploading-additional-information){:.external-link}{:rel="noopener"}{:target="_blank"} ’ provides a step-by-step guide on how to upload additional information to the learning platform.
+**Should region verifiers request additional information to support your application, you will receive an email from the Anglia region verifier setting out the requirements. Please keep a look out for any such communication and respond/action as soon as you are able.**
 
 If you have any difficulties, please contact the region office by emailing: <learning@girlguiding-anglia.org.uk>.
