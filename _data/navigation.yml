@@ -38,23 +38,23 @@ about-us:
   - title: County centre
     url: /about-us/county-centre/
     items:
-      - title: Fundraising
-        url: /about-us/county-centre/fundraising/
-        items:
-          - title: Fundraising ideas
-            url: /about-us/county-centre/fundraising/ideas/
-          - title: Refurbishment project progress
-            url: /about-us/county-centre/fundraising/refurbishment/
       - title: Indoor accommodation
         url: /about-us/county-centre/indoor-accommodation/
       - title: Campsite
         url: /about-us/county-centre/campsite/
-      - title: Local area
-        url: /about-us/county-centre/local-area/
+      - title: Availability and booking
+        url: /about-us/county-centre/availability-booking/
       - title: Risk assessments
         url: /about-us/county-centre/risk-assessments/
       - title: Contact us
         url: /about-us/county-centre/contact-us/
+      - title: Things to do locally
+        url: /about-us/county-centre/local-area/
+      - title: Refurbishment project
+        url: /about-us/county-centre/refurbishment-project/
+        items:
+          - title: Fundraising
+            url: /about-us/county-centre/fundraising/
   - title: Jobs
     url: /about-us/jobs/
   - title: County archives

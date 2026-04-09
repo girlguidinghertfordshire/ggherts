@@ -1,0 +1,22 @@
+<div class="modal fade" tabindex="-1" id="{{ include.id }}" aria-labelledby="{{ include.id}}Label">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="{{ include.id }}Label">{{ include.title }}</h1>
+        <button 
+          type="button"
+          class="btn btn-sm btn-primary me-2"
+          onclick="printImage('{{ include.src }}', '{{ include.title }}')">
+          Print <i class="fa fa-print"></i> 
+        </button>
+        <a href="{{ include.src }}" download class="btn btn-sm btn-primary download-link">Download</a>
+      </div>
+      <div class="modal-body">
+        <img src="{{ include.src }}" alt="{{ include.alt }}" class="img-fluid">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>

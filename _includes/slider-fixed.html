@@ -9,6 +9,11 @@
         {% endif %}
       <div class="{{ css }} text-center">
         <img src="{{slide.img}}" class="img-fluid" alt="{{slide.alt}}" loading="lazy">
+        {% if slide.caption %}
+        <div class="carousel-caption d-none d-md-block bg-primary start-50 py-2">
+          <p class="fs-5 m-0">{{ slide.caption }}</p>
+        </div>
+        {% endif %}
       </div>
       {% endfor %}
     </div>

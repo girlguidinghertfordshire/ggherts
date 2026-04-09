@@ -209,3 +209,106 @@ const breakpoint = { xs: 0, sm: 576, md: 768, lg: 992, xl: 1200, xxl: 1400 };
     });
     // eslint-disable-next-line no-undef
 })(jQuery);
+
+function printImage(/** @type {string} */ src, /** @type {string} */ title) {
+  const absoluteSrc = new URL(src, globalThis.location.href).href;
+
+  const iframe = document.createElement('iframe');
+  iframe.style.position = 'fixed';
+  iframe.style.right = '0';
+  iframe.style.bottom = '0';
+  iframe.style.width = '0';
+  iframe.style.height = '0';
+  iframe.style.border = '0';
+  iframe.setAttribute('aria-hidden', 'true');
+
+  document.body.appendChild(iframe);
+
+  const doc = iframe.contentWindow?.document;
+  if (!doc) {
+    iframe.remove();
+    alert(`1. The image could not be loaded for printing: ${absoluteSrc}`);
+    return;
+  }
+  doc.open();
+  doc.write(`
+    <!doctype html>
+    <html lang="en">
+      <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>${escapeHtml(title || 'Print image')}</title>
+        <style>
+          @page { margin: 12mm; }
+
+          html, body {
+            margin: 0;
+            padding: 0;
+            background: #fff;
+          }
+
+          body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+          }
+
+          img {
+            max-width: 100%;
+            max-height: 100vh;
+            height: auto;
+            display: block;
+          }
+
+          @media print {
+            body {
+              min-height: auto;
+            }
+
+            img {
+              max-width: 100%;
+              max-height: 100%;
+            }
+          }
+        </style>
+      </head>
+      <body>
+        <img id="print-image" alt="${escapeHtml(title || 'Printable image')}" />
+      </body>
+    </html>
+  `);
+  doc.close();
+
+  const img = doc.getElementById('print-image');
+if (!img) {
+    iframe.remove();
+    alert(`2. The image could not be loaded for printing: ${absoluteSrc}`);
+    return;
+  }
+  img.onload = function () {
+    iframe.contentWindow?.focus();
+    setTimeout(() => {
+      iframe.contentWindow?.print();
+      setTimeout(() => {
+        iframe.remove();
+      }, 500);
+    }, 150);
+  };
+
+  img.onerror = function () {
+    iframe.remove();
+    alert(`3. The image could not be loaded for printing: ${absoluteSrc}`);
+  };
+  
+  img.src = absoluteSrc;
+}
+
+function escapeHtml(/** @type {string} */ value) {
+  return String(value)
+    .replaceAll('&', '&amp;')
+    .replaceAll('<', '&lt;')
+    .replaceAll('>', '&gt;')
+    .replaceAll('"', '&quot;')
+    .replaceAll("'", '&#39;');
+}

@@ -1,6 +1,7 @@
-<figure>
-    <blockquote class="blockquote gg-blockquote">
+<figure class="gg-quote-card gg-quote-{{ include.align | default: "left" }} {{ include.section | default: "" }}">
+    <blockquote>
         {{ include.quote }}
+        <span class="quote-tail" aria-hidden="true"></span>
     </blockquote>
-    <figcaption class="blockquote-footer">{{ include.source }}</figcaption>
+    <figcaption>{{ include.source }}</figcaption>
 </figure>
