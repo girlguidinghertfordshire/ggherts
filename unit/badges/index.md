@@ -18,7 +18,7 @@ If you have a Hertfordshire county, division, district or unit badge that you wo
 ![Frog quest challenge badge design](/assets/images/2025/04/frog-quest-challenge-badge.webp){:.ms-3.mb-3.float-end}
 This fun, frog shaped and themed challenge badge has been created to support the fundraising efforts for the refurbishment of our county centre in Cottered, helping make it accessible to all with all profits going  towards phase 2 works.
 
-You can learn more about the refurbishment project here: <https://www.girlguidinghertfordshire.org.uk/about-us/county-centre/fundraising/>
+You can learn more about the refurbishment project here: [county centre refurbishment](/about-us/county-centre/refurbishment-project/)
 
 There are 4 sections to this challenge pack: arts and crafts, environment and sustainability, food and charity fundraising. Each contains 10 activities and there's something suitable for every guiding section.
 

@@ -30,7 +30,7 @@ Come along on Sunday 7 June to help get our county centre, in Cottered, ready fo
 
 Have fun with others as you help out at this social working party.
 
-This is the perfect opportunity to see for yourself the changes and improvements that have taken place at The Hertfordshire Guide Centre during the recent modernisation and refurbishment.
+This is the perfect opportunity to see for yourself the changes and improvements that have taken place at [The Hertfordshire Guide Centre](/about-us/county-centre/) during the recent modernisation and refurbishment.
 
 The day will run from 10am - 4pm, but you can join us at any time. Simply let us know before Tuesday 2 June when we can expect to see you by completing this form:
 
