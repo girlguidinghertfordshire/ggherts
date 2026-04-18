@@ -112,17 +112,6 @@ Download the challenge badge pack to find out more about the requirements and ac
 
 [Download challenge pack](/assets/docs/2026/flower-power-badge-mar26.pdf){:.btn.btn-primary.download-link}
 
-### Eggstraordinary Easter challenge badge
-
-![Eggstraordinary Easter challenge badge](/assets/images/2026/02/easter-badge.webp){:.ms-3.mb-3.float-end}
-Providing inspiration for spring activities, the Eggstraordinary Easter challenge badge is jam packed with cooking, craft, nature and photography ideas. Something for all ages and sections to 'spring' into action.
-
-This egg shaped badge costs £1.30 each (plus postage) and can be ordered from within the challenge pack.
-
-Download the challenge badge pack to find out more.
-
-[Download challenge pack](/assets/docs/2026/eggstraordinary-easter-challenge-badge-V4.pdf){:.btn.btn-primary.download-link}
-
 ### Forest bathing challenge badge
 
 ![Forest bathing badge](/assets/images/2025/08/forest-bathing-badge-sm.webp){:.ms-3.mb-3.float-end}

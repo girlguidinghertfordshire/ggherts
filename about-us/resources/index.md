@@ -30,6 +30,8 @@ Where photos feature groups of girls, this form should be completed by leaders c
 
 ### International grants
 
+These forms can only be used to apply for grants towards international trips organised by Hertfordshire county. Where Anglia region is the parent trip organiser you must apply directly to region for a grant. In both instances you can also apply to your division and district for a grant.
+
 [Girls international grant application form](/assets/docs/2025/international-grant-application-girls.docx){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [Leaders international grant application form](/assets/docs/2025/international-grant-application-leaders.docx){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} 
 
 ### Member grants

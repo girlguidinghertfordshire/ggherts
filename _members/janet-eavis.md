@@ -10,5 +10,11 @@ groups:
         sub_title_url: membership-support/
         person_intro: Oversees all aspects of archiving, awards, inclusion, Inspire, membership systems, finance, commissioner support, county property management and young leader support.
         email: janetacc@girlguidinghertfordshire.org.uk
+  - group: membership-support
+    roles:
+      - order: 2
+        job_title: Division commissioner mentor (shared role)
+        person_intro: Supports and guides division commissioners to develop the knowledge and skills needed to carry out their role effectively.
+        email: janetacc@girlguidinghertfordshire.org.uk
 image: null
 ---
