@@ -12,7 +12,7 @@ Join Groundwork East to learn more about your local river and its heritage.
 
 As part of the River Colne programmes, Groundwork East and Watford Borough Council are offering free sessions for schools and organisations.
 
-## Junior River Champions (available up to March 2026)
+## Junior River Champions (available up to March 2027)
 
 We have an exciting opportunity to be a part of the Rediscovering the River Colne Programme in Watford.
 
@@ -31,4 +31,4 @@ This session is relevant to any primary or science/geography secondary school ag
 
 To register interest for this opportunity, please email <emily.evans@groundwork.org.uk>
 
-[Project brief](/assets/docs/2025/junior-river-champions-taster-25-26.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
+[Project brief](/assets/docs/2026/junior-river-champions-taster.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}

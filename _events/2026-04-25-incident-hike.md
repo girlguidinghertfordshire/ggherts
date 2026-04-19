@@ -1,5 +1,5 @@
 ---
-title: 'Incident hike'
+title: 'Incident hike - postponed'
 date: 2025-10-25T09:38:00 +01:00
 event:
     start_date: '2026-04-26'
@@ -9,7 +9,7 @@ event:
     contact_email: null
     contact_number: ''
     book_now_link: ''
-    image: '/assets/images/2026/02/incident-hike-v2.webp'
+    image: '/assets/images/2026/04/incident-hike-postponed.webp'
     type:
         - Activity
         - Social
@@ -19,9 +19,10 @@ event:
         - Rangers
     location:
         - Hertfordshire
-        - 'Hertfordshire, Central'
 ---
-Guides and Rangers are invited to join the county walking team on this fun and exciting incident hike in Mardley Heath, Welwyn on Sunday 26 April.
+This event, which was due to take place on Sunday 26 April, has been postponed. Once a new date is set details will be updated.
+
+Guides and Rangers are invited to join the county walking team on this fun and exciting incident hike.
 
 Teams will navigate an 8k set route completing problem-solving bases at intervals along the way and show how well they can work as a team.
 
@@ -30,7 +31,5 @@ Teams will consist of 4-8 Guides, with or without their leaders, (based on navig
 Entry is £5 per girl, with adults free.
 
 Start times will be staggered between 10am and 1pm (with arrival 20 mins before your allocated start time).
-
-**Bookings for this event are closed.**
 
 Enquiries to <walking@girlguidinghertfordshire.org.uk>.

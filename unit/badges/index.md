@@ -63,6 +63,23 @@ Are you planning on having fun outdoors with your Brownies? Why not mark the occ
 
 ## Division badges
 
+### Mile around me challenge
+
+![Mile around me challenge badge](/assets/images/2026/04/mile-around-me-challenge.webp){:.ms-3.mb-3.float-end}
+Help raise funds for Gaddesden Row Guide Centre in Hemel Hempstead by completing the Mile around me challenge. Proceeds go towards upgrading the toilet and shower facilities including creating fully wheelchair accessible spaces so everyone can enjoy the Centre.
+
+This fun and inclusive challenge encourages girls to explore, discover and connect with the world around them. Explore the beauty, history and hidden gems within just 1 mile of where you live.
+
+There are 4 sections within the challenge pack: Discover it (take a closer look at the world around you), Create it (make something inspired by your mile), Help it (care for your corner of the world) and Explore it (find adventure in your local mile) and activities can be adapted so everyone can take part.
+
+Whether you live in a town, village or the countryside, this challenge is about exploring the place around you and discovering what makes your mile special.
+
+Badges cost £1.50 (plus postage) and can be purchased from the Gaddesden Row Guide Centre online shop via the button below.
+
+Download the challenge pack to find out more about the requirements and activities.
+
+[Download challenge pack](https://static1.squarespace.com/static/667c30720d4a4e3926f1d2ea/t/69c55c7554abd710d518689d/1774541941428/Mile+around+me+challenge+badge+V3.pdf){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"} [Purchase badges](https://www.gaddesdenrowguidecentre.org.uk/shop/p/mile-around-me-challenge-badge){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
+
 ### Chippy hike badge
 
 ![Chippy hike badge](/assets/images/2025/11/chippy-badge.webp){:.ms-3.mb-3.float-end}
