@@ -65,8 +65,8 @@ Are you planning on having fun outdoors with your Brownies? Why not mark the occ
 
 ### Mile around me challenge
 
-![Mile around me challenge badge](/assets/images/2026/04/mile-around-me-challenge.webp){:.ms-3.mb-3.float-end}
-Help raise funds for Gaddesden Row Guide Centre in Hemel Hempstead by completing the Mile around me challenge. Proceeds go towards upgrading the toilet and shower facilities including creating fully wheelchair accessible spaces so everyone can enjoy the Centre.
+![Mile around me challenge badge](/assets/images/2026/04/mile-around-me-challenge-badge.webp){:.ms-3.mb-3.float-end}
+Help raise funds for Gaddesden Row Guide Centre in Hemel Hempstead (West Division) by completing the Mile around me challenge. Proceeds go towards upgrading the toilet and shower facilities including creating fully wheelchair accessible spaces so everyone can enjoy the Centre.
 
 This fun and inclusive challenge encourages girls to explore, discover and connect with the world around them. Explore the beauty, history and hidden gems within just 1 mile of where you live.
 
