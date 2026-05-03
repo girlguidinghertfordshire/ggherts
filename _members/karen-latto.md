@@ -5,9 +5,8 @@ groups:
   - group: adventure
     roles:
       - order: 9
-        job_title: County residential lead volunteer - indoor
-        person_intro: Supports volunteers with their going away with licences and
-          promotes and encourages all aspects of residentials.
+        job_title: County joint residential lead volunteer
+        person_intro: Supports volunteers with their going away with licences. Promotes and encourages all aspects of residentials and camping experiences. **Successor appointed - Louisa Sheward. Currently working with Karen during handover period.**
         email: residential@girlguidinghertfordshire.org.uk
 image: null
 thumbnail: null

@@ -1,5 +1,6 @@
 ---
 title: Christmas ecard design winner
+published: false
 date: 2025-12-14T07:12:00z
 image: /assets/images/2025/12/ecard-winner-news.webp
 categories:

@@ -1,6 +1,7 @@
 ---
 title: County badge secretary
 date: 2026-02-05T20:00:00Z
+published: false
 image: /assets/images/2026/02/county-badge-secretary.webp
 download: /assets/docs/2026/badge-secretary-role-description1.pdf
 categories:

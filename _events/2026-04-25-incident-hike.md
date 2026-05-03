@@ -1,6 +1,7 @@
 ---
 title: 'Incident hike - postponed'
 date: 2025-10-25T09:38:00 +01:00
+published: false
 event:
     start_date: '2026-04-26'
     end_date: ''

@@ -67,7 +67,7 @@ We have fantastic volunteers who look to the county for guidance, support and vi
 
 {% assign vacancies = site.vacancies | where: "categories","Adventure" | sort: date | reverse %}
 
-### Adventure and opportunity team
+### Adventure and opportunities team
 
 {% for vacancy in vacancies %}
 {% include vacancy.html title=vacancy.title description=vacancy.content button-text=vacancy.button_text download=vacancy.download img=vacancy.image %}

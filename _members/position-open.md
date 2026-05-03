@@ -26,6 +26,17 @@ groups:
         order: 8
         person_intro: Advises and supports Ranger unit leaders within the county and encourages the transition from Guides to Rangers.
         email: rangers@girlguidinghertfordshire.org.uk
+      - order: 10
+        job_title: County young leader coordinator
+        person_intro: Supports Guides, their leaders and commissioners with the Guide ready, set, lead - leadership resource; young leaders with the young leader development programme (YLDP) and young external volunteers, helping them develop their leadership skills.
+        email: YL@girlguidinghertfordshire.org.uk
+  - group: membership-support
+    roles:
+      - order: 4
+        job_title: County inclusion lead volunteer
+        person_intro: Advocates for diversity, equity, inclusion and belonging (DEIB) providing support to our members and volunteers enabling them to create a diverse and supportive space. 
+        email: Inclusions@girlguidinghertfordshire.org.uk
+        vacancyurl: mailto:janetacc@girlguidinghertfordshire.org.uk
 image: null
 thumbnail: null
 ---
