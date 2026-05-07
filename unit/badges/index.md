@@ -13,6 +13,21 @@ If you have a Hertfordshire county, division, district or unit badge that you wo
 
 ## County badges
 
+### The lands at the top challenge badge
+
+![The lands at the top challenge badge](/assets/images/2026/05/lands-at-the-top-challenge.webp){:.ms-3.mb-3.float-end}
+Inspired by the enchanting lands at the top in Enid Blyton's "Magic Faraway Tree", this badge invites young adventurers to explore creativity, teamwork and imagination through crafts, games, baking, celebrations, outdoor fun and more.
+
+From potion-making in the land of enchantments to upside-down antics in the land of topsy-turvy, this badge is suitable for all ages and has been created to support young members in experiencing residential events with Girlguiding Hertfordshire.
+
+Whether you're planning a themed meeting, a term of activities, or a residential, this badge links brilliantly with several Girlguiding interest badges, UMAs and skills builders - making it both magical and meaningful.
+
+Badges cost £1.50 each plus postage.
+
+Find out more about the requirements and activities in the challenge pack.
+
+[Request challenge pack](mailto:lizacc@girlguidinghertfordshire.org.uk){:.btn.btn-primary} [Badge order form](https://forms.cloud.microsoft/e/zMQxKTwuzz){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
+
 ### Frog quest challenge badge
 
 ![Frog quest challenge badge design](/assets/images/2025/04/frog-quest-challenge-badge.webp){:.ms-3.mb-3.float-end}
@@ -51,8 +66,6 @@ This delightful county Thank you badge is the perfect way to acknowledge the har
 
 Badges cost £1.00 plus postage.
 
-Please note: badges will not be in stock and distributed until the end of April.
-
 [Badge order form](https://forms.office.com/pages/responsepage.aspx?id=3yob_CzTykeMNWNnWM6Owcg2wzmjm45Mliv78_mHDTZUMzFDSkJLR1dDM0RPTDIzMk1WRTc0MEpZSS4u&route=shorturl){:.btn.btn-primary}{:rel="noopener"}{:target="_blank"}
 
 #### ![Brownie outdoors badge](/assets/images/2025/08/herts-brownie-badge-sm.webp){:.ms-3.mb-3.float-end} Brownies outdoor badge
@@ -66,7 +79,7 @@ Are you planning on having fun outdoors with your Brownies? Why not mark the occ
 ### Mile around me challenge
 
 ![Mile around me challenge badge](/assets/images/2026/04/mile-around-me-challenge-badge.webp){:.ms-3.mb-3.float-end}
-Help raise funds for Gaddesden Row Guide Centre in Hemel Hempstead (West Division) by completing the Mile around me challenge. Proceeds go towards upgrading the toilet and shower facilities including creating fully wheelchair accessible spaces so everyone can enjoy the Centre.
+Help raise funds for Gaddesden Row Guide Centre in Hemel Hempstead (West division) by completing the Mile around me challenge. Proceeds go towards upgrading the toilet and shower facilities including creating fully wheelchair accessible spaces so everyone can enjoy the Centre.
 
 This fun and inclusive challenge encourages girls to explore, discover and connect with the world around them. Explore the beauty, history and hidden gems within just 1 mile of where you live.
 
@@ -82,7 +95,7 @@ Download the challenge pack to find out more about the requirements and activiti
 
 ### Chippy hike badge
 
-![Chippy hike badge](/assets/images/2025/11/chippy-badge.webp){:.ms-3.mb-3.float-end}
+![Chippy hike badge](/assets/images/2026/05/chippy-hike-2026.webp){:.ms-3.mb-3.float-end}
 This is a fun badge, created by St Albans division, born out of many years of units getting out and about.
 
 However you want to run your chippy hike is totally down to you, so long as you walk to a chip shop and eat chips you can earn your badge!
@@ -113,6 +126,19 @@ Download the challenge pack to find out more about the requirements and activiti
 [Download <span class="visually-hidden">Dark in the light</span> challenge pack](https://www.gaddesdenrowguidecentre.org.uk/shop/p/dark-in-the-light-challenge-patch){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
 
 ## Unit badges
+
+### The Great Pizza Challenge badge
+
+![The Great Pizza Challenge badge](/assets/images/2026/05/pizza-badge.webp){:.ms-3.mb-3.float-end}
+Get ready to slice into adventure with The Great Pizza Challenge, a delicious challenge badge created by 7th Bishop's Stortford Guides to support their fundraising efforts and designed to build teamwork, creativity, and community spirit across all sections.
+
+Whether you're a Rainbow exploring new tastes or a Ranger mastering reflector oven physics, this challenge offers a topping for everyone of all ages and we suggest completing 1 activity from each section.
+
+Badges cost £1.25 each (plus postage) and can be ordered using the order form at the end of the challenge pack or via the online form below.
+
+Download the challenge pack to find out more about the requirements and activities.
+
+[Download challenge pack](/assets/docs/2026/pizza-challenge-badge.pdf){:.btn.btn-primary.download-link} [Badge order form](https://docs.google.com/forms/d/e/1FAIpQLSdWfzu_eDktDyJNviz1RflDVTOE4BBN76wNmZvf0bm3unO5fA/viewform){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
 
 1st Baldock Brownie unit have several fun badges to share and inspire you, whilst helping them raise money for their pack holidays and unit activities:
 
