@@ -7,9 +7,9 @@ categories:
   - Member
 ---
 
-We are looking a well organised individual with good computer and time management skills to manage and process booking requests for the [Hertfordshire Guide Centre](/about-us/county-centre/) (HGC), our county centre in Cottered.
+We are looking for a well organised individual with good computer and time management skills to manage and process booking requests for the [Hertfordshire Guide Centre](/about-us/county-centre/) (HGC), our county centre in Cottered.
 
-As bookings secretary you will be the first point of contact for people interested in booking HGC so good communications skills and vital.
+As bookings secretary you will be the first point of contact for people interested in booking HGC so good communications skills are vital.
 
 HGC bookings are managed using the Hallmaster online system and as well as maintaining and updating booking details on the system you will also issue invoices and receipts, chase outstanding payments and record payments received on the system.
 
