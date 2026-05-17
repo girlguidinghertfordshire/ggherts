@@ -21,10 +21,12 @@ A fun activity to get your unit out and about exploring your local environment i
 
 The county walking team can offer to run this activity with you on any week day evening, except Tuesdays, or half days on weekends by arrangement.
 
-![Geocaching badge](/assets/images/2022/11/guides-geocaching.webp){:.float-end.ms-3.mb-3}
+![Geocaching badge](/assets/images/2026/05/geocaching.webp){:.float-end.ms-3.mb-3}
 Units need to provide appropriate adult/child supervision, a risk assessment (which the walking team can help with) and consent forms. The walking team will provide you with 1 or 2 leaders to support your group to locate and record local caches. The activity is best done in light hours (e.g summer term or until sunset in autumn term), or will require torches and additional adult supervision in the darker evenings.
 
-Whether you wish to help your Guides undertake their Geocaching interest badge, or just want to have a fun event and learn a new skill with your unit, please contact <walking@girlguidinghertfordshire.org.uk> to arrange a session.
+If you wish to help your Guides undertake their Geocaching interest badge, or just want to have a fun event and learn a new skill with your unit, please download and fill in the booking form then return it to <walking@girlguidinghertfordshire.org.uk> to arrange a session.
+
+[Geocaching session booking form](/assets/docs/2026/geocaching-booking-form.docx){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noopener"}
 
 ## Newsletter
 
