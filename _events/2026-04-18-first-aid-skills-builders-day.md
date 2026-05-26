@@ -1,6 +1,7 @@
 ---
 title: 'First aid skills builders day'
 date: 2026-01-07T20:59:00z
+published: false
 event:
     start_date: '2026-04-18'
     end_date: ''

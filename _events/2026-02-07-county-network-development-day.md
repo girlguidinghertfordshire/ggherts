@@ -1,6 +1,7 @@
 ---
 title: County network and development day
 date: 2025-06-15T11:23:00 +01:00
+published: false
 event:
     start_date: '2026-02-07'
     end_date: ''

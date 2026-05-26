@@ -1,6 +1,7 @@
 ---
 title: 'Adventures with maps'
 date: 2025-11-02T11:02:00z
+published: false
 event:
     start_date: '2026-01-17'
     end_date: ''
