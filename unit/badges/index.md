@@ -26,7 +26,7 @@ Badges cost £1.50 each plus postage.
 
 Find out more about the requirements and activities in the challenge pack.
 
-[Request challenge pack](mailto:lizacc@girlguidinghertfordshire.org.uk){:.btn.btn-primary} [Badge order form](https://forms.cloud.microsoft/e/zMQxKTwuzz){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
+[Download challenge pack](/assets/docs/2026/the-land-at-the-top-challenge-badge-pack.pdf){:.btn.btn-primary}{:rel="noopener"}{:target="_blank"} [Badge order form](https://forms.cloud.microsoft/e/zMQxKTwuzz){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
 
 ### Frog quest challenge badge
 

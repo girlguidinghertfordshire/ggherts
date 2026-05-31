@@ -2,6 +2,7 @@
 title: Herts County Show 2026 - helpers needed
 date: 2026-02-05T09:00:00Z
 image: /assets/images/2026/02/county-show-26.webp
+published: false
 categories:
   - Volunteers
 author:

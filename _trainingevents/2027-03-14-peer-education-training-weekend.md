@@ -1,6 +1,6 @@
 ---
 title: 'Peer education training weekend'
-date: 2026-05-26T12:00:00Z
+date: 2026-05-31T08:39:00 +01:00
 event:
     start_date: '2027-03-14'
     end_date: '2027-03-14'
