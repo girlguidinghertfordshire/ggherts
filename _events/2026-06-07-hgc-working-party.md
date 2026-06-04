@@ -1,6 +1,7 @@
 ---
 title: "Hertfordshire Guide Centre's working party"
 date: 2026-03-25T12:00:00 +00:00
+published: false
 event:
     start_date: '2026-06-07'
     end_date: ''

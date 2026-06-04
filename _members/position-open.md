@@ -15,6 +15,11 @@ groups:
         job_title: County environment and sustainability lead volunteer
         person_intro: Works with members and volunteers across the county to make Girlguiding Hertfordshire more sustainable and environmentally friendly.
         vacancyurl: /get-involved/vacancies/#county-environment-and-sustainability-lead-volunteer
+      - order: 2.5
+        job_title: County enquiry coordinator
+        person_intro: Responds to and actions new volunteer enquires received from the online recruitment tool, in a timely manner, where potential volunteers have not found an advertised role matching their requirements.
+        email: claireacc@girlguidinghertfordshire.org.uk
+        vacancyurl: /get-involved/vacancies/#county-enquiry-coordinator  
       - order: 1.5
         job_title: County awards secretary lead volunteer
         person_intro: Provides administrative assistance to the county awards lead volunteer and helps with organising the annual county awards celebration event.

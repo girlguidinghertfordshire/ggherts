@@ -2,7 +2,7 @@
 title: 'Peer education training weekend'
 date: 2026-05-31T08:39:00 +01:00
 event:
-    start_date: '2027-03-14'
+    start_date: '2027-03-12'
     end_date: '2027-03-14'
     address: Hertfordshire Guide Centre, Cottered
     contact_name: null
