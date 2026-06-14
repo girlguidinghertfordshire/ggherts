@@ -1,6 +1,7 @@
 ---
 title: 'Level 2 social walking weekend'
 date: 2026-01-07T21:08:00z
+published: false
 event:
     start_date: '2026-06-05'
     end_date: '2026-06-07'

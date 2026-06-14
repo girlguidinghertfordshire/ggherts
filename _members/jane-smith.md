@@ -1,7 +1,7 @@
 ---
 title: Jane Smith
 date: 2022-06-07T19:29:43.253Z
-published: false
+published: true
 groups:
   - group: divcomm
     roles:
@@ -9,6 +9,12 @@ groups:
         job_title: Harpenden and Redbourn Division Commissioner
         person_intro: null
         email: handr@girlguidinghertfordshire.org.uk
+  - group: promote-grow
+    roles:
+      - order: 2
+        job_title: County badge secretary
+        person_intro: Liaises with Girlguiding nationally with regards to ordering badges and certificates, as well as chairing the county shops annual general meeting.
+        email: Badges@girlguidinghertfordshire.org.uk
 image: null
 thumbnail: null
 ---

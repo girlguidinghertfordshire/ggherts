@@ -212,7 +212,7 @@ Use the challenge to plan a friendship event, celebrate Diwali, experience diffe
 
 Options included for all sections.
 
-Badges cost £1.50 each plus postage and can be ordered either by post using the order form at the end of the challenge pack or via the online form below. 
+**Limited stock remains. Badges have now been reduced to £1.00 each plus postage and can be ordered either by post using the order form at the end of the challenge pack or via the online form below. Get yours before they are gone!**
 
 Download the challenge badge pack to find out more about the requirements and activities.
 
