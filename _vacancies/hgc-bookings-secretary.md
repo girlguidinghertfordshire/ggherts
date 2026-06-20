@@ -1,6 +1,7 @@
 ---
 title: Hertfordshire Guide Centre bookings secretary
 date: 2026-05-07T10:00:00Z
+published: false
 image: /assets/images/2026/05/hgc-booking-sec.webp
 download: /assets/docs/2026/hgc-bookings-secretary-role-description.pdf
 categories:

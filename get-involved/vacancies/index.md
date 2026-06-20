@@ -78,7 +78,7 @@ We have fantastic volunteers who look to the county for guidance, support and vi
 ### Membership support team
 
 {% if vacancies.size == 0 %}
-There are no vacancies within this team at present.
+There are presently no vacancies within this team
 {% endif %}
 
 {% for vacancy in vacancies %}

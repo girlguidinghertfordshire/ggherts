@@ -6,7 +6,6 @@ groups:
     roles:
       - order: 3.6
         job_title: Hertfordshire Guide Centre bookings secretary
-        person_intro: "First point of contact for those interested in booking Hertfordshire Guide Centre, our county centre, in Cottered. Manages and process bookings for the site. **Successor sought**"
+        person_intro: "First point of contact for those interested in booking Hertfordshire Guide Centre, our county centre, in Cottered. Manages and process bookings for the site."
         email: hgcbookings@girlguidinghertfordshire.org.uk
-        vacancyurl: /get-involved/vacancies/#hertfordshire-guide-centre-bookings-secretary
 ---

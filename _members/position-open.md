@@ -25,16 +25,18 @@ groups:
         person_intro: Provides administrative assistance to the county awards lead volunteer and helps with organising the annual county awards celebration event.
         email: awardsec@girlguidinghertfordshire.org.uk
         vacancyurl: /get-involved/vacancies/#county-awards-secretary-lead-volunteer  
+      - order: 6.5
+        job_title: County young leader coordinator
+        person_intro: Supports Guides, their leaders and commissioners with the Guide ready, set, lead - leadership resource; young leaders with the young leader development programme (YLDP) and young external volunteers, helping them develop their leadership skills.
+        email: YL@girlguidinghertfordshire.org.uk
+        vacancyurl: /get-involved/vacancies/#county-young-leader-coordinator
   - group: adventure
     roles:
       - job_title: County Ranger lead volunteer
         order: 8
         person_intro: Advises and supports Ranger unit leaders within the county and encourages the transition from Guides to Rangers.
         email: rangers@girlguidinghertfordshire.org.uk
-      - order: 10
-        job_title: County young leader coordinator
-        person_intro: Supports Guides, their leaders and commissioners with the Guide ready, set, lead - leadership resource; young leaders with the young leader development programme (YLDP) and young external volunteers, helping them develop their leadership skills.
-        email: YL@girlguidinghertfordshire.org.uk
+        vacancyurl: /get-involved/vacancies/#county-ranger-lead-volunteer
   - group: membership-support
     roles:
       - order: 4
