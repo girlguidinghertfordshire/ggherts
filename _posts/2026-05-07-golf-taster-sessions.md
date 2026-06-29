@@ -1,6 +1,7 @@
 ---
 title: 'Golf taster sessions'
 date: 2026-05-07T00:00:00 +01:00
+published: false
 image: /assets/images/2026/05/golf-sessions-2026.webp
 categories:
   - Things to do

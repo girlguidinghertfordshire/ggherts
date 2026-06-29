@@ -1,6 +1,6 @@
 ---
 title: Growth and retention team members
-date: 2025-03-29T07:10:00Z
+date: 2026-06-28T00:00:00Z
 image: /assets/images/2025/03/growth-retention-team.webp
 download: null
 categories: 
