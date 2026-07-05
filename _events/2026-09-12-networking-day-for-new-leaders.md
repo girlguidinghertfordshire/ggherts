@@ -19,7 +19,7 @@ event:
     location:
         - Hertfordshire
 ---
-Leaders in Hertfordshire county who have qualified during 2026 are invited to attend the county's first networking day of the kind on Saturday 12 September.
+Leaders in Hertfordshire county who have completed their leadership development programme (LDP) within the last year are invited to attend the county's first networking day of the kind on Saturday 12 September.
 
 Join other new leaders and get to meet like minded individuals.
 

@@ -21,13 +21,13 @@ It began in 1968, Hertfordshire Scout Patrols competed annually in various ways,
 
 - Round 1: Saturday 18 October 2025 \| Potters Bar - now completed
 - Round 2: Saturday 14 March 2026 \| St Albans - now completed
-- Round 3: [Friday 26 - Sunday 28 June 2026 \| Wymondley Wood Scout and Guide Centre - bookings now open.](/event/gph-r3/)
+- Round 3: Friday 26 - Sunday 28 June 2026 \| Wymondley Wood Scout and Guide Centre - now completed
 
-### 2026/27
+### 2026/27 - coming soon
 
-- Round 1: Saturday 17 October 2026 - venue tbc
-- Round 2: Saturday 13 March 2027 - venue tbc
-- Round 3: Friday 25 - Sunday 27 June 2027 - venue tbc
+- Round 1: [Saturday 17 October 2026 - venue tbc](/event/gph-2627-r1/)
+- Round 2: [Saturday 13 March 2027 - venue tbc](/event/gph-2627-r2/)
+- Round 3: [Friday 25 - Sunday 27 June 2027 - venue tbc](/event/gph-2627-r3/)
 
 ## About the competition
 
@@ -55,26 +55,14 @@ Round 2 of the Great Patrol Hunt was completed on 14 March 2026.
 
 [Download round 2 results](/assets/docs/2026/gph-25-26-results-r2.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
 
-[Download overall positions after round 2](/assets/docs/2026/gph-25-26-overall-positions-r2.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
+Round 3 of the Great Patrol Hunt was completed over the weekend of 26- 28 June 2026.
 
-## 2024/25 results
-
-Round 1 of this year's Great Patrol Hunt saw 170 Guides navigate Wheathampstead on Saturday 19 October whilst getting creative and completing various activites.
-
-[Download round 1 results](/assets/docs/2024/gph-2425-r1-results.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
-
-Round 2 of the Great Patrol Hunt was completed on 29 March 2025.
-
-[Download round 2 results](/assets/docs/2025/gph-r2-24-25-results.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
-
-Round 3 of the Great Patrol Hunt was completed over the weekend of 27- 29 June 2025.
-
-[Download round 3 results](/assets/docs/2025/gph-r3-24-25-results.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
+[Download round 3 results](/assets/docs/2026/gph-r3-2025-2026-results.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
 
 Well done to all those who participated in this year's competition and congratulations to the overall winners:
 
-- 1st place - Umpa Lumpas - 3rd Berkhamsted Guides
-- 2nd place - The Malteasers - 2nd Radlett Guides
-- 3rd place - Chiswell Challengers - 1st Chiswell Green Guides
+- 1st place - The Llamacorns - 17th Welwyn Garden City Guides
+- 2nd place - Bubbly Beaver - 1st Great Ashby Guides
+- 3rd place - Tatty Teddies- 1st Hertford Guides
 
-[Download overall positions for GPH 2024/25](/assets/docs/2025/gph-24-25-overall-results.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
+[Download overall positions for GPH 2025/26](/assets/docs/2026/gph-overall-2025-2026-results.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
