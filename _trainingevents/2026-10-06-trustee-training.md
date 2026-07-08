@@ -12,8 +12,9 @@ event:
     image: '/assets/images/2026/06/trustee-training.webp'
     type:
         - Development
-    age-group:
         - Trustees
+    age-group:
+        - Adults
     location:
         - Online
 ---

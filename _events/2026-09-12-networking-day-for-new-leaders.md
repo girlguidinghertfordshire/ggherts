@@ -19,12 +19,14 @@ event:
     location:
         - Hertfordshire
 ---
-Leaders in Hertfordshire county who have completed their leadership development programme (LDP) within the last year are invited to attend the county's first networking day of the kind on Saturday 12 September.
+Leaders in Hertfordshire county who have completed their leadership development programme (LDP) during 2025 or 2026 are invited to attend the county's first networking day of the kind on Saturday 12 September at Christchurch Baptist Church, Tewin Road, Welwyn Garden City, AL8 6HN, from 1pm - 4.30pm. On site parking available.
 
 Join other new leaders and get to meet like minded individuals.
 
 Chat ideas and experiences, ask questions and meet new friends on this social day designed especially for you.
 
-Details about the venue, timings, what the day will look like and how to book, will follow soon.
+On arrival you will have the chance to chat and socialise with other leaders whilst having lunch (should you wish to wait until then to eat and bring your own packed lunch). Tea and coffee will be provided during the afternoon.
 
-Put the date in your diary and join us and get to know other new leaders from across the county.
+Please wear your guiding uniform.
+
+Email guidingdev@girlguidinghertfordshire.org.uk to book your place.

@@ -20,11 +20,6 @@ groups:
         person_intro: Responds to and actions new volunteer enquires received from the online recruitment tool, in a timely manner, where potential volunteers have not found an advertised role matching their requirements.
         email: claireacc@girlguidinghertfordshire.org.uk
         vacancyurl: /get-involved/vacancies/#county-enquiry-coordinator  
-      - order: 1.5
-        job_title: County awards secretary lead volunteer
-        person_intro: Provides administrative assistance to the county awards lead volunteer and helps with organising the annual county awards celebration event.
-        email: awardsec@girlguidinghertfordshire.org.uk
-        vacancyurl: /get-involved/vacancies/#county-awards-secretary-lead-volunteer  
       - order: 6.5
         job_title: County young leader coordinator
         person_intro: Supports Guides, their leaders and commissioners with the Guide ready, set, lead - leadership resource; young leaders with the young leader development programme (YLDP) and young external volunteers, helping them develop their leadership skills.

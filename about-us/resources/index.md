@@ -8,9 +8,9 @@ lastmod: 2022-09-01T19:35:10.039Z
 ## Photograph Consent Forms
 {:#photoconsent}
 
-A Girlguiding Hertfordshire photo consent form should be used when submitting photographs for county publicity and when sending Share articles.
+A Girlguiding Hertfordshire photo consent form should be used when submitting photographs for county publicity.
 
-[Updated GDPR and photo consent guidance](/assets/docs/2023/gdpr-and-photo-guidance.pdf){:target="_blank"}{:rel="noopener"}{:.btn.btn-primary.download-link}
+[Handling photos and videos guidance](https://www.girlguiding.org.uk/information-for-volunteers/policies/managing-information-policy/managing-information-procedure/photos-videos/){:target="_blank"}{:rel="noopener"}{:.btn.btn-primary.download-link}
 
 You can submit consent either via the online forms or use the Word versions (updated June 2023).
 

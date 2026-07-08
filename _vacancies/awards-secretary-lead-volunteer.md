@@ -1,11 +1,11 @@
 ---
 title: County awards secretary lead volunteer
 date: 2025-11-05T21:47:00z
+published: false
 image: /assets/images/2025/11/awards-secretary.webp
 download: "/assets/docs/2026/county-awards-secretary-lead-volunteer-role-description-2026-04.pdf"
 categories: 
     - County team
-    - Promote
 ---
 Would you like to play a vital role in helping us celebrate and recognise the achievements of our members and volunteers?
 

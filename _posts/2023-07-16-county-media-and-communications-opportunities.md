@@ -1,7 +1,7 @@
 ---
 title: County media and communications opportunities
-date: 2023-07-16T09:25:59.251Z
-image: /assets/images/2023/07/mediacomms.webp
+date: 2026-07-08T11:59:00 +01:00
+image: /assets/images/2026/07/county-media-opportunities.webp
 categories:
   - Volunteers
 tags: []
