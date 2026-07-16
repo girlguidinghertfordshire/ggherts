@@ -2,6 +2,7 @@
 title: '1st response course'
 permalink: /training/1st-response-course-31-may-2026/
 date: 2026-02-28T10:05:00Z
+published: false
 event:
     start_date: '2026-05-31'
     end_date: ''

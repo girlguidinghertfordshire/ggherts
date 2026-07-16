@@ -1,6 +1,7 @@
 ---
 title: '16 hour first aid'
 date: 2025-10-06T13:29:00 +01:00
+published: false
 event:
     start_date: '2026-02-07'
     end_date: '2026-02-08'

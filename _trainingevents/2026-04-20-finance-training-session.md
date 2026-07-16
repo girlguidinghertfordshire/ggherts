@@ -1,6 +1,7 @@
 ---
 title: 'Finance training session'
 date: 2026-03-23T12:00:00Z
+published: false
 event:
     start_date: '2026-04-20'
     end_date: ''

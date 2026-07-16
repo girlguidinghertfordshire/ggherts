@@ -2,6 +2,7 @@
 title: 'External first aid course'
 permalink: /training/external-first-aid-course-11-july-2026/
 date: 2026-02-28T10:00:00Z
+published: false
 event:
     start_date: '2026-07-11'
     end_date: ''

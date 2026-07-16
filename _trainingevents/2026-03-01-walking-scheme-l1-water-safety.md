@@ -1,6 +1,7 @@
 ---
 title: 'Walking scheme level 1 and water safety training'
 date: 2025-11-30T08:42:00z
+published: false
 event:
     start_date: '2026-03-01'
     end_date: ''
