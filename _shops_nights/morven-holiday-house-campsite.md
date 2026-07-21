@@ -1,5 +1,5 @@
 ---
-title: Morven Holiday House & Campsite
+title: Morven Holiday Home and Campsite
 date: 2016-05-19 15:23:32.000000000 +01:00
 shop:
   mapaddress: Morven Guide HQ, The Causeway, Potters Bar, Herts, EN6 5HA

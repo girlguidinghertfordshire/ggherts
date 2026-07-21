@@ -1,10 +1,10 @@
 ---
-title: Wymondley Wood Scout & Guide Centre
+title: Wymondley Wood Scout and Guide Centre
 date: 2016-05-19 15:20:46.000000000 +01:00
 shop:
   mapaddress: "Wymondley Wood, Willian Rd, Letchworth Garden City, Hertfordshire SG6 2UB."
   location: |
-    Wymondley Wood Scout & Guide Centre,  
+    Wymondley Wood Scout and Guide Centre,  
     Willian Rd,  
     Letchworth Garden City,  
     Hertfordshire  

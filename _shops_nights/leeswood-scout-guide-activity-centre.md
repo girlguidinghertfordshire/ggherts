@@ -1,10 +1,10 @@
 ---
-title: Lees Wood Scout & Guide Activity Centre
+title: Lees Wood Scout and Guide Activity Centre
 date: 2016-05-19 15:26:48.000000000 +01:00
 shop:
   mapaddress: Lees Wood Scout Centre, Chandler's Cross, United Kingdom
   location: |
-    Lees Wood Scout & Guide Activity Centre,  
+    Lees Wood Scout and Guide Activity Centre,  
     Fir Tree Hill,  
     Chandlers Cross,  
     WD3 4LY

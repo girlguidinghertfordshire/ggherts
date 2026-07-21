@@ -56,10 +56,6 @@ Badges: We are looking into a badge with availability to be confirmed once we ha
 
 ### How to join
 
-Don't miss out on the peak of the season
+**Bookings for this event have now closed.**
 
-[Booking form](/assets/docs/2026/surrey-3-peaks-booking-form-2026.docx){:.btn.btn-primary.external-link}{:target="_blank"}{:rel="noopener"}
-
-Deadline to sign up: Sunday 19 July.
-
-Queries <walking@girlguidinghertfordshire.org.uk>.
+Queries [walking@girlguidinghertfordshire.org.uk](mailto:walking@girlguidinghertfordshire.org.uk).
