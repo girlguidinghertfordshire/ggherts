@@ -127,6 +127,8 @@ what-we-do:
       url: /what-we-do/trefoil/guilds/
     - title: Activities and challenges
       url: /what-we-do/trefoil/activities/
+  - title: Media and communications
+    url: /what-we-do/media-and-communications/
 for-volunteers:
   title: For volunteers
   url: /volunteers/
@@ -185,8 +187,6 @@ for-volunteers:
     items:
     - title: Thanks, awards and recognition
       url: /get-involved/thanks/
-    - title: Share your stories
-      url: /get-involved/share/
 
 events:
   title: Events
