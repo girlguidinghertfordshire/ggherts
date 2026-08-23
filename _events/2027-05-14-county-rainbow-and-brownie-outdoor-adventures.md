@@ -10,7 +10,7 @@ event:
     contact_email: null
     contact_number: ''
     book_now_link: ''
-    image: '/assets/images/2026/07/county-rainbow-and-brownie.webp'
+    image: '/assets/images/2026/08/rainbow-brownie-county-event.webp'
     type:
         - Activity
         - Residential
