@@ -1,6 +1,7 @@
 ---
 title: 'County camp'
 date: 2025-04-03T21:02:00 +01:00
+published: false
 event:
     start_date: '2026-07-26'
     end_date: '2026-07-31'

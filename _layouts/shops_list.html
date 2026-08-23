@@ -19,11 +19,11 @@ layout: default-v5
         {% endif %}
         {% endfor %}
         {% assign isAllowedVenue = true %}
-        {% unless page.venue_whitelist == empty or page.venue_whitelist == '' %}
+        {% if page.venue_whitelist and page.venue_whitelist != empty %}
         {% unless page.venue_whitelist contains s.title %}
         {% assign isAllowedVenue = false %}
         {% endunless %}
-        {% endunless %}
+        {% endif %}
         {% if showShop and isAllowedVenue %}
         {% unless s.shop.division == 'Other' %}
         {% assign firstType = s.shop.type | first %}
@@ -80,11 +80,11 @@ layout: default-v5
                 <div class="row shop_rows row-cols-md-2 row-cols-xxl-3 g-2 filter-list" data-type="sites">
                     {% for shop in shops %}
                     {% assign isAllowedVenue = true %}
-                    {% unless page.venue_whitelist == empty or page.venue_whitelist == '' %}
+                    {% if page.venue_whitelist and page.venue_whitelist != empty %}
                     {% unless page.venue_whitelist contains shop.title %}
                     {% assign isAllowedVenue = false %}
                     {% endunless %}
-                    {% endunless %}
+                    {% endif %}
                     {% if isAllowedVenue %}
                     {% capture preview %}<div>{{ shop.shop.type | join: ' & '}}: <br /><span>{{ shop.shop.location |
                             strip_newlines }}<br /></span>{% if shop.shop.contact_email %}<a
@@ -139,11 +139,11 @@ layout: default-v5
                     {% endif %}
                     {% endfor %}
                     {% assign isAllowedVenue = true %}
-                    {% unless page.venue_whitelist == empty or page.venue_whitelist == '' %}
+                    {% if page.venue_whitelist and page.venue_whitelist != empty %}
                     {% unless page.venue_whitelist contains shop.title %}
                     {% assign isAllowedVenue = false %}
                     {% endunless %}
-                    {% endunless %}
+                    {% endif %}
                     {% if showShop and isAllowedVenue %}
                     {% for t in shop.shop.type %}
                     {% unless all_types contains t %}
