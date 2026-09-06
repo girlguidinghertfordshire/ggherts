@@ -19,9 +19,11 @@ event:
         - Inspire
     location:
         - 'Hertfordshire'
+        - 'Harpenden'
+        - 'Redbourn'
 ---
 Save the date!
 
-We're excited to announce that plans are underway for next year's county network and development day, which will take place on Saturday 17 April 2027.
+We're excited to announce that plans are underway for next year's county network and development day, which will take place on Saturday 17 April 2027 from 9.15/9.30am - 4pm at Katherine Warrington School, Lower Luton Road, Harpenden, AL5 5FH.
 
 Add the date to your diary and keep an eye out for more details including venue, sessions and timings, which will follow later in the year.

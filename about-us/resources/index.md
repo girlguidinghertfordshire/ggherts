@@ -12,17 +12,19 @@ A Girlguiding Hertfordshire photo consent form should be used when submitting ph
 
 [Handling photos and videos guidance](https://www.girlguiding.org.uk/information-for-volunteers/policies/managing-information-policy/managing-information-procedure/photos-videos/){:target="_blank"}{:rel="noopener"}{:.btn.btn-primary.download-link}
 
-### Individual consent
+You can submit consent either via the online forms or use the Word versions (updated June 2023).
+
+### Individual Consent
 
 This form should be completed by adults submitting their own consent or by parents/carers/guardians for those aged under 14.
 
-[<span class="sr-only">Individual consent </span>Online Form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwZf5T0i4octErRCYrHkhHVhUNEtGRkdCNTAzSDlJV1ZJNTZLUU9ES1EwQy4u){:target="_blank"}{:rel="noopener"}{:.btn.btn-primary.external-link}
+[<span class="sr-only">Individual Consent </span>Online Form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwZf5T0i4octErRCYrHkhHVhUNEtGRkdCNTAzSDlJV1ZJNTZLUU9ES1EwQy4u){:target="_blank"}{:rel="noopener"}{:.btn.btn-primary.external-link} [<span class="sr-only">Individual Consent </span>Word form](/assets/docs/2023/individual-photo-permission-form-2023-06v2.docx){:target="_blank"}{:rel="noopener"}{:.btn.btn-primary.word-link}
 
-### Group consents
+### Group Consent
 
 Where photos feature groups of girls, this form should be completed by leaders confirming all girls featured have already provided their full photo consent.
 
-[<span class="sr-only">Group consent </span>Online Form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwZf5T0i4octErRCYrHkhHVhUQU5SMVhVSURFVko3UjlFQ1ZSV0dQQUFRRy4u){:target="_blank"}{:rel="noopener"}{:.btn.btn-primary.external-link}
+[<span class="sr-only">Group Consent </span>Online Form](https://forms.office.com/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwZf5T0i4octErRCYrHkhHVhUQU5SMVhVSURFVko3UjlFQ1ZSV0dQQUFRRy4u){:target="_blank"}{:rel="noopener"}{:.btn.btn-primary.external-link} [<span class="sr-only">Group Consent </span>Word form](/assets/docs/2023/group-photo-permission-form-2023-06.docx){:target="_blank"}{:rel="noopener"}{:.btn.btn-primary.word-link}
 
 ## Grant applications
 
@@ -30,7 +32,7 @@ Where photos feature groups of girls, this form should be completed by leaders c
 
 These forms can only be used to apply for grants towards international trips organised by Hertfordshire county. Where Anglia region is the parent trip organiser you must apply directly to region for a grant. In both instances you can also apply to your division and district for a grant.
 
-[Girls international grant application form](/assets/docs/2026/international-grant-application-girls-june-2026.docx){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [Leaders international grant application form](/assets/docs/2026/international-grant-application-leaders-june-2026.docx){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"}
+[Girls international grant application form](/assets/docs/2026/international-grant-application-girls-june-2026.docx){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [Leaders international grant application form](/assets/docs/2026/international-grant-application-leaders-june-2026.docx){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} 
 
 ### Member grants
 

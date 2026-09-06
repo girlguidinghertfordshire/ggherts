@@ -9,7 +9,7 @@ event:
     contact_email: ''
     contact_number: ''
     book_now_link: ''
-    image: '/assets/images/2026/06/chalk-stream.webp'
+    image: '/assets/images/2026/09/chalk-stream.webp'
     type:
         - Activity
         - social
