@@ -2,6 +2,12 @@
 title: Paula Moon
 date: 2024-06-20T19:21:00 +01:00
 groups:
+  - group: divcomm
+    roles:
+      - order: 2
+        job_title: East division commissioner
+        person_intro: Covering Bishop's Stortford, Buntingford, Hertford, Sawbridgeworth and High Wych and Ware.
+        email: eastdivision@girlguidinghertfordshire.org.uk
   - group: promote-grow
     roles:
       - order: 8

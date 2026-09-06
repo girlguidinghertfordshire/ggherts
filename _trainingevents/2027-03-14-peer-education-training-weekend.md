@@ -2,14 +2,14 @@
 title: 'Peer education training weekend'
 date: 2026-05-31T08:39:00 +01:00
 event:
-    start_date: '2027-03-12'
-    end_date: '2027-03-14'
+    start_date: '2027-09-24'
+    end_date: '2027-09-26'
     address: Hertfordshire Guide Centre, Cottered
     contact_name: null
     contact_email: null
     contact_number: ''
     book_now_link: ''
-    image: '/assets/images/2026/06/peer-education.webp'
+    image: '/assets/images/2026/09/peer-ed1.webp'
     type:
         - Development
     age-group:
@@ -22,7 +22,7 @@ event:
     location:
         - 'Hertfordshire, East'
 ---
-**This peer education training weekend, advertised as taking place from Friday 12 - Sunday 14 March 2027, has been postponed. New dates will be advertised once finalised.**
+This peer education training weekend, originally advertised as March 2027, will now take place from **Friday 24 - Sunday 26 September 2027** at Hertfordshire Guide Centre in Cottered.
 
 Open to any member of Girlguiding aged 14 - 25 years of age wanting to become a peer educator for Hertfordshire county.
 

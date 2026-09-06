@@ -9,7 +9,7 @@ event:
     contact_email: null
     contact_number: ''
     book_now_link: 'https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwZj-g9JL5lpMiAybQMCV5zxURUdKVTU1OFhEMEIwNTlINlBPNFBMOE9ZMS4u'
-    image: '/assets/images/2026/06/trustee-training.webp'
+    image: '/assets/images/2026/09/trustee-training.webp'
     type:
         - Development
         - Trustees
@@ -19,6 +19,8 @@ event:
         - Online
 ---
 If you hold a trustee position within Girlguiding Hertfordshire e.g. for a division, district or guiding property, why not join our online trustee training session on **Tuesday 6 October** starting at 8pm (1.5 hours duration max).
+
+Anyone holding a trustee position within Girlguiding is required to undertaking trustee training.
 
 The session, run by Laura Kennard an Anglia region trustee and Girlguiding trainer, will help enhance your knowledge, and increase your confidence and skills, to become an effective charity trustee.
 
