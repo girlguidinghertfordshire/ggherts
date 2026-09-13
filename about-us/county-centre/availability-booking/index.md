@@ -15,7 +15,7 @@ Please use the calendar to check availability for both the holiday home and camp
 
 Current prices and booking terms and conditions can be viewed here:
 
-[Prices](/assets/docs/2025/hertfordshire-guide-centre-2026-fees.pdf){:.external-link.btn.btn-primary.download-link}{:target="_blank"}{:rel="noopener"}
+[2026 prices](/assets/docs/2025/hertfordshire-guide-centre-2026-fees.pdf){:.external-link.btn.btn-primary.download-link}{:target="_blank"}{:rel="noopener"} [2027 prices](/assets/docs/2026/hertfordshire-guide-centre-2027-fees.pdf){:.external-link.btn.btn-primary.download-link}{:target="_blank"}{:rel="noopener"}
 
 If you have any questions, please email <hgcbookings@girlguidinghertfordshire.org.uk>.
 
