@@ -18,12 +18,9 @@ Whether for unit meetings, camps, sleepovers, or celebrations, our circus worksh
 
 ## Flexible Options
 
-- £180 for a 1–2 hour session (1 group).
-- £280 for a 2–3 hour session (2 groups).
-- £360 for a 3–5 hour session (3 groups).
-- £380 for a full-day workshop (10 AM–4 PM Weekend)
+Fun for all ages: activities tailored to the needs of Rainbows, Brownies, Guides and Rangers.
 
-Fun for all ages: activities tailored to the needs of Rainbows, Brownies, and Guides.
+Prices can be found here: [Shooting Stars Circus Skills](https://www.shootingstarscircus.co.uk/guiding/rainbows){:target="_blank"}{:rel="noopener"}
 
 ## What’s Included
 

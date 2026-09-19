@@ -9,7 +9,7 @@ event:
     contact_email: null
     contact_number: ''
     book_now_link: ''
-    image: '/assets/images/2026/05/network-dev-day.webp'
+    image: '/assets/images/2026/09/county-network-day.webp'
     type:
         - Development
     age-group:

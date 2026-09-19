@@ -4,7 +4,7 @@ date: 2026-06-20T10:49:00 +01:00
 event:
     start_date: '2026-11-14'
     end_date: ''
-    address: 'Christchurch Baptist Church, Tewin Road, Welwyn Garden City'
+    address: 'Christchurch Baptist Church, Tewin Road, Welwyn Garden City, AL7 1BW'
     contact_name: null
     contact_email: 'guidingdev@girlguidinghertfordshire.org.uk'
     contact_number: ''
@@ -22,7 +22,7 @@ Leaders in training (LiTs) within Hertfordshire county working on their leader d
 
 Taking place at the Christchurch Baptist Church, Tewin Road, Welwyn Garden City (there is plenty of parking on site).
 
-Running from 12pm - 4.30pm the afternoon starts with the opportunity to network and socialise whilst you have lunch (please bring your own packed lunch with you).
+Running from 1pm (previously advertised as 12pm start) - 4.30pm the afternoon starts with the opportunity to network and socialise whilst you have lunch (please bring your own packed lunch with you).
 
 Tea and coffee will be provided and guiding uniform to be worn.
 

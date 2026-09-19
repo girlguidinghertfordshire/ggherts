@@ -21,5 +21,5 @@ shop:
 <p>Accomodation in 5 dormitories sleeping 6-8 and furnished with bunk beds with storage facilities beneath. Two en-suit Leaders' dormitories each sleeping four.</p>
 <p>2 unit and 1 patrol camp site area - 4 acres in total</p>
 <p>Wet weather shelter, male and female ablution block and an outside washing up facility with hot and cold water. Fire wood on site. Access to an adjacent 20-acre conservation area with mature woods, stream, pond and grassland.</p>
-<p>To visit the website please <a href="http://wymondleywood-scoutandguide-centre.org.uk/">click here</a></p>
+<p>To visit the website please <a href="https://www.wymondleywood-scoutandguide-centre.com/" target="_blank" rel="noopener">click here</a></p>
 <p>Bookings to: Maureen Kell:  <a href="mailto:wymondleywood@hotmail.com">wymondleywood@hotmail.com</a></p>

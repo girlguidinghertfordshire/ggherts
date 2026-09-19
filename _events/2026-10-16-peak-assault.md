@@ -40,12 +40,10 @@ Please get in touch with the county walking team on <walking@girlguidinghertford
 More information about this exciting event, including the link to the booking portal, can be found on the Peak Assault website:
 <https://www.14-25.hertfordshirescouts.org.uk/peak-assault-2026>{:.external-link}{:target="_blank"}{:rel="noopener"}
 
-**Bookings close Saturday 19 September**.
+**Bookings and staff registration for this event are now closed.**
 
 2026 General Information Pack can be viewed here:
 <https://7835a632-6d46-4fe2-bce9-702cec36dccf.filesusr.com/ugd/f56d10_35cfdd643a214728a1e54761f90bfe39.pdf>{:.external-link}{:target="_blank"}{:rel="noopener"}
 
 Adult helpers (staff) are also required and information can be found here:
 <https://www.14-25.hertfordshirescouts.org.uk/peak-assault-staff>{:.external-link}{:target="_blank"}{:rel="noopener"}
-
-Staff registration closes Saturday 5 September.

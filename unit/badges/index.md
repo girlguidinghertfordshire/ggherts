@@ -112,19 +112,6 @@ Badges are £1 each plus postage and packaging.
 
 Order your badges by emailing: <stalbansnorthdistrict@girlguidinghertfordshire.org.uk>
 
-### Dark in the light challenge badge
-
-![Dark in the light badge](/assets/images/2025/08/dark-in-the-light.webp){:.ms-3.mb-3.float-end}
-Have fun exploring dark in the light, light in the dark or generally light and dark, to earn this lovely badge with all profits going towards the costs of ongoing refurbishments at [Gaddesden Row Guide Centre](https://www.gaddesdenrowguidecentre.org.uk/){:.external-link}{:rel="noopener"}{:target="_blank"} (in West division), specifically to help raise funds for new blinds and beds.
-
-With so many activities to choose from there is something suitable for each section (Rainbows, Brownies, Guides and Rangers). Whether you fancy making kaleidoscopes, dream catchers or creating a shadow puppet show. Why not have a glowstick dance! You can brighten your day, or night, as either a unit or at home.
-
-Badges cost £1.20 each (plus postage or free collection from Hemel Hempstead).
-
-Download the challenge pack to find out more about the requirements and activities.
-
-[Download <span class="visually-hidden">Dark in the light</span> challenge pack](https://www.gaddesdenrowguidecentre.org.uk/shop/p/dark-in-the-light-challenge-patch){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
-
 ## Unit badges
 
 ### The Great Pizza Challenge badge
