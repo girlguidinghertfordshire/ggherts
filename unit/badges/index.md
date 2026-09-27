@@ -157,6 +157,20 @@ Download the challenge badge pack to find out more about the activities.
 
 ## International badges {#international-badges}
 
+### India 2027 challenge badge
+
+![India 2027 challenge badge](/assets/images/2026/09/india-27-challenge-badge.webp){:.ms-3.mb-3.float-end}
+
+This cheeky, fun, Anglia region badge is brought to you by 12 girls who have been selected to go on a region international trip to India next year. During their time in India, as well as learning about a new culture, the group will be take part in animal conservation and get to stay at SANGAM, 1 of the WAGGGS World Centres.
+
+The challenge pack has activities suitable for Rainbows, Brownies, Guides, Rangers and adults. Simply complete 1 activity (or more if you like) from each of the 4 sections.
+
+Learn about Indian food, culture, community, wildlife and nature and earn your badge whilst supporting the young members from Hertfordshire county with their fundraising for the trip.
+
+Badges cost £1.50 each (plus postage) and can be ordered by email using the 'Order badges' button below.
+
+[Download challenge pack](/assets/docs/2026/india-2027-challenge-pack.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [Order badges](mailto:calliebrady-eldridge@outlook.com){:.btn.btn-primary}
+
 ### Croatia 2026 challenge badge
 
 ![Croatia 2026 challenge badge](/assets/images/2026/03/croatia-2026.webp){:.ms-3.mb-3.float-end}
@@ -184,26 +198,6 @@ By learning about Girlguiding in Canada, Canadian games and either making a mapl
 Badges cost £1.20 each (plus postage). Order form can be found at the end of the challenge pack.
 
 [Download challenge pack](/assets/docs/2026/canada-challenge-pack.pdf){:.btn.btn-primary.download-link} [Contact the badge organiser](mailto:rebeccacabrams@yahoo.co.uk){:.btn.btn-primary}
-
-### Sangam 2025 challenge badge
-
-![Badge for Sangam 2025 challenge](/assets/images/2025/03/sangam-2025-challenge-badge.webp){:.ms-3.mb-3.float-end}
-
-This vibrant and exciting country challenge badge was created by the young members from Hertfordshire who went on an adventure of a lifetime this summer to Sangam in India, where they completed a Brave Space II project centred around leadership and community action.
-
-As well as amazing cultural events and traditional experiences, the group visited Dehli, Agra, an elephant conservation and rescue centre.
-
-This challenge badge has 4 main sections: People and friendship, Environment and exploration, Festivals and culture and Cuisine, all with activities suitable for each section; plus a puzzle and resources.
-
-Use the challenge to plan a friendship event, celebrate Diwali, experience different cultures or even host a fully immersive residential.
-
-Options included for all sections.
-
-**Limited stock remains. Badges have now been reduced to £1.00 each plus postage and can be ordered either by post using the order form at the end of the challenge pack or via the online form below. Get yours before they are gone!**
-
-Download the challenge badge pack to find out more about the requirements and activities.
-
-[Download <span class="visually-hidden">Sangam </span>challenge pack](/assets/docs/2026/sangam-challenge-badge-pack-march-2026.pdf){:.btn.btn-primary.download-link}{:rel="noopener"}{:target="_blank"} [<span class="visually-hidden">Sangam 2025 </span>Badge order form](https://forms.office.com/e/Rc6QcS4NLi){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
 
 ## Joint Guiding and Scout badges
 
