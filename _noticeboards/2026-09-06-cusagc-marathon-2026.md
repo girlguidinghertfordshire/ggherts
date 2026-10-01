@@ -18,6 +18,12 @@ There are 3 trophies available to be won for the highest scoring teams: 1 for un
 
 The Marathon Challenge is suitable for all levels of ability. Due to the distance covered, time needed to complete challenges at manned checkpoints, and the fact that some navigation may be in the dark, only the very best teams will manage to visit all 26 checkpoints.
 
+Entry fee: £14 per person (includes hot drinks at the manned bases and a hot meal at the end of the day, as well as a badge for your camp blanket). You will need to bring your own lunch.
+
+Entry forms and payment (cheque) must be returned by Sunday 25 October. Entries are first come, first served and places are limited. Confirmation and final details will be sent out shortly after entries close.
+
+Health and consent forms must be completed and returned for all team members by Friday 6 November.
+
 Any leaders, not participating, who would like to help run the event on the day, please contact <marathon@cusagc.org.uk>.
 
-Further details will be released shortly on the [CUSAGC Marathon website](https://cusagc.soc.srcf.net/marathon/#:~:text=Marathon%202024%20will%20take%20place%20on%20Saturday%20the%2016th%20of%20November){:.external-link}{:rel="noopener"}{:target="_blank"}
+[Entry form](https://docs.google.com/forms/d/e/1FAIpQLSd7n_x9sTuqUz7-fZh_e9Db-JM_-0_UfLPnJzZuULL8XCrTFw/viewform){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"} [Information pack](/assets/docs/2026/cusag-marathon-entry-pack-2026.pdf){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"} [Health and consent form](https://docs.google.com/forms/d/e/1FAIpQLSeKPFObwnTNoqFuP_nYGmENVp27zOx3fgtHbPBE0iONHzW9Yg/viewform){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
