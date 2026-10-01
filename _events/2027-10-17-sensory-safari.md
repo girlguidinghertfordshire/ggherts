@@ -1,7 +1,7 @@
 ---
 title: 'Sensory Safari'
 date: 2026-06-20T00:00:00Z
-published: true
+published: false
 event:
     start_date: '2027-10-17'
     end_date: ''

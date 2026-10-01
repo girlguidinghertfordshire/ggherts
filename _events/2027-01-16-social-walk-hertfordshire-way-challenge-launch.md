@@ -4,7 +4,7 @@ date: 2026-06-20T09:00:00 +01:00
 event:
     start_date: '2027-01-16'
     end_date: ''
-    address: 'Royston'
+    address: ''
     contact_name: null
     contact_email: 'walking@girlguidinghertfordshire.org.uk'
     contact_number: ''
@@ -21,13 +21,12 @@ event:
         - Inspire
     location:
         - Hertfordshire
-        - 'Hertfordshire, North'
 ---
 Are you ready to explore the beauty of our county on foot?
 
-Kick off your New Year’s resolutions and join us for our inaugural social walk on **Saturday 16 January** in Royston.
+Kick off your New Year’s resolutions and join us for our inaugural social walk on **Saturday 16 January**, location tbc.
 
-It’s a great chance to chat about the walking team's Hertfordshire Way challenge, launching in 2027, and enjoy the fresh air.
+It’s a great chance to chat about the walking team’s "Together we have walked the Hertfordshire Way" challenge, launching in 2027, and enjoy the fresh air.
 
 This adult social walk is a perfect chance to get everyone moving and feeling inspired to take part in the challenge with their unit. Build confidence outdoors and then take your young members out and about on a Hertfordshire Way walking route* near you.
 
