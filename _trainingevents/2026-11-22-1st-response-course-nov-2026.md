@@ -18,6 +18,7 @@ event:
         - Young leaders
         - Inspire
         - Leaders
+        - Leader in training
         - Adults
         - Trefoil
     location:

@@ -1,7 +1,7 @@
 ---
 title: 'Tree planting sessions'
 date: 2026-01-08T21:25:00z
-published: true
+published: false
 image: /assets/images/2026/01/wilds-farm.webp
 categories:
     - Things to do

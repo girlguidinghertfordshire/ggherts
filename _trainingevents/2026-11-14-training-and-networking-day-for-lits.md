@@ -26,6 +26,6 @@ Running from 1pm (previously advertised as 12pm start) - 4.30pm the afternoon st
 
 Tea and coffee will be provided and guiding uniform to be worn.
 
-Details about the content of the day will be announced in due course.
+This training day is for all leaders in training, no matter what stage they are at, and is a chance to meet new people, exchange thoughts and ideas whilst working on the leader development programme (LDP).
 
 Email <guidingdev@girlguidinghertfordshire.org.uk> to book your place.

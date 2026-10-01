@@ -25,7 +25,7 @@ It began in 1968, Hertfordshire Scout Patrols competed annually in various ways,
 
 ### 2026/27
 
-- Round 1: [Saturday 17 October 2026 \| St Albans - bookings now open](/event/gph-2627-r1/)
+- Round 1: [Saturday 17 October 2026 \| St Albans - bookings closed](/event/gph-2627-r1/)
 - Round 2: [Saturday 13 March 2027 - venue tbc](/event/gph-2627-r2/)
 - Round 3: [Friday 25 - Sunday 27 June 2027 - venue tbc](/event/gph-2627-r3/)
 

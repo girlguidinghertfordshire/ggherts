@@ -19,10 +19,13 @@ event:
         - Rangers
         - Young leaders
         - Leaders
+        - Adults
+        - Inspire
+        - Trefoil
     location:
         - 'Hertfordshire'
 ---
-Calling all adventurers! Master the map, dust off your compass, and join this afternoon of navigation training for Guides, Rangers, and leaders.
+Calling all adventurers! Master the map, dust off your compass, and join this afternoon of navigation training for Guides, Rangers, young leaders and adults.
 
 Whether you're working towards your next badge, leading a unit expedition, or just want to stop relying on your phone's GPS, this afternoon is for you.
 
@@ -34,7 +37,7 @@ Join the Herts walking team for a practical, hands-on session designed to get yo
 
 **When:** Sunday 14 March 2027  
 **Time:** afternoon (specific timings to be confirmed)  
-**Who:** open to all Guides, Rangers, young leaders, and leaders across Hertfordshire.  
+**Who:** open to all Guides, Rangers, young leaders and adults across Hertfordshire.  
 **Where:** location reveal coming soon  
 **Requirements:** Participants will need to meet required safer guiding and first aid requirements. The walking team can advise on these.
 
