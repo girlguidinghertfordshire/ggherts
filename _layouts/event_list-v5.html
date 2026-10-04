@@ -52,7 +52,12 @@ layout: default-v5
                     <h1>{{ page.title }}</h1>
                     <div class="filter-list pb-4" data-type="events">
                         <div class="row row-cols-1 row-cols-md-2 row-cols-xxl-3 g-4">
+                            {% assign pinned = events | where: "event.pinned", true %}
+                            {% for event in pinned %}
+                            {% include event-card-v5.html event=event %}
+                            {% endfor %}
                             {% for event in events %}
+                            {% if event.event.pinned %}{% continue %}{% endif %}
                             {% assign startDate = event.event.start_date | date: '%s' | plus: 0 %}
                             {% assign endDate = event.event.end_date | date: '%s' | plus: 0 %}
                             {% if endDate>0 and endDate>= today %}
@@ -63,37 +68,7 @@ layout: default-v5
                             {% assign showEvent=false %}
                             {% endif %}
                             {% if showEvent %}
-                            <div class="col" data-type="|{{ event.event.type | join: '|'}}|"
-                                data-age-group="|{{ event.event.age-group | join: '|'}}|"
-                                data-location="|{{ event.event.location | join: '|'}}|">
-                                <div class="card gg-event-card h-100">
-                                        <img src="{{ event.event.image }}" class="card-img-top" alt="">
-                                    <div class="card-body">
-                                        <div class="card-text">
-                                            {% for type in event.event.type %}
-                                            {% unless type == "Training" %}
-                                            {% include eventtypes.html type=type %}
-                                            {% endunless %}
-                                            {% endfor %}
-                                        </div>
-                                        <h2 class="card-title">{{ event.title }}</h2>
-                                        <time class="card-text">{{ event.event.start_date | date: "%d %b %Y" }}
-                                            {% if event.event.end_date != '' and event.event.start_date !=
-                                            event.event.end_date %}
-                                            - {{ event.event.end_date | date: "%d %b %Y" }}
-                                            {% endif %}</time>
-                                        <div class="card-text">
-                                            <p>{{ event.event.location | join: ', ' }}</p>
-                                        </div>
-                                    </div>
-                                    <div class="card-footer bg-white text-end border-top-0">
-                                        <a href="{{ event.url }}" class="btn btn-primary stretched-link"><span>More
-                                                details</span><span class="sr-only">: {{ event.title
-                                                }}</span></a>
-                                    </div>
-                                </div>
-
-                            </div>
+                            {% include event-card-v5.html event=event %}
                             {% endif %}
                             {% endfor %}
                             {% if page.type == "training" %}
@@ -221,7 +196,7 @@ layout: default-v5
                     {% for event in eventlist %}
 
                     {% assign startDate = event.event.start_date | date: '%s' | plus: 0 %}
-                    {% if startDate> today %}
+                    {% if startDate> today or event.event.pinned %}
                     {% for t in event.event.type %}
                     {% if all_types contains t %}
                     {% else %}
@@ -263,7 +238,7 @@ layout: default-v5
                             <div class="col">
                                 <h5>Section</h5>
                                 {% assign sections = "Rainbows,Brownies,Guides,Rangers,
-                                ,Young leaders,Inspire,Adults,Leaders,Leader in training,Trefoil" | split:"," %}
+                                ,Young leaders,Inspire,Adults,Leaders,Leader in training,Trefoil,External organisations" | split:"," %}
                                 <ul class="division age">
                                     {% for section in sections %}
                                     {% assign section = section | strip %}

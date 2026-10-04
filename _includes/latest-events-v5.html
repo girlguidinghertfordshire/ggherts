@@ -10,7 +10,7 @@
             {% break %}
             {% endif %}
             {% assign startDate = event.event.start_date | date: '%s' | plus: 0 %}
-            {% if startDate> today %}
+            {% if startDate> today and event.event.pinned != true %}
             {% assign count = count | plus:1 %}
             <a href="{{ event.url }}">
                 <div class="event-block h-100">

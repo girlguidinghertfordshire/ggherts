@@ -1,0 +1,36 @@
+{% assign event = include.event %}
+<div class="col" data-type="|{{ event.event.type | join: '|'}}|"
+    data-age-group="|{{ event.event.age-group | join: '|'}}|"
+    data-location="|{{ event.event.location | join: '|'}}|">
+    <div class="card gg-event-card h-100">
+            <img src="{{ event.event.image }}" class="card-img-top" alt="">
+        <div class="card-body">
+            <div class="card-text">
+                {% for type in event.event.type %}
+                {% unless type == "Training" %}
+                {% include eventtypes.html type=type %}
+                {% endunless %}
+                {% endfor %}
+            </div>
+            <h2 class="card-title">{{ event.title }}</h2>
+            {% if event.event.date_text and event.event.date_text != '' %}
+            <p class="card-text">{{ event.event.date_text }}</p>
+            {% else %}
+            <time class="card-text">{{ event.event.start_date | date: "%d %b %Y" }}
+                {% if event.event.end_date != '' and event.event.start_date !=
+                event.event.end_date %}
+                - {{ event.event.end_date | date: "%d %b %Y" }}
+                {% endif %}</time>
+            {% endif %}
+            <div class="card-text">
+                <p>{{ event.event.location | join: ', ' }}</p>
+            </div>
+        </div>
+        <div class="card-footer bg-white text-end border-top-0">
+            <a href="{{ event.url }}" class="btn btn-primary stretched-link"><span>More
+                    details</span><span class="sr-only">: {{ event.title
+                    }}</span></a>
+        </div>
+    </div>
+
+</div>

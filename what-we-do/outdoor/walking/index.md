@@ -30,16 +30,12 @@ If you wish to help your Guides undertake their Geocaching interest badge, or ju
 
 ## Newsletter
 
+![Walking team newsletter](/assets/images/2026/10/walking-newsletter.webp){:.float-end.ms-3.mb-3}
 See what the walking team have been up to recently, and what they have planned for the future:
 
-[March 2025 newsletter](/assets/docs/2025/2025-03-walking-team-newsletter-v2.pdf){:.btn.btn-primary.download-link}
+[Autumn 2026 newsletter](/assets/docs/2026/walking-team-newsletter-2026-autumn.pdf){:.btn.btn-primary.download-link}
 
-### Previous editions
-
-- [Spring 2024 newsletter](/assets/docs/2024/2024-05-walking-newsletter.pdf){:.download-link}
-- [October 2023 newsletter](/assets/docs/2023/2023-10-walking-newsletter.pdf){:.download-link}
-- [June 2023 newsletter](/assets/docs/2023/2023-06-walking-newsletter.pdf){:.download-link}
-
+{:.clearfix}
 ## Contact the walking team
 
 You can also contact the walking team for some friendly advice via :
