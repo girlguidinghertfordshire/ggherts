@@ -1,7 +1,7 @@
 ---
 title: Golf sessions
 date: 2026-10-01T21:22:00 +01:00
-image: /assets/images/2024/06/golf.webp
+image: /assets/images/2026/10/golf.webp
 categories:
   - Things to do
 author:

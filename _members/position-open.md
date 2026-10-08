@@ -32,6 +32,10 @@ groups:
         person_intro: Advises and supports Ranger unit leaders within the county and encourages the transition from Guides to Rangers.
         email: rangers@girlguidinghertfordshire.org.uk
         vacancyurl: /get-involved/vacancies/#county-ranger-lead-volunteer
+      - order: 12
+        job_title: County walking lead volunteer
+        person_intro: Leads the walking team, promoting all forms of walking activities from geocaching to mountaineering. Supports members undertaking walking scheme training and advises on social walking events.
+        email: walking@girlguidinghertfordshire.org.uk
   - group: membership-support
     roles:
       - order: 4

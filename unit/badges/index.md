@@ -13,6 +13,17 @@ If you have a Hertfordshire county, division, district or unit badge that you wo
 
 ## County badges
 
+### Wellbeing challenge badge
+
+![Wellbeing challenge badge](/assets/images/2026/10/wellbeing-challenge-badge.webp){:.ms-3.mb-3.float-end}
+**Coming soon!**
+
+Girlguiding Hertfordshire are excited to announce a unique partnership with Hertfordshire Mind, working together to help support our adult and young members.
+
+Watch this space to find out how you can become a proud owner of this new badge, whilst learning about mental health awareness and support.
+
+<div class="clearfix"></div>
+
 ### The lands at the top challenge badge
 
 ![The lands at the top challenge badge](/assets/images/2026/05/lands-at-the-top-challenge.webp){:.ms-3.mb-3.float-end}

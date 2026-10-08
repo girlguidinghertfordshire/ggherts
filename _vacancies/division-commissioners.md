@@ -1,18 +1,17 @@
 ---
-title: Harpenden and Redbourn, North, South East and West division commissioners
+title: Harpenden and Redbourn, North and South East division commissioners
 date: 2024-01-04T20:28:00Z
 image: /assets/images/2023/05/division-commissioners.webp
-download: /assets/docs/2026/division-commissioner-role-description4.pdf
+download: /assets/docs/2026/division-commissioner-role-description-october-2026.pdf
 categories: 
     - Divisions
 tags: []
 ---
-There are presently 4 fantastic opportunities to influence and create real change in the county, as we seek new division commissioners in the following areas:
+There are presently 3 fantastic opportunities to influence and create real change in the county, as we seek new division commissioners in the following areas:
 
 - **Harpenden and Redbourn** - covering Harpenden Central, Harpenden Southdown and Redbourn.
 - **North division**  - covering Baldock, Hitchin, Letchworth, Royston and Stotfold.
 - **South East division** - covering Broxbourne, Cheshunt and Waltham Cross, Cuffley and Goffs Oak and Hoddesdon
-- **West division** - covering Berkhamsted, Hemel Hempstead North East, Hemel Hempstead North West, Hemel Hempstead South, Kings Langley and Tring
 
 Make a positive difference to others and improve opportunities for girls and young women.
 
