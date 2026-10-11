@@ -15,7 +15,8 @@ description: Billboard is a monthly e-newsletter sent to all Girlguiding Hertfor
 
 ### 2026
 
-- [September 2026 Billboard](https://mailchi.mp/2f282e449fb7/sep-2026-billboard-13910545){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
+- [October 2026](https://mailchi.mp/b56481784977/oct-2026-billboard-13911458){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
+- [September 2026](https://mailchi.mp/2f282e449fb7/sep-2026-billboard-13910545){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - August 2026 - No edition
 - [July 2026](https://mailchi.mp/207bc8b38e43/july-2026-billboard-13909997){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
 - [June 2026](https://mailchi.mp/868d4b98576a/june-2026-billboard-13909474){:.external-link}{:target="_blank"}{:rel="noreferrer noopener"}
