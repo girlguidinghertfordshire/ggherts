@@ -43,9 +43,25 @@ description: Billboard is a monthly e-newsletter sent to all Girlguiding Hertfor
 
 ## Deadline dates for submission
 
-- October: 30 September
-- November: 23 October
-- December: 30 November
+### 2026
+
+- November's issue: 23 October
+- December's issue: 30 November
+
+### 2027
+
+- January's issue: 18 December
+- February's issue: 27 January
+- March's issue: 24 February
+- April's issue: 24 March
+- May's issue: 28 April
+- June's issue: 26 May
+- July's issue: 30 June
+- No edition in August
+- September's issue: 25 August
+- October's issue: 29 September
+- November's issue: 27 October
+- December's issue: 30 November
 
 ## Make a submission
 
