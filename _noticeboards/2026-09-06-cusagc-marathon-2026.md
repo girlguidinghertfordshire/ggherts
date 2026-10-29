@@ -1,6 +1,7 @@
 ---
 title: 'CUSAGC Marathon 2026'
 date: 2026-09-06T00:00:00 +01:00
+published: false
 image: /assets/images/2026/09/cusagc-2026.webp
 categories:
     - Things to do

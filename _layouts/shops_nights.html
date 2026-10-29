@@ -87,6 +87,9 @@ layout: page-v5
         <div><a href="callto:{{ page.shop.contact_number }}"><i class="fa fa-phone" aria-hidden="true"></i> {{
             page.shop.contact_number }}</a></div>
         {% endif %}
+        {% if page.shop.booking_url %}
+        <div><a href="{{ page.shop.booking_url }}" target="_blank" rel="noopener"><i class="fa fa-calendar" aria-hidden="true"></i> Online booking enquiry form</a></div>
+        {% endif %}
     </div>
     <div class="map-comments">
         <h2>Notes</h2>
