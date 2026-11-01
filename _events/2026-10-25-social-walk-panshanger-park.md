@@ -1,6 +1,7 @@
 ---
 title: 'Social walk in Panshanger Park'
 date: 2026-10-01T09:00:00 +01:00
+published: false
 event:
     start_date: '2026-10-25'
     end_date: ''

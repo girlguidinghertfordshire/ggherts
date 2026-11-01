@@ -24,6 +24,27 @@ Watch this space to find out how you can become a proud owner of this new badge,
 
 <div class="clearfix"></div>
 
+### Together we have walked the Hertfordshire Way challenge badge
+
+![Together we have walked the Hertfordshire Way challenge badge](/assets/images/2026/11/hertfordshire-way-badge.webp){:.ms-3.mb-3.float-end}
+**Coming soon!**
+
+Girlguiding Hertfordshire's county walking team are delighted to bring you an exciting, new, walking boot shaped challenge badge for 2027 and beyond.
+
+The [Hertfordshire Way](https://hertfordshireway.co.uk/){:.external-link}{:target="_blank"}{:rel="noopener"} officially opened in July 1998 and to celebrate its upcoming 30th anniversary, we challenge you to walk a little bit (or several little legs) of the Hertfordshire Way before July 2028.
+
+Either on your own, with other adult members, or with your units, districts or divisions we are challenging everyone to walk 1 (or more) of the [16 sections](https://hertfordshireway.co.uk/route-map/){:.external-link}{:target="_blank"}{:rel="noopener"} of the path through our beautiful home county.
+
+Don't just want to 'walk' - then add a scavenger hunt, treasure hunt, sensory trail, nature element or geocaching to your journey.
+
+The walking team will incorporate some sections into their social walks for adults during the year, so keep an eye on our [events page](/events/). They can also offer route suggestions or possibly even a walk leader to help you.
+
+We hope that together we can complete all of the different sections between January 2027 and July 2028.
+
+Badges in production and badges will be available to order from 16 January.
+
+<div class="clearfix"></div>
+
 ### The lands at the top challenge badge
 
 ![The lands at the top challenge badge](/assets/images/2026/05/lands-at-the-top-challenge.webp){:.ms-3.mb-3.float-end}

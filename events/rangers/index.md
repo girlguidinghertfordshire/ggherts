@@ -1,6 +1,6 @@
 ---
 layout: event_list-v5
-title: Events for Rangers and Young Leaders
+title: Events for Rangers and Young leaders
 age: Rangers
 date: 2016-03-09T07:22:50.000Z
 description: 'Many events are run in Hertfordshire, from camps and holidays to activity days and trainings. Find out more, and how to book here.'

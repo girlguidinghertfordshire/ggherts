@@ -1,6 +1,7 @@
 ---
 title: 'Edale Skyline challenge walk'
 date: 2026-06-20T00:00:00Z
+published: false
 event:
     start_date: '2027-09-11'
     end_date: ''

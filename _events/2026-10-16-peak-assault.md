@@ -1,6 +1,7 @@
 ---
 title: 'Peak Assault'
 date: 2026-07-21T10:00:00 +01:00
+published: false
 event:
     start_date: '2026-10-16'
     end_date: '2026-10-18'

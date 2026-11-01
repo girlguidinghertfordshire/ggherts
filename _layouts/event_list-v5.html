@@ -32,8 +32,8 @@ layout: default-v5
         {% assign eventlist = site.events | where: "event.age-group","Guides" %}
         {% elsif page.age == "Rangers" %}
         {% assign eventlist = site.events | where: "event.age-group","Rangers" | where: "event.age-group","Young
-        Leaders" %}
-        {% assign eventlist = site.events | where: "event.age-group","Young Leaders" | concat: eventlist | uniq %}
+        leaders" %}
+        {% assign eventlist = site.events | where: "event.age-group","Young leaders" | concat: eventlist | uniq %}
         {% elsif page.age == "Adults" %}
         {% assign eventlist = site.events | where: "event.age-group","Adults" %}
         {% assign eventlist = site.events | where: "event.age-group","Leaders" | concat: eventlist | uniq %}

@@ -12,8 +12,8 @@ event:
     image: '/assets/images/2026/09/chalk-stream.webp'
     type:
         - Activity
-        - social
-        - walking
+        - Social
+        - Walking
     age-group:
         - Rainbows
         - Brownies
@@ -28,13 +28,13 @@ This is a brilliant opportunity for Rainbows, Brownies and Guides to explore nat
 
 Did you know that chalk streams are the UK's equivalent of a tropical rainforest? Join us at for a day of discovery as we dive into the rare and wonderful world of the River Ver.
 
-**Event details**
+## Event details
 
 - **When:** Saturday 12 June 2027
 - **Where:** St Albans
 - **Who:** open to all Rainbows, Brownies, and Guides
 
-**What's the challenge?**
+## What's the challenge?
 Become a chalk stream expert by taking part in fun, hands-on activities tailored for every age group:
 
 - River geography

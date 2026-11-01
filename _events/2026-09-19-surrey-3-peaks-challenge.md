@@ -1,6 +1,7 @@
 ---
 title: 'Surrey 3 Peaks Challenge'
 date: 2025-11-16T09:58:00z
+published: false
 event:
     start_date: '2026-09-19'
     end_date: ''

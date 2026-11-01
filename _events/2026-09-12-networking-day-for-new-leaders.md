@@ -1,7 +1,7 @@
 ---
 title: 'Networking day for new leaders'
 date: 2026-06-20T00:00:00Z
-published: true
+published: false
 event:
     start_date: '2026-09-12'
     end_date: ''

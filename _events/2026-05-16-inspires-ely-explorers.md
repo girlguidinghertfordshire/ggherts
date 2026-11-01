@@ -1,7 +1,7 @@
 ---
 title: "Inspire's Ely Explorers"
 date: 2026-03-25T20:50:00z
-published: true
+published: false
 event:
     start_date: '2026-05-16'
     end_date: '2026-05-17'
