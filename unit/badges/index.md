@@ -27,8 +27,6 @@ Watch this space to find out how you can become a proud owner of this new badge,
 ### Together we have walked the Hertfordshire Way challenge badge
 
 ![Together we have walked the Hertfordshire Way challenge badge](/assets/images/2026/11/hertfordshire-way-badge.webp){:.ms-3.mb-3.float-end}
-**Coming soon!**
-
 Girlguiding Hertfordshire's county walking team are delighted to bring you an exciting, new, walking boot shaped challenge badge for 2027 and beyond.
 
 The [Hertfordshire Way](https://hertfordshireway.co.uk/){:.external-link}{:target="_blank"}{:rel="noopener"} officially opened in July 1998 and to celebrate its upcoming 30th anniversary, we challenge you to walk a little bit (or several little legs) of the Hertfordshire Way before July 2028.
@@ -41,7 +39,9 @@ The walking team will incorporate some sections into their social walks for adul
 
 We hope that together we can complete all of the different sections between January 2027 and July 2028.
 
-Badges in production and badges will be available to order from 16 January.
+Badges will be available to order from 16 January.
+
+[<span class="visually-hidden">Hertfordshire Way </span>Order form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=3yob_CzTykeMNWNnWM6OwZj-g9JL5lpMiAybQMCV5zxUREs2SlJKS1lSS1JHVEFUN1M3UkJSWUtXSC4u){:.btn.btn-primary.external-link}{:rel="noopener"}{:target="_blank"}
 
 <div class="clearfix"></div>
 

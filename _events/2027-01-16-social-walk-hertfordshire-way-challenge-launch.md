@@ -9,7 +9,7 @@ event:
     contact_email: 'walking@girlguidinghertfordshire.org.uk'
     contact_number: ''
     book_now_link: ''
-    image: '/assets/images/2026/11/hertfordshire-way.webp'
+    image: '/assets/images/2026/11/hertfordshire-way-v2.webp'
     type:
         - Activity
         - Walking
@@ -47,6 +47,8 @@ Why not build your confidence outdoors and then take your unit or young members 
 For more information on these January walks, or to get started on your journey, please email the walking team at <walking@girlguidinghertfordshire.org.uk>.
 
 [Find out more about the “Together we have walked the Hertfordshire Way” challenge and badge](/unit/badges/#together-we-have-walked-the-hertfordshire-way-challenge-badge){:.btn.btn-primary}
+
+**All participants on this launch weekend will receive a free challenge badge.**
 
 We hope that together we can complete all 16 different sections between January 2027 and July 2028.
 

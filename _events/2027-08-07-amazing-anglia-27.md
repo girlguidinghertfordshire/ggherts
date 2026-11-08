@@ -22,9 +22,7 @@ event:
     location:
         - Norwich
 ---
-There's still time for Guides, Rangers and young leaders to apply to attend Amazing Anglia 27 - Together in harmony, an exciting region camp at Hautbois activity centre in Norwich.
-
-Young member applications have been extended until **30 October 2026**.
+Guides, Rangers and young leaders are invited to attend 'Amazing Anglia 27 - Together in harmony', an exciting region camp at Hautbois activity centre in Norwich is taking place 7 - 13 August 2027.
 
 ### What's included
 
@@ -41,6 +39,6 @@ Girls will take part in exciting activity sessions each day in small groups crea
 
 **Cost:** £400pp (including coach from/to locations in Hertfordshire - tbc)
 
-[Application form](/assets/docs/2026/anglia-27-young-member-application-form.pdf){:.btn.btn-primary.download-link}{:target="_blank"}{:rel="noopener"}
+**Applications are now closed.**
 
-Please e-mail completed applications to <countychampion@girlguidinghertfordshire.org.uk> and <lizacc@girlguidinghertfordshire.org.uk> before Friday 30 October.
+Enquiries to <countychampion@girlguidinghertfordshire.org.uk>
