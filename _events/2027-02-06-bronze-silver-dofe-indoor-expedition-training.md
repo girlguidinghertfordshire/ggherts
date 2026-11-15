@@ -2,8 +2,8 @@
 title: 'Bronze and Silver Indoor Duke of Edinburgh expedition training'
 date: 2026-11-01T00:00:00 +00:00
 event:
-    start_date: '2027-01-23'
-    end_date: '2027-01-24'
+    start_date: '2027-02-06'
+    end_date: '2027-02-07'
     address: null
     contact_name: null
     contact_email: null
@@ -25,7 +25,7 @@ event:
     location:
         - TBC
 ---
-This weekend, taking place on Saturday 23 to Sunday 24 January, is for everyone intending to undertake practice, or assessed, Duke of Edinburgh (DofE) expeditions with Girlguiding in 2027.
+This weekend, taking place on Saturday 6 to Sunday 7 February (previously advertised as 23 to 24 January), is for everyone intending to undertake practice, or assessed, Duke of Edinburgh (DofE) expeditions with Girlguiding in 2027.
 
 All the main areas of Bronze expedition training will be covered, plus Silver DofE participants will learn to use eDofE, OS maps and plan their practice expedition. We will revise higher level navigation skills, first aid, food and expedition aims.
 

@@ -1,6 +1,7 @@
 ---
 title: County leader in training / leader development programme coordinator
 date: 2026-05-07T00:00:00Z
+published: false
 image: /assets/images/2026/05/county-ldp-coordinator.webp
 download: /assets/docs/2026/county-leader-in-training-coordinator-role-description-2026-04.pdf
 categories:

@@ -2,10 +2,9 @@
 title: 'Silver Duke of Edinburgh assessed expedition'
 date: 2026-11-01T00:00:00 +00:00
 event:
-    pinned: true
-    date_text: 'TBC (May or June 2027)'
-    start_date: ''
-    end_date: ''
+    date_text: '18-20 June 2027 TBC'
+    start_date: '2027-06-18'
+    end_date: '2027-06-20'
     address: null
     contact_name: null
     contact_email: null
@@ -29,7 +28,7 @@ Having completed all of your training earlier in the year, you are now ready to 
 
 This weekend is taking place in the beautiful Peak District.
 
-(Dates to be confirmed once teams are formed)
+Dates: 18-20 June 2027 (TBC)
 
 Leaving early on Friday morning (a day off school will be required) you will start the weekend with the first of 3 days of navigating, exploring and walking before setting up camp each night and having well deserved hot dinners cooked by you!
 

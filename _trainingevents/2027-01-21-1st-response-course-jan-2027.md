@@ -17,6 +17,8 @@ event:
         - Rangers
         - Young leaders
         - Adults
+        - Leaders
+        - Leaders in training
         - Inspire
         - Trefoil
     location:
@@ -27,7 +29,7 @@ This 1st response course, for those requiring the qualification, is taking place
 
 **Cost:** £20 (non-refundable). The course organiser will contact you regarding payment.
 
-Tea and coffee will be provided but please bring your own lunch
+Tea and coffee will be provided.
 
 Uniform is optional.
 
