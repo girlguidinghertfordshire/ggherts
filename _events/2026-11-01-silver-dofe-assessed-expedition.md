@@ -15,6 +15,7 @@ event:
         - Activity
         - Social
         - Walking
+        - DofE
     age-group:
         - Rangers
         - Young leaders

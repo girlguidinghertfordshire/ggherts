@@ -1,5 +1,5 @@
 ---
-title: Verity Maclachlan
+title: Verity Maclachlan MBE
 date: 2021-12-25T22:22:28.793Z
 groups:
   - group: leads

@@ -22,4 +22,4 @@ event:
 ---
 Save the dates - Friday 14 - Sunday 16 May
 
-More details about this exciting county activity weekend for our 2 youngest sections will follow in the autumn.
+More details about this exciting county activity weekend for our 2 youngest sections will follow.
